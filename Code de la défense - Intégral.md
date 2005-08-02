@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-05-21
+Version Consolidée au 2005-08-03
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5371-3)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1671-3)](#2)
@@ -198,57 +198,58 @@ Version Consolidée au 2005-05-21
         - [TITRE Ier : COMPOSITION (art. L3211-1 à L3211-2)](#195)
           - [Chapitre unique (art. L3211-1 à L3211-2)](#196)
       - [LIVRE IV : ÉTABLISSEMENTS PUBLICS (art. L3411-1 à L3422-7)](#197)
-        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L3411-1 à L3413-3)](#198)
+        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L3411-1 à L3414-7)](#198)
           - [Chapitre Ier : Etablissements d'enseignement supérieur et de recherche (art. L3411-1)](#199)
           - [Chapitre 3 : Autres établissements publics à caractère administratif. (art. L3413-1 à L3413-3)](#200)
-        - [TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L3421-1 à L3422-7)](#201)
-          - [Chapitre Ier : L'économat des armées (art. L3421-1 à L3421-7)](#202)
-            - [Section 1 : Dispositions générales (art. L3421-1 à L3421-2)](#203)
-            - [Section 2 : Organisation administrative et financière (art. L3421-3 à L3421-7)](#204)
-          - [Chapitre II : L'institution de gestion sociale des armées (art. L3422-1 à L3422-7)](#205)
-            - [Section 1 : Dispositions générales (art. L3422-1 à L3422-2)](#206)
-            - [Section 2 : Organisation administrative et financière (art. L3422-3 à L3422-7)](#207)
-      - [LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3521-1 à L3571-1)](#208)
-        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L3521-1)](#209)
-          - [Chapitre unique (art. L3521-1)](#210)
-        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L3531-1)](#211)
-          - [Chapitre unique (art. L3531-1)](#212)
-        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L3541-1)](#213)
-          - [Chapitre unique (art. L3541-1)](#214)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L3551-1)](#215)
-          - [Chapitre unique (art. L3551-1)](#216)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L3561-1)](#217)
-          - [Chapitre unique (art. L3561-1)](#218)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L3571-1)](#219)
-          - [Chapitre unique (art. L3571-1)](#220)
-    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES (art. L5111-1 à L5371-3)](#221)
-      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. L5111-1 à L5121-2)](#222)
-        - [TITRE Ier : SERVITUDES (art. L5111-1 à L5114-3)](#223)
-          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. L5111-1 à L5111-7)](#224)
-          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. L5112-1 à L5112-3)](#225)
-          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. L5113-1)](#226)
-          - [Chapitre IV : Autres installations de défense (art. L5114-1 à L5114-3)](#227)
-        - [TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE (art. L5121-1 à L5121-2)](#228)
-          - [Chapitre unique. (art. L5121-1 à L5121-2)](#229)
-      - [LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. L5211-1 à L5213-2)](#230)
-        - [TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE (art. L5211-1 à L5213-2)](#231)
-          - [Chapitre Ier : Fonds d'avances (art. L5211-1)](#232)
-          - [Chapitre III : Comptes de commerce (art. L5213-1 à L5213-2)](#233)
-      - [LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L5311-1 à L5371-3)](#234)
-        - [TITRE Ier : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER (art. L5311-1)](#235)
-          - [Chapitre unique. (art. L5311-1)](#236)
-        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L5321-1)](#237)
-          - [Chapitre unique (art. L5321-1)](#238)
-        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L5331-1 à L5331-2)](#239)
-          - [Chapitre unique (art. L5331-1 à L5331-2)](#240)
-        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L5341-1 à L5341-4)](#241)
-          - [Chapitre unique (art. L5341-1 à L5341-4)](#242)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L5351-1 à L5351-3)](#243)
-          - [Chapitre unique (art. L5351-1 à L5351-3)](#244)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L5361-1 à L5361-3)](#245)
-          - [Chapitre unique (art. L5361-1 à L5361-3)](#246)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L5371-1 à L5371-3)](#247)
-          - [Chapitre unique (art. L5371-1 à L5371-3)](#248)
+          - [Chapitre 4 : Etablissement public d'insertion de la défense. (art. L3414-1 à L3414-7)](#201)
+        - [TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L3421-1 à L3422-7)](#202)
+          - [Chapitre Ier : L'économat des armées (art. L3421-1 à L3421-7)](#203)
+            - [Section 1 : Dispositions générales (art. L3421-1 à L3421-2)](#204)
+            - [Section 2 : Organisation administrative et financière (art. L3421-3 à L3421-7)](#205)
+          - [Chapitre II : L'institution de gestion sociale des armées (art. L3422-1 à L3422-7)](#206)
+            - [Section 1 : Dispositions générales (art. L3422-1 à L3422-2)](#207)
+            - [Section 2 : Organisation administrative et financière (art. L3422-3 à L3422-7)](#208)
+      - [LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3521-1 à L3571-1)](#209)
+        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L3521-1)](#210)
+          - [Chapitre unique (art. L3521-1)](#211)
+        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L3531-1)](#212)
+          - [Chapitre unique (art. L3531-1)](#213)
+        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L3541-1)](#214)
+          - [Chapitre unique (art. L3541-1)](#215)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L3551-1)](#216)
+          - [Chapitre unique (art. L3551-1)](#217)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L3561-1)](#218)
+          - [Chapitre unique (art. L3561-1)](#219)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L3571-1)](#220)
+          - [Chapitre unique (art. L3571-1)](#221)
+    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES (art. L5111-1 à L5371-3)](#222)
+      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. L5111-1 à L5121-2)](#223)
+        - [TITRE Ier : SERVITUDES (art. L5111-1 à L5114-3)](#224)
+          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. L5111-1 à L5111-7)](#225)
+          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. L5112-1 à L5112-3)](#226)
+          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. L5113-1)](#227)
+          - [Chapitre IV : Autres installations de défense (art. L5114-1 à L5114-3)](#228)
+        - [TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE (art. L5121-1 à L5121-2)](#229)
+          - [Chapitre unique. (art. L5121-1 à L5121-2)](#230)
+      - [LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. L5211-1 à L5213-2)](#231)
+        - [TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE (art. L5211-1 à L5213-2)](#232)
+          - [Chapitre Ier : Fonds d'avances (art. L5211-1)](#233)
+          - [Chapitre III : Comptes de commerce (art. L5213-1 à L5213-2)](#234)
+      - [LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L5311-1 à L5371-3)](#235)
+        - [TITRE Ier : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER (art. L5311-1)](#236)
+          - [Chapitre unique. (art. L5311-1)](#237)
+        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L5321-1)](#238)
+          - [Chapitre unique (art. L5321-1)](#239)
+        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L5331-1 à L5331-2)](#240)
+          - [Chapitre unique (art. L5331-1 à L5331-2)](#241)
+        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L5341-1 à L5341-4)](#242)
+          - [Chapitre unique (art. L5341-1 à L5341-4)](#243)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L5351-1 à L5351-3)](#244)
+          - [Chapitre unique (art. L5351-1 à L5351-3)](#245)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L5361-1 à L5361-3)](#246)
+          - [Chapitre unique (art. L5361-1 à L5361-3)](#247)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L5371-1 à L5371-3)](#248)
+          - [Chapitre unique (art. L5371-1 à L5371-3)](#249)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -13565,11 +13566,191 @@ _Cite_:
   - Code de la sécurité sociale. - art. L713-19 (V)
 
 
-#### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=201></a>
+##### Chapitre 4 : Etablissement public d'insertion de la défense.<a id=201></a>
 
-##### Chapitre Ier : L'économat des armées<a id=202></a>
+###### Article L3414-1
 
-##### Section 1 : Dispositions générales<a id=203></a>
+L'établissement public d'insertion de la défense est un établissement public de l'Etat placé sous la tutelle du ministre de
+la défense et du ministre chargé de l'emploi.
+
+Il a pour objet l'insertion sociale et professionnelle des jeunes sans diplômes ou sans titres professionnels ou en voie de
+marginalisation sociale.
+
+L'établissement public d'insertion de la défense :
+
+1° Organise des formations dispensées dans des institutions et par un encadrement s'inspirant du modèle militaire ;
+
+2° Accueille et héberge des jeunes dans le cadre de ces formations ;
+
+3° Peut développer des actions de coopération nationale ou internationale avec des collectivités publiques, des entreprises,
+des organismes publics ou privés de formation ou intéressés à ce type d'action, notamment par voie de convention ou de prise
+de participation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+_Cité par_:
+
+  - Arrêté du 17 décembre 2007 (Ab)
+  - Arrêté du 28 février 2008 (Ab)
+  - Décret n°2009-310 du 19 mars 2009 - art. 2 (V)
+  - Arrêté du 6 juillet 2011 (V)
+  - Décret n°2015-171 du 13 février 2015 - art. 2 (V)
+  - Arrêté du 21 mai 2015 (V)
+  - Code de la défense. - art. R3414-1 (V)
+  - Code de la sécurité sociale. - art. D372-2 (Ab)
+  - Code de la sécurité sociale. - art. D412-98-1 (V)
+  - Code de la sécurité sociale. - art. L851-1 (V)
+  - Code de la sécurité sociale. - art. R372-3 (V)
+  - Code du service national - art. L130-3 (V)
+
+
+###### Article L3414-2
+
+L'établissement public d'insertion de la défense est administré par un conseil d'administration qui comprend des
+représentants de l'administration ainsi que des membres nommés à raison de leur compétence. Le président est nommé par
+décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-3
+
+L'établissement public d'insertion de la défense est dirigé par un directeur général nommé par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-4
+
+L'établissement public d'insertion de la défense peut recruter des agents sur contrat et accueillir des agents publics par
+voie de détachement ou de mise à disposition.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-5
+
+Les ressources de l'établissement public d'insertion de la défense sont constituées par :
+
+1° Les subventions, avances, fonds de concours, dotations et participations de l'Etat, de la Communauté européenne, des
+collectivités territoriales, des établissements publics ou de toute autre personne morale ;
+
+2° Les dons et legs ;
+
+3° Le produit de la taxe d'apprentissage et les ressources provenant de l'application de la législation sur la formation
+professionnelle continue ;
+
+4° Les produits des activités de l'établissement ;
+
+5° Les produits des contrats et conventions ;
+
+6° Les revenus des biens meubles et immeubles, fonds et valeurs ;
+
+7° Les produits des aliénations ;
+
+8° Le produit des emprunts ;
+
+9° Les immeubles qui lui sont apportés en dotation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+###### Article L3414-6
+
+I.-L'établissement public d'insertion de la défense n'est pas soumis aux dispositions du 5° de l'article 206 du code général
+des impôts. 
+
+II.-Les transferts et apports d'actifs mobiliers et immobiliers au profit de l'établissement public d'insertion de la défense
+ne donnent lieu à la perception d'aucun impôt, droits, taxes, émoluments et débours divers. 
+
+III.-Les immeubles dont l'établissement public d'insertion de la défense est propriétaire sont exonérés de la taxe foncière
+sur les propriétés bâties et de taxe foncière sur les propriétés non bâties. 
+
+IV.-L'établissement public d'insertion de la défense est exonéré de la taxe d'habitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+_Cite_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 206 (V)
+
+
+###### Article L3414-7
+
+Un décret en Conseil d'Etat détermine les conditions d'organisation et de fonctionnement de l'établissement public
+d'insertion de la défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+
+#### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=202></a>
+
+##### Chapitre Ier : L'économat des armées<a id=203></a>
+
+##### Section 1 : Dispositions générales<a id=204></a>
 
 ###### Article L3421-1
 
@@ -13627,7 +13808,7 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=204></a>
+##### Section 2 : Organisation administrative et financière<a id=205></a>
 
 ###### Article L3421-3
 
@@ -13723,9 +13904,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-##### Chapitre II : L'institution de gestion sociale des armées<a id=205></a>
+##### Chapitre II : L'institution de gestion sociale des armées<a id=206></a>
 
-##### Section 1 : Dispositions générales<a id=206></a>
+##### Section 1 : Dispositions générales<a id=207></a>
 
 ###### Article L3422-1
 
@@ -13782,7 +13963,7 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=207></a>
+##### Section 2 : Organisation administrative et financière<a id=208></a>
 
 ###### Article L3422-3
 
@@ -13901,11 +14082,11 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-### LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=208></a>
+### LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=209></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=209></a>
+#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=210></a>
 
-##### Chapitre unique<a id=210></a>
+##### Chapitre unique<a id=211></a>
 
 ###### Article L3521-1
 
@@ -13921,9 +14102,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=211></a>
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=212></a>
 
-##### Chapitre unique<a id=212></a>
+##### Chapitre unique<a id=213></a>
 
 ###### Article L3531-1
 
@@ -13943,9 +14124,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=213></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=214></a>
 
-##### Chapitre unique<a id=214></a>
+##### Chapitre unique<a id=215></a>
 
 ###### Article L3541-1
 
@@ -13965,9 +14146,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=215></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=216></a>
 
-##### Chapitre unique<a id=216></a>
+##### Chapitre unique<a id=217></a>
 
 ###### Article L3551-1
 
@@ -13987,9 +14168,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=217></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=218></a>
 
-##### Chapitre unique<a id=218></a>
+##### Chapitre unique<a id=219></a>
 
 ###### Article L3561-1
 
@@ -14009,9 +14190,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=219></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=220></a>
 
-##### Chapitre unique<a id=220></a>
+##### Chapitre unique<a id=221></a>
 
 ###### Article L3571-1
 
@@ -14034,13 +14215,13 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES<a id=221></a>
+## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES<a id=222></a>
 
-### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=222></a>
+### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=223></a>
 
-#### TITRE Ier : SERVITUDES<a id=223></a>
+#### TITRE Ier : SERVITUDES<a id=224></a>
 
-##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=224></a>
+##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=225></a>
 
 ###### Article L5111-1
 
@@ -14240,7 +14421,7 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=225></a>
+##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=226></a>
 
 ###### Article L5112-1
 
@@ -14326,7 +14507,7 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=226></a>
+##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=227></a>
 
 ###### Article L5113-1
 
@@ -14349,7 +14530,7 @@ _Cité par_:
   - Code de la défense. - art. L5361-3 (V)
 
 
-##### Chapitre IV : Autres installations de défense<a id=227></a>
+##### Chapitre IV : Autres installations de défense<a id=228></a>
 
 ###### Article L5114-1
 
@@ -14427,9 +14608,9 @@ _Cite_:
   - Code de la défense. - art. L5114-2 (V)
 
 
-#### TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE<a id=228></a>
+#### TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE<a id=229></a>
 
-##### Chapitre unique.<a id=229></a>
+##### Chapitre unique.<a id=230></a>
 
 ###### Article L5121-1
 
@@ -14482,11 +14663,11 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2132-19 (V)
 
 
-### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=230></a>
+### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=231></a>
 
-#### TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE<a id=231></a>
+#### TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE<a id=232></a>
 
-##### Chapitre Ier : Fonds d'avances<a id=232></a>
+##### Chapitre Ier : Fonds d'avances<a id=233></a>
 
 ###### Article L5211-1
 
@@ -14520,7 +14701,7 @@ _Cité par_:
   - Code de la défense. - art. L5371-1 (M)
 
 
-##### Chapitre III : Comptes de commerce<a id=233></a>
+##### Chapitre III : Comptes de commerce<a id=234></a>
 
 ###### Article L5213-1
 
@@ -14570,11 +14751,11 @@ _Abrogé par_:
   - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 2
 
 
-### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=234></a>
+### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=235></a>
 
-#### TITRE Ier : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER<a id=235></a>
+#### TITRE Ier : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER<a id=236></a>
 
-##### Chapitre unique.<a id=236></a>
+##### Chapitre unique.<a id=237></a>
 
 ###### Article L5311-1
 
@@ -14593,9 +14774,9 @@ _Abrogé par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
-#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=237></a>
+#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=238></a>
 
-##### Chapitre unique<a id=238></a>
+##### Chapitre unique<a id=239></a>
 
 ###### Article L5321-1
 
@@ -14614,9 +14795,9 @@ _Abrogé par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=239></a>
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=240></a>
 
-##### Chapitre unique<a id=240></a>
+##### Chapitre unique<a id=241></a>
 
 ###### Article L5331-1
 
@@ -14653,9 +14834,9 @@ _Abrogé par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=241></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=242></a>
 
-##### Chapitre unique<a id=242></a>
+##### Chapitre unique<a id=243></a>
 
 ###### Article L5341-1
 
@@ -14726,9 +14907,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=243></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=244></a>
 
-##### Chapitre unique<a id=244></a>
+##### Chapitre unique<a id=245></a>
 
 ###### Article L5351-1
 
@@ -14785,9 +14966,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=245></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=246></a>
 
-##### Chapitre unique<a id=246></a>
+##### Chapitre unique<a id=247></a>
 
 ###### Article L5361-1
 
@@ -14844,9 +15025,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=247></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=248></a>
 
-##### Chapitre unique<a id=248></a>
+##### Chapitre unique<a id=249></a>
 
 ###### Article L5371-1
 
