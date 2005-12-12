@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-12-13
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5371-3)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1671-3)](#2)
@@ -174,82 +174,77 @@ Version Consolidée au 2005-08-03
             - [Section 4 : Dispositions pénales (art. L2343-8 à L2343-12)](#171)
               - [Sous-section 1 : Agents habilités à constater les infractions (art. L2343-8)](#172)
               - [Sous-section 2 : Sanctions pénales (art. L2343-9 à L2343-12)](#173)
-        - [TITRE V : EXPLOSIFS (art. L2351-1 à L2353-13)](#174)
-          - [Chapitre Ier : Aménagement du monopole de l'Etat (art. L2351-1)](#175)
-          - [Chapitre II : Autorisations et agréments (art. L2352-1 à L2352-2)](#176)
-          - [Chapitre III : Dispositions pénales (art. L2353-1 à L2353-13)](#177)
-            - [Section 1 : Agents habilités à constater les infractions (art. L2353-1)](#178)
-            - [Section 2 : Sanctions pénales (art. L2353-2 à L2353-13)](#179)
-      - [LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L2421-1 à L2471-5)](#180)
-        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L2421-1 à L2421-3)](#181)
-          - [Chapitre unique (art. L2421-1 à L2421-3)](#182)
-        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L2431-1 à L2431-6)](#183)
-          - [Chapitre unique (art. L2431-1 à L2431-6)](#184)
-        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L2441-1 à L2441-5)](#185)
-          - [Chapitre unique (art. L2441-1 à L2441-5)](#186)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L2451-1 à L2451-6)](#187)
-          - [Chapitre unique (art. L2451-1 à L2451-6)](#188)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L2461-1 à L2461-6)](#189)
-          - [Chapitre unique (art. L2461-1 à L2461-6)](#190)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L2471-1 à L2471-5)](#191)
-          - [Chapitre unique (art. L2471-1 à L2471-5)](#192)
-    - [PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE (art. L3211-1 à L3571-1)](#193)
-      - [LIVRE II : LES FORCES ARMÉES (art. L3211-1 à L3211-2)](#194)
-        - [TITRE Ier : COMPOSITION (art. L3211-1 à L3211-2)](#195)
-          - [Chapitre unique (art. L3211-1 à L3211-2)](#196)
-      - [LIVRE IV : ÉTABLISSEMENTS PUBLICS (art. L3411-1 à L3422-7)](#197)
-        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L3411-1 à L3414-7)](#198)
-          - [Chapitre Ier : Etablissements d'enseignement supérieur et de recherche (art. L3411-1)](#199)
-          - [Chapitre 3 : Autres établissements publics à caractère administratif. (art. L3413-1 à L3413-3)](#200)
-          - [Chapitre 4 : Etablissement public d'insertion de la défense. (art. L3414-1 à L3414-7)](#201)
-        - [TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L3421-1 à L3422-7)](#202)
-          - [Chapitre Ier : L'économat des armées (art. L3421-1 à L3421-7)](#203)
-            - [Section 1 : Dispositions générales (art. L3421-1 à L3421-2)](#204)
-            - [Section 2 : Organisation administrative et financière (art. L3421-3 à L3421-7)](#205)
-          - [Chapitre II : L'institution de gestion sociale des armées (art. L3422-1 à L3422-7)](#206)
-            - [Section 1 : Dispositions générales (art. L3422-1 à L3422-2)](#207)
-            - [Section 2 : Organisation administrative et financière (art. L3422-3 à L3422-7)](#208)
-      - [LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3521-1 à L3571-1)](#209)
-        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L3521-1)](#210)
-          - [Chapitre unique (art. L3521-1)](#211)
-        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L3531-1)](#212)
-          - [Chapitre unique (art. L3531-1)](#213)
-        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L3541-1)](#214)
-          - [Chapitre unique (art. L3541-1)](#215)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L3551-1)](#216)
-          - [Chapitre unique (art. L3551-1)](#217)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L3561-1)](#218)
-          - [Chapitre unique (art. L3561-1)](#219)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L3571-1)](#220)
-          - [Chapitre unique (art. L3571-1)](#221)
-    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES (art. L5111-1 à L5371-3)](#222)
-      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. L5111-1 à L5121-2)](#223)
-        - [TITRE Ier : SERVITUDES (art. L5111-1 à L5114-3)](#224)
-          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. L5111-1 à L5111-7)](#225)
-          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. L5112-1 à L5112-3)](#226)
-          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. L5113-1)](#227)
-          - [Chapitre IV : Autres installations de défense (art. L5114-1 à L5114-3)](#228)
-        - [TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE (art. L5121-1 à L5121-2)](#229)
-          - [Chapitre unique. (art. L5121-1 à L5121-2)](#230)
-      - [LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. L5211-1 à L5213-2)](#231)
-        - [TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE (art. L5211-1 à L5213-2)](#232)
-          - [Chapitre Ier : Fonds d'avances (art. L5211-1)](#233)
-          - [Chapitre III : Comptes de commerce (art. L5213-1 à L5213-2)](#234)
-      - [LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L5311-1 à L5371-3)](#235)
-        - [TITRE Ier : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER (art. L5311-1)](#236)
-          - [Chapitre unique. (art. L5311-1)](#237)
-        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L5321-1)](#238)
-          - [Chapitre unique (art. L5321-1)](#239)
-        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L5331-1 à L5331-2)](#240)
-          - [Chapitre unique (art. L5331-1 à L5331-2)](#241)
-        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L5341-1 à L5341-4)](#242)
-          - [Chapitre unique (art. L5341-1 à L5341-4)](#243)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L5351-1 à L5351-3)](#244)
-          - [Chapitre unique (art. L5351-1 à L5351-3)](#245)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L5361-1 à L5361-3)](#246)
-          - [Chapitre unique (art. L5361-1 à L5361-3)](#247)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L5371-1 à L5371-3)](#248)
-          - [Chapitre unique (art. L5371-1 à L5371-3)](#249)
+        - [TITRE V : EXPLOSIFS (art. L2352-1 à L2353-13)](#174)
+          - [Chapitre II : Autorisations et agréments (art. L2352-1 à L2352-2)](#175)
+          - [Chapitre III : Dispositions pénales (art. L2353-1 à L2353-13)](#176)
+            - [Section 1 : Agents habilités à constater les infractions (art. L2353-1)](#177)
+            - [Section 2 : Sanctions pénales (art. L2353-4 à L2353-13)](#178)
+      - [LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L2421-1 à L2471-5)](#179)
+        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L2421-1 à L2421-3)](#180)
+          - [Chapitre unique (art. L2421-1 à L2421-3)](#181)
+        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L2431-1 à L2431-6)](#182)
+          - [Chapitre unique (art. L2431-1 à L2431-6)](#183)
+        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L2441-1 à L2441-5)](#184)
+          - [Chapitre unique (art. L2441-1 à L2441-5)](#185)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L2451-1 à L2451-7)](#186)
+          - [Chapitre unique (art. L2451-1 à L2451-7)](#187)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L2461-1 à L2461-6)](#188)
+          - [Chapitre unique (art. L2461-1 à L2461-6)](#189)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L2471-1 à L2471-5)](#190)
+          - [Chapitre unique (art. L2471-1 à L2471-5)](#191)
+    - [PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE (art. L3211-1 à L3571-1)](#192)
+      - [LIVRE II : LES FORCES ARMÉES (art. L3211-1 à L3211-2)](#193)
+        - [TITRE Ier : COMPOSITION (art. L3211-1 à L3211-2)](#194)
+          - [Chapitre unique (art. L3211-1 à L3211-2)](#195)
+      - [LIVRE IV : ÉTABLISSEMENTS PUBLICS (art. L3411-1 à L3422-7)](#196)
+        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF (art. L3411-1 à L3414-8)](#197)
+          - [Chapitre Ier : Etablissements d'enseignement supérieur et de recherche (art. L3411-1)](#198)
+          - [Chapitre 3 : Autres établissements publics à caractère administratif. (art. L3413-1 à L3413-3)](#199)
+          - [Chapitre 4 : Etablissement public d'insertion de la défense. (art. L3414-1 à L3414-8)](#200)
+        - [TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL (art. L3421-1 à L3422-7)](#201)
+          - [Chapitre Ier : L'économat des armées (art. L3421-1 à L3421-7)](#202)
+            - [Section 1 : Dispositions générales (art. L3421-1 à L3421-2)](#203)
+            - [Section 2 : Organisation administrative et financière (art. L3421-3 à L3421-7)](#204)
+          - [Chapitre II : L'institution de gestion sociale des armées (art. L3422-1 à L3422-7)](#205)
+            - [Section 1 : Dispositions générales (art. L3422-1 à L3422-2)](#206)
+            - [Section 2 : Organisation administrative et financière (art. L3422-3 à L3422-7)](#207)
+      - [LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L3521-1 à L3571-1)](#208)
+        - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON (art. L3521-1)](#209)
+          - [Chapitre unique (art. L3521-1)](#210)
+        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L3531-1)](#211)
+          - [Chapitre unique (art. L3531-1)](#212)
+        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L3541-1)](#213)
+          - [Chapitre unique (art. L3541-1)](#214)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L3551-1)](#215)
+          - [Chapitre unique (art. L3551-1)](#216)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L3561-1)](#217)
+          - [Chapitre unique (art. L3561-1)](#218)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L3571-1)](#219)
+          - [Chapitre unique (art. L3571-1)](#220)
+    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES (art. L5111-1 à L5371-3)](#221)
+      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. L5111-1 à L5121-2)](#222)
+        - [TITRE Ier : SERVITUDES (art. L5111-1 à L5114-3)](#223)
+          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. L5111-1 à L5111-7)](#224)
+          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. L5112-1 à L5112-3)](#225)
+          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. L5113-1)](#226)
+          - [Chapitre IV : Autres installations de défense (art. L5114-1 à L5114-3)](#227)
+        - [TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE (art. L5121-1 à L5121-2)](#228)
+          - [Chapitre unique. (art. L5121-1 à L5121-2)](#229)
+      - [LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. L5211-1 à L5213-2)](#230)
+        - [TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE (art. L5211-1 à L5213-2)](#231)
+          - [Chapitre Ier : Fonds d'avances (art. L5211-1)](#232)
+          - [Chapitre III : Comptes de commerce (art. L5213-1 à L5213-2)](#233)
+      - [LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. L5331-1 à L5371-3)](#234)
+        - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE (art. L5331-1)](#235)
+          - [Chapitre unique (art. L5331-1)](#236)
+        - [TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA (art. L5341-1 à L5341-4)](#237)
+          - [Chapitre unique (art. L5341-1 à L5341-4)](#238)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE (art. L5351-1 à L5351-3)](#239)
+          - [Chapitre unique (art. L5351-1 à L5351-3)](#240)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE (art. L5361-1 à L5361-3)](#241)
+          - [Chapitre unique (art. L5361-1 à L5361-3)](#242)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES (art. L5371-1 à L5371-3)](#243)
+          - [Chapitre unique (art. L5371-1 à L5371-3)](#244)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -736,20 +731,20 @@ _Anciens textes_:
 
 Dans les cas prévus à l'article L. 1111-2, le ministère chargé de la communication est dispensé de l'obligation de solliciter
 l'autorisation préalable de l'auteur ou de ses ayants droit pour la diffusion par tous moyens audiovisuels des oeuvres
-littéraires, scientifiques et artistiques non inédites.
+littéraires, scientifiques et artistiques non inédites. 
 
 Toutefois, l'oeuvre ne peut être diffusée, que ce soit intégralement ou par extraits, sous une forme différente de celle que
-l'auteur lui a donnée.
+l'auteur lui a donnée. 
 
 Le montant de la rémunération allouée à l'auteur ou à ses ayants droit pour l'usage de son oeuvre est fixé par accord amiable
-ou, à défaut, par une commission spéciale d'évaluation instituée conformément au dernier alinéa de l'article L. 2234-21.
+ou, à défaut, par une commission spéciale d'évaluation instituée conformément au dernier alinéa de l'article L. 2234-20.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Code de la défense. - art. L1111-2 (V)
-  - Code de la défense. - art. L2234-21 (V)
+  - Code de la défense. - art. L2234-20 (V)
 
 _Anciens textes_:
 
@@ -758,6 +753,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 2 () JORF 13 décembre 2005
 
 
 ##### Chapitre II : Dispositions particulières à certains ministres<a id=13></a>
@@ -1348,16 +1348,17 @@ _Cite_:
 
 ###### Article L1332-1
 
-Les entreprises exploitant des établissements ou utilisant des installations et ouvrages, dont l'indisponibilité risquerait
-de diminuer d'une façon importante le potentiel de guerre ou économique, la sécurité ou la capacité de survie de la nation,
-sont tenues de coopérer à leurs frais dans les conditions définies au présent chapitre, à la protection desdits
-établissements, installations et ouvrages contre toute tentative de sabotage.
+Les opérateurs publics ou privés exploitant des établissements ou utilisant des installations et ouvrages, dont
+l'indisponibilité risquerait de diminuer d'une façon importante le potentiel de guerre ou économique, la sécurité ou la
+capacité de survie de la nation, sont tenus de coopérer à leurs frais dans les conditions définies au présent chapitre, à la
+protection desdits établissements, installations et ouvrages contre toute menace, notamment à caractère terroriste. Ces
+établissements, installations ou ouvrages sont désignés par l'autorité administrative.
 
 **Nota:**
 
-NOTA : Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée
-en vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité administrative a
-été désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
+Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée en
+vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité administrative a été
+désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
@@ -1419,6 +1420,11 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005 en vigueur le 24 février 2006
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005 en vigueur le 24 février 2006
+
 
 ###### Article L1332-2
 
@@ -1472,17 +1478,18 @@ _Cite_:
 
 ###### Article L1332-3
 
-Les entreprises dont un ou plusieurs établissements, installations et ouvrages sont désignés en application du présent
+Les opérateurs dont un ou plusieurs établissements, installations et ouvrages sont désignés en application du présent
 chapitre réalisent pour chacun d'eux les mesures de protection prévues à un plan particulier de protection dressé par
-l'entreprise et approuvé par le préfet. Ces mesures comportent notamment des dispositions efficaces de surveillance, d'alarme
-et de protection matérielle. En cas de non-approbation du plan et de désaccord persistant, la décision est prise par
-l'autorité préfectorale.
+l'opérateur et approuvé par l'autorité administrative.
+
+Ces mesures comportent notamment des dispositions efficaces de surveillance, d'alarme et de protection matérielle. En cas de
+non-approbation du plan et de désaccord persistant, la décision est prise par l'autorité administrative.
 
 **Nota:**
 
-NOTA : Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée
-en vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité administrative a
-été désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
+Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée en
+vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité administrative a été
+désignée par le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
@@ -1496,6 +1503,11 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005 en vigueur le 24 février 2006
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005 en vigueur le 24 février 2006
+
 _Cité par_:
 
   - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
@@ -1505,14 +1517,14 @@ _Cité par_:
 
 ###### Article L1332-4
 
-En cas de refus des entreprises de préparer leur plan particulier de protection, le préfet met, par arrêtés, les chefs
-d'établissements ou d'entreprises assujettis en demeure de l'établir dans le délai qu'il fixe.
+En cas de refus des opérateurs de préparer leur plan particulier de protection, l'autorité administrative met, par arrêtés,
+les chefs d'établissements ou d'entreprises assujettis en demeure de l'établir dans le délai qu'elle fixe.
 
 **Nota:**
 
-NOTA : Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée
-en vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité a été désignée par
-le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
+Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée en
+vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité a été désignée par le
+décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
@@ -1524,6 +1536,11 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
 
 _Cité par_:
 
@@ -1566,20 +1583,17 @@ _Cité par_:
 ###### Article L1332-6
 
 Les arrêtés de mise en demeure prévus aux articles L. 1332-4 et L. 1332-5 fixent un délai qui ne peut être inférieur à un
-mois, et qui est déterminé en tenant compte des conditions de fonctionnement de l'entreprise et des travaux à exécuter.
+mois, et qui est déterminé en tenant compte des conditions de fonctionnement de l'opérateur et des travaux à exécuter. 
 
-Le ministre responsable mentionné à l'article L. 1332-1 est tenu informé par les préfets de l'arrêté de mise en demeure de
-réaliser le plan de protection.
-
-Les arrêtés préfectoraux concernant les entreprises nationales ou faisant appel au concours financier de l'Etat sont transmis
-au ministre de tutelle et au ministre de l'économie et des finances, qui sont immédiatement informés des difficultés
-susceptibles de se produire dans l'application de l'arrêté.
+Les arrêtés concernant les entreprises nationales ou faisant appel au concours financier de l'Etat sont transmis au ministre
+de tutelle et au ministre de l'économie et des finances, qui sont immédiatement informés des difficultés susceptibles de se
+produire dans l'application de l'arrêté.
 
 **Nota:**
 
-NOTA : Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée
-en vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité a été désignée par
-le décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
+Loi 2005-1550 du 12 décembre 2005 art. 3 : Les dispositions du présent article produisent effet à compter de l'entrée en
+vigueur des dispositions réglementaires désignant l'autorité administrative compétente. Cette autorité a été désignée par le
+décret n° 2006-212 du 23 février 2006 publié au JORF du 24 février 2006.
 
 **Liens relatifs à cet article**
 
@@ -1592,20 +1606,24 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 3 (V) JORF 13 décembre 2005
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
+
 _Cite_:
 
-  - Code de la défense. - art. L1332-1 (M)
-  - Code de la défense. - art. L1332-4 (M)
-  - Code de la défense. - art. L1332-5 (M)
+  - Code de la défense. - art. L1332-4 (V)
+  - Code de la défense. - art. L1332-5 (V)
 
 
 ###### Article L1332-7
 
-Est puni d'une amende de 150 000 Euros le fait, pour les dirigeants des entreprises mentionnés à l'article L. 1332-4 et à
+Est puni d'une amende de 150 000 euros le fait, pour les dirigeants des opérateurs mentionnés à l'article L. 1332-4 et à
 l'expiration du délai défini par l'arrêté de mise en demeure, d'omettre d'établir un plan de protection ou de réaliser les
-travaux prévus.
+travaux prévus. 
 
-Est puni d'une amende de 150 000 Euros le fait, pour les mêmes personnes, d'omettre, après une mise en demeure, d'entretenir
+Est puni d'une amende de 150 000 euros le fait, pour les mêmes personnes, d'omettre, après une mise en demeure, d'entretenir
 en bon état les dispositifs de protection antérieurement établis.
 
 **Liens relatifs à cet article**
@@ -1619,9 +1637,13 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 4 () JORF 13 décembre 2005
+
 _Cite_:
 
-  - Code de la défense. - art. L1332-4 (M)
+  - Code de la défense. - art. L1332-4 (V)
 
 _Cité par_:
 
@@ -1742,12 +1764,11 @@ _Cite_:
 ###### Article L1333-3
 
 L'autorisation prévue à l'article L. 1333-2 peut être assortie de spécifications relatives notamment à sa durée, aux
-quantités et à la forme des matières nucléaires concernées, aux mesures à prendre pour en connaître la localisation, éviter
-leur vol, leur détournement ou leur perte. Elle peut être suspendue ou retirée en cas d'infraction aux dispositions du
-présent chapitre et des règlements pris pour son application.
+quantités et à la forme des matières nucléaires, aux mesures à prendre pour en connaître la localisation et en assurer la
+protection. 
 
-Le décret prévu à l'article L. 1333-2 précise, notamment, pour ces matières, les quantités au-dessous desquelles cette
-autorisation n'est pas requise.
+Elle peut être suspendue ou retirée en cas d'infraction aux dispositions du présent chapitre et des règlements pris pour son
+application, ou en raison du non-respect de ces spécifications.
 
 **Liens relatifs à cet article**
 
@@ -1765,6 +1786,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+
 _Cite_:
 
   - Code de la défense. - art. L1333-2 (V)
@@ -1772,10 +1797,15 @@ _Cite_:
 
 ###### Article L1333-4
 
-Le contrôle prévu à l'article L. 1333-2 a pour objet d'éviter les pertes, vols ou détournements de matières nucléaires.
-Portant sur les aspects techniques et comptables des opérations énumérées à l'article L. 1333-2, il doit permettre de
-connaître en permanence la localisation, l'emploi desdites matières et de déceler la nature et les quantités de matières
-éventuellement manquantes. Il porte, en outre, sur les mesures de nature à éviter les vols et détournements de ces matières.
+Le contrôle prévu à l'article L. 1333-2 a pour objet de vérifier le respect des spécifications de l'autorisation, de
+connaître en permanence la localisation et l'emploi des matières mentionnées à l'article L. 1333-3 et de déceler la nature et
+les quantités de matières éventuellement manquantes. Il porte, en outre, sur les conditions de détention, de conservation, de
+suivi physique et comptable et de protection des matières nucléaires. 
+
+En cas de manquement aux spécifications de l'autorisation, l'autorité administrative met, par arrêté, le titulaire de
+l'autorisation en demeure de prendre les mesures prescrites dans un délai qu'elle fixe.A l'expiration de ce délai,
+l'autorisation peut être suspendue ou retirée lorsque les prescriptions de l'arrêté de mise en demeure ne sont pas
+respectées.
 
 **Liens relatifs à cet article**
 
@@ -1788,6 +1818,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - Code de la défense. - art. L1333-12 (V)
@@ -1797,6 +1831,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la défense. - art. L1333-2 (V)
+  - Code de la défense. - art. L1333-3 (V)
 
 
 ###### Article L1333-5
@@ -1833,7 +1868,7 @@ _Cite_:
 ###### Article L1333-6
 
 Avant de lui confier la garde des matières nucléaires soumises aux dispositions du présent chapitre, l'employeur avertit le
-préposé des obligations que lui créent les dispositions de l'article L. 1333-12 et des peines qu'il encourt en cas
+préposé des obligations que lui créent les dispositions de l'article L. 1333-13 et des peines qu'il encourt en cas
 d'infraction, et obtient reconnaissance de cet avertissement. Ces dispositions sont précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -1848,9 +1883,13 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+
 _Cite_:
 
-  - Code de la défense. - art. L1333-12 (M)
+  - Code de la défense. - art. L1333-13 (V)
 
 _Cité par_:
 
@@ -1909,12 +1948,24 @@ _Cité par_:
 
 ###### Article L1333-9
 
-Est puni d'un emprisonnement de dix ans et d'une amende de 7 500 000 Euros le fait de s'approprier indûment des matières
-nucléaires soumises aux dispositions du présent chapitre, ou d'exercer sans autorisation des activités mentionnées à
-l'article L. 1333-2 ou de fournir sciemment des renseignements inexacts afin d'obtenir ladite autorisation.
+I.-Est puni d'un emprisonnement de dix ans et d'une amende de 7 500 000 euros : 
 
-Le tribunal prononce, en outre, la confiscation des matières nucléaires ainsi que celles des équipements ayant servi à
-l'élaboration, à l'utilisation ou aux transports desdites matières.
+1° Le fait d'exercer sans autorisation les activités mentionnées à l'article L. 1333-2 ou de fournir des renseignements
+inexacts afin d'obtenir ladite autorisation ; 
+
+2° Le fait de s'approprier indûment les matières nucléaires mentionnées à l'article L. 1333-1 ; 
+
+3° Le fait d'abandonner ou de disperser les matières nucléaires mentionnées à l'article L. 1333-1 ; 
+
+4° Le fait d'altérer ou de détériorer les matières nucléaires mentionnées a l'article L. 1333-1 ; 
+
+5° Le fait de détruire des éléments de structure dans lesquels sont conditionnées les matières nucléaires mentionnées à
+l'article L. 1333-1. 
+
+II.-Le tribunal peut, en outre, prononcer la confiscation des matières nucléaires ainsi que celle des équipements ayant servi
+à l'élaboration, à l'utilisation ou au transport de ces matières. 
+
+III.-La tentative des délits prévus aux 2°, 4° et 5° du I est punie des mêmes peines.
 
 **Liens relatifs à cet article**
 
@@ -1927,6 +1978,14 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+
+_Cite_:
+
+  - Code de la défense. - art. L1333-1 (V)
 
 _Cité par_:
 
@@ -2026,8 +2085,11 @@ _Cité par_:
 
 ###### Article L1333-12
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 7 500 Euros l'entrave à l'exercice du contrôle prévu à l'article
-L. 1333-2 ou le fait de fournir des renseignements inexacts.
+Est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros le fait d'entraver l'exercice du contrôle prévu à
+l'article L. 1333-2 ou de fournir aux agents chargés de ce contrôle des renseignements inexacts. 
+
+Est puni des mêmes peines le titulaire de l'autorisation mentionnée à l'article L. 1333-2 qui, à l'expiration du délai fixé
+par l'arrêté de mise en demeure prévu à l'article L. 1333-4, n'a pas respecté les prescriptions de cet arrêté.
 
 **Liens relatifs à cet article**
 
@@ -2040,6 +2102,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 5 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - Code de la défense. - art. L1333-13-3 (V)
@@ -2051,6 +2117,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la défense. - art. L1333-2 (V)
+  - Code de la défense. - art. L1333-4 (V)
 
 
 ###### Article L1333-13
@@ -3666,21 +3733,21 @@ _Anciens textes_:
 
 ###### Article L2161-2
 
-Des indemnités sont allouées :
+Des indemnités sont allouées : 
 
 1° En cas de dégâts matériels causés aux propriétés des particuliers ou des communes par le passage ou le stationnement de
-troupes, dans les marches, manoeuvres et opérations d'ensemble prévues à l'article L. 2161-1 ;
+troupes, dans les marches, manoeuvres et opérations d'ensemble prévues à l'article L. 2161-1 ; 
 
 2° En cas de dommages causés, soit par dégâts matériels, soit par privation de jouissance, aux propriétés occupées par les
-troupes ou interdites aux habitants à l'occasion des exercices de tir prévus à l'article L. 2161-1.
+troupes ou interdites aux habitants à l'occasion des exercices de tir prévus à l'article L. 2161-1. 
 
 Ces indemnités doivent, à peine de déchéance, être réclamées par les ayants droit à la mairie de la commune, dans les trois
-jours qui suivent le passage ou le départ des troupes.
+jours qui suivent le passage ou le départ des troupes. 
 
 Une commission procède à l'évaluation des dommages. Si cette évaluation est acceptée, le montant de la somme fixée est payé
-sur le champ.
+sur le champ. 
 
-En cas de désaccord, la contestation est introduite et jugée comme il est dit à l'article L. 2234-23.
+En cas de désaccord, la contestation est introduite et jugée comme il est dit à l'article L. 2234-22. 
 
 La composition, le mode de fonctionnement et la compétence territoriale de cette commission sont définis par décret en
 Conseil d'Etat.
@@ -3696,10 +3763,14 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 6 () JORF 13 décembre 2005
+
 _Cite_:
 
   - Code de la défense. - art. L2161-1 (V)
-  - Code de la défense. - art. L2234-23 (V)
+  - Code de la défense. - art. L2234-22 (V)
 
 _Cité par_:
 
@@ -6042,42 +6113,42 @@ _Cité par_:
 
 ###### Article L2234-25
 
-I. - Des décrets en Conseil d'Etat déterminent les modalités d'application des dispositions du présent chapitre en ce qui
-concerne, notamment :
+I.-Des décrets en Conseil d'Etat déterminent les modalités d'application des dispositions du présent chapitre en ce qui
+concerne, notamment : 
 
 1° Les modalités de règlement des réquisitions d'usage de biens immobiliers appartenant à une collectivité ou à un
-établissement public ;
+établissement public ; 
 
-2° Le taux de l'intérêt accordé ;
+2° Le taux de l'intérêt accordé ; 
 
-3° Les modes d'évaluation des prestations requises et du paiement des indemnités ;
+3° Les modes d'évaluation des prestations requises et du paiement des indemnités ; 
 
 4° Les conditions dans lesquelles une action générale de coordination sur le règlement des réquisitions est exercée, au nom
-du Premier ministre, par le ministre de la défense assisté d'un comité consultatif interministériel.
+du Premier ministre, par le ministre de la défense assisté d'un comité consultatif interministériel. 
 
-II. - Les décrets fixent également :
+II.-Les décrets fixent également : 
 
 1° Les modalités de règlement et de recouvrement de l'indemnité de plus-value, ainsi que celles du remboursement des dépenses
-de gros entretien et la procédure relative à l'acquisition éventuelle des immeubles par l'Etat ;
+de gros entretien et la procédure relative à l'acquisition éventuelle des immeubles par l'Etat ; 
 
 2° Les droits et obligations des affectataires d'immeubles requis, à l'égard de l'Etat, quand ce dernier a apuré, en leur
-lieu et place dans les conditions prévues aux articles L. 2234-11 à L. 2234-16, la situation résultant des travaux effectués
-par lesdits affectataires ;
+lieu et place dans les conditions prévues aux articles L. 2234-11 à L. 2234-15, la situation résultant des travaux effectués
+par lesdits affectataires ; 
 
-3° Les conditions dans lesquelles interviennent :
+3° Les conditions dans lesquelles interviennent : 
 
 a) La réparation en nature ou pécuniaire de la moins-value et l'indemnisation pour plus-value, en cas de travaux exécutés sur
-un navire réquisitionné ;
+un navire réquisitionné ; 
 
 b) Le calcul et le paiement de l'indemnité de plus-value, et l'indemnisation de la moins-value, en cas de travaux exécutés
-sur un aéronef réquisitionné ;
+sur un aéronef réquisitionné ; 
 
-c) La limitation de l'indemnité de plus-value à réclamer au prestataire du navire ou de l'aéronef.
+c) La limitation de l'indemnité de plus-value à réclamer au prestataire du navire ou de l'aéronef. 
 
-III. - Des aménagements aux modalités d'exécution et de règlement des réquisitions et du blocage, telles qu'elles sont
-prévues par les dispositions du présent chapitre et des articles L. 2213-1, L. 2213-3, L. 2213-4 et L. 2236-1, peuvent être
-apportés par décret en Conseil d'Etat en vue de faire face aux nécessités propres à la mobilisation des ressources en moyens
-de transport et de travaux publics dont le ministre des transports est responsable aux termes de l'article L. 1141-2 et des
+III.-Des aménagements aux modalités d'exécution et de règlement des réquisitions et du blocage, telles qu'elles sont prévues
+par les dispositions du présent chapitre et des articles L. 2213-1, L. 2213-3, L. 2213-4 et L. 2236-1, peuvent être apportés
+par décret en Conseil d'Etat en vue de faire face aux nécessités propres à la mobilisation des ressources en moyens de
+transport et de travaux publics dont le ministre des transports est responsable aux termes de l'article L. 1141-2 et des
 décrets pris pour son application.
 
 **Liens relatifs à cet article**
@@ -6091,6 +6162,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 7 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - Arrêté du 14 décembre 2009 - art. 7 (Ab)
@@ -6100,11 +6175,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense L2234-11 à L2234-16, L2213-1, L2213-3, L2213-4, L2236-1, L1141-2
   - Code de la défense. - art. L1141-2 (V)
   - Code de la défense. - art. L2213-1 (V)
-  - Code de la défense. - art. L2213-3 (V)
-  - Code de la défense. - art. L2213-4 (V)
+  - Code de la défense. - art. L2234-11 (V)
   - Code de la défense. - art. L2236-1 (V)
 
 
@@ -6955,8 +7028,9 @@ au préfet du département où est situé l'établissement.
 La cessation de l'activité, ainsi que la fermeture ou le transfert de l'établissement, doivent être déclarés dans les mêmes
 conditions.
 
-III. - L'ouverture de tout local destiné au commerce de détail des matériels désignés au premier alinéa du II est soumise à
-autorisation. Celle-ci est délivrée par le préfet du département où est situé ce local, après avis du maire.
+III. - L'ouverture de tout local destiné au commerce de détail des armes et munitions, ou de leurs éléments, des 5e et 7e
+catégories, ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat est soumise à autorisation. Celle-ci
+est délivrée par le préfet du département où est situé ce local, après avis du maire.
 
 Cette autorisation est refusée si la protection de ce local contre le risque de vol ou d'intrusion est insuffisante. Elle
 peut, en outre, être refusée s'il apparaît que l'exploitation de ce local présente, notamment du fait de sa localisation, un
@@ -6973,6 +7047,11 @@ d'intrusion.
 V. - Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1939-04-18 art. 2
+  - Décret n°1939-04-18 du 18 avril 1939 - art. 2 (Ab)
 
 _Cité par_:
 
@@ -7046,31 +7125,34 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2001-1062 2001-11-15
+  - Loi n°2001-1062 du 15 novembre 2001 (V)
 
 _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°1939-04-18 art. 2
-  - Décret n°1939-04-18 du 18 avril 1939 - art. 2 (Ab)
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 8 () JORF 13 décembre 2005
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. L313-3 (VD)
 
 
 ###### Article L2332-2
 
 Le commerce de détail des matériels de guerre, armes, munitions ou de leurs éléments des 1re, 2e, 3e, 4e, 5e ou 7e
 catégories, ainsi que des armes de 6e catégorie énumérées par décret en Conseil d'Etat, ne peut se faire que dans les locaux
-mentionnés aux III et IV de l'article L. 2332-1.
+mentionnés aux III et IV de l'article L. 2332-1. 
 
 Les dispositions du premier alinéa ne sont pas applicables aux ventes organisées en application du code du domaine de l'Etat
-et aux ventes aux enchères publiques.
+et aux ventes aux enchères publiques. 
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles, à titre exceptionnel, les personnes satisfaisant aux
-prescriptions de l'article L. 2332-1 peuvent participer aux salons professionnels déclarés en application de l'article L.
-740-2 du code de commerce.
+prescriptions de l'article L. 2332-1 peuvent participer aux manifestations commerciales et aux salons professionnels déclarés
+en application des articles L. 740-1 et L. 740-2 du code de commerce. 
 
 Les matériels, armes ou leurs éléments des 1re, 2e, 3e, 4e, 7e catégories, ainsi que des armes de 6e catégorie énumérées par
 décret en Conseil d'Etat, qui, par dérogation aux dispositions du premier alinéa, sont acquis par correspondance, à distance
@@ -7092,10 +7174,15 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 9 () JORF 13 décembre 2005
+
 _Cite_:
 
+  - Code de commerce. - art. L740-1 (Ab)
   - Code de commerce. - art. L740-2 (Ab)
-  - Code de la défense. - art. L2332-1 (M)
+  - Code de la défense. - art. L2332-1 (V)
 
 _Cité par_:
 
@@ -8496,11 +8583,6 @@ douanes et par les autorités de police judiciaire qui en dressent procès-verba
 Ces infractions peuvent également être constatées par les agents relevant du contrôle général des armées qui possèdent, à cet
 effet, les attributions d'officier de police judiciaire et dont les procès-verbaux sont adressés au ministre de la défense.
 
-Les poursuites ne peuvent être engagées en ce qui concerne les infractions prévues et réprimées par les premier et deuxième
-alinéas du II de l'article L. 2332-1, le deuxième alinéa de l'article L. 2332-5, les articles L. 2332-6 et L. 2332-9, le
-premier alinéa de l'article L. 2332-10, l'article L. 2335-2, l'article L. 2339-3 à l'exception des cas prévus par l'article
-L. 2336-2, que sur la plainte du ministre de la défense, ou du ministre de l'économie et des finances.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -8545,15 +8627,13 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la défense. - art. L2332-1 (M)
-  - Code de la défense. - art. L2332-10 (V)
-  - Code de la défense. - art. L2332-5 (V)
-  - Code de la défense. - art. L2332-6 (V)
-  - Code de la défense. - art. L2332-9 (V)
-  - Code de la défense. - art. L2335-2 (V)
-  - Code de la défense. - art. L2336-2 (V)
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 10 () JORF 13 décembre 2005
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. L317-1 (VD)
 
 _Anciens textes_:
 
@@ -8763,24 +8843,37 @@ _Anciens textes_:
 
 ###### Article L2339-6
 
-Sont punies d'un emprisonnement de trois ans et d'une amende de 45 000 Euros l'acquisition ou la détention des armes et des
-munitions, quelle qu'en soit la catégorie, en violation d'une interdiction prévue au IV de l'article L. 2336-4.
+Est puni d'un emprisonnement de trois ans et d'une amende de 45 000 euros le fait d'acquérir ou de détenir des armes et des
+munitions en violation d'une interdiction prévue au IV de l'article L. 2336-4 ou au huitième alinéa de l'article L. 2336-5.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1939-04-18 art. 28-1
-  - Décret n°1939-04-18 du 18 avril 1939 - art. 28-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 11 () JORF 13 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
 _Cite_:
 
-  - Code de la défense. - art. L2336-4 (V)
+  - Code de la défense. - art. L2336-4
+  - Code de la défense. - art. L2336-5
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. L317-5 (VD)
+
+_Anciens textes_:
+
+  - Décret n°1939-04-18 art. 28-1
+  - Décret n°1939-04-18 du 18 avril 1939 - art. 28-1 (Ab)
 
 
 ###### Article L2339-7
@@ -12176,42 +12269,13 @@ _Cite_:
 
 #### TITRE V : EXPLOSIFS<a id=174></a>
 
-##### Chapitre Ier : Aménagement du monopole de l'Etat<a id=175></a>
-
-###### Article L2351-1
-
-Un décret en Conseil d'Etat détermine les conditions auxquelles sont subordonnées les délégations par l'Etat de certaines
-opérations à des entreprises publiques ou privées en matière de production, d'importation, d'exportation et de commerce des
-poudres et substances explosives.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-575 du 3 juillet 1970 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
-
-_Cité par_:
-
-  - Décret n°2017-1308 du 29 août 2017 (V)
-  - Code de la défense. - art. L2353-5 (M)
-
-
-##### Chapitre II : Autorisations et agréments<a id=176></a>
+##### Chapitre II : Autorisations et agréments<a id=175></a>
 
 ###### Article L2352-1
 
-La production, l'importation, l'exportation, le commerce, l'emploi, le transport et la conservation des poudres et substances
-explosives sont subordonnés à un agrément technique et aux autorisations et contrôles nécessités par les exigences de la
-sécurité publique et de la défense nationale.
+La production, l'importation, l'exportation, le commerce, l'emploi, le transport et, la conservation et la destruction des
+produits explosifs sont subordonnés à un agrément technique et aux autorisations et contrôles nécessités par les exigences de
+la sécurité publique et de la défense nationale.
 
 Les conditions dans lesquelles l'agrément technique et les autorisations sont accordés et les opérations de contrôle
 effectuées sont déterminées par décret en Conseil d'Etat.
@@ -12244,6 +12308,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 
 ###### Article L2352-2
 
@@ -12273,9 +12341,9 @@ _Cité par_:
   - Code de la défense. - art. L2451-1 (M)
 
 
-##### Chapitre III : Dispositions pénales<a id=177></a>
+##### Chapitre III : Dispositions pénales<a id=176></a>
 
-##### Section 1 : Agents habilités à constater les infractions<a id=178></a>
+##### Section 1 : Agents habilités à constater les infractions<a id=177></a>
 
 ###### Article L2353-1
 
@@ -12312,73 +12380,16 @@ _Cité par_:
   - Code pénal - art. 421-1 (M)
 
 
-##### Section 2 : Sanctions pénales<a id=179></a>
-
-###### Article L2353-2
-
-Sont punis d'un emprisonnement de deux ans la fabrication, le débit ou la distribution de la poudre, la détention d'une
-quantité quelconque de poudre à usage militaire, ou de plus de 2 kilogrammes de toute autre poudre, sans autorisation légale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1834-05-24 art. 2
-  - Loi n°1834-05-24 du 24 mai 1834 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
-
-_Cité par_:
-
-  - Code de la défense. - art. L2353-3 (Ab)
-
-
-###### Article L2353-3
-
-Les personnes physiques coupables de l'infraction prévue à l'article L. 2353-2 encourent également la peine complémentaire
-d'interdiction de séjour suivant les modalités prévues par l'article 131-31 du code pénal.
-
-Le tribunal ordonne en outre la confiscation des armes ou munitions fabriquées, débitées, distribuées ou possédées sans
-autorisation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1834-05-24 art. 4
-  - Loi n°1834-05-24 du 24 mai 1834 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
-
-_Cite_:
-
-  - Code pénal - art. 131-31 (V)
-  - Code de la défense. - art. L2353-2 (Ab)
-
+##### Section 2 : Sanctions pénales<a id=178></a>
 
 ###### Article L2353-4
 
-Sont punies d'un emprisonnement de cinq ans et d'une amende de 3 750 Euros :
+Sont punies d'un emprisonnement de cinq ans et d'une amende de 3 750 euros :
 
-1° La fabrication ou la détention, sans autorisation et sans motifs légitimes, de machines ou engins meurtriers ou
-incendiaires agissant par explosion ou autrement, ou un explosif quelconque, quelle que soit sa composition ;
+1° La fabrication, sans autorisation, d'un engin explosif ou incendiaire ou d'un produit explosif, quelle que soit sa
+composition ;
 
-2° La fabrication ou la détention, sans motifs légitimes, de tout autre élément ou substance destinés à entrer dans la
-composition d'un explosif.
+2° La fabrication de tout autre élément ou substance destinés à entrer dans la composition d'un produit explosif.
 
 Les peines sont portées à dix ans d'emprisonnement et à 500 000 Euros d'amende lorsque l'infraction est commise en bande
 organisée.
@@ -12393,6 +12404,10 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
 
 _Cité par_:
 
@@ -12421,16 +12436,15 @@ _Anciens textes_:
 
 ###### Article L2353-5
 
-Sont punis d'un emprisonnement de cinq ans et d'une amende de 4 500 Euros :
+Sont punis d'un emprisonnement de cinq ans et d'une amende de 4 500 euros : 
 
-1° Le fait de vendre ou d'exporter des poudres ou substances explosives figurant sur une liste établie par décret, ou de
-produire ou d'importer toutes poudres ou substances explosives, en violation des articles L. 2351-1 et L. 2352-1 ou des
-textes pris pour leur application ;
+1° Le fait de vendre ou d'exporter des produits explosifs figurant sur une liste établie par décret, ou de produire ou
+d'importer tout produit explosif, en violation de l'article L. 2352-1 ou des textes pris pour son application ; 
 
 2° Le fait de refuser de se soumettre aux contrôles prévus à l'article L. 2352-1, ou d'y apporter des entraves, ou de ne pas
-fournir les renseignements demandés en vue de ces contrôles.
+fournir les renseignements demandés en vue de ces contrôles. 
 
-Les peines sont portées à dix ans d'emprisonnement et à 500 000 Euros d'amende lorsque l'infraction est commise en bande
+Les peines sont portées à dix ans d'emprisonnement et à 500 000 euros d'amende lorsque l'infraction est commise en bande
 organisée.
 
 **Liens relatifs à cet article**
@@ -12445,6 +12459,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - CODE DE PROCEDURE PENALE - art. 706-73 (V)
@@ -12455,15 +12473,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. L2351-1 (Ab)
-  - Code de la défense. - art. L2352-1 (M)
+  - Code de la défense. - art. L2352-1 (V)
 
 
 ###### Article L2353-6
 
-Est punie d'un emprisonnement de deux ans et d'une amende de 3 750 Euros la vente des poudres ou substances explosives non
-susceptibles d'un usage militaire en dehors des conditions prévues par le présent titre et les dispositions réglementaires
-prises pour son application.
+Est punie d'un emprisonnement de deux ans et d'une amende de 3 750 euros la vente des produits explosifs non susceptibles
+d'un usage militaire en dehors des conditions prévues par le présent titre et les dispositions réglementaires prises pour son
+application.
 
 **Liens relatifs à cet article**
 
@@ -12477,6 +12494,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - Code de la défense. - art. L2353-8 (V)
@@ -12484,8 +12505,8 @@ _Cité par_:
 
 ###### Article L2353-7
 
-Est punie d'une amende de 3 750 Euros l'exportation de poudres ou substances explosives non susceptibles d'un usage
-militaire, en dehors des conditions prévues par le présent titre et les textes pris pour son application.
+Est punie d'une amende de 3 750 euros l'exportation de produits explosifs non susceptibles d'un usage militaire, en dehors
+des conditions prévues par le présent titre et les textes pris pour son application.
 
 **Liens relatifs à cet article**
 
@@ -12499,6 +12520,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - Code de la défense. - art. L2353-8 (V)
@@ -12506,10 +12531,9 @@ _Cité par_:
 
 ###### Article L2353-8
 
-Est punie comme l'auteur des infractions prévues aux articles L. 2353-5, L. 2353-6 et L. 2353-7 la personne exerçant une
-activité d'intermédiaire ou d'agent de publicité à l'occasion d'opérations portant sur les produits précités.
-
-Le juge ordonne la confiscation des produits fabriqués, importés, exportés ou vendus ainsi que des moyens de fabrication.
+Est punie comme l'auteur des infractions prévues aux articles L. 2353-5, 
+L. 2353-6 et L. 2353-7 la personne exerçant une activité d'intermédiaire ou d'agent de publicité à l'occasion d'opérations
+portant sur les produits précités.
 
 **Liens relatifs à cet article**
 
@@ -12523,11 +12547,15 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 _Cite_:
 
-  - Code de la défense. - art. L2353-5 (M)
-  - Code de la défense. - art. L2353-6 (M)
-  - Code de la défense. - art. L2353-7 (M)
+  - Code de la défense. - art. L2353-5 (V)
+  - Code de la défense. - art. L2353-6 (V)
+  - Code de la défense. - art. L2353-7 (V)
 
 _Cité par_:
 
@@ -12538,7 +12566,10 @@ _Cité par_:
 
 La peine privative de liberté encourue par l'auteur ou le complice des infractions prévues aux articles L. 2353-5 à L. 2353-8
 est réduite de moitié, si ayant averti l'autorité administrative ou judiciaire, il a permis de faire cesser les agissements
-incriminés et d'identifier, le cas échéant, les autres auteurs ou complices.
+incriminés et d'identifier, le cas échéant, les autres auteurs ou complices. 
+
+En cas d'application des dispositions des articles L. 2353-4 à L. 2353-8, le tribunal peut ordonner en outre la confiscation
+des engins explosifs ou incendiaires et des produits explosifs fabriqués, vendus, exportés ou importés sans autorisation.
 
 **Liens relatifs à cet article**
 
@@ -12551,9 +12582,14 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 _Cite_:
 
-  - Code de la défense L2353-5 à L2353-8
+  - Code de la défense. - art. L2353-4 (V)
+  - Code de la défense. - art. L2353-5 (V)
 
 
 ###### Article L2353-10
@@ -12633,8 +12669,12 @@ _Cite_:
 
 ###### Article L2353-13
 
-L'acquisition, la détention, le transport ou le port illégitime de substances explosives ou d'engins ou machines fabriqués à
-l'aide desdites substances sont punis selon les dispositions du titre 3 applicables aux armes de la première catégorie.
+L'acquisition, la détention, le transport ou le port illégal de produits explosifs ou d'engins explosifs sont punis selon les
+dispositions du chapitre IX du titre III du présent livre applicables aux armes de la 1re catégorie.
+
+Les dispositions du premier alinéa ne sont pas applicables à l'acquisition, à la détention, au transport ou au port d'une
+quantité de 2 kilogrammes au plus de poudre noire ou de poudre à usage civil, en vue de la confection de munitions de chasse
+ou de tir.
 
 **Liens relatifs à cet article**
 
@@ -12648,6 +12688,10 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 12 () JORF 13 décembre 2005
+
 _Cité par_:
 
   - Loi n°2016-731 du 3 juin 2016 - art. 24
@@ -12655,11 +12699,11 @@ _Cité par_:
   - Code pénal - art. 421-1 (VD)
 
 
-### LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=180></a>
+### LIVRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=179></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=181></a>
+#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=180></a>
 
-##### Chapitre unique<a id=182></a>
+##### Chapitre unique<a id=181></a>
 
 ###### Article L2421-1
 
@@ -12725,9 +12769,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=183></a>
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=182></a>
 
-##### Chapitre unique<a id=184></a>
+##### Chapitre unique<a id=183></a>
 
 ###### Article L2431-1
 
@@ -12865,9 +12909,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=185></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=184></a>
 
-##### Chapitre unique<a id=186></a>
+##### Chapitre unique<a id=185></a>
 
 ###### Article L2441-1
 
@@ -12984,14 +13028,14 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=187></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=186></a>
 
-##### Chapitre unique<a id=188></a>
+##### Chapitre unique<a id=187></a>
 
 ###### Article L2451-1
 
 Sont applicables en Polynésie française les dispositions des articles L. 2112-1 à L. 2161-3, L. 2211-1 à L. 2236-7, L. 2311-1
-à L. 2312-8, L. 2313-4, L. 2322-1 à L. 2343-12, L. 2352-2, L. 2353-2 à L. 2353-4, L. 2353-11 à L. 2353-13.
+à L. 2312-8, L. 2313-4, L. 2322-1 à L. 2343-12, L. 2352-2, L. 2353-4, L. 2353-11 à L. 2353-13.
 
 **Liens relatifs à cet article**
 
@@ -13000,11 +13044,20 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 13 () JORF 13 décembre 2005
+
 _Cite_:
 
-  - Code de la défense L2112-1 à L2161-3, L2211-1 à L2236-7, L2311-1 à L2312-8, L2313-4, L2322-1 à L2343-12, L2352-2, L2353-2 à L2353-4, L2353-11 à L2353-13
+  - Code de la défense. - art. L2112-1 (V)
+  - Code de la défense. - art. L2211-1 (V)
+  - Code de la défense. - art. L2311-1 (V)
   - Code de la défense. - art. L2313-4 (V)
+  - Code de la défense. - art. L2322-1 (V)
   - Code de la défense. - art. L2352-2 (V)
+  - Code de la défense. - art. L2353-11 (V)
+  - Code de la défense. - art. L2353-4 (V)
 
 
 ###### Article L2451-2
@@ -13119,9 +13172,37 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=189></a>
+###### Article L2451-7
 
-##### Chapitre unique<a id=190></a>
+Est puni d'un emprisonnement de deux ans le fait de fabriquer, de débiter ou de distribuer de la poudre ou le fait de détenir
+une quantité quelconque de poudre à usage militaire, ou plus de 2 kilogrammes de toute autre poudre, sans autorisation
+légale. 
+
+Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent encourent également la peine complémentaire
+d'interdiction de séjour selon les modalités prévues par l'article 131-31 du code pénal. 
+
+Le tribunal ordonne en outre la confiscation des armes ou munitions fabriquées, débitées, distribuées ou détenues sans
+autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 20 () JORF 13 décembre 2005
+
+_Cite_:
+
+  - Code pénal - art. 131-31 (V)
+
+
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=188></a>
+
+##### Chapitre unique<a id=189></a>
 
 ###### Article L2461-1
 
@@ -13251,9 +13332,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=191></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=190></a>
 
-##### Chapitre unique<a id=192></a>
+##### Chapitre unique<a id=191></a>
 
 ###### Article L2471-1
 
@@ -13364,13 +13445,13 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-## PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE<a id=193></a>
+## PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE<a id=192></a>
 
-### LIVRE II : LES FORCES ARMÉES<a id=194></a>
+### LIVRE II : LES FORCES ARMÉES<a id=193></a>
 
-#### TITRE Ier : COMPOSITION<a id=195></a>
+#### TITRE Ier : COMPOSITION<a id=194></a>
 
-##### Chapitre unique<a id=196></a>
+##### Chapitre unique<a id=195></a>
 
 ###### Article L3211-1
 
@@ -13435,11 +13516,11 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-### LIVRE IV : ÉTABLISSEMENTS PUBLICS<a id=197></a>
+### LIVRE IV : ÉTABLISSEMENTS PUBLICS<a id=196></a>
 
-#### TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=198></a>
+#### TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF<a id=197></a>
 
-##### Chapitre Ier : Etablissements d'enseignement supérieur et de recherche<a id=199></a>
+##### Chapitre Ier : Etablissements d'enseignement supérieur et de recherche<a id=198></a>
 
 ###### Article L3411-1
 
@@ -13465,7 +13546,7 @@ _Cite_:
   - Code de l'éducation - art. L755-1 (V)
 
 
-##### Chapitre 3 : Autres établissements publics à caractère administratif.<a id=200></a>
+##### Chapitre 3 : Autres établissements publics à caractère administratif.<a id=199></a>
 
 ###### Article L3413-1
 
@@ -13530,7 +13611,7 @@ _Cite_:
   - Code de la sécurité sociale. - art. L713-19 (V)
 
 
-##### Chapitre 4 : Etablissement public d'insertion de la défense.<a id=201></a>
+##### Chapitre 4 : Etablissement public d'insertion de la défense.<a id=200></a>
 
 ###### Article L3414-1
 
@@ -13710,11 +13791,33 @@ _Créé par_:
   - Ordonnance n°2005-883 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 
-#### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=202></a>
+###### Article L3414-8
 
-##### Chapitre Ier : L'économat des armées<a id=203></a>
+L'établissement public d'insertion de la défense peut mettre à disposition du ministère de la défense, pour les besoins de
+leur formation, les bénéficiaires des contrats d'accompagnement dans l'emploi prévus à l'article L. 322-4-7 du code du
+travail, nonobstant les dispositions du cinquième alinéa du I de cet article.
 
-##### Section 1 : Dispositions générales<a id=204></a>
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Créé par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 22 () JORF 13 décembre 2005
+
+_Cite_:
+
+  - Code du travail - art. L322-4-7 (Ab)
+
+
+#### TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL<a id=201></a>
+
+##### Chapitre Ier : L'économat des armées<a id=202></a>
+
+##### Section 1 : Dispositions générales<a id=203></a>
 
 ###### Article L3421-1
 
@@ -13772,7 +13875,7 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=205></a>
+##### Section 2 : Organisation administrative et financière<a id=204></a>
 
 ###### Article L3421-3
 
@@ -13868,13 +13971,13 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-##### Chapitre II : L'institution de gestion sociale des armées<a id=206></a>
+##### Chapitre II : L'institution de gestion sociale des armées<a id=205></a>
 
-##### Section 1 : Dispositions générales<a id=207></a>
+##### Section 1 : Dispositions générales<a id=206></a>
 
 ###### Article L3422-1
 
-L'institution de gestion sociale des armées, dotée de la personnalité morale et de l'autonomie financière, est placée sous la
+L'institution de gestion sociale des armées, établissement public à caractère industriel et commercial, est placée sous la
 tutelle du ministère de la défense.
 
 L'activité de l'institution s'exerce au profit de tous les personnels civils et militaires relevant du ministère de la
@@ -13892,6 +13995,10 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 14 () JORF 13 décembre 2005
 
 _Cité par_:
 
@@ -13927,15 +14034,15 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=208></a>
+##### Section 2 : Organisation administrative et financière<a id=207></a>
 
 ###### Article L3422-3
 
-L'institution est dirigée par un administrateur nommé par arrêté du ministre de la défense.
+L'institution est dirigée par un directeur général nommé par arrêté du ministre de la défense.
 
-Elle est administrée par un conseil de gestion, présidé par l'administrateur et comprenant des représentants des usagers
-militaires et civils, de l'administration, du personnel de l'institution et des membres nommés en raison de leur compétence
-dans les domaines administratif, financier, social, médico-social ou culturel.
+Elle est administrée par un conseil de gestion dont le président est nommé par décret et comprenant des représentants des
+usagers militaires et civils, de l'administration, du personnel de l'institution et des membres nommés en raison de leur
+compétence dans les domaines administratif, financier, social, médico-social ou culturel.
 
 **Liens relatifs à cet article**
 
@@ -13948,11 +14055,15 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 14 () JORF 13 décembre 2005
+
 
 ###### Article L3422-4
 
 L'institution exerce son activité dans les conditions du droit privé en ce qui concerne ses relations avec les personnels
-rémunérés par elle, à l'exception de l'administrateur et de l'administrateur adjoint, avec les usagers, les contractants et
+rémunérés par elle, à l'exception du directeur général et du directeur général adjoint, avec les usagers, les contractants et
 les tiers. Toutefois, le régime des travaux publics est applicable aux travaux de l'institution.
 
 La gestion financière et comptable de l'institution est soumise aux règles du droit privé, sous réserve de dérogations qui
@@ -13971,6 +14082,10 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 14 () JORF 13 décembre 2005
 
 
 ###### Article L3422-5
@@ -14046,11 +14161,11 @@ _Cité par_:
   - Code de la défense. - art. L3571-1 (V)
 
 
-### LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=209></a>
+### LIVRE V : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=208></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=210></a>
+#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=209></a>
 
-##### Chapitre unique<a id=211></a>
+##### Chapitre unique<a id=210></a>
 
 ###### Article L3521-1
 
@@ -14066,9 +14181,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=212></a>
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=211></a>
 
-##### Chapitre unique<a id=213></a>
+##### Chapitre unique<a id=212></a>
 
 ###### Article L3531-1
 
@@ -14088,9 +14203,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=214></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=213></a>
 
-##### Chapitre unique<a id=215></a>
+##### Chapitre unique<a id=214></a>
 
 ###### Article L3541-1
 
@@ -14110,9 +14225,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=216></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=215></a>
 
-##### Chapitre unique<a id=217></a>
+##### Chapitre unique<a id=216></a>
 
 ###### Article L3551-1
 
@@ -14132,9 +14247,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=218></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=217></a>
 
-##### Chapitre unique<a id=219></a>
+##### Chapitre unique<a id=218></a>
 
 ###### Article L3561-1
 
@@ -14154,9 +14269,9 @@ _Cite_:
   - Code de la défense. - art. L3211-2 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=220></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=219></a>
 
-##### Chapitre unique<a id=221></a>
+##### Chapitre unique<a id=220></a>
 
 ###### Article L3571-1
 
@@ -14179,13 +14294,13 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES<a id=222></a>
+## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES<a id=221></a>
 
-### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=223></a>
+### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=222></a>
 
-#### TITRE Ier : SERVITUDES<a id=224></a>
+#### TITRE Ier : SERVITUDES<a id=223></a>
 
-##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=225></a>
+##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=224></a>
 
 ###### Article L5111-1
 
@@ -14384,7 +14499,7 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=226></a>
+##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=225></a>
 
 ###### Article L5112-1
 
@@ -14452,7 +14567,7 @@ _Anciens textes_:
 ###### Article L5112-3
 
 L'abattage ou l'ébranchage des plantations qui, à la date d'institution de la servitude prévue au présent chapitre, sont
-reconnues gêner les vues, peut être ordonné par le préfet maritime moyennant une indemnité préalable.
+reconnues gêner les vues, peut être ordonné par l'autorité militaire moyennant une indemnité préalable.
 
 Cette indemnité est fixée comme en matière d'expropriation pour cause d'utilité publique.
 
@@ -14468,8 +14583,12 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
 
-##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=227></a>
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 15 () JORF 13 décembre 2005
+
+
+##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=226></a>
 
 ###### Article L5113-1
 
@@ -14491,7 +14610,7 @@ _Cité par_:
   - Code de la défense. - art. L5361-3 (V)
 
 
-##### Chapitre IV : Autres installations de défense<a id=228></a>
+##### Chapitre IV : Autres installations de défense<a id=227></a>
 
 ###### Article L5114-1
 
@@ -14568,9 +14687,9 @@ _Cite_:
   - Code de la défense. - art. L5114-2 (V)
 
 
-#### TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE<a id=229></a>
+#### TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE<a id=228></a>
 
-##### Chapitre unique.<a id=230></a>
+##### Chapitre unique.<a id=229></a>
 
 ###### Article L5121-1
 
@@ -14623,11 +14742,11 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. L2132-19 (V)
 
 
-### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=231></a>
+### LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=230></a>
 
-#### TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE<a id=232></a>
+#### TITRE Ier : PROCÉDURES POUR LES BESOINS DE LA DÉFENSE<a id=231></a>
 
-##### Chapitre Ier : Fonds d'avances<a id=233></a>
+##### Chapitre Ier : Fonds d'avances<a id=232></a>
 
 ###### Article L5211-1
 
@@ -14661,7 +14780,7 @@ _Cité par_:
   - Code de la défense. - art. L5371-1 (M)
 
 
-##### Chapitre III : Comptes de commerce<a id=234></a>
+##### Chapitre III : Comptes de commerce<a id=233></a>
 
 ###### Article L5213-1
 
@@ -14711,53 +14830,11 @@ _Abrogé par_:
   - ORDONNANCE n°2014-1567 du 22 décembre 2014 - art. 2
 
 
-### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=235></a>
+### LIVRE III : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=234></a>
 
-#### TITRE Ier : DISPOSITIONS PARTICULIÈRES AUX DÉPARTEMENTS D'OUTRE-MER<a id=236></a>
+#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=235></a>
 
-##### Chapitre unique.<a id=237></a>
-
-###### Article L5311-1
-
-Pour l'application de la présente partie du code dans les départements d'outre-mer, les mots : " préfet maritime " sont
-remplacés par les mots : " représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
-
-
-#### TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON<a id=238></a>
-
-##### Chapitre unique<a id=239></a>
-
-###### Article L5321-1
-
-Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon, les mots : " préfet maritime " sont remplacés
-par les mots : " représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
-
-
-#### TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE<a id=240></a>
-
-##### Chapitre unique<a id=241></a>
+##### Chapitre unique<a id=236></a>
 
 ###### Article L5331-1
 
@@ -14776,27 +14853,9 @@ _Cite_:
   - Code de la défense. - art. L5211-1 (V)
 
 
-###### Article L5331-2
+#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=237></a>
 
-Pour l'application de la présente partie du code à Mayotte, les mots : " préfet maritime " sont remplacés par les mots :
-
-" représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
-
-
-#### TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA<a id=242></a>
-
-##### Chapitre unique<a id=243></a>
+##### Chapitre unique<a id=238></a>
 
 ###### Article L5341-1
 
@@ -14813,23 +14872,6 @@ _Cite_:
 
   - Code de la défense. - art. L5111-1 (V)
   - Code de la défense. - art. L5211-1 (V)
-
-
-###### Article L5341-2
-
-Pour l'application de la présente partie du code dans les îles Wallis et Futuna, les mots : " préfet maritime " sont
-remplacés par les mots : " représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
 ###### Article L5341-3
@@ -14867,9 +14909,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=244></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE<a id=239></a>
 
-##### Chapitre unique<a id=245></a>
+##### Chapitre unique<a id=240></a>
 
 ###### Article L5351-1
 
@@ -14886,23 +14928,6 @@ _Cite_:
 
   - Code de la défense. - art. L5111-1 (V)
   - Code de la défense. - art. L5211-1 (V)
-
-
-###### Article L5351-2
-
-Pour l'application de la présente partie du code en Polynésie française, les mots : " préfet maritime " sont remplacés par
-les mots : " représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
 ###### Article L5351-3
@@ -14926,9 +14951,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=246></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=241></a>
 
-##### Chapitre unique<a id=247></a>
+##### Chapitre unique<a id=242></a>
 
 ###### Article L5361-1
 
@@ -14945,23 +14970,6 @@ _Cite_:
 
   - Code de la défense. - art. L5111-1 (V)
   - Code de la défense. - art. L5211-1 (V)
-
-
-###### Article L5361-2
-
-Pour l'application de la présente partie du code en Nouvelle Calédonie, les mots : " préfet maritime " sont remplacés par les
-mots : " représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
 ###### Article L5361-3
@@ -14985,9 +14993,9 @@ _Codifié par_:
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=248></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=243></a>
 
-##### Chapitre unique<a id=249></a>
+##### Chapitre unique<a id=244></a>
 
 ###### Article L5371-1
 
@@ -15008,23 +15016,6 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-
-###### Article L5371-2
-
-Pour l'application de la présente partie du code aux Terres australes et antarctiques françaises, les mots : " préfet
-maritime " sont remplacés par les mots : " représentant du Gouvernement pour l'action de l'Etat en mer ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
-_Abrogé par_:
-
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 16 () JORF 13 décembre 2005
 
 
 ###### Article L5371-3
