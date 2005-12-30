@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2005-12-13
+Version Consolidée au 2005-12-31
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5371-3)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1671-3)](#2)
@@ -6628,8 +6628,8 @@ _Codifié par_:
 
 ###### Article L2312-3
 
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au budget des services du Premier
-ministre.
+Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au programme intitulé
+"Coordination du travail gouvernemental".
 
 Le président est ordonnateur des dépenses de la commission. Il nomme les agents de la commission.
 
@@ -6643,6 +6643,10 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 135 () JORF 31 décembre 2005
 
 
 ###### Article L2312-4
