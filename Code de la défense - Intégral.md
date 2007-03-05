@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2006-06-14
+Version Consolidée au 2007-03-06
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5371-3)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1671-3)](#2)
@@ -37,7 +37,7 @@ Version Consolidée au 2006-06-14
             - [Section 2 : Dispositions pénales (art. L1333-8 à L1333-14)](#34)
               - [Sous-section 1 : Agents habilités à constater les infractions. (art. L1333-8)](#35)
               - [Sous-section 2 : Sanctions pénales. (art. L1333-9 à L1333-13)](#36)
-              - [Sous-section 3 : Matières nucléaires intéressant la défense. (art. L1333-14)](#37)
+              - [Sous-section 3 : Matières nucléaires intéressant la dissuasion. (art. L1333-14)](#37)
           - [Chapitre IV : Postes et communications électroniques (art. L1334-1)](#38)
           - [Chapitre VI : Transports et hydrocarbures (art. L1336-1)](#39)
       - [LIVRE V : ACTION DE L'ÉTAT EN MER (art. L1521-1 à L1521-10)](#40)
@@ -1662,6 +1662,9 @@ Sont soumises aux dispositions du présent chapitre les matières nucléaires fu
 matière, à l'exception des minerais, contenant un ou plusieurs éléments fusibles, fissiles ou fertiles dont la liste est
 précisée par décret en Conseil d'Etat.
 
+Les conditions particulières d'application du présent chapitre aux matières nucléaires affectées aux moyens nécessaires à la
+mise en oeuvre de la politique de dissuasion sont définies par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1692,6 +1695,10 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+_Modifié par_:
+
+  - Loi n°2007-289 du 5 mars 2007 - art. 3
 
 
 ###### Article L1333-2
@@ -2157,12 +2164,13 @@ _Cite_:
   - Code de la défense. - art. L1333-2 (V)
 
 
-##### Sous-section 3 : Matières nucléaires intéressant la défense.<a id=37></a>
+##### Sous-section 3 : Matières nucléaires intéressant la dissuasion.<a id=37></a>
 
 ###### Article L1333-14
 
-Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées à la défense
-ou détenues dans les installations nucléaires intéressant la défense.
+Seules les dispositions des articles L. 1333-9 et L. 1333-10 sont applicables aux matières nucléaires affectées aux moyens
+nécessaires à la mise en oeuvre de la politique de dissuasion ou détenues dans les installations nucléaires intéressant la
+défense.
 
 **Liens relatifs à cet article**
 
@@ -2175,10 +2183,14 @@ _Codifié par_:
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
+_Modifié par_:
+
+  - Loi n°2007-289 du 5 mars 2007 - art. 3
+
 _Cite_:
 
   - Code de la défense. - art. L1333-10 (V)
-  - Code de la défense. - art. L1333-9 (M)
+  - Code de la défense. - art. L1333-9 (V)
 
 _Cité par_:
 
