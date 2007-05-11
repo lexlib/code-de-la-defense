@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-04-24
+Version Consolidée au 2007-05-12
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5371-3)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1671-3)](#2)
@@ -6760,14 +6760,18 @@ prévues :
 
 1° A l'article 432-10 du code pénal si l'auteur est un civil ; 
 
-2° A l'article 463 du code de justice militaire si l'auteur est un militaire.
+2° A l'article L. 323-22 du code de justice militaire si l'auteur est un militaire.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2006-637 du 1 juin 2006 - art. 2 (V)
 
 _Cite_:
 
   - Code pénal - art. 432-10 (V)
-  - Code de justice militaire - art. 463 (Ab)
+  - Code de justice militaire. - art. L323-22 (V)
 
 _Cité par_:
 
@@ -6775,13 +6779,8 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°1938-07-11 art. 32
   - Loi n°1938-07-11. du 11 juillet 1938 - art. 32 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+  - Loi n°1938-07-11 art. 32
 
 
 ###### Article L2236-7
