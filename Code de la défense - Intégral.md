@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2007-10-30
+Version Consolidée au 2008-01-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5371-3)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1671-3)](#2)
@@ -24595,19 +24595,18 @@ _Cité par_:
 
 ###### Article R*1212-3
 
-Les armées et la gendarmerie sont organisées en régions terre pour l'armée de terre, régions maritimes et arrondissements
-maritimes pour la marine, régions aériennes pour l'armée de l'air et régions de gendarmerie pour la gendarmerie nationale.
-Les régions de gendarmerie sont subdivisées en groupements de gendarmerie départementale.
+Les armées et la gendarmerie sont organisées de la façon suivante :
 
-**Nota:**
+1° En régions terre, pour l'armée de terre ;
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+2° En régions maritimes et arrondissements maritimes pour la marine ;
+
+3° A l'échelon national, pour l'armée de l'air ;
+
+4° En régions de gendarmerie pour la gendarmerie nationale. Les régions de gendarmerie sont subdivisées en groupement de
+gendarmerie départementale.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°2000-558 2000-06-21
 
 _Anciens textes_:
 
@@ -24617,6 +24616,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2007-601 du 26 avril 2007 - art. 1 () JORF 27 avril 2007 en vigueur le 1er janvier 2008
 
 _Cité par_:
 
@@ -24758,46 +24761,6 @@ _Codifié par_:
 _Cité par_:
 
   - Code de la défense. - art. R3223-46 (V)
-
-
-###### Article R*1212-6
-
-La composition des régions aériennes est fixée conformément au tableau suivant :
-
-<pre>
-┏━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ **RÉGIONS AÉ-   │ **DÉPARTEMENTS**                                                                                        ┃
-┃ RIENNES**       │                                                                                                         ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Région aérienne │ Aisne, Ardennes, Aube, Bas-Rhin, Calvados, Cher, Côte-d'Or, Côtes-d'Armor, Doubs, Essonne, Eure, Eure-  ┃
-┃ Nord (siège :   │ et-Loir, Finistère, Haute-Marne, Haute-Saône, Haut-Rhin, Hauts-de-Seine, Ille-et-Vilaine, Indre, Indre- ┃
-┃ Villacoublay).  │ et-Loire, Jura, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Manche, Marne, Mayenne,         ┃
-┃                 │ Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nièvre, Nord, Oise, Orne, Paris, Pas-de-Calais, Saône-et- ┃
-┃                 │ Loire, Sarthe, Seine-et-Marne, Seine-Maritime, Seine-Saint-Denis, Somme, Territoire de Belfort, Val-de- ┃
-┃                 │ Marne, Val-d'Oise, Vendée, Vosges, Yonne, Yvelines.                                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Région aérienne │ Ain, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Ardèche, Ariège, Aude, Aveyron, Bouches-du-      ┃
-┃ Sud (siège :    │ Rhône, Cantal, Charente, Charente-Maritime, Corrèze, Corse-du-Sud, Creuse, Deux-Sèvres, Dordogne,       ┃
-┃ Bordeaux).      │ Drôme, Gard, Gers, Gironde, Haute-Corse, Haute-Garonne, Haute-Loire, Haute-Savoie, Haute-Vienne,        ┃
-┃                 │ Hautes-Alpes, Hautes-Pyrénées, Hérault, Isère, Landes, Loire, Lot, Lot-et-Garonne, Lozère, Puy-de-Dôme, ┃
-┃                 │ Pyrénées-Atlantiques, Pyrénées-Orientales, Rhône, Savoie, Tarn, Tarn-et-Garonne, Var, Vaucluse, Vienne. ┃
-┗━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-</pre>
-
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2000-558 du 21 juin 2000 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-_Abrogé par_:
-
-  - Décret n°2007-601 du 26 avril 2007 - art. 1 () JORF 27 avril 2007 en vigueur le 1er janvier 2008
 
 
 ###### Article R*1212-7
@@ -25739,9 +25702,9 @@ Le préfet de zone préside le comité de défense de zone.
 
 Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général dont la circonscription comprend
 le chef-lieu de la zone, l'officier général de zone, le général commandant la région terre, s'il y a lieu l'amiral commandant
-la région maritime, le général commandant la région aérienne, le général commandant la région de gendarmerie, le préfet
-délégué pour la sécurité et la défense et le ou les chefs de service de la police nationale désignés à cet effet par le
-préfet de zone.
+la région maritime, le général commandant la défense aérienne et les opérations aériennes, le général commandant la région de
+gendarmerie, le préfet délégué pour la sécurité et la défense et le ou les chefs de service de la police nationale désignés à
+cet effet par le préfet de zone.
 
 Le préfet de zone peut également associer aux travaux du comité, en tant que de besoin, les chefs des services de l'Etat et
 le ou les directeurs départementaux des services d'incendie et de secours intéressés.
@@ -25749,10 +25712,6 @@ le ou les directeurs départementaux des services d'incendie et de secours inté
 Le comité de défense de zone peut se réunir dans une formation restreinte de commission de défense économique dont la
 composition est arrêtée par le préfet de zone. En cas d'absence ou d'empêchement de celui-ci, cette commission est présidée
 par le trésorier-payeur général dont la circonscription comprend le chef-lieu de la zone.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -25764,6 +25723,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2007-601 du 26 avril 2007 - art. 1 () JORF 27 avril 2007 en vigueur le 1er janvier 2008
 
 _Cité par_:
 
