@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2008-12-25
+Version Consolidée au 2008-12-29
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -7497,8 +7497,8 @@ _Codifié par_:
 
 ###### Article L2312-3
 
-Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au programme intitulé
-"Coordination du travail gouvernemental".
+Les crédits nécessaires à la commission pour l'accomplissement de sa mission sont inscrits au       programme de la mission
+"Direction de l'action du Gouvernement" relatif à la protection des droits et des libertés fondamentales . 
 
 Le président est ordonnateur des dépenses de la commission. Il nomme les agents de la commission.
 
@@ -7508,14 +7508,13 @@ _Anciens textes_:
 
   - Loi n°98-567 du 8 juillet 1998 - art. 3 (Ab)
 
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
-
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 135 () JORF 31 décembre 2005
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 152
+
+_Abrogé par_:
+
+  - Loi n°2017-55 du 20 janvier 2017 - art. 36
 
 
 ###### Article L2312-4
