@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -16850,10 +16850,10 @@ _Cité par_:
 ###### Article L4132-12
 
 Peuvent demander à servir afin de recevoir une formation professionnelle les Français et les Françaises nés ou ayant leur
-résidence habituelle dans les départements d'outre-mer, à Mayotte, à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, dans les
-Terres australes et antarctiques françaises, en Polynésie française et en Nouvelle-Calédonie. Ils servent alors en tant que
-volontaires stagiaires du service militaire adapté dans les mêmes grades que ceux mentionnés au dernier alinéa de l'article
-L. 4132-11. 
+résidence habituelle dans les départements d'outre-mer, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-
+Miquelon, à Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Polynésie française et en Nouvelle-
+Calédonie. Ils servent alors en tant que volontaires stagiaires du service militaire adapté dans les mêmes grades que ceux
+mentionnés au dernier alinéa de l'article L. 4132-11. 
 
 La formation peut inclure la participation des stagiaires à des chantiers d'application, qui sont mis en oeuvre par les
 formations du service militaire adapté à la demande de l'Etat, des collectivités territoriales d'outre-mer, de leurs
@@ -16873,6 +16873,10 @@ _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2009-536 du 14 mai 2009 - art. 21
+
 _Cité par_:
 
   - Loi n°2015-917 du 28 juillet 2015 - art. 22 (VT)
@@ -16887,7 +16891,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. L4132-11 (V)
+  - Code de la défense. - art. L4132-11
 
 
 ##### Chapitre III : Changement d'armée ou de corps<a id=251></a>
