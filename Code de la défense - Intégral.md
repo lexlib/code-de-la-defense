@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-07-08
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -912,8 +912,8 @@ Version Consolidée au 2009-06-09
               - [Sous-section 1 : Dispositions générales (art. R4139-46 à R4139-49)](#909)
               - [Sous-section 2 : Lien au service (art. R4139-50 à R4139-52)](#910)
               - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#911)
-        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-6)](#912)
-          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-6)](#913)
+        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#912)
+          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#913)
         - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-11)](#914)
           - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#915)
             - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#916)
@@ -73875,6 +73875,28 @@ _Cite_:
 
   - Code de la défense. - art. L4141-3 (V)
   - Code de la défense. - art. R4141-4 (V)
+
+
+###### Article R4141-7
+
+A titre exceptionnel, un officier général peut être replacé de la deuxième section en première section, par décret du
+Président de la République, pour exercer des fonctions d'encadrement comportant de hautes responsabilités par dérogation à
+l'âge fixé par le 1° de l'article R. 4141-3 et dans la limite d'une durée maximale de quatre ans au-delà de cet âge. 
+
+Le décret fixe la durée des fonctions auxquelles il peut être mis fin à tout moment.
+
+A l'expiration des fonctions en première section, l'officier général est réadmis en deuxième section ou radié des cadres sur
+sa demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-831 du 6 juillet 2009 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. R4141-3
 
 
 #### TITRE V : FORMATION DES MILITAIRES<a id=914></a>
