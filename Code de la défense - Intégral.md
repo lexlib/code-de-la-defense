@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-08-07
+Version Consolidée au 2009-08-27
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -50278,21 +50278,28 @@ dans lesquels sont assurés des services de la circulation aérienne.
 En cas d'absence ou d'empêchement du directeur de la circulation aérienne militaire, cette délégation de signature peut être
 accordée au directeur adjoint de la circulation aérienne militaire.
 
+En cas d'absence ou d'empêchement du directeur de la circulation aérienne militaire et du directeur adjoint de la circulation
+aérienne militaire, cette délégation peut être accordée à l'officier chargé de l'espace aérien.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°96-319 du 10 avril 1996 (V)
-  - Code de la défense. - art. D3224-14 (V)
-  - Code de l'aviation civile - art. D131-1 (V)
-
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°96-319 du 10 avril 1996
+  - Code de la défense. - art. D3224-14
+  - Code de l'aviation civile - art. D131-1
 
 _Cité par_:
 
   - Décret n°2009-1006 du 24 août 2009 (V)
+
+_Modifié par_:
+
+  - Décret n°2009-1006 du 24 août 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2013-366 du 29 avril 2013 - art. 11
 
 
 ###### Article D3224-18
@@ -59640,13 +59647,15 @@ _Créé par_:
 
 I. ― Le conseil d'administration de l'établissement comprend, outre son président, treize membres :
 
-1° Douze membres représentant l'Etat, dont :
+1° Douze membres représentant l'Etat dont : 
 
-a) Neuf membres au titre du ministère de la défense ;
+a) Neuf membres au titre du ministère de la défense ; 
 
-b) Deux membres au titre du ministère chargé de l'économie et des finances ;
+b) Un membre au titre du ministère chargé de l'économie ; 
 
-c) Un membre au titre du ministère chargé de l'aviation civile.
+c) Un membre au titre du ministère chargé du budget ; 
+
+d) Un membre au titre du ministère chargé de l'aviation civile. 
 
 Ces membres sont nommés par arrêté du ministre concerné. La durée de leur mandat est de trois ans renouvelable une fois.
 
@@ -59661,9 +59670,9 @@ mandat.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2009-1002 du 24 août 2009 - art. 1
 
 _Cité par_:
 
@@ -59919,15 +59928,17 @@ A ce titre, il exerce les compétences suivantes :
 
 9° L'élaboration du règlement intérieur du conseil d'administration.
 
+Le directeur peut déléguer sa signature pour accomplir en son nom des actes relatifs à certaines de ses attributions.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2009-1002 du 24 août 2009 - art. 2
 
 _Cite_:
 
-  - Code de la défense. - art. R3417-21 (V)
+  - Code de la défense. - art. R3417-21
 
 
 ###### Article R3417-20
