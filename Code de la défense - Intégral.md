@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-10-12
+Version Consolidée au 2009-10-29
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -941,29 +941,30 @@ Version Consolidée au 2009-10-12
             - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10)](#938)
             - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#939)
             - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#940)
-            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#941)
-            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#942)
-        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#943)
-          - [Chapitre unique (art. R4231-1 à R4231-5)](#944)
-        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#945)
-          - [Chapitre unique (art. R4241-1 à R4241-3)](#946)
-        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#947)
-          - [Chapitre unique (art. D4261-1 à D4261-25)](#948)
-            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#949)
-            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#950)
-            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#951)
-      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#952)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#953)
-          - [Chapitre unique (art. D4341-4 à R4341-3)](#954)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#955)
-          - [Chapitre unique (art. D4351-4 à R4351-3)](#956)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#957)
-          - [Chapitre unique (art. D4361-4 à R4361-3)](#958)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#959)
-          - [Chapitre unique (art. D4371-3 à R4371-2)](#960)
-        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#961)
-          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#962)
-          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#963)
+            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#941)
+            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#942)
+            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#943)
+        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#944)
+          - [Chapitre unique (art. R4231-1 à R4231-5)](#945)
+        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#946)
+          - [Chapitre unique (art. R4241-1 à R4241-3)](#947)
+        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#948)
+          - [Chapitre unique (art. D4261-1 à D4261-25)](#949)
+            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#950)
+            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#951)
+            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#952)
+      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#953)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#954)
+          - [Chapitre unique (art. D4341-4 à R4341-3)](#955)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#956)
+          - [Chapitre unique (art. D4351-4 à R4351-3)](#957)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#958)
+          - [Chapitre unique (art. D4361-4 à R4361-3)](#959)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#960)
+          - [Chapitre unique (art. D4371-3 à R4371-2)](#961)
+        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#962)
+          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#963)
+          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#964)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -74385,7 +74386,73 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=941></a>
+##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=941></a>
+
+###### Article R4221-17-1
+
+L'admission à servir d'un réserviste dans les conditions prévues par le dernier alinéa de l'article L. 4221-1 est subordonnée
+à la signature d'une convention entre le ministre de la défense et les autorités compétentes de l'Etat, de l'établissement
+public ou de l'organisation internationale concernés. Cette convention est conclue pour une durée maximale de trois ans
+renouvelable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L4221-1
+
+_Cité par_:
+
+  - Code de la défense. - art. R4221-17-2 (V)
+
+
+###### Article R4221-17-2
+
+La convention mentionnée à l'article R. 4221-17-1 précise notamment : 
+
+1° Les objectifs poursuivis par l'emploi de chaque réserviste ; 
+
+2° Le nombre maximum de réservistes, leur mission ainsi que la nature, le niveau et la durée des activités qu'ils exercent ; 
+
+3° Les modalités de leur admission et leurs conditions d'emploi ; 
+
+4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout frais exposé au titre des fonctions exercées
+par les réservistes intéressés sont remboursés au ministère de la défense ; 
+
+5° Les modalités du contrôle et de l'évaluation desdites activités ; 
+
+6° Les modalités de retour du réserviste dans son armée ou dans sa formation rattachée lorsque celui-ci intervient avant le
+terme initialement prévu par l'arrêté mentionné au dernier alinéa de l'article L. 4221-1 du code de la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L4221-1 (V)
+  - Code de la défense. - art. R4221-17-1
+
+
+###### Article R4221-17-3
+
+Le réserviste admis à servir auprès d'une administration de l'Etat, d'un établissement public ou d'une organisation
+internationale reste soldé par le ministère de la défense, à l'exclusion de toute autre rémunération.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2009-1304 du 26 octobre 2009 - art. 1
+
+
+##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=942></a>
 
 ###### Article R4221-18
 
@@ -74438,7 +74505,7 @@ _Cite_:
   - Code de la défense. - art. R4211-10 (V)
 
 
-##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=942></a>
+##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=943></a>
 
 ###### Article R4221-20
 
@@ -74554,26 +74621,28 @@ _Créé par_:
 
 ###### Article R4221-25
 
-Pour l'avancement d'échelon à un grade déterminé, il n'est tenu compte que de la durée des services militaires et du temps
-passé dans le dernier échelon détenu.
+Pour l'avancement d'échelon à un grade déterminé, il n'est tenu compte que de la durée des services militaires. 
 
-Pour la détermination de l'ancienneté dans l'échelon :
+Pour la détermination de l'ancienneté de service exigée : 
 
 1° Toute durée d'activité supérieure ou égale à trente jours accomplie durant douze mois consécutifs équivaut à un an de
-services militaires comptabilisé depuis la date anniversaire du passage au dernier échelon détenu ;
+services militaires comptabilisé, selon les règles d'avancement applicables, depuis la date anniversaire du passage au grade
+détenu ou depuis la date anniversaire du passage au dernier échelon détenu ou depuis la date anniversaire du premier
+engagement militaire ; 
 
 2° Toute durée d'activité inférieure à trente jours accomplie durant douze mois consécutifs, ajoutée à celles réalisées dans
 les douze mois ou vingt-quatre mois suivants, équivaut, à concurrence de trente jours cumulés, à un an de services militaires
-comptabilisé depuis la date anniversaire du passage au dernier échelon détenu.
+comptabilisé, selon les règles d'avancement applicables, depuis la date anniversaire du passage au grade détenu ou depuis la
+date anniversaire du passage au dernier échelon détenu ou depuis la date anniversaire du premier engagement militaire. 
 
 La durée des services militaires correspond à celle des périodes d'activités pour lesquelles ils ont été convoqués en vertu
 d'un contrat d'engagement ou au titre de la disponibilité.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2009-1304 du 26 octobre 2009 - art. 2
 
 
 ###### Article R4221-26
@@ -74645,9 +74714,9 @@ _Cite_:
   - Code de la défense. - art. R4221-22 (V)
 
 
-#### TITRE III : DISPONIBILITÉ<a id=943></a>
+#### TITRE III : DISPONIBILITÉ<a id=944></a>
 
-##### Chapitre unique<a id=944></a>
+##### Chapitre unique<a id=945></a>
 
 ###### Article R4231-1
 
@@ -74722,9 +74791,9 @@ _Cite_:
   - Code de la défense. - art. L4231-4 (V)
 
 
-#### TITRE IV : RÉSERVE CITOYENNE<a id=945></a>
+#### TITRE IV : RÉSERVE CITOYENNE<a id=946></a>
 
-##### Chapitre unique<a id=946></a>
+##### Chapitre unique<a id=947></a>
 
 ###### Article R4241-1
 
@@ -74790,11 +74859,11 @@ _Cité par_:
   - Arrêté du 12 septembre 2017 - art. 1
 
 
-#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=947></a>
+#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=948></a>
 
-##### Chapitre unique<a id=948></a>
+##### Chapitre unique<a id=949></a>
 
-##### Section 1 : Mission<a id=949></a>
+##### Section 1 : Mission<a id=950></a>
 
 ###### Article D4261-1
 
@@ -74846,7 +74915,7 @@ _Cité par_:
   - Code de la défense. - art. D4261-8 (V)
 
 
-##### Section 2 : Composition et organisation<a id=950></a>
+##### Section 2 : Composition et organisation<a id=951></a>
 
 ###### Article D4261-3
 
@@ -75105,7 +75174,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Fonctionnement<a id=951></a>
+##### Section 3 : Fonctionnement<a id=952></a>
 
 ###### Article D4261-13
 
@@ -75326,11 +75395,11 @@ _Abrogé par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=952></a>
+### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=953></a>
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=953></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=954></a>
 
-##### Chapitre unique<a id=954></a>
+##### Chapitre unique<a id=955></a>
 
 ###### Article D4341-4
 
@@ -75425,9 +75494,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=955></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=956></a>
 
-##### Chapitre unique<a id=956></a>
+##### Chapitre unique<a id=957></a>
 
 ###### Article D4351-4
 
@@ -75522,9 +75591,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=957></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=958></a>
 
-##### Chapitre unique<a id=958></a>
+##### Chapitre unique<a id=959></a>
 
 ###### Article D4361-4
 
@@ -75619,9 +75688,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=959></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=960></a>
 
-##### Chapitre unique<a id=960></a>
+##### Chapitre unique<a id=961></a>
 
 ###### Article D4371-3
 
@@ -75690,9 +75759,9 @@ _Cite_:
   - Code de la défense. - art. R4139-23 (V)
 
 
-#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=961></a>
+#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=962></a>
 
-##### Chapitre Ier : Saint-Barthélemy<a id=962></a>
+##### Chapitre Ier : Saint-Barthélemy<a id=963></a>
 
 ###### Article D4381-4
 
@@ -75784,7 +75853,7 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-##### Chapitre II : Saint-Martin<a id=963></a>
+##### Chapitre II : Saint-Martin<a id=964></a>
 
 ###### Article D4382-4
 
