@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-11-26
+Version Consolidée au 2009-12-27
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -71980,7 +71980,8 @@ _Cite_:
 ###### Article R*4122-22
 
 Un rapporteur général, membre du corps du contrôle général des armées, et des rapporteurs, choisis parmi les officiers et les
-fonctionnaires de catégorie A, en activité ou en retraite, sont nommés par arrêté du ministre de la défense. 
+fonctionnaires de catégorie A, en activité ou à la retraite, sont nommés par arrêté conjoint du ministre de la défense et du
+ministre de l'intérieur. 
 
 Le secrétariat de la commission est assuré par la direction des ressources humaines du ministère de la défense.
 
@@ -71990,11 +71991,17 @@ Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
 déontologie des militaires).
 
+Conformément à l'article 1 du décret n° 2014-596 du 6 juin 2014, la Commission de déontologie des militaires est renouvelée
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
+
+Conformément à l'annexe 1 du décret n° 2015-625 du 5 juin 2015, la Commission de déontologie des militaires est renouvelée
+pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: Décret n°2008-999 du 24 septembre 2008 - art. 1
+  - Décret n°2009-1634 du 24 décembre 2009 - art. 10
 
 _Cité par_:
 
