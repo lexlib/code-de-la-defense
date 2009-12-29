@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2009-12-27
+Version Consolidée au 2009-12-30
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -22424,12 +22424,8 @@ _Cité par_:
 
 ###### Article D1132-5
 
-Le secrétaire général de la défense nationale assure le secrétariat du comité interministériel du renseignement.
-
-En exécution des plans, orientations et décisions arrêtés en conseil de défense ou en comité interministériel du
-renseignement, le secrétaire général de la défense nationale notifie les objectifs en matière de renseignements. Il anime la
-recherche du renseignement dans les domaines intéressant la défense et il en assure l'exploitation au profit du Gouvernement
-et des organismes concernés.
+Le secrétaire général de la défense et de la sécurité nationale peut signer, au nom du Premier ministre et par délégation,
+l'ensemble des actes, à l'exception des décrets, relatifs aux affaires mentionnées à la présente section.
 
 **Liens relatifs à cet article**
 
@@ -22437,9 +22433,9 @@ _Anciens textes_:
 
   - Décret n°78-78 du 25 janvier 1978 - art. 4 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 _Cité par_:
 
@@ -22448,8 +22444,9 @@ _Cité par_:
 
 ###### Article D1132-6
 
-Le comité d'action scientifique de la défense est rattaché au secrétaire général de la défense nationale, qui en anime les
-travaux et en assure l'exploitation.
+Par délégation du Premier ministre, le secrétaire général de la défense et de la sécurité nationale assure la tutelle de
+l'Institut des hautes études de défense nationale et de l'Institut national des hautes études de la sécurité et de la
+justice.
 
 **Liens relatifs à cet article**
 
@@ -22457,9 +22454,9 @@ _Anciens textes_:
 
   - Décret n°78-78 du 25 janvier 1978 - art. 5 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
 
 
 ###### Article D1132-7
