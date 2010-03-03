@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-02-06
+Version Consolidée au 2010-03-04
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -18254,7 +18254,7 @@ b) De congés pour maternité, paternité ou adoption ;
 
 c) De permissions ou de congés de fin de campagne ; 
 
-d) De congés d'accompagnement d'une personne en fin de vie ; 
+d) De congés de solidarité familiale ; 
 
 e) D'un congé de reconversion ; 
 
@@ -18268,7 +18268,7 @@ dans le respect des dispositions prévues à l'article L. 4122-2. Les conditions
 par décret en Conseil d'Etat. 
 
 Le militaire dans l'une des situations de la position d'activité conserve sa rémunération, à l'exception de celui placé en
-congé d'accompagnement d'une personne en fin de vie ou en congé de présence parentale.
+congé de solidarité familiale ou en congé de présence parentale.
 
 A l'exception du congé de présence parentale, la durée de chacune des situations de la position d'activité est assimilée à
 une période de service effectif. 
@@ -18420,7 +18420,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2008-493 du 26 mai 2008 - art. 3
+  - Loi n°2010-209 du 2 mars 2010 - art. 6
 
 _Cite_:
 
@@ -18509,10 +18509,14 @@ _Cité par_:
 
 ###### Article L4138-6
 
-Les congés d'accompagnement d'une personne en fin de vie sont attribués au militaire lorsqu'un ascendant, un descendant ou
-une personne partageant son domicile fait l'objet de soins palliatifs. Chacun de ces congés est accordé pour une durée
-maximale de trois mois, sur demande écrite du militaire. Il prend fin soit à l'expiration de la période de trois mois, soit
-dans les trois jours qui suivent le décès de la personne accompagnée, soit, à la demande du militaire, à une date antérieure.
+Les congés de solidarité familiale sont attribués au militaire lorsqu'un ascendant, un descendant, un frère, une sœur, une
+personne partageant le même domicile ou l'ayant désigné comme sa personne de confiance au sens de l'article L. 1111-6 du code
+de la santé publique souffre d'une pathologie mettant en jeu le pronostic vital ou est en phase avancée ou terminale d'une
+affection grave et incurable, quelle qu'en soit la cause. Chacun de ces congés est accordé, sur demande écrite du militaire,
+pour une durée maximale de trois mois, renouvelable une fois. Il peut être fractionné dans des conditions fixées par décret.
+Il prend fin soit à l'expiration de la période de trois mois, soit dans les trois jours qui suivent le décès de la personne
+accompagnée, soit, à la demande du militaire, à une date antérieure. Il peut être transformé en période d'activité à temps
+partiel dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -18524,6 +18528,13 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Loi n°2010-209 du 2 mars 2010 - art. 3
+  - Loi n°2010-209 du 2 mars 2010 - art. 4
+  - Loi n°2010-209 du 2 mars 2010 - art. 5
+  - Loi n°2010-209 du 2 mars 2010 - art. 6
 
 _Cité par_:
 
@@ -18540,6 +18551,10 @@ _Cité par_:
   - Code de la défense. - art. R4138-27 (V)
   - Code de la sécurité sociale. - art. L161-9-3 (V)
   - Code de la sécurité sociale. - art. L168-1 (V)
+
+_Cite_:
+
+  - Code de la santé publique - art. L1111-6
 
 
 ###### Article L4138-7
