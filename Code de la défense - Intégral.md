@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-03-17
+Version Consolidée au 2010-03-26
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -909,122 +909,123 @@ Version Consolidée au 2010-03-17
             - [Section 1 : Dispositions générales (art. R4135-1 à R4135-7)](#906)
             - [Section 2 : Dispositions relatives aux mutations (art. R4135-8)](#907)
           - [Chapitre VI : Avancement (art. R4136-1)](#908)
-          - [Chapitre VII : Discipline (art. D4137-1 à D4137-142)](#909)
-            - [Section 1 : Dispositions générales (art. D4137-1 à D4137-3)](#910)
-              - [Sous-section 1 : Discipline militaire (art. D4137-1)](#911)
-              - [Sous-section 2 : Tenue (art. D4137-2 à D4137-3)](#912)
-            - [Section 2 : Récompenses (art. D4137-4 à D4137-8)](#913)
-            - [Section 3 : Sanctions disciplinaires (art. R4137-9 à R4137-46)](#914)
-              - [Sous-section 1 : Principes (art. R4137-9 à R4137-24)](#915)
-              - [Sous-section 2 : Sanctions disciplinaires du premier groupe (art. R4137-25 à R4137-33)](#916)
-              - [Sous-section 3 : Sanctions disciplinaires du deuxième groupe (art. R4137-34 à R4137-40)](#917)
-              - [Sous-section 4 : Sanctions disciplinaires du troisième groupe (art. R4137-41 à R4137-44)](#918)
-              - [Sous-section 5 : Suspension de fonctions (art. R4137-45 à R4137-46)](#919)
-            - [Section 4 : Conseil de discipline (art. R4137-47 à R4137-65)](#920)
-              - [Sous-section 1 : Dispositions générales (art. R4137-47)](#921)
-              - [Sous-section 2 : Composition du conseil de discipline (art. R4137-48 à R4137-52)](#922)
-              - [Sous-section 3 : Constitution du conseil de discipline (art. R4137-53 à R4137-56)](#923)
-              - [Sous-section 4 : Fonctionnement du conseil de discipline (art. R4137-57 à R4137-65)](#924)
-            - [Section 5 : Conseil d'enquête (art. R4137-66 à R4137-92)](#925)
-              - [Sous-section 1 : Dispositions générales (art. R4137-66)](#926)
-              - [Sous-section 2 : Composition du conseil d'enquête (art. R4137-67 à R4137-71)](#927)
-              - [Sous-section 3 : Constitution du conseil d'enquête (art. R4137-72 à R4137-76)](#928)
-              - [Sous-section 4 : Fonctionnement du conseil d'enquête (art. R4137-77 à R4137-92)](#929)
-            - [Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement (art. R4137-93 à R4137-113)](#930)
-              - [Sous-section 1 : Dispositions générales (art. R4137-93)](#931)
-              - [Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-94 à R4137-95)](#932)
-              - [Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-96 à R4137-100)](#933)
-              - [Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-101 à R4137-113)](#934)
-            - [Section 7 : Sanctions professionnelles applicables aux militaires (art. R4137-114 à R4137-133)](#935)
-              - [Sous-section 1 : Principes (art. R4137-114 à R4137-120)](#936)
-              - [Sous-section 2 : Conseil d'examen des faits professionnels (art. R4137-121 à R4137-132)](#937)
-              - [Sous-section 3 : Dispositions diverses (art. R4137-133)](#938)
-            - [Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables (art. R4137-134 à R4137-141)](#939)
-            - [Section 9 : Dispositions finales (art. D4137-142)](#940)
-          - [Chapitre VIII : Positions statutaires (art. R4138-1 à R4138-76)](#941)
-            - [Section 1 : Activité (art. R4138-1 à R4138-33)](#942)
-              - [Sous-section 1 : Congé de maladie (art. R4138-3)](#943)
-              - [Sous-section 2 : Congé de maternité (art. R4138-4)](#944)
-              - [Sous-section 3 : Congé de paternité (art. R4138-5)](#945)
-              - [Sous-section 4 : Congé d'adoption (art. R4138-6)](#946)
-              - [Sous-section 5 : Congé de présence parentale (art. R4138-7 à R4138-15)](#947)
-              - [Sous-section 6 : Permissions et congé de fin de campagne (art. R4138-16 à R4138-27)](#948)
-              - [Sous-section 7 : Congé de reconversion (art. R4138-28 à R4138-29)](#949)
-              - [Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées (art. R4138-30 à R4138-33)](#950)
-            - [Section 2 : Détachement (art. R4138-34 à R4138-44)](#951)
-            - [Section 3 : Hors cadres (art. R4138-45 à R4138-46)](#952)
-            - [Section 4 : Non-activité (art. R4138-47 à R4138-73)](#953)
-              - [Sous-section 1 : Congé de longue durée pour maladie (art. R4138-47 à R4138-57)](#954)
-              - [Sous-section 2 : Congé de longue maladie (art. R4138-58)](#955)
-              - [Sous-section 3 : Congé parental (art. R4138-59 à R4138-63)](#956)
-              - [Sous-section 4 : Retrait d'emploi (art. R4138-64)](#957)
-              - [Sous-section 5 : Congé pour convenances personnelles (art. R4138-65 à R4138-66)](#958)
-              - [Sous-section 6 : Disponibilité (art. R4138-67)](#959)
-              - [Sous-section 7 : Congé complémentaire de reconversion (art. R4138-68 à R4138-70)](#960)
-              - [Sous-section 8 : Congé du personnel navigant (art. R4138-71 à R4138-73)](#961)
-                - [Paragraphe 1 : Dispositions générales (art. R4138-71 à R4138-72)](#962)
-                - [Paragraphe 2 : Dispositions applicables aux militaires de carrière (art. R4138-73)](#963)
-            - [Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires (art. R4138-74 à R4138-76)](#964)
-          - [Chapitre IX : Fin de l'état militaire (art. R4139-1 à R4139-61)](#965)
-            - [Section 1 :  Dispositifs d'accès à la fonction publique civile (art. R4139-1 à R4139-40)](#966)
-              - [Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature (art. R4139-1 à R4139-9)](#967)
-              - [Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques (art. D4139-10 à D4139-13)](#968)
-              - [Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat (art. R*4139-14 à R*4139-22)](#969)
-              - [Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale (art. R4139-23 à R4139-31)](#970)
-              - [Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière (art. R4139-32 à R4139-40)](#971)
-            - [Section 2 : Dispositifs d'aide au départ (art. R4139-41 à R4139-45)](#972)
-              - [Sous-section unique : Dispositions applicables aux militaires de carrière (art. R4139-41 à R4139-45)](#973)
-            - [Section 3 : Radiation des cadres ou des contrôles (art. R4139-46 à R4139-61)](#974)
-              - [Sous-section 1 : Dispositions générales (art. R4139-46 à R4139-49)](#975)
-              - [Sous-section 2 : Lien au service (art. R4139-50 à R4139-52)](#976)
-              - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#977)
-        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#978)
-          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#979)
-        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-11)](#980)
-          - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#981)
-            - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#982)
-            - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#983)
-            - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#984)
-          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-11)](#985)
-            - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#986)
-            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-11)](#987)
-      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-25)](#988)
-        - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#989)
-          - [Chapitre unique (art. R4211-1 à R4211-12)](#990)
-            - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#991)
-            - [Section 2 : Dispositions relatives à l'honorariat (art. R4211-6 à R4211-9)](#992)
-            - [Section 3 : Radiation de la réserve (art. R4211-10 à R4211-12)](#993)
-        - [TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE (art. R4221-1 à R4221-28)](#994)
-          - [Chapitre unique (art. R4221-1 à R4221-28)](#995)
-            - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle (art. R4221-1 à R4221-5)](#996)
-            - [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an (art. D4221-6 à D4221-8)](#997)
-            - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10)](#998)
-            - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#999)
-            - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#1000)
-            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#1001)
-            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#1002)
-            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#1003)
-        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#1004)
-          - [Chapitre unique (art. R4231-1 à R4231-5)](#1005)
-        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1006)
-          - [Chapitre unique (art. R4241-1 à R4241-3)](#1007)
-        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#1008)
-          - [Chapitre unique (art. D4261-1 à D4261-25)](#1009)
-            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#1010)
-            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#1011)
-            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#1012)
-      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1013)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1014)
-          - [Chapitre unique (art. D4341-4 à R4341-3)](#1015)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1016)
-          - [Chapitre unique (art. D4351-4 à R4351-3)](#1017)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1018)
-          - [Chapitre unique (art. D4361-4 à R4361-3)](#1019)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1020)
-          - [Chapitre unique (art. D4371-3 à R4371-2)](#1021)
-        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1022)
-          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1023)
-          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1024)
+          - [Chapitre VI-1 : Orientation professionnelle (art. D4136-1-1)](#909)
+          - [Chapitre VII : Discipline (art. D4137-1 à D4137-142)](#910)
+            - [Section 1 : Dispositions générales (art. D4137-1 à D4137-3)](#911)
+              - [Sous-section 1 : Discipline militaire (art. D4137-1)](#912)
+              - [Sous-section 2 : Tenue (art. D4137-2 à D4137-3)](#913)
+            - [Section 2 : Récompenses (art. D4137-4 à D4137-8)](#914)
+            - [Section 3 : Sanctions disciplinaires (art. R4137-9 à R4137-46)](#915)
+              - [Sous-section 1 : Principes (art. R4137-9 à R4137-24)](#916)
+              - [Sous-section 2 : Sanctions disciplinaires du premier groupe (art. R4137-25 à R4137-33)](#917)
+              - [Sous-section 3 : Sanctions disciplinaires du deuxième groupe (art. R4137-34 à R4137-40)](#918)
+              - [Sous-section 4 : Sanctions disciplinaires du troisième groupe (art. R4137-41 à R4137-44)](#919)
+              - [Sous-section 5 : Suspension de fonctions (art. R4137-45 à R4137-46)](#920)
+            - [Section 4 : Conseil de discipline (art. R4137-47 à R4137-65)](#921)
+              - [Sous-section 1 : Dispositions générales (art. R4137-47)](#922)
+              - [Sous-section 2 : Composition du conseil de discipline (art. R4137-48 à R4137-52)](#923)
+              - [Sous-section 3 : Constitution du conseil de discipline (art. R4137-53 à R4137-56)](#924)
+              - [Sous-section 4 : Fonctionnement du conseil de discipline (art. R4137-57 à R4137-65)](#925)
+            - [Section 5 : Conseil d'enquête (art. R4137-66 à R4137-92)](#926)
+              - [Sous-section 1 : Dispositions générales (art. R4137-66)](#927)
+              - [Sous-section 2 : Composition du conseil d'enquête (art. R4137-67 à R4137-71)](#928)
+              - [Sous-section 3 : Constitution du conseil d'enquête (art. R4137-72 à R4137-76)](#929)
+              - [Sous-section 4 : Fonctionnement du conseil d'enquête (art. R4137-77 à R4137-92)](#930)
+            - [Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement (art. R4137-93 à R4137-113)](#931)
+              - [Sous-section 1 : Dispositions générales (art. R4137-93)](#932)
+              - [Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-94 à R4137-95)](#933)
+              - [Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-96 à R4137-100)](#934)
+              - [Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-101 à R4137-113)](#935)
+            - [Section 7 : Sanctions professionnelles applicables aux militaires (art. R4137-114 à R4137-133)](#936)
+              - [Sous-section 1 : Principes (art. R4137-114 à R4137-120)](#937)
+              - [Sous-section 2 : Conseil d'examen des faits professionnels (art. R4137-121 à R4137-132)](#938)
+              - [Sous-section 3 : Dispositions diverses (art. R4137-133)](#939)
+            - [Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables (art. R4137-134 à R4137-141)](#940)
+            - [Section 9 : Dispositions finales (art. D4137-142)](#941)
+          - [Chapitre VIII : Positions statutaires (art. R4138-1 à R4138-76)](#942)
+            - [Section 1 : Activité (art. R4138-1 à R4138-33)](#943)
+              - [Sous-section 1 : Congé de maladie (art. R4138-3)](#944)
+              - [Sous-section 2 : Congé de maternité (art. R4138-4)](#945)
+              - [Sous-section 3 : Congé de paternité (art. R4138-5)](#946)
+              - [Sous-section 4 : Congé d'adoption (art. R4138-6)](#947)
+              - [Sous-section 5 : Congé de présence parentale (art. R4138-7 à R4138-15)](#948)
+              - [Sous-section 6 : Permissions et congé de fin de campagne (art. R4138-16 à R4138-27)](#949)
+              - [Sous-section 7 : Congé de reconversion (art. R4138-28 à R4138-29)](#950)
+              - [Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées (art. R4138-30 à R4138-33)](#951)
+            - [Section 2 : Détachement (art. R4138-34 à R4138-44)](#952)
+            - [Section 3 : Hors cadres (art. R4138-45 à R4138-46)](#953)
+            - [Section 4 : Non-activité (art. R4138-47 à R4138-73)](#954)
+              - [Sous-section 1 : Congé de longue durée pour maladie (art. R4138-47 à R4138-57)](#955)
+              - [Sous-section 2 : Congé de longue maladie (art. R4138-58)](#956)
+              - [Sous-section 3 : Congé parental (art. R4138-59 à R4138-63)](#957)
+              - [Sous-section 4 : Retrait d'emploi (art. R4138-64)](#958)
+              - [Sous-section 5 : Congé pour convenances personnelles (art. R4138-65 à R4138-66)](#959)
+              - [Sous-section 6 : Disponibilité (art. R4138-67)](#960)
+              - [Sous-section 7 : Congé complémentaire de reconversion (art. R4138-68 à R4138-70)](#961)
+              - [Sous-section 8 : Congé du personnel navigant (art. R4138-71 à R4138-73)](#962)
+                - [Paragraphe 1 : Dispositions générales (art. R4138-71 à R4138-72)](#963)
+                - [Paragraphe 2 : Dispositions applicables aux militaires de carrière (art. R4138-73)](#964)
+            - [Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires (art. R4138-74 à R4138-76)](#965)
+          - [Chapitre IX : Fin de l'état militaire (art. R4139-1 à R4139-61)](#966)
+            - [Section 1 :  Dispositifs d'accès à la fonction publique civile (art. R4139-1 à R4139-40)](#967)
+              - [Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature (art. R4139-1 à R4139-9)](#968)
+              - [Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques (art. D4139-10 à D4139-13)](#969)
+              - [Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat (art. R*4139-14 à R*4139-22)](#970)
+              - [Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale (art. R4139-23 à R4139-31)](#971)
+              - [Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière (art. R4139-32 à R4139-40)](#972)
+            - [Section 2 : Dispositifs d'aide au départ (art. R4139-41 à R4139-45)](#973)
+              - [Sous-section unique : Dispositions applicables aux militaires de carrière (art. R4139-41 à R4139-45)](#974)
+            - [Section 3 : Radiation des cadres ou des contrôles (art. R4139-46 à R4139-61)](#975)
+              - [Sous-section 1 : Dispositions générales (art. R4139-46 à R4139-49)](#976)
+              - [Sous-section 2 : Lien au service (art. R4139-50 à R4139-52)](#977)
+              - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#978)
+        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#979)
+          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#980)
+        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-11)](#981)
+          - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#982)
+            - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#983)
+            - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#984)
+            - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#985)
+          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-11)](#986)
+            - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#987)
+            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-11)](#988)
+      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-25)](#989)
+        - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#990)
+          - [Chapitre unique (art. R4211-1 à R4211-12)](#991)
+            - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#992)
+            - [Section 2 : Dispositions relatives à l'honorariat (art. R4211-6 à R4211-9)](#993)
+            - [Section 3 : Radiation de la réserve (art. R4211-10 à R4211-12)](#994)
+        - [TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE (art. R4221-1 à R4221-28)](#995)
+          - [Chapitre unique (art. R4221-1 à R4221-28)](#996)
+            - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle (art. R4221-1 à R4221-5)](#997)
+            - [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an (art. D4221-6 à D4221-8)](#998)
+            - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10)](#999)
+            - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#1000)
+            - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#1001)
+            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#1002)
+            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#1003)
+            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#1004)
+        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#1005)
+          - [Chapitre unique (art. R4231-1 à R4231-5)](#1006)
+        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1007)
+          - [Chapitre unique (art. R4241-1 à R4241-3)](#1008)
+        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#1009)
+          - [Chapitre unique (art. D4261-1 à D4261-25)](#1010)
+            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#1011)
+            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#1012)
+            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#1013)
+      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1014)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1015)
+          - [Chapitre unique (art. D4341-4 à R4341-3)](#1016)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1017)
+          - [Chapitre unique (art. D4351-4 à R4351-3)](#1018)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1019)
+          - [Chapitre unique (art. D4361-4 à R4361-3)](#1020)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1021)
+          - [Chapitre unique (art. D4371-3 à R4371-2)](#1022)
+        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1023)
+          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1024)
+          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1025)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -75461,11 +75462,53 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Chapitre VII : Discipline<a id=909></a>
+##### Chapitre VI-1 : Orientation professionnelle<a id=909></a>
 
-##### Section 1 : Dispositions générales<a id=910></a>
+###### Article D4136-1-1
 
-##### Sous-section 1 : Discipline militaire<a id=911></a>
+I. - Le militaire ayant accompli au moins quatre années de service bénéficie, pendant la cinquième année de service, d'un
+bilan professionnel de carrière réalisé par le gestionnaire. Les années de scolarité ne sont pas prises en compte dans le
+calcul des années de service pour l'application de la présente disposition. 
+
+Ce bilan porte notamment sur les compétences et qualifications acquises par le militaire pendant la période considérée, sur
+son expérience professionnelle et sa manière de servir. Le bilan prend également en compte les aspirations professionnelles
+et personnelles du militaire. 
+
+Le militaire peut faire état de ses aspirations soit par écrit, soit à l'occasion d'un entretien avec son gestionnaire. 
+
+II. - Le bilan professionnel de carrière du militaire est notifié au militaire dans les deux mois suivant son élaboration. Il
+peut proposer de maintenir le militaire dans son armée et, le cas échéant, dans son arme et sa spécialité. Il peut également
+proposer d'orienter le militaire vers une autre armée ou, le cas échéant, vers une autre spécialité de l'arme ou une autre
+arme. Le bilan peut enfin proposer d'orienter le militaire vers les dispositifs de reconversion professionnelle. 
+
+Dans les cas où le bilan propose une réorientation professionnelle, au sein ou à l'extérieur des armées et formations
+rattachées, le rapport est obligatoirement notifié à l'occasion d'un entretien organisé à cet effet avec le militaire. 
+
+III. - Le militaire fait ensuite l'objet d'un bilan professionnel de carrière tous les quatre ans, dans les mêmes conditions
+et selon les mêmes modalités.
+
+A titre exceptionnel, sur décision motivée de l'autorité gestionnaire ou sur demande agréée du militaire, le bilan peut être
+effectué au plus tôt un an avant et au plus tard un an après son échéance normale. 
+
+IV. - Les modalités d'organisation de l'évaluation et de notification du bilan sont fixées par arrêté du ministre de la
+défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-325 du 23 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 1er août 2011 (V)
+
+
+##### Chapitre VII : Discipline<a id=910></a>
+
+##### Section 1 : Dispositions générales<a id=911></a>
+
+##### Sous-section 1 : Discipline militaire<a id=912></a>
 
 ###### Article D4137-1
 
@@ -75494,7 +75537,7 @@ _Cité par_:
   - Code de la défense. - art. D4382-4 (VD)
 
 
-##### Sous-section 2 : Tenue<a id=912></a>
+##### Sous-section 2 : Tenue<a id=913></a>
 
 ###### Article D4137-2
 
@@ -75536,7 +75579,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Récompenses<a id=913></a>
+##### Section 2 : Récompenses<a id=914></a>
 
 ###### Article D4137-4
 
@@ -75630,9 +75673,9 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Sanctions disciplinaires<a id=914></a>
+##### Section 3 : Sanctions disciplinaires<a id=915></a>
 
-##### Sous-section 1 : Principes<a id=915></a>
+##### Sous-section 1 : Principes<a id=916></a>
 
 ###### Article R4137-9
 
@@ -75989,7 +76032,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 2 : Sanctions disciplinaires du premier groupe<a id=916></a>
+##### Sous-section 2 : Sanctions disciplinaires du premier groupe<a id=917></a>
 
 ###### Article R4137-25
 
@@ -76261,7 +76304,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 3 : Sanctions disciplinaires du deuxième groupe<a id=917></a>
+##### Sous-section 3 : Sanctions disciplinaires du deuxième groupe<a id=918></a>
 
 ###### Article R4137-34
 
@@ -76362,7 +76405,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 4 : Sanctions disciplinaires du troisième groupe<a id=918></a>
+##### Sous-section 4 : Sanctions disciplinaires du troisième groupe<a id=919></a>
 
 ###### Article R4137-41
 
@@ -76427,7 +76470,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 5 : Suspension de fonctions<a id=919></a>
+##### Sous-section 5 : Suspension de fonctions<a id=920></a>
 
 ###### Article R4137-45
 
@@ -76472,9 +76515,9 @@ _Cité par_:
   - Code de la défense. - art. R4137-45 (V)
 
 
-##### Section 4 : Conseil de discipline<a id=920></a>
+##### Section 4 : Conseil de discipline<a id=921></a>
 
-##### Sous-section 1 : Dispositions générales<a id=921></a>
+##### Sous-section 1 : Dispositions générales<a id=922></a>
 
 ###### Article R4137-47
 
@@ -76504,7 +76547,7 @@ _Cite_:
   - Code de la défense. - art. L4131-1 (V)
 
 
-##### Sous-section 2 : Composition du conseil de discipline<a id=922></a>
+##### Sous-section 2 : Composition du conseil de discipline<a id=923></a>
 
 ###### Article R4137-48
 
@@ -76636,7 +76679,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 3 : Constitution du conseil de discipline<a id=923></a>
+##### Sous-section 3 : Constitution du conseil de discipline<a id=924></a>
 
 ###### Article R4137-53
 
@@ -76722,7 +76765,7 @@ _Cite_:
   - Code de la défense. - art. R4137-53 (V)
 
 
-##### Sous-section 4 : Fonctionnement du conseil de discipline<a id=924></a>
+##### Sous-section 4 : Fonctionnement du conseil de discipline<a id=925></a>
 
 ###### Article R4137-57
 
@@ -76907,9 +76950,9 @@ _Cité par_:
   - Décret n°2008-951 du 12 septembre 2008 - art. 14 (VD)
 
 
-##### Section 5 : Conseil d'enquête<a id=925></a>
+##### Section 5 : Conseil d'enquête<a id=926></a>
 
-##### Sous-section 1 : Dispositions générales<a id=926></a>
+##### Sous-section 1 : Dispositions générales<a id=927></a>
 
 ###### Article R4137-66
 
@@ -76937,7 +76980,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 2 : Composition du conseil d'enquête<a id=927></a>
+##### Sous-section 2 : Composition du conseil d'enquête<a id=928></a>
 
 ###### Article R4137-67
 
@@ -77071,7 +77114,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-72 (V)
 
 
-##### Sous-section 3 : Constitution du conseil d'enquête<a id=928></a>
+##### Sous-section 3 : Constitution du conseil d'enquête<a id=929></a>
 
 ###### Article R4137-72
 
@@ -77189,7 +77232,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-75 (V)
 
 
-##### Sous-section 4 : Fonctionnement du conseil d'enquête<a id=929></a>
+##### Sous-section 4 : Fonctionnement du conseil d'enquête<a id=930></a>
 
 ###### Article R4137-77
 
@@ -77551,9 +77594,9 @@ _Cité par_:
   - Code de la défense. - art. R4139-48 (V)
 
 
-##### Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement<a id=930></a>
+##### Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement<a id=931></a>
 
-##### Sous-section 1 : Dispositions générales<a id=931></a>
+##### Sous-section 1 : Dispositions générales<a id=932></a>
 
 ###### Article R4137-93
 
@@ -77586,7 +77629,7 @@ _Cité par_:
   - Code de la défense. - art. R3322-1 (M)
 
 
-##### Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=932></a>
+##### Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=933></a>
 
 ###### Article R4137-94
 
@@ -77632,7 +77675,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-98 (V)
 
 
-##### Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=933></a>
+##### Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=934></a>
 
 ###### Article R4137-96
 
@@ -77737,7 +77780,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-99 (V)
 
 
-##### Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=934></a>
+##### Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=935></a>
 
 ###### Article R4137-101
 
@@ -78017,9 +78060,9 @@ _Cité par_:
   - Code de la défense. - art. R4139-48 (V)
 
 
-##### Section 7 : Sanctions professionnelles applicables aux militaires<a id=935></a>
+##### Section 7 : Sanctions professionnelles applicables aux militaires<a id=936></a>
 
-##### Sous-section 1 : Principes<a id=936></a>
+##### Sous-section 1 : Principes<a id=937></a>
 
 ###### Article R4137-114
 
@@ -78160,7 +78203,7 @@ _Cité par_:
   - Arrêté du 11 octobre 2018 - art. 2
 
 
-##### Sous-section 2 : Conseil d'examen des faits professionnels<a id=937></a>
+##### Sous-section 2 : Conseil d'examen des faits professionnels<a id=938></a>
 
 ###### Article R4137-121
 
@@ -78403,7 +78446,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-133 (V)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=938></a>
+##### Sous-section 3 : Dispositions diverses<a id=939></a>
 
 ###### Article R4137-133
 
@@ -78424,7 +78467,7 @@ _Cite_:
   - Code de la défense. - art. R4137-132 (V)
 
 
-##### Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables<a id=939></a>
+##### Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables<a id=940></a>
 
 ###### Article R4137-134
 
@@ -78581,7 +78624,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 9 : Dispositions finales<a id=940></a>
+##### Section 9 : Dispositions finales<a id=941></a>
 
 ###### Article D4137-142
 
@@ -78609,9 +78652,9 @@ _Cité par_:
   - Code de la défense. - art. D4382-4 (VD)
 
 
-##### Chapitre VIII : Positions statutaires<a id=941></a>
+##### Chapitre VIII : Positions statutaires<a id=942></a>
 
-##### Section 1 : Activité<a id=942></a>
+##### Section 1 : Activité<a id=943></a>
 
 ###### Article R4138-1
 
@@ -78673,7 +78716,7 @@ _Cite_:
   - Code de la défense. - art. R4138-4
 
 
-##### Sous-section 1 : Congé de maladie<a id=943></a>
+##### Sous-section 1 : Congé de maladie<a id=944></a>
 
 ###### Article R4138-3
 
@@ -78716,7 +78759,7 @@ _Cité par_:
   - Code de la défense. - art. R4138-75 (V)
 
 
-##### Sous-section 2 : Congé de maternité<a id=944></a>
+##### Sous-section 2 : Congé de maternité<a id=945></a>
 
 ###### Article R4138-4
 
@@ -78750,7 +78793,7 @@ _Cite_:
   - Code du travail - art. L1225-30 (V)
 
 
-##### Sous-section 3 : Congé de paternité<a id=945></a>
+##### Sous-section 3 : Congé de paternité<a id=946></a>
 
 ###### Article R4138-5
 
@@ -78798,7 +78841,7 @@ _Cite_:
   - Code de la défense. - art. L4138-4 (V)
 
 
-##### Sous-section 4 : Congé d'adoption<a id=946></a>
+##### Sous-section 4 : Congé d'adoption<a id=947></a>
 
 ###### Article R4138-6
 
@@ -78849,7 +78892,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L225-2 (V)
 
 
-##### Sous-section 5 : Congé de présence parentale<a id=947></a>
+##### Sous-section 5 : Congé de présence parentale<a id=948></a>
 
 ###### Article R4138-7
 
@@ -78995,7 +79038,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 6 : Permissions et congé de fin de campagne<a id=948></a>
+##### Sous-section 6 : Permissions et congé de fin de campagne<a id=949></a>
 
 ###### Article R4138-16
 
@@ -79272,7 +79315,7 @@ _Cite_:
   - Code de la défense. - art. R4138-19
 
 
-##### Sous-section 7 : Congé de reconversion<a id=949></a>
+##### Sous-section 7 : Congé de reconversion<a id=950></a>
 
 ###### Article R4138-28
 
@@ -79351,7 +79394,7 @@ _Cité par_:
   - Code de la défense. - art. R4138-70 (V)
 
 
-##### Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées<a id=950></a>
+##### Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées<a id=951></a>
 
 ###### Article R4138-30
 
@@ -79450,7 +79493,7 @@ _Cite_:
   - Code de la défense. - art. L4138-2
 
 
-##### Section 2 : Détachement<a id=951></a>
+##### Section 2 : Détachement<a id=952></a>
 
 ###### Article R4138-34
 
@@ -79746,7 +79789,7 @@ _Modifié par_:
   - Décret n°2009-1720 du 30 décembre 2009 - art. 36
 
 
-##### Section 3 : Hors cadres<a id=952></a>
+##### Section 3 : Hors cadres<a id=953></a>
 
 ###### Article R4138-45
 
@@ -79802,9 +79845,9 @@ _Cite_:
   - Code de la défense. - art. L4138-8 (V)
 
 
-##### Section 4 : Non-activité<a id=953></a>
+##### Section 4 : Non-activité<a id=954></a>
 
-##### Sous-section 1 : Congé de longue durée pour maladie<a id=954></a>
+##### Sous-section 1 : Congé de longue durée pour maladie<a id=955></a>
 
 ###### Article R4138-47
 
@@ -80036,7 +80079,7 @@ _Cite_:
   - Code de la défense. - art. R4138-50
 
 
-##### Sous-section 2 : Congé de longue maladie<a id=955></a>
+##### Sous-section 2 : Congé de longue maladie<a id=956></a>
 
 ###### Article R4138-58
 
@@ -80074,7 +80117,7 @@ _Cite_:
   - Code de la défense. - art. R4138-55
 
 
-##### Sous-section 3 : Congé parental<a id=956></a>
+##### Sous-section 3 : Congé parental<a id=957></a>
 
 ###### Article R4138-59
 
@@ -80185,7 +80228,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 4 : Retrait d'emploi<a id=957></a>
+##### Sous-section 4 : Retrait d'emploi<a id=958></a>
 
 ###### Article R4138-64
 
@@ -80204,7 +80247,7 @@ _Cite_:
   - Code de la défense. - art. L4138-15 (V)
 
 
-##### Sous-section 5 : Congé pour convenances personnelles<a id=958></a>
+##### Sous-section 5 : Congé pour convenances personnelles<a id=959></a>
 
 ###### Article R4138-65
 
@@ -80256,7 +80299,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 6 : Disponibilité<a id=959></a>
+##### Sous-section 6 : Disponibilité<a id=960></a>
 
 ###### Article R4138-67
 
@@ -80282,7 +80325,7 @@ _Cité par_:
   - Code de la défense. - art. R4139-49 (V)
 
 
-##### Sous-section 7 : Congé complémentaire de reconversion<a id=960></a>
+##### Sous-section 7 : Congé complémentaire de reconversion<a id=961></a>
 
 ###### Article R4138-68
 
@@ -80340,9 +80383,9 @@ _Cite_:
   - Code de la défense. - art. R4138-29 (V)
 
 
-##### Sous-section 8 : Congé du personnel navigant<a id=961></a>
+##### Sous-section 8 : Congé du personnel navigant<a id=962></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=962></a>
+##### Paragraphe 1 : Dispositions générales<a id=963></a>
 
 ###### Article R4138-71
 
@@ -80391,7 +80434,7 @@ _Cite_:
   - Code de la défense. - art. L4139-6 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux militaires de carrière<a id=963></a>
+##### Paragraphe 2 : Dispositions applicables aux militaires de carrière<a id=964></a>
 
 ###### Article R4138-73
 
@@ -80425,7 +80468,7 @@ _Cité par_:
   - Code de la défense. - art. R4138-74 (V)
 
 
-##### Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires<a id=964></a>
+##### Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires<a id=965></a>
 
 ###### Article R4138-74
 
@@ -80503,11 +80546,11 @@ _Cite_:
   - Code de la défense. - art. R4138-65 (V)
 
 
-##### Chapitre IX : Fin de l'état militaire<a id=965></a>
+##### Chapitre IX : Fin de l'état militaire<a id=966></a>
 
-##### Section 1 :  Dispositifs d'accès à la fonction publique civile<a id=966></a>
+##### Section 1 :  Dispositifs d'accès à la fonction publique civile<a id=967></a>
 
-##### Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature<a id=967></a>
+##### Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature<a id=968></a>
 
 ###### Article R4139-1
 
@@ -80736,7 +80779,7 @@ _Cite_:
   - Code de la défense. - art. R4139-8 (V)
 
 
-##### Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques<a id=968></a>
+##### Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques<a id=969></a>
 
 ###### Article D4139-10
 
@@ -80841,7 +80884,7 @@ _Nouveaux textes_:
   - Code de la défense. - art. R4139-13 (VD)
 
 
-##### Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat<a id=969></a>
+##### Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat<a id=970></a>
 
 ###### Article R*4139-14
 
@@ -81084,7 +81127,7 @@ _Modifié par_:
   - Décret n°2009-1719 du 30 décembre 2009 - art. 7
 
 
-##### Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale<a id=970></a>
+##### Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale<a id=971></a>
 
 ###### Article R4139-23
 
@@ -81301,7 +81344,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière<a id=971></a>
+##### Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière<a id=972></a>
 
 ###### Article R4139-32
 
@@ -81509,9 +81552,9 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Dispositifs d'aide au départ<a id=972></a>
+##### Section 2 : Dispositifs d'aide au départ<a id=973></a>
 
-##### Sous-section unique : Dispositions applicables aux militaires de carrière<a id=973></a>
+##### Sous-section unique : Dispositions applicables aux militaires de carrière<a id=974></a>
 
 ###### Article R4139-41
 
@@ -81587,9 +81630,9 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Radiation des cadres ou des contrôles<a id=974></a>
+##### Section 3 : Radiation des cadres ou des contrôles<a id=975></a>
 
-##### Sous-section 1 : Dispositions générales<a id=975></a>
+##### Sous-section 1 : Dispositions générales<a id=976></a>
 
 ###### Article R4139-46
 
@@ -81686,7 +81729,7 @@ _Cite_:
   - Code de la défense. - art. R4139-47
 
 
-##### Sous-section 2 : Lien au service<a id=976></a>
+##### Sous-section 2 : Lien au service<a id=977></a>
 
 ###### Article R4139-50
 
@@ -81789,7 +81832,7 @@ _Cite_:
   - Code de la défense. - art. L4139-14 (V)
 
 
-##### Sous-section 3 : Commission de réforme<a id=977></a>
+##### Sous-section 3 : Commission de réforme<a id=978></a>
 
 ###### Article R4139-53
 
@@ -82005,9 +82048,9 @@ _Cite_:
   - Code de la défense. - art. R4139-60
 
 
-#### TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES<a id=978></a>
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES<a id=979></a>
 
-##### Chapitre Ier : Officiers généraux<a id=979></a>
+##### Chapitre Ier : Officiers généraux<a id=980></a>
 
 ###### Article R4141-1
 
@@ -82145,11 +82188,11 @@ _Cite_:
   - Code de la défense. - art. R4141-3
 
 
-#### TITRE V : FORMATION DES MILITAIRES<a id=980></a>
+#### TITRE V : FORMATION DES MILITAIRES<a id=981></a>
 
-##### Chapitre Ier : Attribution du titre d'ingénieur<a id=981></a>
+##### Chapitre Ier : Attribution du titre d'ingénieur<a id=982></a>
 
-##### Section 1 : Ingénieur diplômé de l'armée de terre<a id=982></a>
+##### Section 1 : Ingénieur diplômé de l'armée de terre<a id=983></a>
 
 ###### Article D4151-1
 
@@ -82213,7 +82256,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Ingénieur diplômé de l'Ecole navale<a id=983></a>
+##### Section 2 : Ingénieur diplômé de l'Ecole navale<a id=984></a>
 
 ###### Article D4151-4
 
@@ -82228,7 +82271,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Ingénieur diplômé de l'Ecole de l'air<a id=984></a>
+##### Section 3 : Ingénieur diplômé de l'Ecole de l'air<a id=985></a>
 
 ###### Article D4151-5
 
@@ -82256,9 +82299,9 @@ _Cité par_:
   - Décret n°2017-1280 du 9 août 2017 - art. 1
 
 
-##### Chapitre II : Enseignement militaire supérieur<a id=985></a>
+##### Chapitre II : Enseignement militaire supérieur<a id=986></a>
 
-##### Section 1 : Organisation générale<a id=986></a>
+##### Section 1 : Organisation générale<a id=987></a>
 
 ###### Article D4152-1
 
@@ -82434,7 +82477,7 @@ _Cite_:
   - Code de la défense. - art. D4152-6
 
 
-##### Section 2 : Direction de l'enseignement militaire supérieur<a id=987></a>
+##### Section 2 : Direction de l'enseignement militaire supérieur<a id=988></a>
 
 ###### Article D4152-8
 
@@ -82535,13 +82578,13 @@ _Abrogé par_:
   - Décret n°2010-1220 du 15 octobre 2010 - art. 3
 
 
-### LIVRE II : RÉSERVE MILITAIRE<a id=988></a>
+### LIVRE II : RÉSERVE MILITAIRE<a id=989></a>
 
-#### TITRE Ier :  DISPOSITIONS COMMUNES<a id=989></a>
+#### TITRE Ier :  DISPOSITIONS COMMUNES<a id=990></a>
 
-##### Chapitre unique<a id=990></a>
+##### Chapitre unique<a id=991></a>
 
-##### Section 1 : Dispositions générales<a id=991></a>
+##### Section 1 : Dispositions générales<a id=992></a>
 
 ###### Article R4211-1
 
@@ -82629,7 +82672,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Dispositions relatives à l'honorariat<a id=992></a>
+##### Section 2 : Dispositions relatives à l'honorariat<a id=993></a>
 
 ###### Article R4211-6
 
@@ -82710,7 +82753,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Radiation de la réserve<a id=993></a>
+##### Section 3 : Radiation de la réserve<a id=994></a>
 
 ###### Article R4211-10
 
@@ -82793,11 +82836,11 @@ _Cité par_:
   - Code de la défense. - art. R4221-19 (V)
 
 
-#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE<a id=994></a>
+#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE<a id=995></a>
 
-##### Chapitre unique<a id=995></a>
+##### Chapitre unique<a id=996></a>
 
-##### Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle<a id=996></a>
+##### Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle<a id=997></a>
 
 ###### Article R4221-1
 
@@ -82897,7 +82940,7 @@ _Cite_:
   - Code de la défense. - art. L4231-4 (V)
 
 
-##### Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an<a id=997></a>
+##### Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an<a id=998></a>
 
 ###### Article D4221-6
 
@@ -82966,7 +83009,7 @@ _Modifié par_:
   - Décret n°2009-1728 du 30 décembre 2009 - art. 2
 
 
-##### Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle<a id=998></a>
+##### Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle<a id=999></a>
 
 ###### Article R4221-9
 
@@ -83003,7 +83046,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 4 : Souscription et exécution de la clause de réactivité<a id=999></a>
+##### Section 4 : Souscription et exécution de la clause de réactivité<a id=1000></a>
 
 ###### Article R4221-11
 
@@ -83085,7 +83128,7 @@ _Cite_:
   - Code de la défense. - art. L4221-4 (V)
 
 
-##### Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise<a id=1000></a>
+##### Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise<a id=1001></a>
 
 ###### Article R4221-15
 
@@ -83149,7 +83192,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=1001></a>
+##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=1002></a>
 
 ###### Article R4221-17-1
 
@@ -83215,7 +83258,7 @@ _Créé par_:
   - Décret n°2009-1304 du 26 octobre 2009 - art. 1
 
 
-##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=1002></a>
+##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=1003></a>
 
 ###### Article R4221-18
 
@@ -83268,7 +83311,7 @@ _Cite_:
   - Code de la défense. - art. R4211-10 (V)
 
 
-##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=1003></a>
+##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=1004></a>
 
 ###### Article R4221-20
 
@@ -83486,9 +83529,9 @@ _Cite_:
   - Code de la défense. - art. R4221-22
 
 
-#### TITRE III : DISPONIBILITÉ<a id=1004></a>
+#### TITRE III : DISPONIBILITÉ<a id=1005></a>
 
-##### Chapitre unique<a id=1005></a>
+##### Chapitre unique<a id=1006></a>
 
 ###### Article R4231-1
 
@@ -83563,9 +83606,9 @@ _Cite_:
   - Code de la défense. - art. L4231-4 (V)
 
 
-#### TITRE IV : RÉSERVE CITOYENNE<a id=1006></a>
+#### TITRE IV : RÉSERVE CITOYENNE<a id=1007></a>
 
-##### Chapitre unique<a id=1007></a>
+##### Chapitre unique<a id=1008></a>
 
 ###### Article R4241-1
 
@@ -83631,11 +83674,11 @@ _Cité par_:
   - Arrêté du 12 septembre 2017 - art. 1
 
 
-#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=1008></a>
+#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=1009></a>
 
-##### Chapitre unique<a id=1009></a>
+##### Chapitre unique<a id=1010></a>
 
-##### Section 1 : Mission<a id=1010></a>
+##### Section 1 : Mission<a id=1011></a>
 
 ###### Article D4261-1
 
@@ -83687,7 +83730,7 @@ _Cité par_:
   - Code de la défense. - art. D4261-8 (V)
 
 
-##### Section 2 : Composition et organisation<a id=1011></a>
+##### Section 2 : Composition et organisation<a id=1012></a>
 
 ###### Article D4261-3
 
@@ -83946,7 +83989,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Fonctionnement<a id=1012></a>
+##### Section 3 : Fonctionnement<a id=1013></a>
 
 ###### Article D4261-13
 
@@ -84167,11 +84210,11 @@ _Abrogé par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1013></a>
+### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1014></a>
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1014></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1015></a>
 
-##### Chapitre unique<a id=1015></a>
+##### Chapitre unique<a id=1016></a>
 
 ###### Article D4341-4
 
@@ -84266,9 +84309,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1016></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1017></a>
 
-##### Chapitre unique<a id=1017></a>
+##### Chapitre unique<a id=1018></a>
 
 ###### Article D4351-4
 
@@ -84363,9 +84406,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1018></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1019></a>
 
-##### Chapitre unique<a id=1019></a>
+##### Chapitre unique<a id=1020></a>
 
 ###### Article D4361-4
 
@@ -84460,9 +84503,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1020></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1021></a>
 
-##### Chapitre unique<a id=1021></a>
+##### Chapitre unique<a id=1022></a>
 
 ###### Article D4371-3
 
@@ -84531,9 +84574,9 @@ _Cite_:
   - Code de la défense. - art. R4139-23 (V)
 
 
-#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1022></a>
+#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1023></a>
 
-##### Chapitre Ier : Saint-Barthélemy<a id=1023></a>
+##### Chapitre Ier : Saint-Barthélemy<a id=1024></a>
 
 ###### Article D4381-4
 
@@ -84625,7 +84668,7 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-##### Chapitre II : Saint-Martin<a id=1024></a>
+##### Chapitre II : Saint-Martin<a id=1025></a>
 
 ###### Article D4382-4
 
