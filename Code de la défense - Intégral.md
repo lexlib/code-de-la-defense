@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-03-26
+Version Consolidée au 2010-05-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -20662,10 +20662,10 @@ _Cite_:
 
 ###### Article L4144-1
 
-I.-Le grade détenu dans leur corps d'origine ou cadre d'emploi par le trésorier-payeur général exerçant les fonctions de
-payeur général aux armées et les fonctionnaires détachés au sein des services de la trésorerie aux armées et de la poste
-interarmées, pendant leur détachement, leur donne droit à l'attribution d'un grade d'assimilation dans la hiérarchie
-militaire générale. Ce grade ne confère de commandement qu'à l'intérieur du service d'emploi. 
+I.-Le grade détenu dans leur corps d'origine ou cadre d'emploi par le directeur départemental des finances publiques exerçant
+les fonctions de payeur général aux armées et les fonctionnaires détachés au sein des services de la trésorerie aux armées et
+de la poste interarmées, pendant leur détachement, leur donne droit à l'attribution d'un grade d'assimilation dans la
+hiérarchie militaire générale. Ce grade ne confère de commandement qu'à l'intérieur du service d'emploi. 
 
 II.-Durant leur détachement, les articles L. 4111-1 à L. 4121-2, les premier et deuxième alinéas de l'article L. 4121-3, les
 articles L. 4121-4 et L. 4121-5, L. 4121-7 à L. 4123-2, L. 4123-4, L. 4123-5, 
@@ -20677,28 +20677,31 @@ services de la trésorerie aux armées et de la poste interarmées.
 
 _Anciens textes_:
 
-  - Loi n°2005-270 2005-03-24 art. 88
   - Loi n°2005-270 du 24 mars 2005 - art. 88 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2010-420  du 27 avril 2010 - art. 105
+
 _Cite_:
 
-  - Code de la défense. - art. L4111-1 (V)
-  - Code de la défense. - art. L4121-3 (V)
-  - Code de la défense. - art. L4121-4 (V)
-  - Code de la défense. - art. L4121-5 (V)
-  - Code de la défense. - art. L4121-7 (V)
-  - Code de la défense. - art. L4123-10 (V)
-  - Code de la défense. - art. L4123-4 (V)
-  - Code de la défense. - art. L4123-5 (V)
-  - Code de la défense. - art. L4123-8 (V)
-  - Code de la défense. - art. L4124-1 (V)
-  - Code de la défense. - art. L4137-1 (V)
-  - Code de la défense. - art. L4137-5 (V)
-  - Code de la défense. - art. L4138-2 (V)
+  - Code de la défense. - art. L4111-1
+  - Code de la défense. - art. L4121-3
+  - Code de la défense. - art. L4121-4
+  - Code de la défense. - art. L4121-5
+  - Code de la défense. - art. L4121-7
+  - Code de la défense. - art. L4123-10
+  - Code de la défense. - art. L4123-4
+  - Code de la défense. - art. L4123-5
+  - Code de la défense. - art. L4123-8
+  - Code de la défense. - art. L4124-1
+  - Code de la défense. - art. L4137-1
+  - Code de la défense. - art. L4137-5
+  - Code de la défense. - art. L4138-2
 
 
 ##### Chapitre V : Militaires de la gendarmerie nationale<a id=279></a>
