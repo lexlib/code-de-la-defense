@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-07
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -50943,24 +50943,20 @@ _Cité par_:
 ###### Article R2352-107
 
 Si l'exploitant d'une installation fixe ou mobile ne respecte pas les prescriptions définies par les articles R. 2352-102, R.
-2352-104 ou R. 2352-105, le préfet peut suspendre l'agrément technique ou l'autorisation et prendre, par décision motivée
-après mise en demeure non suivie d'effet, les mesures mentionnées à l'article R. 2352-95.
+2352-104 ou R. 2352-105, le préfet peut suspendre l'agrément technique et prendre, par décision motivée après mise en demeure
+non suivie d'effet, les mesures mentionnées à l'article R. 2352-95.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 21 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-102 (V)
-  - Code de la défense. - art. R2352-104 (V)
-  - Code de la défense. - art. R2352-95 (V)
+  - Code de la défense. - art. R2352-102
+  - Code de la défense. - art. R2352-104
+  - Code de la défense. - art. R2352-95
 
 
 ###### Article R2352-108
@@ -51012,9 +51008,9 @@ _Créé par_:
 ###### Article R2352-110
 
 L'exploitation d'un dépôt, d'un débit ou d'une installation mobile de produits explosifs est subordonnée, indépendamment de
-l'agrément technique ou de l'autorisation prévus à l'article R. 2352-97, à la délivrance par le préfet d'une autorisation
-individuelle à la personne physique qui entend se livrer à cette exploitation, ou, dans le cas d'une personne morale, à la
-personne physique ayant qualité pour représenter celle-ci. 
+l'agrément technique prévu à l'article R. 2352-97, à la délivrance par le préfet d'une autorisation individuelle à la
+personne physique qui entend se livrer à cette exploitation, ou, dans le cas d'une personne morale, à la personne physique
+ayant qualité pour représenter celle-ci. 
 
 Est dispensée de l'obligation d'autorisation individuelle l'exploitation : 
 
@@ -51032,19 +51028,15 @@ l'application du décret du 18 avril 1939 fixant le régime des matériels de gu
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 22 (Ab)
-
 _Cite_:
 
-  - Décret n°95-589 du 6 mai 1995 (V)
-  - Code de la défense. - art. R2352-92 (V)
-  - Code de la défense. - art. R2352-97 (V)
+  - Décret n°95-589 du 6 mai 1995
+  - Code de la défense. - art. R2352-92
+  - Code de la défense. - art. R2352-97
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -51260,22 +51252,17 @@ _Cite_:
 
 ###### Article R2352-120
 
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'industrie fixe les modalités de délivrance de
-l'agrément mentionné à l'article R. 2352-118.
+Un arrêté du ministre de l'intérieur fixe les modalités de délivrance de l'agrément mentionné à l'article R. 2352-118.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 27-2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-118 (V)
+  - Code de la défense. - art. R2352-118
 
 
 ###### Article R2352-121
