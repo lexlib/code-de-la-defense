@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-05-07
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -4701,18 +4701,14 @@ _Cité par_:
 Toutes les fois qu'une voie communale ou un chemin rural entretenu à l'état de viabilité est dégradé par le passage de
 véhicules ou de matériels spéciaux des armées ou l'exécution des tirs, des contributions spéciales peuvent être attribuées,
 dont la quotité est proportionnée à la dégradation causée. Les dégradations sont constatées et les subventions réglées dans
-les conditions définies par l'article L. 141-9 du code de la voirie routière et l'article L. 161-8 du code rural.
+les conditions définies par l'article L. 141-9 du code de la voirie routière et l'article L. 161-8 du code rural et de la
+pêche maritime.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°1877-07-03 art. 55, alinéa 2
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cite_:
 
@@ -4722,6 +4718,10 @@ _Cite_:
 _Cité par_:
 
   - Code de la défense. - art. L2441-1 (V)
+
+_Anciens textes_:
+
+  - Loi n°1877-07-03 art. 55, alinéa 2
 
 
 ### LIVRE II : RÉQUISITIONS<a id=79></a>
@@ -42220,14 +42220,14 @@ départementaux compétents du ministère chargé de l'agriculture.
 
 L'indemnité périodique de privation de jouissance due au prestataire est déterminée d'après tous éléments, dans la limite des
 fermages fixés dans chaque département par le préfet, conformément aux dispositions des articles L. 411-11 et R. 411-9-6 du
-code rural, pour les exploitations similaires de la région considérée, sans pouvoir dépasser, pour les éléments
-d'exploitation pris à bail, le montant du fermage conventionnel.
+code rural et de la pêche maritime,  pour les exploitations similaires de la région considérée, sans pouvoir dépasser, pour
+les éléments d'exploitation pris à bail, le montant du fermage conventionnel.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-254 du 4 mars 2009 - art.
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
@@ -72032,11 +72032,11 @@ ou d'un Etat étranger, pour une durée limitée ;
 
 4° Enseignements ou formations ; 
 
-5° Activité agricole au sens du premier alinéa de l'article L. 311-1 du code rural dans des exploitations agricoles non
-constituées sous forme sociale, ainsi qu'une activité exercée dans des exploitations constituées sous forme de société civile
-ou commerciale, sous réserve que le militaire n'y exerce pas les fonctions de gérant, de directeur général, ou de membre du
-conseil d'administration, du directoire ou du conseil de surveillance, sauf lorsqu'il s'agit de la gestion de son patrimoine
-personnel et familial ; 
+5° Activité agricole au sens du premier alinéa de l'article L. 311-1 du code rural et de la pêche maritime dans des
+exploitations agricoles non constituées sous forme sociale, ainsi qu'une activité exercée dans des exploitations constituées
+sous forme de société civile ou commerciale, sous réserve que le militaire n'y exerce pas les fonctions de gérant, de
+directeur général, ou de membre du conseil d'administration, du directoire ou du conseil de surveillance, sauf lorsqu'il
+s'agit de la gestion de son patrimoine personnel et familial ; 
 
 6° Services à la personne définis à l'article L. 7231-1 et au 1° de l'article L. 7231-2 du code du travail ; 
 
@@ -72058,9 +72058,9 @@ _Cite_:
   - Code rural - art. L311-1
   - Code du travail - art. L7231-2
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-999 du 24 septembre 2008 - art. 2
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 _Cité par_:
 
