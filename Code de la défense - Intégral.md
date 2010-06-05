@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-06
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -937,7 +937,7 @@ Version Consolidée au 2010-05-08
               - [Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-96 à R4137-100)](#934)
               - [Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-101 à R4137-113)](#935)
             - [Section 7 : Sanctions professionnelles applicables aux militaires (art. R4137-114 à R4137-133)](#936)
-              - [Sous-section 1 : Principes (art. R4137-114 à R4137-120)](#937)
+              - [Sous-section 1 : Principes (art. R4137-114 à R4137-120-1)](#937)
               - [Sous-section 2 : Conseil d'examen des faits professionnels (art. R4137-121 à R4137-132)](#938)
               - [Sous-section 3 : Dispositions diverses (art. R4137-133)](#939)
             - [Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables (art. R4137-134 à R4137-141)](#940)
@@ -75447,6 +75447,24 @@ _Cite_:
   - Code de justice militaire. - art. L311-13 (V)
 
 
+###### Article R4137-10-1
+
+Dans le présent chapitre, outre le contrôle général des armées, les formations rattachées sont les délégations générales,
+directions générales et directions ainsi que les services interarmées dont l'autorité responsable est chargée, au nom du
+ministre de la défense, de la discipline des militaires relevant statutairement de son autorité. Cette autorité prend les
+mesures et les décisions relevant du présent chapitre à l'encontre des militaires précités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-600 du 3 juin 2010 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2017-744 du 4 mai 2017 - art. 4
+
+
 ###### Article R4137-11
 
 Lorsqu'un élément français est stationné sur un théâtre d'opération extérieur, le ministre de la défense peut, par arrêté,
@@ -75696,28 +75714,18 @@ _Créé par_:
 
 ###### Article R4137-23
 
-L'effacement des sanctions du premier groupe est effectué d'office au 1er janvier de la cinquième année suivant celle au
-cours de laquelle elles ont été prononcées.
+L'effacement des sanctions disciplinaires du premier groupe est effectué d'office au 1er janvier de la cinquième année
+suivant celle au cours de laquelle les sanctions ont été prononcées.
 
-Les sanctions concernant des faits constituant des manquements à la probité, aux bonnes mœurs ou à l'honneur, ne sont pas
-effacées, lorsque ces faits ont donné lieu soit :
-
-1° A un blâme du ministre ;
-
-2° A des arrêts d'une durée supérieure à trente jours ;
-
-3° Au prononcé d'une sanction disciplinaire du deuxième ou du troisième groupe ;
-
-4° A une condamnation pénale.
-
-L'effacement des sanctions est effectué de façon à ce que toute mention de la sanction disparaisse des dossiers, livrets,
-relevés ou fichiers et que le rappel de l'existence de la sanction soit impossible.
+Sont toutefois exclues de l'effacement d'office des sanctions disciplinaires du premier groupe les sanctions concernant des
+faits constituant des manquements à la probité, aux bonnes mœurs ou à l'honneur ayant donné lieu à un blâme du ministre, à
+des arrêts d'une durée supérieure à trente jours ou à une condamnation pénale inscrite au casier judiciaire numéro deux.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2010-600 du 3 juin 2010 - art. 3
 
 _Cité par_:
 
@@ -75725,6 +75733,61 @@ _Cité par_:
   - Arrêté du 23 juillet 2010 - art. 14 (Ab)
   - Arrêté du 23 juillet 2010 - art. 4 (Ab)
   - Arrêté du 23 juillet 2010 - art. 8 (Ab)
+
+
+###### Article R4137-23-1
+
+Tout militaire ou ancien militaire peut demander l'effacement des sanctions disciplinaires du premier groupe concernant des
+faits constituant des manquements à la probité, aux bonnes mœurs ou à l'honneur ayant donné lieu à un blâme du ministre, à
+des arrêts d'une durée supérieure à trente jours ou à une condamnation pénale inscrite au casier judiciaire numéro deux, du
+deuxième groupe et du retrait d'emploi. Cette demande s'effectue à partir du 1er janvier de la onzième année suivant celle au
+cours de laquelle elles ont été prononcées. 
+
+Les décisions d'effacement sont prononcées par le ministre de la défense ou les autorités militaires habilitées par lui à cet
+effet par arrêté. 
+
+L'avis d'une commission, dont la composition et l'organisation sont fixées par arrêté du ministre de la défense, est
+préalablement recueilli. 
+
+Cette commission comprend un militaire du même grade et de la même armée ou formation rattachée que le demandeur. Son grade
+est déterminé en fonction du grade détenu par le demandeur à la date de la demande. 
+
+La commission est réunie sur ordre du ministre de la défense ou des autorités militaires habilitées par lui à cet effet par
+arrêté. 
+
+Le militaire ou l'ancien militaire qui demande l'effacement de sa sanction ne comparaît pas, sauf s'il en fait la demande,
+devant la commission dont l'avis est recueilli. 
+
+Si, par son comportement général, l'intéressé a donné toute satisfaction depuis la sanction dont il a fait l'objet, les
+autorités compétentes, saisies de la demande d'effacement, accèdent à sa demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-600 du 3 juin 2010 - art. 4
+
+_Cité par_:
+
+  - Arrêté du 9 avril 2014 - art. 1 (V)
+  - Arrêté du 9 avril 2014 - art. 11 (V)
+
+
+###### Article R4137-23-2
+
+L'effacement d'office ou sur demande d'une sanction disciplinaire est effectué de façon à ce que toute mention de la sanction
+disparaisse des dossiers individuels, livrets, relevés ou fichiers et que le rappel de l'existence de la sanction soit
+impossible. Il n'a aucun effet rétroactif ni abrogatif sur les mesures prises et ne peut donner lieu à une reconstitution de
+carrière. 
+
+En cas de rejet de la demande d'effacement d'une sanction disciplinaire, le militaire concerné ne peut présenter de nouvelle
+demande qu'après un délai de deux ans à compter de la date de la décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-600 du 3 juin 2010 - art. 4
 
 
 ###### Article R4137-24
@@ -76057,19 +76120,19 @@ _Créé par_:
 
 ###### Article R4137-37
 
-L'abaissement d'échelon replace le militaire dans l'échelon immédiatement inférieur à celui qu'il détient.
+L'abaissement d'échelon replace le militaire dans l'échelon immédiatement inférieur à celui qu'il détient. 
 
-Il peut être prononcé à titre temporaire pour une durée maximum de six mois ou à titre définitif.
+Il peut être prononcé à titre temporaire pour une durée maximum de six mois    .
 
 L'intéressé bénéficie dans son nouvel échelon de l'ancienneté acquise dans l'échelon qu'il détenait avant l'application de la
-mesure d'abaissement d'échelon. L'abaissement d'échelon ne peut faire perdre le bénéfice d'une promotion au choix ni d'une
+mesure d'abaissement d'échelon.L'abaissement d'échelon ne peut faire perdre le bénéfice d'une promotion au choix ni d'une
 inscription au tableau d'avancement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2010-600 du 3 juin 2010 - art. 5
 
 
 ###### Article R4137-38
@@ -77909,6 +77972,50 @@ _Cité par_:
   - Arrêté du 30 septembre 2008 - art. 9 (VD)
 
 
+###### Article R4137-120-1
+
+Les points négatifs sont effacés d'office au 1er janvier de la cinquième année suivant celle au cours de laquelle ils ont été
+prononcés.
+
+Le retrait temporaire, partiel ou total, d'une ou plusieurs qualifications professionnelles est effacé d'office au 1er
+janvier de la neuvième année suivant celle au cours de laquelle il a été prononcé.
+
+Tout militaire ou ancien militaire peut demander l'effacement du retrait définitif, partiel ou total, d'une ou plusieurs
+qualifications professionnelles à partir du 1er janvier de la onzième année suivant celle au cours de laquelle il a été
+prononcé. L'effacement n'a aucun effet rétroactif sur les mesures prises et ne peut donner lieu à une reconstitution de
+carrière.
+
+Les décisions d'effacement des sanctions professionnelles sont prononcées par décision du ministre de la défense ou des
+autorités militaires délégataires de son pouvoir.
+
+Si par son comportement l'intéressé a donné toute satisfaction depuis la sanction dont il a fait l'objet, les autorités
+compétentes, saisies de la demande d'effacement, accèdent à sa demande.
+
+Les décisions d'effacement des sanctions professionnelles du domaine aéronautique sont prononcées par décision du ministre de
+la défense ou des autorités militaires délégataires de son pouvoir après avis du conseil permanent de la sécurité aérienne de
+l'armée ou de la formation rattachée concernée.
+
+L'autorité d'emploi du militaire peut vérifier ou faire vérifier son aptitude à exercer, de nouveau, la ou les qualifications
+retrouvées.
+
+L'effacement des sanctions professionnelles est effectué de façon à ce que toute mention de la sanction disparaisse des
+dossiers individuels, livrets, relevés ou fichiers et que le rappel de l'existence de la sanction soit impossible. Il n'a
+aucun effet rétroactif ni abrogatif sur les mesures prises et ne peut donner lieu à une reconstitution de carrière.
+
+En cas de rejet de la demande d'effacement, le militaire concerné ne peut présenter de nouvelle demande qu'après un délai de
+deux ans à compter de la date de la décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-600 du 3 juin 2010 - art. 6
+
+_Cité par_:
+
+  - Arrêté du 9 avril 2014 - art. 2 (V)
+
+
 ##### Sous-section 2 : Conseil d'examen des faits professionnels<a id=938></a>
 
 ###### Article R4137-121
@@ -78388,6 +78495,24 @@ _Cité par_:
   - Code de la défense. - art. R4371-2 (M)
   - Code de la défense. - art. R4381-2 (VD)
   - Code de la défense. - art. R4382-2 (VD)
+
+
+###### Article R4138-1-1
+
+Dans le présent chapitre, outre le contrôle général des armées, les formations rattachées sont les délégations générales,
+directions générales et directions ainsi que les services interarmées dont l'autorité responsable est chargée, au nom du
+ministre de la défense, de la gestion et de l'administration des militaires relevant statutairement de son autorité. Cette
+autorité prend les mesures et les décisions relevant du présent chapitre à l'encontre des militaires précités.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-600 du 3 juin 2010 - art. 7
+
+_Abrogé par_:
+
+  - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
 ###### Article R4138-2
