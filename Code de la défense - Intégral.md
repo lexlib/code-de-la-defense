@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-06-24
+Version Consolidée au 2010-07-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -25761,31 +25761,24 @@ _Cité par_:
 
 ###### Article R*1212-3
 
-Les armées et la gendarmerie sont organisées de la façon suivante :
+Les armées et la gendarmerie sont organisées de la façon suivante : 
 
-1° En régions terre, pour l'armée de terre ;
+1° En régions terre, pour l'armée de terre ; 
 
-2° En régions maritimes et arrondissements maritimes pour la marine ;
+2° En régions maritimes et arrondissements maritimes pour la marine ; 
 
-3° A l'échelon national, pour l'armée de l'air ;
+3° A l'échelon national, pour l'armée de l'air ; 
 
 4° En régions de gendarmerie pour la gendarmerie nationale. Les régions de gendarmerie sont subdivisées en groupement de
-gendarmerie départementale.
+gendarmerie départementale. 
+
+La région d'Ile-de-France fait l'objet d'une organisation définie à l'article R. * 1212-7 du présent code.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2000-558 du 21 juin 2000 - art. 3 (M)
   - Décret n°2000-558 du 21 juin 2000 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
-
-_Modifié par_:
-
-  - Décret n°2007-601 du 26 avril 2007 - art. 1 () JORF 27 avril 2007 en vigueur le 1er janvier 2008
 
 _Cité par_:
 
@@ -25793,6 +25786,14 @@ _Cité par_:
   - Décret n°2007-1793 du 19 décembre 2007 (V)
   - Décret n°2007-1794 du 19 décembre 2007 (V)
   - Décret n°2007-1795 du 19 décembre 2007 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-687 du 24 juin 2010 - art. 25
+
+_Cite_:
+
+  - Code de la défense. - art. R*1212-7
 
 
 ###### Article R*1212-4
@@ -25950,7 +25951,8 @@ suivant :
     </tr>
     <tr>
       <td>Ile-de-France.</td>
-      <td>Essonne, Hauts-de-Seine, Paris, Seine-et-Marne, Seine-Saint-Denis, Val-d'Oise, Val-de-Marne, Yvelines.</td>
+      <td>Groupement de gendarmerie interdépartemental de Paris (Paris, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne),
+Essonne, Seine-et-Marne, Val-d'Oise, Yvelines.</td>
     </tr>
     <tr>
       <td>Alsace.</td>
@@ -26043,12 +26045,11 @@ suivant :
 
 _Anciens textes_:
 
-  - Décret n°2000-558 du 21 juin 2000 - art. 7 (M)
   - Décret n°2000-558 du 21 juin 2000 - art. 7 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-583 2007-04-23 JORF 24 avril 2007
+  - Décret n°2010-687 du 24 juin 2010 - art. 26
 
 _Cité par_:
 
