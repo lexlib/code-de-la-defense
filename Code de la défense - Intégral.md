@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-04
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -528,7 +528,7 @@ Version Consolidée au 2010-07-01
             - [Section 3 : Hydrocarbures (art. R1682-9 à R1682-18)](#525)
         - [TITRE IX : DISPOSITIONS FINALES (art. R*1691-1)](#526)
           - [Chapitre unique (art. R*1691-1)](#527)
-    - [PARTIE 2 : REGIMES JURIDIQUES DE DEFENSE (art. R2112-1 à Annexe VIII)](#528)
+    - [PARTIE 2 : REGIMES JURIDIQUES DE DEFENSE (art. R2112-1 à D2491-19)](#528)
       - [LIVRE Ier : REGIMES D'APPLICATION EXCEPTIONNELLE (art. R2112-1 à R2161-10)](#529)
         - [TITRE Ier : GUERRE (art. R2112-1)](#530)
           - [Chapitre II : Dispositions applicables aux communes (art. R2112-1)](#531)
@@ -628,409 +628,407 @@ Version Consolidée au 2010-07-01
             - [Section 2 : Produits explosifs destinés à un usage militaire (art. D2352-7 à R2352-20)](#625)
             - [Section 3 : Produits explosifs destinés à un usage civil (art. R2352-21 à R2352-121)](#626)
               - [Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation (art. R2352-23 à R2352-46)](#627)
-              - [Sous-section 2 : Marquage des produits explosifs (art. R2352-47 à R2352-72)](#628)
-                - [Paragraphe 1 : Produits explosifs soumis au marquage CE (art. R2352-49 à R2352-64)](#629)
-                - [Paragraphe 2 : Produits explosifs non soumis au marquage CE (art. R2352-65 à R2352-72)](#630)
-              - [Sous-section 3 : Acquisition, détention et transport des produits explosifs (art. R2352-73 à R2352-80)](#631)
-              - [Sous-section 4 : Utilisation des produits explosifs (art. R2352-81 à R2352-83)](#632)
-              - [Sous-section 5 : Conservation des produits explosifs (art. R2352-84 à R2352-88)](#633)
-              - [Sous-section 6 : Installations de produits explosifs (art. R2352-89 à R2352-109)](#634)
-                - [Paragraphe 1 : Règles générales (art. R2352-89 à R2352-96)](#635)
-                - [Paragraphe 2 : Agrément technique (art. R2352-97 à R2352-102)](#636)
-                - [Paragraphe 3 : Suivi de l'exploitation des installations fixes ou mobiles de produits explosifs (art. R2352-103 à R2352-109)](#637)
-              - [Sous-section 7 : Dispositions particulières aux dépôts, débits et installations mobiles de produits explosifs (art. R2352-110 à R2352-121)](#638)
-                - [Paragraphe 1 : Autorisations individuelles d'exploitation (art. R2352-110 à R2352-117)](#639)
-                - [Paragraphe 2 : Agrément des personnes intervenant dans les dépôts, débits et installations mobiles de produits explosifs (art. R2352-118 à R2352-121)](#640)
-            - [Section 4 : Etudes et recherches relatives aux produits explosifs (art. R2352-122 à R2352-125)](#641)
-          - [Chapitre III : Dispositions pénales (art. R2353-1 à R2353-16)](#642)
-            - [Section 1 : Agents habilités à constater les infractions (art. R2353-1)](#643)
-            - [Section 2 : Sanctions pénales (art. R2353-2 à R2353-16)](#644)
-        - [TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES (art. R2361-1 à R2363-7)](#645)
-          - [Chapitre Ier : Zones militaires (art. R2361-1)](#646)
-          - [Chapitre II : Zones protégées (art. D2362-2 à R2362-1)](#647)
-          - [Chapitre III : Zones de défense hautement sensibles (art. R2363-1 à R2363-7)](#648)
-      - [LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER (art. R2431-1 à D2491-19)](#649)
-        - [TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE (art. R2431-1)](#650)
-          - [Chapitre unique (art. R2431-1)](#651)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D*2441-4 à R2441-5)](#652)
-          - [Chapitre unique (art. D*2441-4 à R2441-5)](#653)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE (art. D*2451-4 à R2451-5)](#654)
-          - [Chapitre unique (art. D*2451-4 à R2451-5)](#655)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE (art. D*2461-5 à R2461-6)](#656)
-          - [Chapitre unique (art. D*2461-5 à R2461-6)](#657)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D*2471-4 à R2471-3)](#658)
-          - [Chapitre unique (art. D*2471-4 à R2471-3)](#659)
-        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. R2481-1 à R2482-1)](#660)
-          - [Chapitre Ier : Saint-Barthélémy (art. R2481-1)](#661)
-          - [Chapitre II : Saint-Martin (art. R2482-1)](#662)
-        - [TITRE IX : DISPOSITIONS APPLICABLES  A PLUSIEURS COLLECTIVITES (art. R2491-1 à D2491-19)](#663)
-          - [Chapitre unique (art. R2491-1 à D2491-19)](#664)
-            - [Section 1 : Réquisition de biens et de services. (art. R2491-1 à R2491-10)](#665)
-            - [Section 2 : Réquisitions militaires. (art. R2491-11 à R2491-18)](#666)
-            - [Section 3 : Armes chimiques (art. D2491-19)](#667)
-      - [Annexes mentionnées aux articles R. 2352-50, R. 2352-51, R. 2352-52 ET R. 2352-61 (art. Annexe I à Annexe VIII)](#668)
-    - [PARTIE 3 : LE MINISTERE DE LA DEFENSE ET LES ORGANISMES SOUS TUTELLE (art. R*3111-1 à R3582-1)](#669)
-      - [LIVRE Ier : L'ADMINISTRATION CENTRALE (art. R*3111-1 à R3127-7)](#670)
-        - [TITRE Ier : COMPOSITION DE L'ADMINISTRATION CENTRALE (art. R*3111-1 à D3111-2)](#671)
-          - [Chapitre unique (art. R*3111-1 à D3111-2)](#672)
-            - [Section 1 : Le ministre de la défense (art. R*3111-1)](#673)
-            - [Section 2 :  Organisation de l'administration centrale (art. D3111-2)](#674)
-        - [TITRE II : ORGANISMES ET AUTORITES MILITAIRES (art. R*3121-1 à R3127-7)](#675)
-          - [Chapitre Ier : Les états-majors (art. R*3121-1 à R*3121-26)](#676)
-            - [Section 1 :  Responsabilités générales du chef d'état-major des armées (art. R*3121-1 à D3121-20)](#677)
-              - [Paragraphe 1 : Emploi des forces (art. D3121-6 à D3121-7)](#678)
-              - [Paragraphe 2 :  Préparation et mise en condition d'emploi des armées (art. D3121-8)](#679)
-              - [Paragraphe 3 : Constitution des capacités militaires (art. D3121-9)](#680)
-              - [Paragraphe 4 : Ressources humaines (art. D3121-10 à D3121-13)](#681)
-              - [Paragraphe 5 : Relations internationales militaires (art. D3121-14)](#682)
-              - [Paragraphe 6 : Soutien des armées (art. D3121-15)](#683)
-              - [Paragraphe 7 : Responsabilités diverses (art. D3121-16 à D3121-20)](#684)
-            - [Section 2 :  L'état-major des armées (art. D3121-21 à D3121-24)](#685)
-            - [Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air (art. D3121-27 à R*3121-26)](#686)
-              - [Sous-section 1 : Attributions des chefs d'état-major (art. D3121-27 à R*3121-26)](#687)
-          - [Chapitre II : La direction générale de la gendarmerie nationale (art. D3122-1 à D3122-14)](#688)
-            - [Section 1 : Attributions du directeur général de la gendarmerie nationale (art. D3122-1 à D3122-11)](#689)
-            - [Section 2 : Inspection générale de la gendarmerie nationale (art. D3122-12 à D3122-14)](#690)
-          - [Chapitre III : Le contrôle général des armées (art. D3123-1 à D3123-20)](#691)
-          - [Chapitre IV : Les inspecteurs généraux (art. D3124-1 à D3124-11)](#692)
-            - [Section 1 : Inspecteurs généraux des armées (art. D3124-1 à D3124-6)](#693)
-            - [Section 2 : Inspecteur général du service de santé des armées (art. D3124-7 à D3124-11)](#694)
-          - [Chapitre V : Organismes d'enquêtes techniques (art. R3125-1 à R3125-28)](#695)
-            - [Section 1 : Dispositions générales (art. R3125-1 à R3125-5)](#696)
-            - [Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre (art. R3125-6 à R3125-12)](#697)
-            - [Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense (art. R3125-13 à R3125-17)](#698)
-            - [Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées (art. R3125-18 à R3125-21)](#699)
-            - [Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes techniques après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation (art. R3125-22 à R3125-28)](#700)
-          - [Chapitre VI : Les services de renseignement et de sécurité (art. D3126-1 à D3126-14)](#701)
-            - [Section 1 : Direction générale de la sécurité extérieure (art. D3126-1 à D3126-4)](#702)
-            - [Section 2 : Direction de la protection et de la sécurité de la défense (art. D3126-5 à D3126-9)](#703)
-            - [Section 3 : Direction du renseignement militaire (art. D3126-10 à D3126-14)](#704)
-          - [Chapitre VII : Le service de la poste interarmées (art. R3127-1 à R3127-7)](#705)
-      - [LIVRE II : LES FORCES ARMEES (art. R3222-1 à D3241-17)](#706)
-        - [TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE (art. R3222-1 à R3225-10)](#707)
-          - [Chapitre II : Organisation de l'armée de terre (art. R3222-1 à D3222-23)](#708)
-            - [Section 1 : Dispositions générales (art. R3222-1 à R3222-3)](#709)
-            - [Section 2 : Dispositions relatives aux forces (art. R3222-4)](#710)
-            - [Section 3 : Dispositions relatives aux commandements organiques territoriaux de l'armée de terre (art. R3222-5 à R3222-7)](#711)
-            - [Section 4 : Dispositions relatives aux services de l'armée de terre (art. R3222-8)](#712)
-            - [Section 5 : Relations entre commandements et services (art. R3222-9)](#713)
-            - [Section 6 : Dispositions particulières à certaines formations (art. R3222-10 à D3222-23)](#714)
-              - [Sous-section 1 : Les organismes de formation (art. R3222-10)](#715)
-              - [Sous-section 2 : La légion étrangère (art. D3222-11)](#716)
-              - [Sous-section 3 : Le commandement des formations militaires de la sécurité civile (art. D3222-12)](#717)
-              - [Sous-section 4 : Les sapeurs-pompiers de Paris (art. R3222-13 à R3222-18)](#718)
-              - [Sous-section 5 : Le commandement du service militaire adapté (art. D3222-19 à D3222-22)](#719)
-              - [Sous-section 6 : Le commandement de l'aviation légère de l'armée de terre (art. D3222-23)](#720)
-          - [Chapitre III : Organisation de la marine nationale (art. R3223-1 à R3223-60)](#721)
-            - [Section 1 : Dispositions générales (art. R3223-1 à R3223-5)](#722)
-            - [Section 2 : Dispositions relatives aux forces maritimes et aux éléments de forces maritimes (art. D3223-7 à D3223-45)](#723)
-              - [Sous-section 1 : Composition des forces maritimes (art. D3223-7 à R3223-6)](#724)
-              - [Sous-section 2 : Le commandant de force maritime (art. D3223-9 à D3223-14)](#725)
-              - [Sous-section 3 : Le commandant l'élément de force maritime (art. D3223-15 à D3223-24)](#726)
-              - [Sous-section 4 : Relations avec l'extérieur (art. D3223-25 à D3223-39)](#727)
-              - [Sous-section 5 : Dispositions particulières en cas de tension, de crise, de conflit armé ou de guerre (art. D3223-40 à D3223-45)](#728)
-            - [Section 3 : Dispositions relatives aux commandements organiques territoriaux de la marine (art. D3223-51 à R3223-50)](#729)
-            - [Section 4 : Dispositions relatives aux services de la marine (art. R3223-56)](#730)
-            - [Section 5 : Relations entre commandements et services (art. R3223-57 à R3223-58)](#731)
-            - [Section 6 : Dispositions particulières à certaines formations (art. R3223-59 à R3223-60)](#732)
-              - [Sous-section 1 : Les organismes de formation (art. R3223-59)](#733)
-              - [Sous-section 2 : Le bataillon des marins-pompiers de Marseille (art. R3223-60)](#734)
-          - [Chapitre  IV : Organisation de l'armée de l'air (art. R3224-1 à D3224-18)](#735)
-            - [Section 1 : Dispositions générales (art. R3224-1 à R3224-5)](#736)
-            - [Section 2 : Dispositions relatives aux forces (art. R3224-6 à R3224-7)](#737)
-            - [Section 3 : Dispositions relatives aux services de l'armée de l'air (art. R3224-8)](#738)
-            - [Section 4 : Relations entre commandements et services (art. R3224-9 à R3224-10)](#739)
-            - [Section 5 : Dispositions particulières à certaines formations (art. R3224-11 à D3224-18)](#740)
-              - [Sous-section 1 : Les bases aériennes (art. R3224-11)](#741)
-              - [Sous-section 2 : La direction des ressources humaines de l'armée de l'air (art. R3224-12)](#742)
-              - [Sous-section 3 : Le directeur de la circulation aérienne militaire (art. D3224-13 à D3224-18)](#743)
-          - [Chapitre V : Organisation de la gendarmerie nationale (art. R3225-1 à R3225-10)](#744)
-            - [Section unique : Dispositions générales (art. R3225-1 à R3225-10)](#745)
-        - [TITRE III : LES SERVICES DE SOUTIEN ET D'ADMINISTRATION (art. R3231-1 à R3233-28)](#746)
-          - [Chapitre Ier : Organisation générale (art. R3231-1 à R3231-12)](#747)
-          - [Chapitre II : Les services du commissariat (art. R3232-1 à R3232-10)](#748)
-          - [Chapitre III : Les services et organismes interarmées (art. R3233-1 à R3233-28)](#749)
-            - [Section 1 : Le service de santé des armées (art. R3233-1 à R3233-4)](#750)
-            - [Section 2 : Le service des essences des armées (art. R3233-5 à R3233-9)](#751)
-            - [Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (art. R3233-10 à R3233-18)](#752)
-            - [Section 4 : Dispositions communes aux organismes interarmées et à vocation interarmées (art. R3233-19)](#753)
-            - [Section 5 : La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense (art. R3233-20 à R3233-28)](#754)
-        - [TITRE IV : COMMANDEMENTS INTERARMEES (art. D3241-1 à D3241-17)](#755)
-          - [Chapitre unique : Commandements de forces  françaises à l'étranger (art. D3241-1 à D3241-17)](#756)
-            - [Section 1 : Commandement des forces françaises au Cap-Vert (art. D3241-1 à D3241-4)](#757)
-            - [Section 2 : Commandement des forces françaises stationnées à Djibouti (art. D3241-5 à D3241-8)](#758)
-            - [Section 3 : Commandement des forces françaises stationnées au Gabon (art. D3241-9 à D3241-12)](#759)
-            - [Section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne (art. D3241-13 à D3241-17)](#760)
-      - [LIVRE III : ORGANISMES CONSULTATIFS (art. R*3311-1 à D3341-5)](#761)
-        - [TITRE IER : LES CONSEILLERS DU GOUVERNEMENT  POUR LA DEFENSE (art. R*3311-1 à R*3311-3)](#762)
-          - [Chapitre unique (art. R*3311-1 à R*3311-3)](#763)
-        - [TITRE II : LES CONSEILS SUPERIEURS DE L'ARMEE DE TERRE, DE LA MARINE, DE L'ARMEE DE L'AIR ET DE LA GENDARMERIE (art. R3321-1 à R3323-1)](#764)
-          - [Chapitre Ier : Le conseil supérieur interarmées et les conseils supérieurs d'armée (art. R3321-1 à R3321-4)](#765)
-            - [Section 1 : Le conseil supérieur interarmées (art. R3321-1 à R3321-2)](#766)
-            - [Section 2 : Les conseils supérieurs d'armée (art. R3321-3 à R3321-4)](#767)
-          - [Chapitre II : Les conseils supérieurs de formation rattachée (art. R3322-1 à R3322-6)](#768)
-            - [Section 1 : Attributions (art. R3322-1)](#769)
-            - [Section 2 : Composition (art. R3322-2 à R3322-6)](#770)
-          - [Chapitre III : Règles de fonctionnement (art. R3323-1)](#771)
-        - [TITRE III : LE CONSEIL GENERAL DE L'ARMEMENT (art. D3331-1 à D3331-6)](#772)
-          - [Chapitre unique (art. D3331-1 à D3331-6)](#773)
-        - [TITRE IV : LE COMITE CONSULTATIF DE SANTE DES ARMEES (art. D3341-1 à D3341-5)](#774)
-          - [Chapitre unique (art. D3341-1 à D3341-5)](#775)
-      - [LIVRE IV : ETABLISSEMENTS PUBLICS (art. R3411-1 à R3423-35)](#776)
-        - [TITRE Ier : ETABLISSEMENTS PUBLICS  A CARACTERE ADMINISTRATIF (art. R3411-1 à R3417-32)](#777)
-          - [Chapitre Ier : Etablissements d'enseignement supérieur et de recherche (art. R3411-1 à R3411-87)](#778)
-            - [Section 1 : Institut supérieur de l'aéronautique et de l'espace (art. R3411-1 à R3411-28)](#779)
-              - [Sous-section 1 : Organisation administrative (art. D3411-17 à R3411-16)](#780)
-              - [Sous-section 2 : Personnel (art. R3411-21)](#781)
-              - [Sous-section 3 : Organisation financière (art. R3411-22 à R3411-25)](#782)
-              - [Sous-section 4 : Discipline (art. R3411-26 à R3411-28)](#783)
-            - [Section 2 : Ecole nationale supérieure des techniques avancées (art. R3411-29 à R3411-56)](#784)
-              - [Sous-section 1 : Organisation administrative (art. D3411-40 à R3411-45)](#785)
-              - [Sous-section 2 : Personnel (art. R3411-46)](#786)
-              - [Sous-section 3 : Organisation financière (art. R3411-47 à R3411-54)](#787)
-              - [Sous-section 4 : Discipline (art. R3411-55 à R3411-56)](#788)
-            - [Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement (art. R3411-57 à R3411-87)](#789)
-              - [Sous-section 1 : Organisation administrative (art. D3411-68 à R3411-75)](#790)
-              - [Sous-section 2 : Personnel (art. R3411-76)](#791)
-              - [Sous-section 3 : Organisation financière (art. R3411-77 à R3411-84)](#792)
-              - [Sous-section 4 : Discipline (art. R3411-85 à R3411-87)](#793)
-          - [Chapitre II : Cercles et foyers (art. R3412-1 à R3412-23)](#794)
-            - [Section 1 : Dispositions générales (art. R3412-1 à R3412-13)](#795)
-            - [Section 2 : Organisation administrative et financière (art. R3412-14 à R3412-19)](#796)
-            - [Section 3 : Dispositions spécifiques aux foyers (art. R3412-20)](#797)
-            - [Section 4 : Dispositions spécifiques au Cercle national des armées (art. R3412-21 à R3412-23)](#798)
-          - [Chapitre III : Organismes scientifiques et culturels (art. R3413-1 à R3413-115)](#799)
-            - [Section 1 : Musée de l'Armée (art. R3413-1 à R3413-34)](#800)
-              - [Sous-section 1 : Dispositions générales (art. R3413-1 à R3413-7)](#801)
-              - [Sous-section 2 : Organisation administrative et financière (art. R3413-8 à R3413-23)](#802)
-              - [Sous-section 3 : Règles comptables relatives aux collections et objets de collection (art. R3413-24 à R3413-31)](#803)
-              - [Sous-section 4 : Personnel (art. R3413-32 à R3413-34)](#804)
-            - [Section 2 : Musée national de la Marine (art. R3413-35 à R3413-61)](#805)
-              - [Sous-section 1 : Organisation administrative et financière (art. R3413-43 à R3413-58)](#806)
-              - [Sous-section 2 : Personnel (art. R3413-59 à R3413-61)](#807)
-            - [Section 3 : Musée de l'Air et de l'Espace (art. R3413-62 à R3413-87)](#808)
-              - [Sous-section 1 : Dispositions générales (art. R3413-62 à R3413-69)](#809)
-              - [Sous-section 2 : Organisation administrative et financière (art. R3413-70 à R3413-83)](#810)
-              - [Sous-section 3 : Personnel (art. R3413-84 à R3413-87)](#811)
-            - [Section 4 : Académie de marine (art. R3413-88 à R3413-115)](#812)
-              - [Sous-section 1 : Dispositions générales (art. R3413-88 à R3413-90)](#813)
-              - [Sous-section 2 : Organisation administrative et financière (art. R3413-91 à R3413-108)](#814)
-              - [Sous-section 3 : Membres de l'académie (art. R3413-109 à R3413-115)](#815)
-          - [Chapitre IV : Etablissement public d'insertion de la défense (art. R3414-1 à R3414-27)](#816)
-            - [Section 1 : Organisation et fonctionnement (art. R3414-3 à R3414-18)](#817)
-            - [Section 2 : Personnel (art. R3414-19 à R3414-20)](#818)
-            - [Section 3 : Régime financier et comptable (art. R3414-21 à R3414-26)](#819)
-            - [Section 4 : Immeubles (art. R3414-27)](#820)
-          - [Chapitre V : Etablissement de communication et de production audiovisuelle de la défense (art. R3415-1 à R3415-17)](#821)
-            - [Section 1 : Dispositions générales (art. R3415-1 à R3415-3)](#822)
-            - [Section 2 : Organisation administrative (art. R3415-4 à R3415-9)](#823)
-            - [Section 3 : Personnel (art. R3415-10)](#824)
-            - [Section 4 : Dispositions administratives et financières (art. R3415-11 à R3415-17)](#825)
-          - [Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM) (art. R3416-1 à R3416-30)](#826)
-            - [Section 1 : Missions (art. R3416-1 à R3416-7)](#827)
-            - [Section 2 : Organisation et fonctionnement (art. R3416-8 à R3416-22)](#828)
-            - [Section 3 : Régime financier et comptable (art. R3416-23 à R3416-28)](#829)
-            - [Section 4 : Personnel (art. R3416-29 à R3416-30)](#830)
-          - [Chapitre VII : L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique (art. R3417-1 à R3417-32)](#831)
-            - [Section 1 : Dispositions générales (art. R3417-1 à R3417-3)](#832)
-            - [Section 2 : Organisation et fonctionnement (art. R3417-4 à R3417-15)](#833)
-            - [Section 3 : Comité d'investissement (art. R3417-16 à R3417-18)](#834)
-            - [Section 4 : Directeur de l'établissement (art. R3417-19 à R3417-20)](#835)
-            - [Section 5 : Convention de gestion (art. R3417-21 à R3417-26)](#836)
-            - [Section 6 : Régime financier et comptable (art. R3417-27 à R3417-32)](#837)
-        - [TITRE II : ETABLISSEMENTS PUBLICS A CARACTERE  INDUSTRIEL ET COMMERCIAL (art. R3421-1 à R3423-35)](#838)
-          - [Chapitre Ier : L'économat des armées (art. R3421-1 à R3421-14)](#839)
-            - [Section 1 : Dispositions générales (art. R3421-1 à R3421-13)](#840)
-            - [Section 2 : Organisation administrative et financière (art. R3421-14)](#841)
-          - [Chapitre II : L'Institution de gestion sociale des armées (art. R3422-1 à R3422-23)](#842)
-            - [Section 1 : Dispositions générales (art. R3422-1 à R3422-2)](#843)
-            - [Section 2 : Organisation et fonctionnement (art. R3422-3 à R3422-8)](#844)
-            - [Section 3 : Dispositions financières (art. R3422-9 à R3422-23)](#845)
-          - [Chapitre III : L'office national d'études et de recherches aérospatiales (art. R3423-1 à R3423-35)](#846)
-            - [Section 1 : Dispositions générales (art. R3423-1 à R3423-4)](#847)
-            - [Section 2 : Organisation administrative et financière (art. R3423-5 à R3423-34)](#848)
-              - [Sous-section 1 : Conseil d'administration et organisation administrative générale (art. R3423-6 à R3423-19)](#849)
-              - [Sous-section 2 : Haut conseil scientifique (art. R3423-20 à R3423-21)](#850)
-              - [Sous-section 3 : Comité scientifique et technique (art. R3423-22 à R3423-25)](#851)
-              - [Sous-section 4 : Organisation financière (art. R3423-26 à R3423-34)](#852)
-            - [Section 3 : Personnel (art. R3423-35)](#853)
-      - [LIVRE V : DISPOSITIONS RELATIVES A L'OUTRE MER (art. R3511-1 à R3582-1)](#854)
-        - [TITRE Ier : DISPOSITIONS PARTICULIERES  AUX DEPARTEMENTS D'OUTRE MER (art. R3511-1)](#855)
-          - [Chapitre unique (art. R3511-1)](#856)
-        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. R3521-1)](#857)
-          - [Chapitre unique (art. R3521-1)](#858)
-        - [TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE (art. R3531-1)](#859)
-          - [Chapitre unique (art. R3531-1)](#860)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D3541-4 à R3541-3)](#861)
-          - [Chapitre unique (art. D3541-4 à R3541-3)](#862)
-        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE (art. D3551-4 à R3551-3)](#863)
-          - [Chapitre unique (art. D3551-4 à R3551-3)](#864)
-        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE (art. D3561-4 à R3561-3)](#865)
-          - [Chapitre unique (art. D3561-4 à R3561-3)](#866)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D3571-4 à R3571-3)](#867)
-          - [Chapitre unique (art. D3571-4 à R3571-3)](#868)
-        - [TITRE VIII : DISPOSITIONS PARTICULIERES A SAINT BARTHELEMY  ET A SAINT MARTIN (art. R3581-1 à R3582-1)](#869)
-          - [Chapitre Ier : Saint-Barthélemy (art. R3581-1)](#870)
-          - [Chapitre II : Saint-Martin (art. R3582-1)](#871)
-    - [PARTIE 4 : LE PERSONNEL MILITAIRE (art. D4111-1 à R4382-3)](#872)
-      - [LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES (art. D4111-1 à D4152-11)](#873)
-        - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D4111-1 à D4111-7)](#874)
-          - [Chapitre unique (art. D4111-1 à D4111-7)](#875)
-            - [Section unique : Haut Comité d'évaluation de la condition militaire (art. D4111-1 à D4111-7)](#876)
-        - [TITRE II : DROITS ET OBLIGATIONS (art. D4121-1 à R4125-23)](#877)
-          - [Chapitre Ier : Exercice des droits civils et politiques (art. D4121-1 à D4121-5)](#878)
-          - [Chapitre II : Obligations et responsabilités (art. D4122-1 à R4122-33)](#879)
-            - [Section 1 : Dispositions générales (art. D4122-1 à D4122-13)](#880)
-              - [Sous-section 1 : Devoirs et responsabilités du chef  et du subordonné militaires (art. D4122-1 à D4122-6)](#881)
-              - [Sous-section 2 : Respect des règles du droit international  applicable aux conflits armés (art. D4122-7 à D4122-11)](#882)
-              - [Sous-section 3 : Respect de la neutralité des forces armées  et protection du moral et de la discipline (art. D4122-12)](#883)
-              - [Sous-section 4 : Vaccination (art. D4122-13)](#884)
-            - [Section 2 : Exercice d'activités privées ou d'activités accessoires. (art. R*4122-14 à R4122-33)](#885)
-              - [Sous-section 1 : Exercice d'activités privées lucratives par certains militaires. (art. R*4122-14 à R*4122-24)](#886)
-              - [Sous-section 2 : Cumul d'activités à titre accessoire des militaires. (art. R4122-25 à R4122-33)](#887)
-          - [Chapitre III : Rémunération, garanties et protections (art. R4123-1 à R4123-44)](#888)
-            - [Section 1 : Rémunération (art. R4123-1)](#889)
-            - [Section 2 : Garanties et couverture des risques (art. D4123-2 à R4123-37)](#890)
-              - [Sous-section 1 : Fonds de prévoyance militaire (art. D4123-2 à D4123-13)](#891)
-              - [Sous-section 2 : Fonds de prévoyance de l'aéronautique (art. R4123-14 à R4123-29)](#892)
-              - [Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat (art. R4123-30 à R4123-37)](#893)
-            - [Section 3 : Dispositions au bénéfice d'enfants mineurs de militaires  tués ou blessés accidentellement en temps de paix (art. R4123-38 à R4123-44)](#894)
-          - [Chapitre IV : Organismes consultatifs et de concertation (art. R4124-1 à R4124-25)](#895)
-            - [Section 1 : Conseil supérieur de la fonction militaire (art. R4124-1 à R4124-5)](#896)
-            - [Section 2 : Conseils de la fonction militaire (art. R4124-6 à R4124-14)](#897)
-            - [Section 3 : Dispositions communes au conseil supérieur  et aux conseils de la fonction militaire (art. R4124-15 à R4124-25)](#898)
-          - [Chapitre V : Recours administratif préalable (art. R4125-1 à R4125-23)](#899)
-            - [Section 1 : Dispositions générales (art. R4125-2 à R4125-14)](#900)
-            - [Section 2 : Dispositions particulières aux militaires rattachés organiquement à un ministre autre que le ministre de la défense (art. R4125-15 à R4125-23)](#901)
-              - [Sous-section 1 : Dispositions particulières aux militaires de la gendarmerie nationale (art. R4125-15 à R4125-19)](#902)
-              - [Sous-section 2 : Dispositions particulières aux militaires relevant du ministre chargé de la mer (art. R4125-20 à R4125-23)](#903)
-        - [TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES (art. D4131-1 à R4139-61)](#904)
-          - [Chapitre Ier : Hiérarchie militaire (art. D4131-1 à R4131-13)](#905)
-          - [Chapitre III : Changements d'armée ou de corps (art. R4133-1 à R4133-9)](#906)
-            - [Section 1 : Dispositions générales (art. R4133-1 à R4133-4)](#907)
-            - [Section 2 : Dispositions particulières aux changements sur demande (art. R4133-5)](#908)
-            - [Section 3 : Dispositions particulières aux changements d'office (art. R4133-6 à R4133-9)](#909)
-          - [Chapitre V : Notation (art. R4135-1 à R4135-8)](#910)
-            - [Section 1 : Dispositions générales (art. R4135-1 à R4135-7)](#911)
-            - [Section 2 : Dispositions relatives aux mutations (art. R4135-8)](#912)
-          - [Chapitre VI : Avancement (art. R4136-1)](#913)
-          - [Chapitre VI-1 : Orientation professionnelle (art. D4136-1-1)](#914)
-          - [Chapitre VII : Discipline (art. D4137-1 à D4137-142)](#915)
-            - [Section 1 : Dispositions générales (art. D4137-1 à D4137-3)](#916)
-              - [Sous-section 1 : Discipline militaire (art. D4137-1)](#917)
-              - [Sous-section 2 : Tenue (art. D4137-2 à D4137-3)](#918)
-            - [Section 2 : Récompenses (art. D4137-4 à D4137-8)](#919)
-            - [Section 3 : Sanctions disciplinaires (art. R4137-9 à R4137-46)](#920)
-              - [Sous-section 1 : Principes (art. R4137-9 à R4137-24)](#921)
-              - [Sous-section 2 : Sanctions disciplinaires du premier groupe (art. R4137-25 à R4137-33)](#922)
-              - [Sous-section 3 : Sanctions disciplinaires du deuxième groupe (art. R4137-34 à R4137-40)](#923)
-              - [Sous-section 4 : Sanctions disciplinaires du troisième groupe (art. R4137-41 à R4137-44)](#924)
-              - [Sous-section 5 : Suspension de fonctions (art. R4137-45 à R4137-46)](#925)
-            - [Section 4 : Conseil de discipline (art. R4137-47 à R4137-65)](#926)
-              - [Sous-section 1 : Dispositions générales (art. R4137-47)](#927)
-              - [Sous-section 2 : Composition du conseil de discipline (art. R4137-48 à R4137-52)](#928)
-              - [Sous-section 3 : Constitution du conseil de discipline (art. R4137-53 à R4137-56)](#929)
-              - [Sous-section 4 : Fonctionnement du conseil de discipline (art. R4137-57 à R4137-65)](#930)
-            - [Section 5 : Conseil d'enquête (art. R4137-66 à R4137-92)](#931)
-              - [Sous-section 1 : Dispositions générales (art. R4137-66)](#932)
-              - [Sous-section 2 : Composition du conseil d'enquête (art. R4137-67 à R4137-71)](#933)
-              - [Sous-section 3 : Constitution du conseil d'enquête (art. R4137-72 à R4137-76)](#934)
-              - [Sous-section 4 : Fonctionnement du conseil d'enquête (art. R4137-77 à R4137-92)](#935)
-            - [Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement (art. R4137-93 à R4137-113)](#936)
-              - [Sous-section 1 : Dispositions générales (art. R4137-93)](#937)
-              - [Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-94 à R4137-95)](#938)
-              - [Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-96 à R4137-100)](#939)
-              - [Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-101 à R4137-113)](#940)
-            - [Section 7 : Sanctions professionnelles applicables aux militaires (art. R4137-114 à R4137-133)](#941)
-              - [Sous-section 1 : Principes (art. R4137-114 à R4137-120-1)](#942)
-              - [Sous-section 2 : Conseil d'examen des faits professionnels (art. R4137-121 à R4137-132)](#943)
-              - [Sous-section 3 : Dispositions diverses (art. R4137-133)](#944)
-            - [Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables (art. R4137-134 à R4137-141)](#945)
-            - [Section 9 : Dispositions finales (art. D4137-142)](#946)
-          - [Chapitre VIII : Positions statutaires (art. R4138-1 à R4138-76)](#947)
-            - [Section 1 : Activité (art. R4138-1 à R4138-33)](#948)
-              - [Sous-section 1 : Congé de maladie (art. R4138-3)](#949)
-              - [Sous-section 2 : Congé de maternité (art. R4138-4)](#950)
-              - [Sous-section 3 : Congé de paternité (art. R4138-5)](#951)
-              - [Sous-section 4 : Congé d'adoption (art. R4138-6)](#952)
-              - [Sous-section 5 : Congé de présence parentale (art. R4138-7 à R4138-15)](#953)
-              - [Sous-section 6 : Permissions et congé de fin de campagne (art. R4138-16 à R4138-27)](#954)
-              - [Sous-section 7 : Congé de reconversion (art. R4138-28 à R4138-29)](#955)
-              - [Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées (art. R4138-30 à R4138-33)](#956)
-            - [Section 2 : Détachement (art. R4138-34 à R4138-44)](#957)
-            - [Section 3 : Hors cadres (art. R4138-45 à R4138-46)](#958)
-            - [Section 4 : Non-activité (art. R4138-47 à R4138-73)](#959)
-              - [Sous-section 1 : Congé de longue durée pour maladie (art. R4138-47 à R4138-57)](#960)
-              - [Sous-section 2 : Congé de longue maladie (art. R4138-58)](#961)
-              - [Sous-section 3 : Congé parental (art. R4138-59 à R4138-63)](#962)
-              - [Sous-section 4 : Retrait d'emploi (art. R4138-64)](#963)
-              - [Sous-section 5 : Congé pour convenances personnelles (art. R4138-65 à R4138-66)](#964)
-              - [Sous-section 6 : Disponibilité (art. R4138-67)](#965)
-              - [Sous-section 7 : Congé complémentaire de reconversion (art. R4138-68 à R4138-70)](#966)
-              - [Sous-section 8 : Congé du personnel navigant (art. R4138-71 à R4138-73)](#967)
-                - [Paragraphe 1 : Dispositions générales (art. R4138-71 à R4138-72)](#968)
-                - [Paragraphe 2 : Dispositions applicables aux militaires de carrière (art. R4138-73)](#969)
-            - [Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires (art. R4138-74 à R4138-76)](#970)
-          - [Chapitre IX : Fin de l'état militaire (art. R4139-1 à R4139-61)](#971)
-            - [Section 1 :  Dispositifs d'accès à la fonction publique civile (art. R4139-1 à R4139-40)](#972)
-              - [Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature (art. R4139-1 à R4139-9)](#973)
-              - [Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques (art. D4139-10 à D4139-13)](#974)
-              - [Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat (art. R*4139-14 à R*4139-22)](#975)
-              - [Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale (art. R4139-23 à R4139-31)](#976)
-              - [Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière (art. R4139-32 à R4139-40)](#977)
-            - [Section 2 : Dispositifs d'aide au départ (art. R4139-41 à R4139-45)](#978)
-              - [Sous-section unique : Dispositions applicables aux militaires de carrière (art. R4139-41 à R4139-45)](#979)
-            - [Section 3 : Radiation des cadres ou des contrôles (art. R4139-46 à R4139-61)](#980)
-              - [Sous-section 1 : Dispositions générales (art. R4139-46 à R4139-49)](#981)
-              - [Sous-section 2 : Lien au service (art. R4139-50 à R4139-52)](#982)
-              - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#983)
-        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#984)
-          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#985)
-        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-11)](#986)
-          - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#987)
-            - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#988)
-            - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#989)
-            - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#990)
-          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-11)](#991)
-            - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#992)
-            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-11)](#993)
-      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-25)](#994)
-        - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#995)
-          - [Chapitre unique (art. R4211-1 à R4211-12)](#996)
-            - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#997)
-            - [Section 2 : Dispositions relatives à l'honorariat (art. R4211-6 à R4211-9)](#998)
-            - [Section 3 : Radiation de la réserve (art. R4211-10 à R4211-12)](#999)
-        - [TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE (art. R4221-1 à R4221-28)](#1000)
-          - [Chapitre unique (art. R4221-1 à R4221-28)](#1001)
-            - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle (art. R4221-1 à R4221-5)](#1002)
-            - [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an (art. D4221-6 à D4221-8)](#1003)
-            - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10)](#1004)
-            - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#1005)
-            - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#1006)
-            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#1007)
-            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#1008)
-            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#1009)
-        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#1010)
-          - [Chapitre unique (art. R4231-1 à R4231-5)](#1011)
-        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1012)
-          - [Chapitre unique (art. R4241-1 à R4241-3)](#1013)
-        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#1014)
-          - [Chapitre unique (art. D4261-1 à D4261-25)](#1015)
-            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#1016)
-            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#1017)
-            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#1018)
-      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1019)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1020)
-          - [Chapitre unique (art. D4341-4 à R4341-3)](#1021)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1022)
-          - [Chapitre unique (art. D4351-4 à R4351-3)](#1023)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1024)
-          - [Chapitre unique (art. D4361-4 à R4361-3)](#1025)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1026)
-          - [Chapitre unique (art. D4371-3 à R4371-2)](#1027)
-        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1028)
-          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1029)
-          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1030)
+              - [Sous-section 2 : Marquage des produits explosifs (art. R2352-47 à R2352-64)](#628)
+                - [Paragraphe 1 : Produits explosifs soumis au marquage CE (art. R2352-64)](#629)
+              - [Sous-section 3 : Acquisition, détention et transport des produits explosifs (art. R2352-73 à R2352-80)](#630)
+              - [Sous-section 4 : Utilisation des produits explosifs (art. R2352-81 à R2352-83)](#631)
+              - [Sous-section 5 : Conservation des produits explosifs (art. R2352-84 à R2352-88)](#632)
+              - [Sous-section 6 : Installations de produits explosifs (art. R2352-89 à R2352-109)](#633)
+                - [Paragraphe 1 : Règles générales (art. R2352-89 à R2352-96)](#634)
+                - [Paragraphe 2 : Agrément technique (art. R2352-97 à R2352-102)](#635)
+                - [Paragraphe 3 : Suivi de l'exploitation des installations fixes ou mobiles de produits explosifs (art. R2352-103 à R2352-109)](#636)
+              - [Sous-section 7 : Dispositions particulières aux dépôts, débits et installations mobiles de produits explosifs (art. R2352-110 à R2352-121)](#637)
+                - [Paragraphe 1 : Autorisations individuelles d'exploitation (art. R2352-110 à R2352-117)](#638)
+                - [Paragraphe 2 : Agrément des personnes intervenant dans les dépôts, débits et installations mobiles de produits explosifs (art. R2352-118 à R2352-121)](#639)
+            - [Section 4 : Etudes et recherches relatives aux produits explosifs (art. R2352-122 à R2352-125)](#640)
+          - [Chapitre III : Dispositions pénales (art. R2353-1 à R2353-16)](#641)
+            - [Section 1 : Agents habilités à constater les infractions (art. R2353-1)](#642)
+            - [Section 2 : Sanctions pénales (art. R2353-2 à R2353-16)](#643)
+        - [TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES (art. R2361-1 à R2363-7)](#644)
+          - [Chapitre Ier : Zones militaires (art. R2361-1)](#645)
+          - [Chapitre II : Zones protégées (art. D2362-2 à R2362-1)](#646)
+          - [Chapitre III : Zones de défense hautement sensibles (art. R2363-1 à R2363-7)](#647)
+      - [LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER (art. R2431-1 à D2491-19)](#648)
+        - [TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE (art. R2431-1)](#649)
+          - [Chapitre unique (art. R2431-1)](#650)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D*2441-4 à R2441-5)](#651)
+          - [Chapitre unique (art. D*2441-4 à R2441-5)](#652)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE (art. D*2451-4 à R2451-5)](#653)
+          - [Chapitre unique (art. D*2451-4 à R2451-5)](#654)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE (art. D*2461-5 à R2461-6)](#655)
+          - [Chapitre unique (art. D*2461-5 à R2461-6)](#656)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D*2471-4 à R2471-3)](#657)
+          - [Chapitre unique (art. D*2471-4 à R2471-3)](#658)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. R2481-1 à R2482-1)](#659)
+          - [Chapitre Ier : Saint-Barthélémy (art. R2481-1)](#660)
+          - [Chapitre II : Saint-Martin (art. R2482-1)](#661)
+        - [TITRE IX : DISPOSITIONS APPLICABLES  A PLUSIEURS COLLECTIVITES (art. R2491-1 à D2491-19)](#662)
+          - [Chapitre unique (art. R2491-1 à D2491-19)](#663)
+            - [Section 1 : Réquisition de biens et de services. (art. R2491-1 à R2491-10)](#664)
+            - [Section 2 : Réquisitions militaires. (art. R2491-11 à R2491-18)](#665)
+            - [Section 3 : Armes chimiques (art. D2491-19)](#666)
+    - [PARTIE 3 : LE MINISTERE DE LA DEFENSE ET LES ORGANISMES SOUS TUTELLE (art. R*3111-1 à R3582-1)](#667)
+      - [LIVRE Ier : L'ADMINISTRATION CENTRALE (art. R*3111-1 à R3127-7)](#668)
+        - [TITRE Ier : COMPOSITION DE L'ADMINISTRATION CENTRALE (art. R*3111-1 à D3111-2)](#669)
+          - [Chapitre unique (art. R*3111-1 à D3111-2)](#670)
+            - [Section 1 : Le ministre de la défense (art. R*3111-1)](#671)
+            - [Section 2 :  Organisation de l'administration centrale (art. D3111-2)](#672)
+        - [TITRE II : ORGANISMES ET AUTORITES MILITAIRES (art. R*3121-1 à R3127-7)](#673)
+          - [Chapitre Ier : Les états-majors (art. R*3121-1 à R*3121-26)](#674)
+            - [Section 1 :  Responsabilités générales du chef d'état-major des armées (art. R*3121-1 à D3121-20)](#675)
+              - [Paragraphe 1 : Emploi des forces (art. D3121-6 à D3121-7)](#676)
+              - [Paragraphe 2 :  Préparation et mise en condition d'emploi des armées (art. D3121-8)](#677)
+              - [Paragraphe 3 : Constitution des capacités militaires (art. D3121-9)](#678)
+              - [Paragraphe 4 : Ressources humaines (art. D3121-10 à D3121-13)](#679)
+              - [Paragraphe 5 : Relations internationales militaires (art. D3121-14)](#680)
+              - [Paragraphe 6 : Soutien des armées (art. D3121-15)](#681)
+              - [Paragraphe 7 : Responsabilités diverses (art. D3121-16 à D3121-20)](#682)
+            - [Section 2 :  L'état-major des armées (art. D3121-21 à D3121-24)](#683)
+            - [Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air (art. D3121-27 à R*3121-26)](#684)
+              - [Sous-section 1 : Attributions des chefs d'état-major (art. D3121-27 à R*3121-26)](#685)
+          - [Chapitre II : La direction générale de la gendarmerie nationale (art. D3122-1 à D3122-14)](#686)
+            - [Section 1 : Attributions du directeur général de la gendarmerie nationale (art. D3122-1 à D3122-11)](#687)
+            - [Section 2 : Inspection générale de la gendarmerie nationale (art. D3122-12 à D3122-14)](#688)
+          - [Chapitre III : Le contrôle général des armées (art. D3123-1 à D3123-20)](#689)
+          - [Chapitre IV : Les inspecteurs généraux (art. D3124-1 à D3124-11)](#690)
+            - [Section 1 : Inspecteurs généraux des armées (art. D3124-1 à D3124-6)](#691)
+            - [Section 2 : Inspecteur général du service de santé des armées (art. D3124-7 à D3124-11)](#692)
+          - [Chapitre V : Organismes d'enquêtes techniques (art. R3125-1 à R3125-28)](#693)
+            - [Section 1 : Dispositions générales (art. R3125-1 à R3125-5)](#694)
+            - [Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre (art. R3125-6 à R3125-12)](#695)
+            - [Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense (art. R3125-13 à R3125-17)](#696)
+            - [Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées (art. R3125-18 à R3125-21)](#697)
+            - [Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes techniques après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation (art. R3125-22 à R3125-28)](#698)
+          - [Chapitre VI : Les services de renseignement et de sécurité (art. D3126-1 à D3126-14)](#699)
+            - [Section 1 : Direction générale de la sécurité extérieure (art. D3126-1 à D3126-4)](#700)
+            - [Section 2 : Direction de la protection et de la sécurité de la défense (art. D3126-5 à D3126-9)](#701)
+            - [Section 3 : Direction du renseignement militaire (art. D3126-10 à D3126-14)](#702)
+          - [Chapitre VII : Le service de la poste interarmées (art. R3127-1 à R3127-7)](#703)
+      - [LIVRE II : LES FORCES ARMEES (art. R3222-1 à D3241-17)](#704)
+        - [TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE (art. R3222-1 à R3225-10)](#705)
+          - [Chapitre II : Organisation de l'armée de terre (art. R3222-1 à D3222-23)](#706)
+            - [Section 1 : Dispositions générales (art. R3222-1 à R3222-3)](#707)
+            - [Section 2 : Dispositions relatives aux forces (art. R3222-4)](#708)
+            - [Section 3 : Dispositions relatives aux commandements organiques territoriaux de l'armée de terre (art. R3222-5 à R3222-7)](#709)
+            - [Section 4 : Dispositions relatives aux services de l'armée de terre (art. R3222-8)](#710)
+            - [Section 5 : Relations entre commandements et services (art. R3222-9)](#711)
+            - [Section 6 : Dispositions particulières à certaines formations (art. R3222-10 à D3222-23)](#712)
+              - [Sous-section 1 : Les organismes de formation (art. R3222-10)](#713)
+              - [Sous-section 2 : La légion étrangère (art. D3222-11)](#714)
+              - [Sous-section 3 : Le commandement des formations militaires de la sécurité civile (art. D3222-12)](#715)
+              - [Sous-section 4 : Les sapeurs-pompiers de Paris (art. R3222-13 à R3222-18)](#716)
+              - [Sous-section 5 : Le commandement du service militaire adapté (art. D3222-19 à D3222-22)](#717)
+              - [Sous-section 6 : Le commandement de l'aviation légère de l'armée de terre (art. D3222-23)](#718)
+          - [Chapitre III : Organisation de la marine nationale (art. R3223-1 à R3223-60)](#719)
+            - [Section 1 : Dispositions générales (art. R3223-1 à R3223-5)](#720)
+            - [Section 2 : Dispositions relatives aux forces maritimes et aux éléments de forces maritimes (art. D3223-7 à D3223-45)](#721)
+              - [Sous-section 1 : Composition des forces maritimes (art. D3223-7 à R3223-6)](#722)
+              - [Sous-section 2 : Le commandant de force maritime (art. D3223-9 à D3223-14)](#723)
+              - [Sous-section 3 : Le commandant l'élément de force maritime (art. D3223-15 à D3223-24)](#724)
+              - [Sous-section 4 : Relations avec l'extérieur (art. D3223-25 à D3223-39)](#725)
+              - [Sous-section 5 : Dispositions particulières en cas de tension, de crise, de conflit armé ou de guerre (art. D3223-40 à D3223-45)](#726)
+            - [Section 3 : Dispositions relatives aux commandements organiques territoriaux de la marine (art. D3223-51 à R3223-50)](#727)
+            - [Section 4 : Dispositions relatives aux services de la marine (art. R3223-56)](#728)
+            - [Section 5 : Relations entre commandements et services (art. R3223-57 à R3223-58)](#729)
+            - [Section 6 : Dispositions particulières à certaines formations (art. R3223-59 à R3223-60)](#730)
+              - [Sous-section 1 : Les organismes de formation (art. R3223-59)](#731)
+              - [Sous-section 2 : Le bataillon des marins-pompiers de Marseille (art. R3223-60)](#732)
+          - [Chapitre  IV : Organisation de l'armée de l'air (art. R3224-1 à D3224-18)](#733)
+            - [Section 1 : Dispositions générales (art. R3224-1 à R3224-5)](#734)
+            - [Section 2 : Dispositions relatives aux forces (art. R3224-6 à R3224-7)](#735)
+            - [Section 3 : Dispositions relatives aux services de l'armée de l'air (art. R3224-8)](#736)
+            - [Section 4 : Relations entre commandements et services (art. R3224-9 à R3224-10)](#737)
+            - [Section 5 : Dispositions particulières à certaines formations (art. R3224-11 à D3224-18)](#738)
+              - [Sous-section 1 : Les bases aériennes (art. R3224-11)](#739)
+              - [Sous-section 2 : La direction des ressources humaines de l'armée de l'air (art. R3224-12)](#740)
+              - [Sous-section 3 : Le directeur de la circulation aérienne militaire (art. D3224-13 à D3224-18)](#741)
+          - [Chapitre V : Organisation de la gendarmerie nationale (art. R3225-1 à R3225-10)](#742)
+            - [Section unique : Dispositions générales (art. R3225-1 à R3225-10)](#743)
+        - [TITRE III : LES SERVICES DE SOUTIEN ET D'ADMINISTRATION (art. R3231-1 à R3233-28)](#744)
+          - [Chapitre Ier : Organisation générale (art. R3231-1 à R3231-12)](#745)
+          - [Chapitre II : Les services du commissariat (art. R3232-1 à R3232-10)](#746)
+          - [Chapitre III : Les services et organismes interarmées (art. R3233-1 à R3233-28)](#747)
+            - [Section 1 : Le service de santé des armées (art. R3233-1 à R3233-4)](#748)
+            - [Section 2 : Le service des essences des armées (art. R3233-5 à R3233-9)](#749)
+            - [Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense (art. R3233-10 à R3233-18)](#750)
+            - [Section 4 : Dispositions communes aux organismes interarmées et à vocation interarmées (art. R3233-19)](#751)
+            - [Section 5 : La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense (art. R3233-20 à R3233-28)](#752)
+        - [TITRE IV : COMMANDEMENTS INTERARMEES (art. D3241-1 à D3241-17)](#753)
+          - [Chapitre unique : Commandements de forces  françaises à l'étranger (art. D3241-1 à D3241-17)](#754)
+            - [Section 1 : Commandement des forces françaises au Cap-Vert (art. D3241-1 à D3241-4)](#755)
+            - [Section 2 : Commandement des forces françaises stationnées à Djibouti (art. D3241-5 à D3241-8)](#756)
+            - [Section 3 : Commandement des forces françaises stationnées au Gabon (art. D3241-9 à D3241-12)](#757)
+            - [Section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne (art. D3241-13 à D3241-17)](#758)
+      - [LIVRE III : ORGANISMES CONSULTATIFS (art. R*3311-1 à D3341-5)](#759)
+        - [TITRE IER : LES CONSEILLERS DU GOUVERNEMENT  POUR LA DEFENSE (art. R*3311-1 à R*3311-3)](#760)
+          - [Chapitre unique (art. R*3311-1 à R*3311-3)](#761)
+        - [TITRE II : LES CONSEILS SUPERIEURS DE L'ARMEE DE TERRE, DE LA MARINE, DE L'ARMEE DE L'AIR ET DE LA GENDARMERIE (art. R3321-1 à R3323-1)](#762)
+          - [Chapitre Ier : Le conseil supérieur interarmées et les conseils supérieurs d'armée (art. R3321-1 à R3321-4)](#763)
+            - [Section 1 : Le conseil supérieur interarmées (art. R3321-1 à R3321-2)](#764)
+            - [Section 2 : Les conseils supérieurs d'armée (art. R3321-3 à R3321-4)](#765)
+          - [Chapitre II : Les conseils supérieurs de formation rattachée (art. R3322-1 à R3322-6)](#766)
+            - [Section 1 : Attributions (art. R3322-1)](#767)
+            - [Section 2 : Composition (art. R3322-2 à R3322-6)](#768)
+          - [Chapitre III : Règles de fonctionnement (art. R3323-1)](#769)
+        - [TITRE III : LE CONSEIL GENERAL DE L'ARMEMENT (art. D3331-1 à D3331-6)](#770)
+          - [Chapitre unique (art. D3331-1 à D3331-6)](#771)
+        - [TITRE IV : LE COMITE CONSULTATIF DE SANTE DES ARMEES (art. D3341-1 à D3341-5)](#772)
+          - [Chapitre unique (art. D3341-1 à D3341-5)](#773)
+      - [LIVRE IV : ETABLISSEMENTS PUBLICS (art. R3411-1 à R3423-35)](#774)
+        - [TITRE Ier : ETABLISSEMENTS PUBLICS  A CARACTERE ADMINISTRATIF (art. R3411-1 à R3417-32)](#775)
+          - [Chapitre Ier : Etablissements d'enseignement supérieur et de recherche (art. R3411-1 à R3411-87)](#776)
+            - [Section 1 : Institut supérieur de l'aéronautique et de l'espace (art. R3411-1 à R3411-28)](#777)
+              - [Sous-section 1 : Organisation administrative (art. D3411-17 à R3411-16)](#778)
+              - [Sous-section 2 : Personnel (art. R3411-21)](#779)
+              - [Sous-section 3 : Organisation financière (art. R3411-22 à R3411-25)](#780)
+              - [Sous-section 4 : Discipline (art. R3411-26 à R3411-28)](#781)
+            - [Section 2 : Ecole nationale supérieure des techniques avancées (art. R3411-29 à R3411-56)](#782)
+              - [Sous-section 1 : Organisation administrative (art. D3411-40 à R3411-45)](#783)
+              - [Sous-section 2 : Personnel (art. R3411-46)](#784)
+              - [Sous-section 3 : Organisation financière (art. R3411-47 à R3411-54)](#785)
+              - [Sous-section 4 : Discipline (art. R3411-55 à R3411-56)](#786)
+            - [Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement (art. R3411-57 à R3411-87)](#787)
+              - [Sous-section 1 : Organisation administrative (art. D3411-68 à R3411-75)](#788)
+              - [Sous-section 2 : Personnel (art. R3411-76)](#789)
+              - [Sous-section 3 : Organisation financière (art. R3411-77 à R3411-84)](#790)
+              - [Sous-section 4 : Discipline (art. R3411-85 à R3411-87)](#791)
+          - [Chapitre II : Cercles et foyers (art. R3412-1 à R3412-23)](#792)
+            - [Section 1 : Dispositions générales (art. R3412-1 à R3412-13)](#793)
+            - [Section 2 : Organisation administrative et financière (art. R3412-14 à R3412-19)](#794)
+            - [Section 3 : Dispositions spécifiques aux foyers (art. R3412-20)](#795)
+            - [Section 4 : Dispositions spécifiques au Cercle national des armées (art. R3412-21 à R3412-23)](#796)
+          - [Chapitre III : Organismes scientifiques et culturels (art. R3413-1 à R3413-115)](#797)
+            - [Section 1 : Musée de l'Armée (art. R3413-1 à R3413-34)](#798)
+              - [Sous-section 1 : Dispositions générales (art. R3413-1 à R3413-7)](#799)
+              - [Sous-section 2 : Organisation administrative et financière (art. R3413-8 à R3413-23)](#800)
+              - [Sous-section 3 : Règles comptables relatives aux collections et objets de collection (art. R3413-24 à R3413-31)](#801)
+              - [Sous-section 4 : Personnel (art. R3413-32 à R3413-34)](#802)
+            - [Section 2 : Musée national de la Marine (art. R3413-35 à R3413-61)](#803)
+              - [Sous-section 1 : Organisation administrative et financière (art. R3413-43 à R3413-58)](#804)
+              - [Sous-section 2 : Personnel (art. R3413-59 à R3413-61)](#805)
+            - [Section 3 : Musée de l'Air et de l'Espace (art. R3413-62 à R3413-87)](#806)
+              - [Sous-section 1 : Dispositions générales (art. R3413-62 à R3413-69)](#807)
+              - [Sous-section 2 : Organisation administrative et financière (art. R3413-70 à R3413-83)](#808)
+              - [Sous-section 3 : Personnel (art. R3413-84 à R3413-87)](#809)
+            - [Section 4 : Académie de marine (art. R3413-88 à R3413-115)](#810)
+              - [Sous-section 1 : Dispositions générales (art. R3413-88 à R3413-90)](#811)
+              - [Sous-section 2 : Organisation administrative et financière (art. R3413-91 à R3413-108)](#812)
+              - [Sous-section 3 : Membres de l'académie (art. R3413-109 à R3413-115)](#813)
+          - [Chapitre IV : Etablissement public d'insertion de la défense (art. R3414-1 à R3414-27)](#814)
+            - [Section 1 : Organisation et fonctionnement (art. R3414-3 à R3414-18)](#815)
+            - [Section 2 : Personnel (art. R3414-19 à R3414-20)](#816)
+            - [Section 3 : Régime financier et comptable (art. R3414-21 à R3414-26)](#817)
+            - [Section 4 : Immeubles (art. R3414-27)](#818)
+          - [Chapitre V : Etablissement de communication et de production audiovisuelle de la défense (art. R3415-1 à R3415-17)](#819)
+            - [Section 1 : Dispositions générales (art. R3415-1 à R3415-3)](#820)
+            - [Section 2 : Organisation administrative (art. R3415-4 à R3415-9)](#821)
+            - [Section 3 : Personnel (art. R3415-10)](#822)
+            - [Section 4 : Dispositions administratives et financières (art. R3415-11 à R3415-17)](#823)
+          - [Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM) (art. R3416-1 à R3416-30)](#824)
+            - [Section 1 : Missions (art. R3416-1 à R3416-7)](#825)
+            - [Section 2 : Organisation et fonctionnement (art. R3416-8 à R3416-22)](#826)
+            - [Section 3 : Régime financier et comptable (art. R3416-23 à R3416-28)](#827)
+            - [Section 4 : Personnel (art. R3416-29 à R3416-30)](#828)
+          - [Chapitre VII : L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique (art. R3417-1 à R3417-32)](#829)
+            - [Section 1 : Dispositions générales (art. R3417-1 à R3417-3)](#830)
+            - [Section 2 : Organisation et fonctionnement (art. R3417-4 à R3417-15)](#831)
+            - [Section 3 : Comité d'investissement (art. R3417-16 à R3417-18)](#832)
+            - [Section 4 : Directeur de l'établissement (art. R3417-19 à R3417-20)](#833)
+            - [Section 5 : Convention de gestion (art. R3417-21 à R3417-26)](#834)
+            - [Section 6 : Régime financier et comptable (art. R3417-27 à R3417-32)](#835)
+        - [TITRE II : ETABLISSEMENTS PUBLICS A CARACTERE  INDUSTRIEL ET COMMERCIAL (art. R3421-1 à R3423-35)](#836)
+          - [Chapitre Ier : L'économat des armées (art. R3421-1 à R3421-14)](#837)
+            - [Section 1 : Dispositions générales (art. R3421-1 à R3421-13)](#838)
+            - [Section 2 : Organisation administrative et financière (art. R3421-14)](#839)
+          - [Chapitre II : L'Institution de gestion sociale des armées (art. R3422-1 à R3422-23)](#840)
+            - [Section 1 : Dispositions générales (art. R3422-1 à R3422-2)](#841)
+            - [Section 2 : Organisation et fonctionnement (art. R3422-3 à R3422-8)](#842)
+            - [Section 3 : Dispositions financières (art. R3422-9 à R3422-23)](#843)
+          - [Chapitre III : L'office national d'études et de recherches aérospatiales (art. R3423-1 à R3423-35)](#844)
+            - [Section 1 : Dispositions générales (art. R3423-1 à R3423-4)](#845)
+            - [Section 2 : Organisation administrative et financière (art. R3423-5 à R3423-34)](#846)
+              - [Sous-section 1 : Conseil d'administration et organisation administrative générale (art. R3423-6 à R3423-19)](#847)
+              - [Sous-section 2 : Haut conseil scientifique (art. R3423-20 à R3423-21)](#848)
+              - [Sous-section 3 : Comité scientifique et technique (art. R3423-22 à R3423-25)](#849)
+              - [Sous-section 4 : Organisation financière (art. R3423-26 à R3423-34)](#850)
+            - [Section 3 : Personnel (art. R3423-35)](#851)
+      - [LIVRE V : DISPOSITIONS RELATIVES A L'OUTRE MER (art. R3511-1 à R3582-1)](#852)
+        - [TITRE Ier : DISPOSITIONS PARTICULIERES  AUX DEPARTEMENTS D'OUTRE MER (art. R3511-1)](#853)
+          - [Chapitre unique (art. R3511-1)](#854)
+        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. R3521-1)](#855)
+          - [Chapitre unique (art. R3521-1)](#856)
+        - [TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE (art. R3531-1)](#857)
+          - [Chapitre unique (art. R3531-1)](#858)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D3541-4 à R3541-3)](#859)
+          - [Chapitre unique (art. D3541-4 à R3541-3)](#860)
+        - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE (art. D3551-4 à R3551-3)](#861)
+          - [Chapitre unique (art. D3551-4 à R3551-3)](#862)
+        - [TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE (art. D3561-4 à R3561-3)](#863)
+          - [Chapitre unique (art. D3561-4 à R3561-3)](#864)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D3571-4 à R3571-3)](#865)
+          - [Chapitre unique (art. D3571-4 à R3571-3)](#866)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES A SAINT BARTHELEMY  ET A SAINT MARTIN (art. R3581-1 à R3582-1)](#867)
+          - [Chapitre Ier : Saint-Barthélemy (art. R3581-1)](#868)
+          - [Chapitre II : Saint-Martin (art. R3582-1)](#869)
+    - [PARTIE 4 : LE PERSONNEL MILITAIRE (art. D4111-1 à R4382-3)](#870)
+      - [LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES (art. D4111-1 à D4152-11)](#871)
+        - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D4111-1 à D4111-7)](#872)
+          - [Chapitre unique (art. D4111-1 à D4111-7)](#873)
+            - [Section unique : Haut Comité d'évaluation de la condition militaire (art. D4111-1 à D4111-7)](#874)
+        - [TITRE II : DROITS ET OBLIGATIONS (art. D4121-1 à R4125-23)](#875)
+          - [Chapitre Ier : Exercice des droits civils et politiques (art. D4121-1 à D4121-5)](#876)
+          - [Chapitre II : Obligations et responsabilités (art. D4122-1 à R4122-33)](#877)
+            - [Section 1 : Dispositions générales (art. D4122-1 à D4122-13)](#878)
+              - [Sous-section 1 : Devoirs et responsabilités du chef  et du subordonné militaires (art. D4122-1 à D4122-6)](#879)
+              - [Sous-section 2 : Respect des règles du droit international  applicable aux conflits armés (art. D4122-7 à D4122-11)](#880)
+              - [Sous-section 3 : Respect de la neutralité des forces armées  et protection du moral et de la discipline (art. D4122-12)](#881)
+              - [Sous-section 4 : Vaccination (art. D4122-13)](#882)
+            - [Section 2 : Exercice d'activités privées ou d'activités accessoires. (art. R*4122-14 à R4122-33)](#883)
+              - [Sous-section 1 : Exercice d'activités privées lucratives par certains militaires. (art. R*4122-14 à R*4122-24)](#884)
+              - [Sous-section 2 : Cumul d'activités à titre accessoire des militaires. (art. R4122-25 à R4122-33)](#885)
+          - [Chapitre III : Rémunération, garanties et protections (art. R4123-1 à R4123-44)](#886)
+            - [Section 1 : Rémunération (art. R4123-1)](#887)
+            - [Section 2 : Garanties et couverture des risques (art. D4123-2 à R4123-37)](#888)
+              - [Sous-section 1 : Fonds de prévoyance militaire (art. D4123-2 à D4123-13)](#889)
+              - [Sous-section 2 : Fonds de prévoyance de l'aéronautique (art. R4123-14 à R4123-29)](#890)
+              - [Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat (art. R4123-30 à R4123-37)](#891)
+            - [Section 3 : Dispositions au bénéfice d'enfants mineurs de militaires  tués ou blessés accidentellement en temps de paix (art. R4123-38 à R4123-44)](#892)
+          - [Chapitre IV : Organismes consultatifs et de concertation (art. R4124-1 à R4124-25)](#893)
+            - [Section 1 : Conseil supérieur de la fonction militaire (art. R4124-1 à R4124-5)](#894)
+            - [Section 2 : Conseils de la fonction militaire (art. R4124-6 à R4124-14)](#895)
+            - [Section 3 : Dispositions communes au conseil supérieur  et aux conseils de la fonction militaire (art. R4124-15 à R4124-25)](#896)
+          - [Chapitre V : Recours administratif préalable (art. R4125-1 à R4125-23)](#897)
+            - [Section 1 : Dispositions générales (art. R4125-2 à R4125-14)](#898)
+            - [Section 2 : Dispositions particulières aux militaires rattachés organiquement à un ministre autre que le ministre de la défense (art. R4125-15 à R4125-23)](#899)
+              - [Sous-section 1 : Dispositions particulières aux militaires de la gendarmerie nationale (art. R4125-15 à R4125-19)](#900)
+              - [Sous-section 2 : Dispositions particulières aux militaires relevant du ministre chargé de la mer (art. R4125-20 à R4125-23)](#901)
+        - [TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES (art. D4131-1 à R4139-61)](#902)
+          - [Chapitre Ier : Hiérarchie militaire (art. D4131-1 à R4131-13)](#903)
+          - [Chapitre III : Changements d'armée ou de corps (art. R4133-1 à R4133-9)](#904)
+            - [Section 1 : Dispositions générales (art. R4133-1 à R4133-4)](#905)
+            - [Section 2 : Dispositions particulières aux changements sur demande (art. R4133-5)](#906)
+            - [Section 3 : Dispositions particulières aux changements d'office (art. R4133-6 à R4133-9)](#907)
+          - [Chapitre V : Notation (art. R4135-1 à R4135-8)](#908)
+            - [Section 1 : Dispositions générales (art. R4135-1 à R4135-7)](#909)
+            - [Section 2 : Dispositions relatives aux mutations (art. R4135-8)](#910)
+          - [Chapitre VI : Avancement (art. R4136-1)](#911)
+          - [Chapitre VI-1 : Orientation professionnelle (art. D4136-1-1)](#912)
+          - [Chapitre VII : Discipline (art. D4137-1 à D4137-142)](#913)
+            - [Section 1 : Dispositions générales (art. D4137-1 à D4137-3)](#914)
+              - [Sous-section 1 : Discipline militaire (art. D4137-1)](#915)
+              - [Sous-section 2 : Tenue (art. D4137-2 à D4137-3)](#916)
+            - [Section 2 : Récompenses (art. D4137-4 à D4137-8)](#917)
+            - [Section 3 : Sanctions disciplinaires (art. R4137-9 à R4137-46)](#918)
+              - [Sous-section 1 : Principes (art. R4137-9 à R4137-24)](#919)
+              - [Sous-section 2 : Sanctions disciplinaires du premier groupe (art. R4137-25 à R4137-33)](#920)
+              - [Sous-section 3 : Sanctions disciplinaires du deuxième groupe (art. R4137-34 à R4137-40)](#921)
+              - [Sous-section 4 : Sanctions disciplinaires du troisième groupe (art. R4137-41 à R4137-44)](#922)
+              - [Sous-section 5 : Suspension de fonctions (art. R4137-45 à R4137-46)](#923)
+            - [Section 4 : Conseil de discipline (art. R4137-47 à R4137-65)](#924)
+              - [Sous-section 1 : Dispositions générales (art. R4137-47)](#925)
+              - [Sous-section 2 : Composition du conseil de discipline (art. R4137-48 à R4137-52)](#926)
+              - [Sous-section 3 : Constitution du conseil de discipline (art. R4137-53 à R4137-56)](#927)
+              - [Sous-section 4 : Fonctionnement du conseil de discipline (art. R4137-57 à R4137-65)](#928)
+            - [Section 5 : Conseil d'enquête (art. R4137-66 à R4137-92)](#929)
+              - [Sous-section 1 : Dispositions générales (art. R4137-66)](#930)
+              - [Sous-section 2 : Composition du conseil d'enquête (art. R4137-67 à R4137-71)](#931)
+              - [Sous-section 3 : Constitution du conseil d'enquête (art. R4137-72 à R4137-76)](#932)
+              - [Sous-section 4 : Fonctionnement du conseil d'enquête (art. R4137-77 à R4137-92)](#933)
+            - [Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement (art. R4137-93 à R4137-113)](#934)
+              - [Sous-section 1 : Dispositions générales (art. R4137-93)](#935)
+              - [Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-94 à R4137-95)](#936)
+              - [Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-96 à R4137-100)](#937)
+              - [Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement (art. R4137-101 à R4137-113)](#938)
+            - [Section 7 : Sanctions professionnelles applicables aux militaires (art. R4137-114 à R4137-133)](#939)
+              - [Sous-section 1 : Principes (art. R4137-114 à R4137-120-1)](#940)
+              - [Sous-section 2 : Conseil d'examen des faits professionnels (art. R4137-121 à R4137-132)](#941)
+              - [Sous-section 3 : Dispositions diverses (art. R4137-133)](#942)
+            - [Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables (art. R4137-134 à R4137-141)](#943)
+            - [Section 9 : Dispositions finales (art. D4137-142)](#944)
+          - [Chapitre VIII : Positions statutaires (art. R4138-1 à R4138-76)](#945)
+            - [Section 1 : Activité (art. R4138-1 à R4138-33)](#946)
+              - [Sous-section 1 : Congé de maladie (art. R4138-3)](#947)
+              - [Sous-section 2 : Congé de maternité (art. R4138-4)](#948)
+              - [Sous-section 3 : Congé de paternité (art. R4138-5)](#949)
+              - [Sous-section 4 : Congé d'adoption (art. R4138-6)](#950)
+              - [Sous-section 5 : Congé de présence parentale (art. R4138-7 à R4138-15)](#951)
+              - [Sous-section 6 : Permissions et congé de fin de campagne (art. R4138-16 à R4138-27)](#952)
+              - [Sous-section 7 : Congé de reconversion (art. R4138-28 à R4138-29)](#953)
+              - [Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées (art. R4138-30 à R4138-33)](#954)
+            - [Section 2 : Détachement (art. R4138-34 à R4138-44)](#955)
+            - [Section 3 : Hors cadres (art. R4138-45 à R4138-46)](#956)
+            - [Section 4 : Non-activité (art. R4138-47 à R4138-73)](#957)
+              - [Sous-section 1 : Congé de longue durée pour maladie (art. R4138-47 à R4138-57)](#958)
+              - [Sous-section 2 : Congé de longue maladie (art. R4138-58)](#959)
+              - [Sous-section 3 : Congé parental (art. R4138-59 à R4138-63)](#960)
+              - [Sous-section 4 : Retrait d'emploi (art. R4138-64)](#961)
+              - [Sous-section 5 : Congé pour convenances personnelles (art. R4138-65 à R4138-66)](#962)
+              - [Sous-section 6 : Disponibilité (art. R4138-67)](#963)
+              - [Sous-section 7 : Congé complémentaire de reconversion (art. R4138-68 à R4138-70)](#964)
+              - [Sous-section 8 : Congé du personnel navigant (art. R4138-71 à R4138-73)](#965)
+                - [Paragraphe 1 : Dispositions générales (art. R4138-71 à R4138-72)](#966)
+                - [Paragraphe 2 : Dispositions applicables aux militaires de carrière (art. R4138-73)](#967)
+            - [Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires (art. R4138-74 à R4138-76)](#968)
+          - [Chapitre IX : Fin de l'état militaire (art. R4139-1 à R4139-61)](#969)
+            - [Section 1 :  Dispositifs d'accès à la fonction publique civile (art. R4139-1 à R4139-40)](#970)
+              - [Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature (art. R4139-1 à R4139-9)](#971)
+              - [Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques (art. D4139-10 à D4139-13)](#972)
+              - [Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat (art. R*4139-14 à R*4139-22)](#973)
+              - [Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale (art. R4139-23 à R4139-31)](#974)
+              - [Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière (art. R4139-32 à R4139-40)](#975)
+            - [Section 2 : Dispositifs d'aide au départ (art. R4139-41 à R4139-45)](#976)
+              - [Sous-section unique : Dispositions applicables aux militaires de carrière (art. R4139-41 à R4139-45)](#977)
+            - [Section 3 : Radiation des cadres ou des contrôles (art. R4139-46 à R4139-61)](#978)
+              - [Sous-section 1 : Dispositions générales (art. R4139-46 à R4139-49)](#979)
+              - [Sous-section 2 : Lien au service (art. R4139-50 à R4139-52)](#980)
+              - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#981)
+        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#982)
+          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#983)
+        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-11)](#984)
+          - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#985)
+            - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#986)
+            - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#987)
+            - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#988)
+          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-11)](#989)
+            - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#990)
+            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-11)](#991)
+      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-25)](#992)
+        - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#993)
+          - [Chapitre unique (art. R4211-1 à R4211-12)](#994)
+            - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#995)
+            - [Section 2 : Dispositions relatives à l'honorariat (art. R4211-6 à R4211-9)](#996)
+            - [Section 3 : Radiation de la réserve (art. R4211-10 à R4211-12)](#997)
+        - [TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE (art. R4221-1 à R4221-28)](#998)
+          - [Chapitre unique (art. R4221-1 à R4221-28)](#999)
+            - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle (art. R4221-1 à R4221-5)](#1000)
+            - [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an (art. D4221-6 à D4221-8)](#1001)
+            - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10)](#1002)
+            - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#1003)
+            - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#1004)
+            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#1005)
+            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#1006)
+            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#1007)
+        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#1008)
+          - [Chapitre unique (art. R4231-1 à R4231-5)](#1009)
+        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1010)
+          - [Chapitre unique (art. R4241-1 à R4241-3)](#1011)
+        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#1012)
+          - [Chapitre unique (art. D4261-1 à D4261-25)](#1013)
+            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#1014)
+            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#1015)
+            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#1016)
+      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1017)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1018)
+          - [Chapitre unique (art. D4341-4 à R4341-3)](#1019)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1020)
+          - [Chapitre unique (art. D4351-4 à R4351-3)](#1021)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1022)
+          - [Chapitre unique (art. D4361-4 à R4361-3)](#1023)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1024)
+          - [Chapitre unique (art. D4371-3 à R4371-2)](#1025)
+        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1026)
+          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1027)
+          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1028)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -49118,15 +49116,15 @@ _Créé par_:
 
 ###### Article R2352-22
 
-Les dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la présente section fixent les conditions
+Les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section fixent les conditions
 auxquelles sont soumis le marquage, l'acquisition, la livraison, la détention, le transport et l'emploi des produits
 explosifs ainsi que des produits ouvrés contenant sous quelque forme que ce soit des produits explosifs. 
 
-Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la présente section ne sont pas
+Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section ne sont pas
 applicables : 
 
-1° Aux articles de divertissement définis par le décret n° 90-897 du 1er octobre 1990 relatif à la réglementation des
-artifices de divertissement ; 
+1° Aux artifices de divertissement définis par l'article 13 du décret n° 2010-455 du 4 mai 2010 relatif à la réglementation
+des artifices de divertissement ; 
 
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ; 
 
@@ -49139,7 +49137,7 @@ portatives à projectiles inertes des 1re, 4e, 5e et 7e catégories.
 
 Les produits autres que ceux définis ci-dessus qui peuvent être utilisés tels quels ou avec des modifications pour leurs
 effets explosifs, inscrits sur une liste établie par arrêté conjoint du ministre de l'industrie sont réputés produits
-explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-sections 3, 4 et 5 de la présente section.
+explosifs et soumis aux dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -49156,13 +49154,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°90-897 du 1 octobre 1990 (V)
   - Décret n°95-589 du 6 mai 1995 (V)
-  - Décret du 18 avril 1939 (Ab)
+  - Décret n°2010-455 du 4 mai 2010 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ##### Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation<a id=627></a>
@@ -49231,12 +49228,12 @@ _Créé par_:
 
 ###### Article R2352-26
 
-Le transfert de produits explosifs de statut communautaire soumis au marquage  CE  au sens de l'article R. 2352-49, d'un Etat
-membre de la Communauté européenne vers la France est soumis à autorisation de transfert simple délivrée au destinataire par
-le ministre chargé des douanes après avis conforme du ministre de l'intérieur et du ministre chargé de l'industrie. La
-décision d'autorisation ou de refus est notifiée au pétitionnaire par le ministre chargé des douanes. L'autorisation peut
-être suspendue ou abrogée à tout moment par décision motivée, après que l'intéressé ait été mis à même de présenter ses
-observations.
+Le transfert de produits explosifs de statut communautaire soumis au marquage CE au sens de l'article 4 du décret n° 2010-455
+du 4 mai 2010, d'un Etat membre de la Communauté européenne vers la France est soumis à autorisation de transfert simple
+délivrée au destinataire par le ministre chargé des douanes après avis conforme du ministre de l'intérieur et du ministre
+chargé de l'industrie. La décision d'autorisation ou de refus est notifiée au pétitionnaire par le ministre chargé des
+douanes. L'autorisation peut être suspendue ou abrogée à tout moment par décision motivée, après que l'intéressé ait été mis
+à même de présenter ses observations.
 
 **Liens relatifs à cet article**
 
@@ -49244,9 +49241,13 @@ _Anciens textes_:
 
   - Décret n°71-753 du 10 septembre 1971 - art. 8-2 (Ab)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 4 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -49260,10 +49261,6 @@ _Cité par_:
   - Code de la défense. - art. R2352-4 (V)
   - Code de la défense. - art. R2352-45 (V)
   - Code de la défense. - art. R2352-5 (V)
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-49 (V)
 
 
 ###### Article R2352-27
@@ -49452,11 +49449,11 @@ _Cité par_:
 
 ###### Article R2352-34
 
-Le transfert de produits explosifs de statut communautaire soumis au marquage « CE » au sens de l'article R. 2352-49, de
-France vers un autre Etat membre de la Communauté européenne, est subordonné à l'obtention de l'autorisation de transfert
-simple ou de transferts multiples délivrée au destinataire par l'Etat membre de destination ainsi que de l'autorisation du
-ministre chargé des douanes prise après avis conforme du ministre chargé de l'industrie. Le ministre chargé des douanes
-notifie au pétitionnaire la décision par laquelle il statue sur une demande d'autorisation.
+Le transfert de produits explosifs de statut communautaire soumis au marquage  CE  au sens de l'article 4 du décret n°
+2010-455 du 4 mai 2010, de France vers un autre Etat membre de la Communauté européenne, est subordonné à l'obtention de
+l'autorisation de transfert simple ou de transferts multiples délivrée au destinataire par l'Etat membre de destination ainsi
+que de l'autorisation du ministre chargé des douanes prise après avis conforme du ministre chargé de l'industrie. Le ministre
+chargé des douanes notifie au pétitionnaire la décision par laquelle il statue sur une demande d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -49464,9 +49461,13 @@ _Anciens textes_:
 
   - Décret n°71-753 du 10 septembre 1971 - art. 8-4 (Ab)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 4
+
+_Modifié par_:
+
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -49477,10 +49478,6 @@ _Cité par_:
   - Code de la défense. - art. R2352-4 (V)
   - Code de la défense. - art. R2352-46 (V)
   - Code de la défense. - art. R2352-5 (V)
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-49 (V)
 
 
 ###### Article R2352-35
@@ -49594,19 +49591,19 @@ _Créé par_:
 
 ###### Article R2352-39
 
-Le transfert des produits explosifs de statut communautaire soumis au marquage "CE" au sens de la sous-section 2 de la
-présente section, entre deux Etats membres de la Communauté européenne avec emprunt du territoire douanier national, est
-soumis à autorisation de transit délivrée au responsable du transfert en France par le ministre chargé des douanes.
+Le transfert des produits explosifs de statut communautaire soumis au marquage "CE" au sens du décret n° 2010-455 du 4 mai
+2010, entre deux Etats membres de la Communauté européenne avec emprunt du territoire douanier national, est soumis à
+autorisation de transit délivrée au responsable du transfert en France par le ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°71-753 du 10 septembre 1971 - art. 8-5 (Ab)
+  - Décret n°2010-455 du 4 mai 2010
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -49758,14 +49755,15 @@ _Cite_:
 
 ###### Article R2352-47
 
-Tout produit explosif doit faire l'objet d'un marquage. Les produits explosifs autres que ceux mentionnés à l'article R.
-2352-73 doivent en outre comporter un marquage spécial permettant leur identification. Ces marquages sont effectués sur le
-lieu de la fabrication, sous la responsabilité du fabricant. Les produits explosifs importés ou en transit doivent être
-revêtus de ces marquages au moment de leur introduction sur le territoire douanier. 
+Tout produit explosif doit faire l'objet d'un marquage dans les conditions prévues par le décret n° 2010-455 du 4 mai 2010.
+Les produits explosifs autres que ceux mentionnés à l'article R. 2352-73 doivent en outre comporter un marquage spécial
+permettant leur identification. Ces marquages sont effectués sur le lieu de la fabrication, sous la responsabilité du
+fabricant. Les produits explosifs importés ou en transit doivent être revêtus de ces marquages au moment de leur introduction
+sur le territoire douanier. 
 
 Le marquage doit être reproduit sur l'emballage contenant le produit et doit être suffisant pour permettre l'identification
-de cet emballage jusqu'à son destinataire final. L'obligation de marquage est limitée à l'emballage lorsque le produit, par
-sa consistance ou du fait de ses dimensions réduites, ne se prête pas lui-même à cette opération. 
+de cet emballage jusqu'à son destinataire final.L'obligation de marquage est limitée à l'emballage lorsque le produit, par sa
+consistance ou du fait de ses dimensions réduites, ne se prête pas lui-même à cette opération. 
 
 Un arrêté conjoint du ministre de l'intérieur, du ministre de la défense, du ministre des transports, du ministre chargé du
 budget et du ministre de l'industrie fixe les modalités techniques des marquages prévus au présent article.
@@ -49787,505 +49785,21 @@ _Cité par_:
   - Code de la défense. - art. R2352-32 (V)
   - Code de la défense. - art. R2353-2 (V)
 
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
 _Cite_:
 
-  - Code de la défense. - art. R2352-73 (V)
+  - Décret n°2010-455 du 4 mai 2010
+  - Code de la défense. - art. R2352-73
 
-
-###### Article R2352-48
-
-Le ministre chargé de l'industrie peut dispenser de l'application des articles R. 2352-49 à R. 2352-72 les produits explosifs
-faisant l'objet d'une demande d'utilisation sur le territoire national en quantités suffisamment limitées et avec des
-précautions particulières en sorte qu'il n'en résulte pas de risque pour la sécurité publique. 
-
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande de dérogation vaut décision de
-rejet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 10-1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-49
-
-_Cité par_:
-
-  - Code de la défense. - art. R2353-3 (VT)
 
 
 ##### Paragraphe 1 : Produits explosifs soumis au marquage CE<a id=629></a>
 
-###### Article R2352-49
-
-Les produits explosifs soumis au marquage " CE " sont les produits explosifs de la classe 1 des recommandations des Nations
-unies relatives au transport des marchandises dangereuses dont la liste est publiée par arrêté des ministres de l'intérieur
-et de la défense et du ministre chargé de l'industrie. Sont exclus du champ d'application du présent paragraphe : 
-
-1° Les produits explosifs destinés à un usage militaire qui figurent sur la liste établie par l'article D. 2352-7 ainsi que
-des produits contenant de tels produits explosifs, à l'exception de ceux dont l'emploi est autorisé pour un usage civil dans
-les conditions fixées par un arrêté conjoint des ministres de l'intérieur et de la défense et du ministre chargé de
-l'industrie. 
-
-2° Les produits explosifs destinés à être utilisés par la police. 
-
-3° Les articles pyrotechniques spécialement conçus pour les besoins militaires ou pour la police. 
-
-4° Les articles pyrotechniques ci-après : artifices de divertissement au sens du décret n° 90-897 du 1er octobre 1990 portant
-réglementation des artifices de divertissement, articles pyrotechniques destinés à des fins industrielles, théâtrales ou
-cinématographiques ou aux fins d'émission de signaux, notamment de sauvetage ou à des fins similaires. 
-
-5° Les munitions et éléments de munitions destinés aux armes qui sont soumises au régime du décret n° 95-589 du 6 mai 1995
-relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions. Cette
-exception ne s'étend pas aux produits explosifs destinés au chargement de ces munitions et éléments de munitions, avant cette
-opération de chargement. 
-
-6° Les produits explosifs fabriqués sur le site d'emploi dans des installations mobiles de fabrication en vue d'un emploi
-immédiat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-1 (Ab)
-
-_Cite_:
-
-  - Décret n°90-897 du 1 octobre 1990
-  - Décret n°95-589 du 6 mai 1995
-  - Code de la défense. - art. D2352-7
-  - Décret du 18 avril 1939
-
-_Cité par_:
-
-  - Arrêté du 29 février 2008 - art. Annexe I (VD)
-  - Arrêté du 29 juillet 2010 (V)
-  - Arrêté du 11 mai 2011 (V)
-  - Code de la défense. - art. R2352-26 (V)
-  - Code de la défense. - art. R2352-34 (V)
-  - Code de la défense. - art. R2352-48 (VT)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-50
-
-Aucun produit explosif entrant dans le champ d'application du présent paragraphe ne peut être vendu, importé, exporté,
-transporté, encartouché, conservé, détenu ou employé s'il n'est accompagné de la déclaration de conformité prévue à l'article
-R. 2352-52 et s'il n'y est apposé par le fabricant, l'importateur ou son mandataire ou la personne responsable de la mise sur
-le marché, selon les prescriptions des articles R. 2352-61 à R. 2352-63, le marquage " CE " prévu à l'article R. 2352-51.
-
-L'opération de marquage doit être renouvelée à chaque fois que la transformation d'un produit explosif modifie les conditions
-de sa conservation et de son utilisation. 
-
-Toutefois, ces obligations ne s'appliquent pas aux échantillons mentionnés au dernier alinéa du point 2 de l'annexe II à la
-présente partie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-51
-  - Code de la défense. - art. R2352-52
-  - Code de la défense. - art. R2352-61
-
-_Cité par_:
-
-  - Code de la défense. - art. R2353-3 (VT)
-
-
-###### Article R2352-51
-
-1° Le marquage " CE " d'un explosif au titre du présent paragraphe est subordonné à la double condition : 
-
-a) Que l'explosif satisfasse aux exigences essentielles de sécurité définies à l'annexe I à la présente partie ; 
-
-b) Qu'il ait fait l'objet de l'une des procédures d'évaluation de la conformité définies à l'article R. 2352-52. 
-
-2° Lorsqu'une norme nationale qui transpose une norme européenne harmonisée dont la référence a été publiée au Journal
-officiel de l'Union européenne couvre une ou plusieurs exigences essentielles de sécurité définies à l'annexe I à la présente
-partie, les produits explosifs soumis au marquage " CE " fabriqués conformément à cette norme sont présumés conformes à cette
-ou ces exigences essentielles de sécurité. 
-
-En l'absence de normes harmonisées, la conformité aux normes et spécifications techniques nationales est réputée concourir à
-l'application régulière des exigences essentielles de sécurité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-3 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cité par_:
-
-  - Code de la défense. - art. R2352-50 (VT)
-  - Code de la défense. - art. R2352-52 (VT)
-  - Code de la défense. - art. R2353-3 (VT)
-  - Code de la défense. - art. R2353-4 (VT)
-
-
-###### Article R2352-52
-
-L'établissement de la déclaration de conformité des produits explosifs soumis au marquage " CE " par le fabricant,
-l'importateur ou son mandataire ou, lorsque ni l'un ni l'autre ne sont établis sur le territoire de la Communauté européenne,
-la personne responsable de la mise sur le marché, est subordonné à l'évaluation de la conformité de ces produits aux
-exigences essentielles de sécurité prévues à l'article R. 2352-51.
-
-Les procédures d'évaluation de la conformité peuvent être : 
-
-1° Soit l'examen " CE de type " ou " module B " défini à l'annexe II à la présente partie complété au choix du fabricant, de
-l'importateur ou son mandataire ou de la personne responsable de la mise sur le marché par : 
-
-a) La procédure relative à la conformité au type ou " module C " définie à l'annexe III à la présente partie ; 
-
-b) La procédure relative à l'assurance de qualité de production ou " module D " définie à l'annexe IV à la présente partie ; 
-
-c) La procédure relative à l'assurance de qualité du produit ou " module E " définie à l'annexe V à la présente partie ; 
-
-d) La vérification sur produit ou " module F " définie à l'annexe VI à la présente partie. 
-
-2° Soit la vérification à l'unité ou " module G " définie à l'annexe VII à la présente partie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cité par_:
-
-  - Code de la défense. - art. R2352-50 (VT)
-  - Code de la défense. - art. R2352-51 (VT)
-  - Code de la défense. - art. R2352-55 (VT)
-  - Code de la défense. - art. R2353-4 (VT)
-
-
-###### Article R2352-53
-
-Le fabricant, l'importateur ou son mandataire ou, lorsque ni l'un ni l'autre ne sont établis sur le territoire de la
-Communauté européenne, la personne responsable de la mise sur le marché du produit tiennent à disposition des autorités
-pendant une durée d'au moins dix ans à compter de la dernière date de fabrication du produit la documentation technique
-concernant le produit et, le cas échéant, le système de contrôle de qualité mis en place. Ils conservent pendant la même
-durée une copie des attestations d'examen "CE de type".
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-54
-
-Le fabricant, l'importateur ou son mandataire ou la personne responsable de la mise sur le marché du produit sont tenus aux
-fins de contrôle de donner accès aux locaux commerciaux et aux locaux de fabrication aux agents des organismes habilités
-chargés du contrôle des produits.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-55
-
-Un arrêté du ministre chargé de l'industrie précise la nature des essais à réaliser dans le cadre de chacune des procédures
-d'évaluation mentionnées à l'article R. 2352-52.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-52
-
-
-###### Article R2352-56
-
-Les procédures d'évaluation de la conformité sont mises en œuvre par des organismes habilités à cet effet par arrêté du
-ministre chargé de l'industrie ; elles peuvent également l'être, pour certaines d'entre elles, par le fabricant sous le
-contrôle de ces organismes ; l'arrêté du ministre chargé de l'industrie définit les missions pour lesquelles ces organismes
-sont habilités et attribue à chacun d'eux un numéro d'identification.
-
-Cette habilitation est accordée en fonction des garanties d'indépendance et de compétence présentées par ces organismes, de
-l'expérience acquise en particulier dans le domaine technique considéré et de la disposition des moyens nécessaires à
-l'exécution des tâches pour lesquelles ils sont habilités.
-
-Ces organismes doivent pouvoir justifier de leur indépendance à l'égard des personnes susceptibles d'être intéressées par les
-résultats des essais ou examens qu'ils réalisent.
-
-Ces organismes doivent, en outre, avoir souscrit une assurance couvrant leur responsabilité civile.
-
-La rémunération des agents ne doit être liée ni au nombre des contrôles ni au résultat de ces contrôles.
-
-Les agents des organismes habilités sont tenus d'une obligation de confidentialité à l'égard des secrets de fabrication et
-des procédés d'exploitation dont ils pourraient avoir connaissance lors de leurs interventions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-_Cité par_:
-
-  - Arrêté du 25 février 2005 - art. 2 (V)
-  - Code de la défense. - art. R2352-58 (VT)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-57
-
-Le fabricant, l'importateur ou son mandataire ou la personne responsable de la mise sur le marché auxquels l'organisme
-habilité a refusé de délivrer une attestation d'examen "CE de type" peuvent contester ce refus devant le ministre chargé de
-l'industrie ; celui-ci statue sur le recours après avis de la commission des produits explosifs prévue au chapitre 1er du
-présent titre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-58
-
-Ces organismes doivent s'engager à autoriser les personnes désignées par le ministre à accéder à leurs locaux et à procéder à
-toutes les investigations permettant de vérifier qu'ils continuent de satisfaire aux conditions mentionnées à l'article R.
-2352-56.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-56
-
-
-###### Article R2352-59
-
-L'habilitation des organismes est notifiée aux autres Etats membres et à la commission des produits explosifs par le ministre
-chargé de l'industrie.
-
-Les organismes habilités par le ministre chargé de l'industrie communiquent aux autres organismes habilités des Etats membres
-les informations utiles concernant les attestations d'examen "CE de type" délivrées et retirées. Ils tiennent à la
-disposition de ces organismes les documents annexes aux attestations.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-60
-
-L'apposition du marquage "CE" effectuée dans un Etat membre de la Communauté européenne conformément à sa législation produit
-les mêmes effets que les formalités correspondantes prévues par le présent paragraphe.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-6 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-61
-
-Le marquage CE de conformité est apposé par le fabricant de manière visible, lisible et indélébile soit sur les produits
-explosifs, soit, si cela n'est pas possible, sur une étiquette fixée sur ceux-ci, soit enfin, si les deux premières méthodes
-ne sont pas réalisables, sur l'emballage. L'étiquette doit être conçue de manière à ne pas pouvoir être réutilisée.
-
-Le modèle du marquage "CE" et ses éléments constitutifs sont définis à l'annexe VIII à la présente partie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-7 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cité par_:
-
-  - Code de la défense. - art. R2352-50 (VT)
-
-
-###### Article R2352-62
-
-Lorsque des produits explosifs soumis au marquage "CE" doivent respecter des réglementations portant sur des caractéristiques
-techniques autres que celles édictées par le présent chapitre et prévoyant également l'apposition du marquage "CE", celui-ci
-signifie que ces produits sont présumés conformes à ces réglementations.
-
-Toutefois, lorsque certaines de ces réglementations laissent au fabricant le choix, pendant une période transitoire, du
-régime à appliquer, le marquage "CE" indique la conformité des produits aux seules réglementations que le fabricant déclare
-avoir appliquées ; dans ce cas, les références de la publication de ces réglementations au Journal officiel de la République
-française doivent être indiquées sur les documents, notices ou instructions qui accompagnent ces produits.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-7 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-63
-
-Il est interdit d'apposer sur les produits explosifs des marques ou inscriptions propres à induire les tiers en erreur sur la
-signification et le graphisme du marquage "CE". Toute autre marque peut être apposée sur les explosifs à condition de laisser
-le marquage "CE" clairement visible et aisément lisible.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-7 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
 ###### Article R2352-64
 
-Le ministre chargé de l'industrie, en ce qui concerne la mise sur le marché des produits explosifs soumis au marquage "CE",
-le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation de ces produits à l'intérieur du territoire
+Le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation de ces produits à l'intérieur du territoire
 national et le ministre chargé des douanes en ce qui concerne le transfert de ces produits en provenance ou à destination
 d'un autre Etat membre de la Communauté européenne peuvent, en cas de menaces graves ou d'atteintes à l'ordre public en
 raison de la détention ou de l'emploi illicites de ces produits, prendre toutes mesures nécessaires pour prévenir cette
@@ -50293,270 +49807,12 @@ détention ou cet emploi illicites.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 1-8 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-
-##### Paragraphe 2 : Produits explosifs non soumis au marquage CE<a id=630></a>
-
-###### Article R2352-65
-
-Les produits explosifs non soumis au marquage " CE " qui, compte tenu, notamment, de leurs propriétés et de leur mode de
-distribution, présentent un danger particulier pour la sécurité publique et ont été inscrits à ce titre sur une liste fixée,
-après avis de la commission des produits explosifs prévue au chapitre 1er du présent titre, par arrêté conjoint des ministres
-chargés de l'intérieur, de la défense, de l'environnement et de l'industrie ne peuvent être produits, vendus, importés,
-exportés, transportés, encartouchés, conservés, détenus ou employés que s'ils sont conformes à un modèle agréé. 
-
-Toutefois, cette obligation de conformité ne s'applique pas : 
-
-1° Aux munitions et éléments de munitions des armes qui sont soumises au régime fixé par le décret n° 95-589 du 6 mai 1995
-relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ; 
-
-2° Aux produits dont les caractéristiques sont conformes aux spécifications techniques fixées par le ministre de la défense
-et aux échantillons destinés à la mise au point de ces produits ; 
-
-3° Aux échantillons mentionnés à l'article R. 2352-67.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 2 (Ab)
-
-_Cite_:
-
-  - Décret n°95-589 du 6 mai 1995
-  - Code de la défense. - art. R2352-67
-  - Décret du 18 avril 1939
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2010-455 du 4 mai 2010 - art. 45
 
-_Cité par_:
 
-  - Code de la défense. - art. R2353-5 (VT)
-
-
-###### Article R2352-66
-
-La demande d'agrément d'un modèle peut être présentée au ministre chargé de l'industrie par une personne physique ou morale
-établie dans un Etat membre de la Communauté européenne. Elle doit être assortie d'un dossier qui doit notamment :
-
-1° Décrire le produit et préciser sa composition et ses caractéristiques ;
-
-2° Mentionner la désignation commerciale envisagée pour le produit ;
-
-3° Justifier de la capacité du demandeur à garantir la conformité ultérieure du produit au modèle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 3 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cité par_:
-
-  - Code de la défense. - art. R2352-68 (VT)
-
-
-###### Article R2352-67
-
-Le ministre fait procéder par un laboratoire agréé par lui, sur des échantillons représentatifs du produit, aux examens et
-épreuves figurant sur une liste établie par arrêté ministériel qui lui paraissent nécessaires. 
-
-Le cas échéant, il prend en compte les résultats d'examens et épreuves donnant des garanties équivalentes déjà effectués dans
-un Etat membre de la Communauté européenne par des organismes ou laboratoires offrant les garanties techniques,
-professionnelles et d'indépendance nécessaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cité par_:
-
-  - Code de la défense. - art. R2352-65 (VT)
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-68
-
-
-###### Article R2352-68
-
-La décision d'agrément est prise par le ministre chargé de l'industrie après avis de la commission des produits
-explosifs.L'agrément peut être donné pour une durée limitée. Son bénéfice peut être limité aux produits en transit ou
-destinés à l'exportation. 
-
-La décision d'agrément précise les caractéristiques par rapport auxquelles la conformité au modèle est ultérieurement
-appréciée. 
-
-Elle peut également comporter des prescriptions relatives, notamment, à la présentation matérielle du produit et aux
-informations qui doivent être données aux utilisateurs en ce qui concerne la péremption du produit et ses conditions
-d'emploi. 
-
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur la demande d'agrément d'un modèle mentionnée
-à l'article R. 2352-66 vaut décision de rejet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 5 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 (V)
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-66
-
-_Cité par_:
-
-  - Code de la défense. - art. R2352-67 (VT)
-  - Code de la défense. - art. R2352-70 (VT)
-  - Code de la défense. - art. R2352-72 (VT)
-  - Code de la défense. - art. R2353-6 (VT)
-
-
-###### Article R2352-69
-
-L'agrément précise le nom du titulaire.
-
-L'accord du ministre chargé de l'industrie est requis pour le transfert de l'agrément à une autre personne. Celle-ci doit
-justifier de sa capacité à garantir la conformité ultérieure au modèle agréé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 6 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-70
-
-Lorsqu'il envisage d'apporter des modifications par rapport aux caractéristiques mentionnées à l'article R. 2352-68, le
-titulaire de l'agrément saisit le ministre chargé de l'industrie en lui précisant la nature des modifications envisagées. 
-
-La modification est réputée acceptée si, dans un délai de trois mois à compter de la saisine du ministre, celui-ci n'a pas
-signifié au titulaire qu'il devait présenter une nouvelle demande d'agrément.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 7 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-68
-
-
-###### Article R2352-71
-
-Le ministre chargé de l'industrie peut à tout moment prescrire des examens ou épreuves tendant à vérifier la conformité d'un
-produit au modèle agréé.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 8 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article R2352-72
-
-Le ministre chargé de l'industrie peut, par décision motivée, suspendre ou retirer le bénéfice de l'agrément de modèle : 
-
-1° Lorsque le titulaire ne justifie plus de la capacité à garantir la conformité des produits explosifs aux modèles agréés
-correspondants ; 
-
-2° Lorsqu'un produit se prévalant d'un agrément n'était pas conforme au modèle ou que certaines des prescriptions prévues au
-troisième alinéa de l'article R. 2352-68 ne sont pas respectées ; 
-
-3° Pour des motifs de sécurité publique. 
-
-La décision de suspension fixe la durée de sa période d'effet, qui ne peut pas être supérieure à dix-huit mois. 
-
-La décision de retrait est prise après mise en demeure non suivie d'effet et consultation de la commission des produits
-explosifs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 9 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-68
-
-
-##### Sous-section 3 : Acquisition, détention et transport des produits explosifs<a id=631></a>
+##### Sous-section 3 : Acquisition, détention et transport des produits explosifs<a id=630></a>
 
 ###### Article R2352-73
 
@@ -50802,7 +50058,7 @@ _Cite_:
   - Code de la défense. - art. R2352-78 (V)
 
 
-##### Sous-section 4 : Utilisation des produits explosifs<a id=632></a>
+##### Sous-section 4 : Utilisation des produits explosifs<a id=631></a>
 
 ###### Article R2352-81
 
@@ -50893,7 +50149,7 @@ _Cite_:
   - Code de la défense. - art. R2352-82 (V)
 
 
-##### Sous-section 5 : Conservation des produits explosifs<a id=633></a>
+##### Sous-section 5 : Conservation des produits explosifs<a id=632></a>
 
 ###### Article R2352-84
 
@@ -51013,17 +50269,17 @@ _Cite_:
   - Code de la défense. - art. R2352-87 (V)
 
 
-##### Sous-section 6 : Installations de produits explosifs<a id=634></a>
+##### Sous-section 6 : Installations de produits explosifs<a id=633></a>
 
-##### Paragraphe 1 : Règles générales<a id=635></a>
+##### Paragraphe 1 : Règles générales<a id=634></a>
 
 ###### Article R2352-89
 
-L'exploitant d'une installation fixe ou mobile de produits explosifs doit en assurer la sécurité et la sûreté, en application
-des règles mentionnées à l'article R. 2352-90. 
+L'exploitant d'une installation fixe ou mobile de produits explosifs doit en assurer la sûreté, en application des règles
+mentionnées à l'article R. 2352-90. 
 
-Il doit donner libre accès, dans le respect des règles de sécurité, aux autorités compétentes chargées du contrôle de
-l'application des règles mentionnées à l'article R. 2352-90.
+Il doit donner libre accès, aux autorités compétentes chargées du contrôle de l'application des règles mentionnées à
+l'article R. 2352-90.
 
 **Liens relatifs à cet article**
 
@@ -51037,23 +50293,19 @@ _Cité par_:
   - Code de la défense. - art. R2352-95 (V)
   - Code de la défense. - art. R2352-96 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-90 (V)
+  - Code de la défense. - art. R2352-90
 
 
 ###### Article R2352-90
 
-Les ministres de l'intérieur et de la défense et les ministres chargés de l'industrie, du travail et des installations
-classées fixent, par arrêtés pris après consultation de la commission des produits explosifs, les règles techniques de
-sécurité et de sûreté relatives à l'aménagement et à l'exploitation des installations fixes ou mobiles de produits explosifs.
-
-Les règles techniques relatives à la sécurité ont pour objet la prévention des explosions et incendies et la limitation de
-leurs effets.
+Les ministres de l'intérieur et de la défense et le ministre chargé, du travail fixent, par arrêtés, les règles techniques et
+de sûreté relatives à l'aménagement et à l'exploitation des installations fixes ou mobiles de produits explosifs.
 
 Les règles techniques relatives à la sûreté ont pour objet la prévention des crimes et délits susceptibles d'être commis à
 l'intérieur d'une installation fixe ou mobile de produits explosifs à l'extérieur de cette installation au moyen de produits
@@ -51063,13 +50315,9 @@ et à faciliter l'intervention des forces de l'ordre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 11-1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -51099,9 +50347,8 @@ _Créé par_:
 Par dérogation aux dispositions de l'article R. 2352-90, les installations où ne sont conservés que des produits explosifs
 ouvrés qui, compte tenu de leur caractère détonant ou non et de la quantité de matière active qu'ils contiennent, ne
 présentent pas de risque d'une utilisation à des fins criminelles ou délictueuses sont soumises à des règles techniques de
-sûreté particulières, fixées par arrêtés conjoints des ministres de l'intérieur et de la défense et les ministres chargés de
-l'industrie et des installations classées. La liste de ces produits est fixée par arrêté conjoint des ministres de
-l'intérieur et de la défense et du ministre chargé de l'industrie.
+sûreté particulières, fixées par arrêtés conjoints des ministres de l'intérieur et de la défense. La liste de ces produits
+est fixée par arrêté conjoint des ministres de l'intérieur et de la défense.
 
 **Liens relatifs à cet article**
 
@@ -51117,29 +50364,25 @@ _Cité par_:
   - Code de la défense. - art. R2352-110 (V)
   - Code de la défense. - art. R2353-7 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-90 (V)
+  - Code de la défense. - art. R2352-90
 
 
 ###### Article R2352-93
 
-Les arrêtés fixant les règles techniques de sécurité et de sûreté précisent les délais et les conditions selon lesquels les
-règles qu'ils édictent s'appliquent aux installations existant à la date de leur entrée en vigueur.
+Les arrêtés fixant les règles techniques de sûreté précisent les délais et les conditions selon lesquels les règles qu'ils
+édictent s'appliquent aux installations existant à la date de leur entrée en vigueur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 11-4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-94
@@ -51214,28 +50457,25 @@ _Cite_:
   - Code de la défense. - art. R2352-89 (V)
 
 
-##### Paragraphe 2 : Agrément technique<a id=636></a>
+##### Paragraphe 2 : Agrément technique<a id=635></a>
 
 ###### Article R2352-97
 
 L'exploitation d'une installation fixe ou mobile de produits explosifs est subordonnée à la délivrance préalable d'un
-agrément technique.
+agrément technique. 
 
-Lorsque l'installation est soumise à autorisation en application des dispositions du titre Ier du livre V du code de
-l'environnement, cette autorisation vaut agrément technique.
+Sont toutefois dispensées de l'obligation d'agrément technique : 
 
-Sont toutefois dispensées de l'obligation d'agrément technique :
+1° Les installations de l'Etat relevant du ministre de la défense ; 
 
-1° Les installations de l'Etat relevant du ministre de la défense ;
-
-2° Les installations du Commissariat à l'énergie atomique ;
+2° Les installations du Commissariat à l'énergie atomique ; 
 
 3° Les installations couvertes par le secret défense de la défense nationale et exploitées par des entreprises publiques ou
-privées travaillant pour la défense ;
+privées travaillant pour la défense ; 
 
 4° Les installations relatives aux munitions et éléments de munitions des armes qui sont énumérées dans le décret n° 95-589
 du 6 mai 1995 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et
-munitions ;
+munitions ; 
 
 5° Les installations de l'Etat relevant du ministre de l'intérieur.
 
@@ -51244,6 +50484,10 @@ munitions ;
 _Anciens textes_:
 
   - Décret n°90-153 du 16 février 1990 - art. 15 (Ab)
+
+_Cite_:
+
+  - Décret n°95-589 du 6 mai 1995 (Ab)
 
 _Cité par_:
 
@@ -51264,40 +50508,33 @@ _Cité par_:
   - Code de la défense. - art. R2353-9 (V)
   - Code du travail - art. R4462-30 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-98
 
-La demande d'agrément technique ou d'autorisation prévus à l'article R. 2352-97 est adressée par le futur exploitant au
-préfet du département où est située l'installation projetée, s'il s'agit d'une installation fixe, ou du département du siège
-social ou du domicile du futur exploitant, s'il s'agit d'une installation mobile. A Paris, cette demande est adressée au
-préfet de police.
+La demande d'agrément technique prévu à l'article R. 2352-97 est adressée par le futur exploitant au préfet du département où
+est située l'installation projetée, s'il s'agit d'une installation fixe, ou du département du siège social ou du domicile du
+futur exploitant, s'il s'agit d'une installation mobile. A Paris, cette demande est adressée au préfet de police.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 16 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-99
 
-Le dossier de demande d'agrément technique ou d'autorisation prévus à l'article R. 2352-97 comprend : 
+Le dossier de demande d'agrément technique prévu à l'article R. 2352-97 comprend : 
 
-1° Dans les conditions fixées par arrêté conjoint des ministres chargés de l'industrie et des installations classées, les
-indications relatives à l'implantation, aux caractéristiques de l'installation fixe ou mobile de produits explosifs projetée
-et aux mesures de sécurité envisagées par le futur exploitant pour prévenir les risques d'explosion et d'incendie ; 
+1° (abrogé) 
 
 2° Une étude de sûreté réalisée dans les conditions définies à l'article R. 2352-100 ;
 
@@ -51310,9 +50547,9 @@ _Anciens textes_:
 
   - Décret n°90-153 du 16 février 1990 - art. 16-1 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -51323,7 +50560,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-100
@@ -51344,7 +50581,7 @@ descriptif des mesures envisagées par le futur exploitant pour prévenir les in
 conformément aux règles techniques de sûreté prévues à l'article R. 2352-92. 
 
 3° Le futur exploitant justifie la compatibilité des mesures de sûreté qu'il propose de mettre en œuvre avec les mesures de
-sécurité mentionnées au 1° de l'article R. 2352-99.
+sécurité mises en place.
 
 **Liens relatifs à cet article**
 
@@ -51352,9 +50589,9 @@ _Anciens textes_:
 
   - Décret n°90-153 du 16 février 1990 - art. 16-2 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -51365,26 +50602,23 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-92 (V)
+  - Code de la défense. - art. R2352-92
 
 
 ###### Article R2352-101
 
 1° Le préfet ou, à Paris, le préfet de police transmet pour avis : 
 
-a) A la direction régionale de l'industrie, de la recherche et de l'environnement, à l'inspection de l'armement pour les
-produits explosifs et à la direction départementale du travail, de l'emploi et de la formation professionnelle, le dossier de
-demande d'agrément technique ou d'autorisation prévus à l'article R. 2352-97, à l'exception du volet relatif à la sûreté ; 
+a) A l'inspection de l'armement pour les poudres et explosifs et à la direction départementale du travail, de l'emploi et de
+la formation professionnelle, le dossier de demande d'agrément technique prévu à l'article R. 2352-97, à l'exception du volet
+relatif à la sûreté ; 
 
 b) Aux services de police ou de gendarmerie, le volet du dossier relatif à la sûreté accompagné du justificatif, prévu à
 l'article R. 2352-100, relatif à la compatibilité des mesures de sûreté et de sécurité. 
 
 2° S'il s'agit d'une installation fixe, le préfet informe le maire, qui présente, s'il y a lieu, ses observations. 
 
-3° Le préfet communique au futur exploitant les avis mentionnés aux 1° et 2° ci-dessus et recueille ses observations. 
-
-4° En cas de difficultés persistantes à rendre compatibles les mesures relatives à la sécurité et celles relatives à la
-sûreté, le préfet peut, avant de statuer, consulter la commission des produits explosifs.
+3° Le préfet communique au futur exploitant les avis mentionnés aux 1° et 2° ci-dessus et recueille ses observations.
 
 **Liens relatifs à cet article**
 
@@ -51392,22 +50626,21 @@ _Anciens textes_:
 
   - Décret n°90-153 du 16 février 1990 - art. 16-3 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-100 (V)
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-100
+  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-102
 
-L'arrêté du préfet délivrant l'agrément technique ou l'autorisation prévus à l'article R. 2352-97 précise les mesures
-spécifiques relatives à la sécurité et à la sûreté prescrites au titre de la présente sous-section. Ces mesures peuvent, en
-vue de mieux assurer la sécurité et la sûreté de l'installation fixe ou mobile projetée, être différentes de celles proposées
-par le futur exploitant dans sa demande. 
+L'arrêté du préfet délivrant l'agrément technique prévu à l'article R. 2352-97 précise les mesures spécifiques relatives à la
+sûreté prescrites au titre de la présente sous-section. Ces mesures peuvent, en vue de mieux assurer la sûreté de
+l'installation fixe ou mobile projetée, être différentes de celles proposées par le futur exploitant dans sa demande. 
 
 Les dispositions de l'arrêté du préfet relatives aux mesures de sûreté ne font l'objet d'aucune publicité.
 
@@ -51416,13 +50649,9 @@ dans le délai d'un an ou a cessé d'être exploitée depuis un an.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 16-4 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -51432,10 +50661,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-97
 
 
-##### Paragraphe 3 : Suivi de l'exploitation des installations fixes ou mobiles de produits explosifs<a id=637></a>
+##### Paragraphe 3 : Suivi de l'exploitation des installations fixes ou mobiles de produits explosifs<a id=636></a>
 
 ###### Article R2352-103
 
@@ -51461,13 +50690,9 @@ _Créé par_:
 
 Les quantités fabriquées et les mouvements d'entrée et de sortie des produits explosifs d'une installation fixe ou mobile de
 produits explosifs sont inscrits sur des registres dont les modèles et les règles de tenue sont fixés par un arrêté conjoint
-des ministres de l'intérieur et de la défense et des ministres chargés de l'industrie et des installations classées.
+des ministres de l'intérieur et de la défense.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 18 (Ab)
 
 _Cité par_:
 
@@ -51475,15 +50700,15 @@ _Cité par_:
   - Arrêté du 5 mai 2009 - art. 5 (V)
   - Code de la défense. - art. R2352-107 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-105
 
-Si, postérieurement à la délivrance de l'agrément technique ou de l'autorisation prévus à l'article R. 2352-97, des
-circonstances particulières le justifient, le préfet peut imposer toute prescription complémentaire.
+Si, postérieurement à la délivrance de l'agrément technique prévu à l'article R. 2352-97, des circonstances particulières le
+justifient, le préfet peut imposer toute prescription complémentaire.
 
 **Liens relatifs à cet article**
 
@@ -51499,13 +50724,13 @@ _Cité par_:
   - Code de la défense. - art. R2353-10 (V)
   - Code de la défense. - art. R2353-9 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-97
 
 
 ###### Article R2352-106
@@ -51519,28 +50744,24 @@ mobile ayant fait l'objet d'une étude de sûreté fait procéder à une nouvell
 les arrêtés mentionnés au 1° de l'article R. 2352-100 et la communique au préfet.
 
 L'exploitant mentionné au 2° de l'article R. 2352-100 fait connaître au préfet les modifications qu'il se propose d'apporter
-aux mesures de sûreté prescrites par l'agrément technique ou l'autorisation dont il bénéficie. 
+aux mesures de sûreté prescrites par l'agrément technique dont il bénéficie. 
 
 Si, dans le délai de trois mois à compter de sa saisine, le préfet n'a pas enjoint à l'intéressé de présenter une nouvelle
-demande d'agrément technique ou d'autorisation prévus par l'article R. 2352-97 ou ne lui a pas imposé de prescriptions
-complémentaires en application de l'article R. 2352-105, les modifications de l'installation ou de ses conditions
-d'exploitation sont réputées acceptées.
+demande d'agrément technique prévu par l'article R. 2352-97 ou ne lui a pas imposé de prescriptions complémentaires en
+application de l'article R. 2352-105, les modifications de l'installation ou de ses conditions d'exploitation sont réputées
+acceptées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 20 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-100 (V)
-  - Code de la défense. - art. R2352-105 (V)
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-100
+  - Code de la défense. - art. R2352-105
+  - Code de la défense. - art. R2352-97
 
 _Cité par_:
 
@@ -51568,24 +50789,20 @@ _Cite_:
 
 ###### Article R2352-108
 
-Une installation fixe ou mobile de produits explosifs ayant obtenu l'agrément technique ou l'autorisation prévus à l'article
-R. 2352-97 fait l'objet, tous les cinq ans à compter de la dernière étude de sûreté effectuée, d'une étude de sûreté dans les
-conditions fixées par les arrêtés mentionnés au 1° de l'article R. 2352-100.
+Une installation fixe ou mobile de produits explosifs ayant obtenu l'agrément technique prévu à l'article R. 2352-97 fait
+l'objet, tous les cinq ans à compter de la dernière étude de sûreté effectuée, d'une étude de sûreté dans les conditions
+fixées par les arrêtés mentionnés au 1° de l'article R. 2352-100.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 21-1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. R2352-100 (V)
-  - Code de la défense. - art. R2352-97 (V)
+  - Code de la défense. - art. R2352-100
+  - Code de la défense. - art. R2352-97
 
 _Cité par_:
 
@@ -51608,9 +50825,9 @@ _Créé par_:
   - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 
-##### Sous-section 7 : Dispositions particulières aux dépôts, débits et installations mobiles de produits explosifs<a id=638></a>
+##### Sous-section 7 : Dispositions particulières aux dépôts, débits et installations mobiles de produits explosifs<a id=637></a>
 
-##### Paragraphe 1 : Autorisations individuelles d'exploitation<a id=639></a>
+##### Paragraphe 1 : Autorisations individuelles d'exploitation<a id=638></a>
 
 ###### Article R2352-110
 
@@ -51711,18 +50928,14 @@ _Cité par_:
 
 ###### Article R2352-113
 
-Un arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'industrie fixe la composition du dossier qui doit
-être joint à la demande d'autorisation individuelle ainsi que les modalités de délivrance de cette autorisation.
+Un arrêté du ministre de l'intérieur fixe la composition du dossier qui doit être joint à la demande d'autorisation
+individuelle ainsi que les modalités de délivrance de cette autorisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 23-2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
 ###### Article R2352-114
@@ -51789,23 +51002,19 @@ _Créé par_:
 
 ###### Article R2352-117
 
-Lorsqu'il estime que la sécurité d'un dépôt ou d'un débit n'est plus, compte tenu des circonstances, convenablement assurée,
-le préfet peut prendre toutes mesures adaptées à la situation et, en particulier, ordonner que les produits explosifs qui y
-sont conservés soient transférés dans un autre dépôt. En cas d'urgence, et si le transfert n'est pas possible, il peut
-ordonner la destruction de ces produits.
+Lorsqu'il estime que la sûreté d'un dépôt ou d'un débit n'est plus, compte tenu des circonstances, convenablement assurée, le
+préfet peut prendre toutes mesures adaptées à la situation et, en particulier, ordonner que les produits explosifs qui y sont
+conservés soient transférés dans un autre dépôt. En cas d'urgence, et si le transfert n'est pas possible, il peut ordonner la
+destruction de ces produits.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 26 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 
-##### Paragraphe 2 : Agrément des personnes intervenant dans les dépôts, débits et installations mobiles de produits explosifs<a id=640></a>
+##### Paragraphe 2 : Agrément des personnes intervenant dans les dépôts, débits et installations mobiles de produits explosifs<a id=639></a>
 
 ###### Article R2352-118
 
@@ -51893,13 +51102,13 @@ _Cite_:
   - Code de la défense. - art. R2352-110 (V)
 
 
-##### Section 4 : Etudes et recherches relatives aux produits explosifs<a id=641></a>
+##### Section 4 : Etudes et recherches relatives aux produits explosifs<a id=640></a>
 
 ###### Article R2352-122
 
 Toute personne physique ou morale qui désire faire des études ou recherches relatives aux produits explosifs autres que ceux
 relevant de la réglementation des matériels de guerre, armes et munitions doit y avoir été préalablement autorisée par arrêté
-conjoint des ministres de la défense, de l'intérieur et du ministre chargé de l'industrie.
+conjoint des ministres de la défense, de l'intérieur.
 
 Toutefois, cette autorisation n'est pas requise pour les études et recherches poursuivies par le ministère de la défense et
 le Commissariat à l'énergie atomique ou pour leur compte.
@@ -51907,18 +51116,11 @@ le Commissariat à l'énergie atomique ou pour leur compte.
 Un arrêté conjoint des ministres de la défense, de l'intérieur et du ministre chargé de l'industrie fixe les modalités de
 présentation de la demande ainsi que la composition du dossier qui doit être joint à celle-ci.
 
-Le silence gardé pendant plus d'un an par le ministre chargé de l'industrie sur une demande d'autorisation d'étude vaut
-décision de rejet.
-
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 28 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -51941,26 +51143,6 @@ _Créé par_:
   - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 
-###### Article R2352-124
-
-Le titulaire d'une autorisation qui envisage de cesser ses études et recherches en avise le ministre chargé de l'industrie et
-lui précise les conditions dans lesquelles le transfert des produits explosifs restants est assuré.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 30 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
 ###### Article R2352-125
 
 Préalablement à l'intervention d'une décision de retrait, l'intéressé est invité à présenter ses observations.
@@ -51976,9 +51158,9 @@ _Créé par_:
   - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 
-##### Chapitre III : Dispositions pénales<a id=642></a>
+##### Chapitre III : Dispositions pénales<a id=641></a>
 
-##### Section 1 : Agents habilités à constater les infractions<a id=643></a>
+##### Section 1 : Agents habilités à constater les infractions<a id=642></a>
 
 ###### Article R2353-1
 
@@ -52006,7 +51188,7 @@ _Cite_:
   - Code de la défense. - art. L2353-1 (V)
 
 
-##### Section 2 : Sanctions pénales<a id=644></a>
+##### Section 2 : Sanctions pénales<a id=643></a>
 
 ###### Article R2353-2
 
@@ -52037,109 +51219,6 @@ _Cité par_:
   - Code de la défense. - art. R2451-2 (M)
   - Code de la défense. - art. R2461-2 (V)
   - Code de la défense. - art. R2471-2 (V)
-
-
-###### Article R2353-3
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de vendre, importer, exporter, transporter,
-encartoucher, conserver, détenir ou employer un produit explosif non muni du marquage " CE " prévu à l'article R. 2352-51
-sous réserve des dispositions de l'article R. 2352-48 et du troisième alinéa de l'article R. 2352-50.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 31-1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-48
-  - Code de la défense. - art. R2352-50
-  - Code de la défense. - art. R2352-51
-
-
-###### Article R2353-4
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait d'apposer le marquage " CE " sur un produit
-explosif soumis au marquage " CE " sans s'être préalablement conformé aux procédures d'évaluation de la conformité définies à
-l'article R. 2352-52 ou aux prescriptions de l'article R. 2352-51.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 31-2 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-51
-  - Code de la défense. - art. R2352-52
-
-
-###### Article R2353-5
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de transporter, encartoucher, conserver, détenir
-ou employer un produit explosif non soumis au marquage " CE " qui n'est pas conforme à un modèle agréé dans les conditions
-prévues aux articles R. 2352-65 à R. 2352-72.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 32 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-65
-
-
-###### Article R2353-6
-
-Est puni des peines prévues pour les contraventions de la 5e classe le fait de produire, vendre, importer, encartoucher,
-conserver, détenir ou employer un produit explosif non soumis au marquage " CE " destiné à un usage civil en violation des
-prescriptions mentionnées à l'article R. 2352-68 qui lui incombent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°90-153 du 16 février 1990 - art. 33 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-_Cite_:
-
-  - Code de la défense. - art. R2352-68
 
 
 ###### Article R2353-7
@@ -52354,9 +51433,9 @@ _Créé par_:
   - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 
-#### TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES<a id=645></a>
+#### TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES<a id=644></a>
 
-##### Chapitre Ier : Zones militaires<a id=646></a>
+##### Chapitre Ier : Zones militaires<a id=645></a>
 
 ###### Article R2361-1
 
@@ -52382,7 +51461,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-3 (V)
 
 
-##### Chapitre II : Zones protégées<a id=647></a>
+##### Chapitre II : Zones protégées<a id=646></a>
 
 ###### Article D2362-2
 
@@ -52501,7 +51580,7 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R613-3 (V)
 
 
-##### Chapitre III : Zones de défense hautement sensibles<a id=648></a>
+##### Chapitre III : Zones de défense hautement sensibles<a id=647></a>
 
 ###### Article R2363-1
 
@@ -52678,11 +51757,11 @@ _Cite_:
   - Code de l'aviation civile - art. L131-3 (V)
 
 
-### LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER<a id=649></a>
+### LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER<a id=648></a>
 
-#### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE<a id=650></a>
+#### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE<a id=649></a>
 
-##### Chapitre unique<a id=651></a>
+##### Chapitre unique<a id=650></a>
 
 ###### Article R2431-1
 
@@ -52702,9 +51781,9 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=652></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=651></a>
 
-##### Chapitre unique<a id=653></a>
+##### Chapitre unique<a id=652></a>
 
 ###### Article D*2441-4
 
@@ -52830,9 +51909,9 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE<a id=654></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE<a id=653></a>
 
-##### Chapitre unique<a id=655></a>
+##### Chapitre unique<a id=654></a>
 
 ###### Article D*2451-4
 
@@ -52950,9 +52029,9 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE<a id=656></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE<a id=655></a>
 
-##### Chapitre unique<a id=657></a>
+##### Chapitre unique<a id=656></a>
 
 ###### Article D*2461-5
 
@@ -53090,9 +52169,9 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=658></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=657></a>
 
-##### Chapitre unique<a id=659></a>
+##### Chapitre unique<a id=658></a>
 
 ###### Article D*2471-4
 
@@ -53222,9 +52301,9 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=660></a>
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=659></a>
 
-##### Chapitre Ier : Saint-Barthélémy<a id=661></a>
+##### Chapitre Ier : Saint-Barthélémy<a id=660></a>
 
 ###### Article R2481-1
 
@@ -53249,7 +52328,7 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-##### Chapitre II : Saint-Martin<a id=662></a>
+##### Chapitre II : Saint-Martin<a id=661></a>
 
 ###### Article R2482-1
 
@@ -53273,11 +52352,11 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-#### TITRE IX : DISPOSITIONS APPLICABLES  A PLUSIEURS COLLECTIVITES<a id=663></a>
+#### TITRE IX : DISPOSITIONS APPLICABLES  A PLUSIEURS COLLECTIVITES<a id=662></a>
 
-##### Chapitre unique<a id=664></a>
+##### Chapitre unique<a id=663></a>
 
-##### Section 1 : Réquisition de biens et de services.<a id=665></a>
+##### Section 1 : Réquisition de biens et de services.<a id=664></a>
 
 ###### Article R2491-1
 
@@ -53464,7 +52543,7 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-##### Section 2 : Réquisitions militaires.<a id=666></a>
+##### Section 2 : Réquisitions militaires.<a id=665></a>
 
 ###### Article R2491-11
 
@@ -53602,7 +52681,7 @@ _Créé par_:
   - Décret n°2009-254 du 4 mars 2009 - art.
 
 
-##### Section 3 : Armes chimiques<a id=667></a>
+##### Section 3 : Armes chimiques<a id=666></a>
 
 ###### Article D2491-19
 
@@ -53629,606 +52708,15 @@ _Créé par_:
   - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 
-### Annexes mentionnées aux articles R. 2352-50, R. 2352-51, R. 2352-52 ET R. 2352-61<a id=668></a>
+## PARTIE 3 : LE MINISTERE DE LA DEFENSE ET LES ORGANISMES SOUS TUTELLE<a id=667></a>
 
-###### Article Annexe I
+### LIVRE Ier : L'ADMINISTRATION CENTRALE<a id=668></a>
 
-EXIGENCES ESSENTIELLES DE SECURITE
+#### TITRE Ier : COMPOSITION DE L'ADMINISTRATION CENTRALE<a id=669></a>
 
-I. ― Exigences générales
+##### Chapitre unique<a id=670></a>
 
-1. La conception, la fabrication et les modalités de fourniture de tout explosif doivent tendre à réduire au minimum, lorsque
-l'explosif est détenu et mis en œuvre dans des conditions normales au regard des règles de sécurité et des règles de l'art,
-les risques qu'il peut comporter pour la vie et la santé des personnes, la sécurité des biens et l'intégrité de
-l'environnement.
-
-2. Tout explosif doit pouvoir réaliser les performances annoncées par son fabricant, afin de garantir le plus haut degré de
-sécurité et de fiabilité possible.
-
-3. Tout explosif doit être conçu et fabriqué de manière à réduire au minimum les effets que sa destruction par des moyens
-appropriés peut avoir sur l'environnement.
-
-II. ― Exigences particulières
-
-1. Les données et caractéristiques suivantes, lorsqu'elles sont applicables, doivent au minimum soit être prises en compte,
-soit contrôlées :
-
-a) La conception et les propriétés caractéristiques, y compris la composition chimique, le degré d'homogénéité et, le cas
-échéant, les dimensions et la granulométrie ;
-
-b) La stabilité physique et chimique de l'explosif dans toutes les conditions ambiantes auxquelles il peut être exposé ;
-
-c) La sensibilité aux chocs et au frottement ;
-
-d) La compatibilité de tous les constituants, compte tenu de leur stabilité physique et chimique ;
-
-e) La pureté chimique de l'explosif ;
-
-f) La résistance de l'explosif à l'eau, lorsqu'il est destiné à être employé dans un environnement humide ou en présence
-d'eau et où l'action de l'eau risque d'influencer défavorablement ses qualités de fonctionnement ;
-
-g) La résistance aux basses et hautes températures, lorsqu'un stockage ou un emploi à ces températures est prévu et que le
-refroidissement ou le réchauffement d'un composant ou de l'ensemble de l'explosif risque d'influencer défavorablement sa
-sécurité ou sa fiabilité ;
-
-h) L'aptitude de l'explosif à être employé dans des zones dangereuses (atmosphères grisouteuses, masses chaudes, etc.), dans
-la mesure où son emploi dans de telles conditions est prévu ;
-
-i) La sécurité sous le rapport de la mise à feu ou de l'amorçage intempestif ;
-
-j) Le chargement et le fonctionnement corrects de l'explosif lorsqu'il est utilisé conformément à sa destination ;
-
-k) Les instructions appropriées et, lorsqu'ils s'avèrent nécessaires, les marquages désignant les conditions de manipulation,
-de stockage, d'emploi et d'élimination sûrs, dans la ou les langues officielles de l'Etat membre de destination ;
-
-l) L'aptitude de l'explosif, de son enveloppe ou de tout autre composant à résister aux détériorations survenant en cours de
-stockage, jusqu'à la date limite d'utilisation indiquée par le fabricant ;
-
-m) L'indication de tous les appareils et accessoires nécessaires au fonctionnement fiable et sûr des explosifs.
-
-Le contrôle des données et caractéristiques ci-dessus mentionnées doit être opéré dans des conditions réalistes ; s'il n'est
-pas possible de les réaliser à l'échelle d'un laboratoire, les essais doivent être effectués dans des conditions analogues à
-celles dans lesquelles l'explosif sera utilisé.
-
-2. Les différents groupes d'explosifs doivent aussi satisfaire au moins aux exigences suivantes :
-
-A. ― Explosifs de mine :
-
-a) Les explosifs de mine doivent pouvoir être amorcés de manière sûre et fiable ; leur décomposition doit, après amorçage,
-être complète. Dans le cas particulier des poudres noires, c'est l'aptitude à la déflagration qui est vérifiée ;
-
-b) Les explosifs encartouchés doivent transmettre la détonation de manière sûre et fiable d'un bout à l'autre d'un train de
-cartouches ;
-
-c) Les fumées produites par la détonation d'explosifs de mine destinés à être utilisés dans des chantiers souterrains ne
-doivent pas contenir du monoxyde de carbone, des gaz nitreux, d'autres gaz, des vapeurs ou résidus solides en suspension dans
-une proportion qui, dans les conditions d'exploitation habituelles, risque de nuire à la santé ;
-
-B. ― Cordeaux détonants, mèches de sûreté, autres mèches et tubes de transmission de détonation :
-
-a) L'enveloppe des cordeaux détonants, mèches de sûreté et autres mèches doit présenter une résistance mécanique suffisante
-et protéger suffisamment l'âme explosive dans les conditions normales de sollicitation mécanique ;
-
-b) Les paramètres déterminant les temps de combustion des mèches de sûreté doivent être indiqués et respectés de façon
-fiable ;
-
-c) Les cordeaux détonants doivent pouvoir être amorcés de manière fiable, avoir un pouvoir d'amorçage suffisant et satisfaire
-aux exigences requises, pour le stockage, même dans des conditions climatiques particulières ;
-
-C. ― Détonateurs (y compris les détonateurs à retard) et raccords à retard pour cordeaux détonants :
-
-a) Les détonateurs doivent, dans toutes les conditions d'emploi prévisibles, amorcer de façon fiable la détonation des
-explosifs de mine avec lesquels ils sont destinés à être employés ;
-
-b) Les raccords à retard pour cordeaux détonants doivent pouvoir être amorcés de façon fiable ;
-
-c) La capacité d'amorçage ne doit pas être altérée par l'humidité ;
-
-d) Les durées de temporisation des détonateurs à retard doivent être suffisamment uniformes pour que le risque de
-chevauchement des temporisations de relais voisins soit insignifiant ;
-
-e) Les caractéristiques électriques des détonateurs électriques doivent être indiquées sur l'emballage (courant minimal de
-fonctionnement, résistance, etc.) ;
-
-f) Les fils des détonateurs électriques doivent présenter une isolation et une résistance mécanique correspondant à leur mode
-d'utilisation, y compris au niveau de leur attache avec le détonateur ;
-
-D. ― Poudres propulsives et propergols solides pour autopropulsion :
-
-a) Lorsqu'elles sont employées conformément à leur destination, ces matières ne doivent pas détoner ;
-
-b) Les poudres propulsives doivent, si nécessaire (et notamment lorsqu'elles sont à base de nitrocellulose), être stabilisées
-pour éviter qu'elles ne se décomposent ;
-
-c) Lorsqu'ils se présentent sous forme comprimée ou moulée, les propergols solides pour autopropulsion ne doivent présenter
-aucune fissure ou bulle de gaz accidentelle qui puisse dangereusement affecter leur fonctionnement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe II
-
-MODULE B : EXAMEN "CE DE TYPE" 
-
-1. Ce module décrit la partie de procédure par laquelle un organisme habilité constate et atteste qu'un exemplaire
-représentatif de la production considérée satisfait aux dispositions correspondantes du présent décret.
-
-2. La demande d'examen "CE de type" est introduite par le fabricant, ou par son mandataire établi dans la Communauté, auprès
-de l'organisme habilité de son choix.
-
-La demande comporte :
-
-― le nom et l'adresse du fabricant, ainsi que le nom et l'adresse du mandataire si la demande est introduite par celui-ci ;
-
-― une déclaration écrite spécifiant que la même demande n'a pas été introduite auprès d'un autre organisme habilité ;
-
-― la documentation technique décrite au point 3.
-
-Le demandeur met à la disposition de l'organisme habilité un échantillon représentatif de la production concernée, ci-après
-dénommé "type". L'organisme habilité peut demander d'autres exemplaires si le programme d'essais le requiert.
-
-3. La documentation technique doit permettre l'évaluation de la conformité du produit aux exigences du présent décret. Elle
-doit traiter, dans la mesure nécessaire à cette évaluation, de la conception, de la fabrication et du fonctionnement du
-produit et contenir, dans la mesure nécessaire à l'évaluation :
-
-― une description générale du type ;
-
-― des dessins de conception et de fabrication, ainsi que des schémas de composants, sous-ensembles, circuits, etc. ;
-
-― les descriptions et explications nécessaires à la compréhension desdits dessins et schémas et du fonctionnement du
-produit ;
-
-― une liste des normes ou, à défaut, des spécifications techniques visées à l'article 1-3, appliquées entièrement ou en
-partie, et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles lorsque ces normes ou, à
-défaut, ces spécifications techniques n'ont pas été appliquées ;
-
-― les résultats des calculs de conception réalisés, des examens effectués ;
-
-― les rapports d'essais.
-
-4. L'organisme habilité :
-
-4.1. Examine la documentation technique, vérifie que le type a été fabriqué en conformité avec celle-ci et relève les
-éléments qui ont été conçus conformément aux normes ou, à défaut, aux spécifications techniques visées à l'article 1-3 et, le
-cas échéant, ceux qui n'ont pas été conçus en fonction de ces normes.
-
-4.2. Effectue ou fait effectuer les contrôles appropriés et les essais nécessaires pour vérifier si les solutions adoptées
-par le fabricant satisfont aux exigences essentielles du présent décret lorsque les normes visées à l'article 1-3 n'ont pas
-été appliquées.
-
-4.3. Effectue ou fait effectuer les contrôles appropriés et les essais nécessaires pour vérifier si, dans les cas où le
-fabricant a choisi d'appliquer les normes entrant en ligne de compte, celles-ci ont été effectivement appliquées.
-
-4.4. Convient avec le demandeur de l'endroit où les contrôles et les essais nécessaires seront effectués.
-
-5. Lorsque le type satisfait aux dispositions correspondantes du présent décret, l'organisme habilité délivre une attestation
-d'examen "CE de type" au demandeur. L'attestation comporte le nom et l'adresse du fabricant, les conclusions du contrôle et
-les données nécessaires à l'identification du type approuvé.
-
-Une liste des parties significatives de la documentation technique est annexée et une copie conservée par l'organisme
-habilité.
-
-S'il refuse de délivrer un certificat de type au fabricant ou à son mandataire établi dans la Communauté, l'organisme
-habilité motive d'une façon détaillée ce refus.
-
-6. Le demandeur informe l'organisme habilité qui détient la documentation technique relative à l'attestation "CE de type" de
-toutes les modifications au produit approuvé qui doivent recevoir une nouvelle approbation lorsque ces modifications peuvent
-remettre en cause la conformité aux exigences essentielles ou aux conditions d'utilisation prévues du produit. Cette nouvelle
-approbation est délivrée sous la forme d'un complément à l'attestation initiale d'examen "CE de type".
-
-7. Chaque organisme habilité communique aux autres organismes habilités les informations utiles concernant les attestations
-d'examen "CE de type" et les compléments délivrés et retirés.
-
-8. Les autres organismes habilités peuvent obtenir une copie des attestations d'examen "CE de type" et/ou de leurs
-compléments. Les annexes des attestations sont tenues à la disposition des autres organismes habilités.
-
-9. Le fabricant ou son mandataire établi dans la Communauté conserve, avec la documentation technique, une copie des
-attestations d'examen "CE de type" et de leurs compléments pendant une durée d'au moins dix ans à compter de la dernière date
-de fabrication du produit.
-
-Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, l'obligation de tenir la documentation
-technique à disposition incombe à la personne responsable de la mise sur le marché communautaire du produit.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe III
-
-MODULE C : CONFORMITE AU TYPE 
-
-1. Ce module décrit la partie de la procédure par laquelle le fabricant ou son mandataire établi dans la Communauté certifie
-que les explosifs concernés sont conformes au type décrit dans l'attestation d'examen "CE de type" et satisfont aux exigences
-correspondantes du présent décret. Le fabricant appose le marquage "CE" sur chaque explosif et établit une déclaration écrite
-de conformité.
-
-2. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité du produit
-fabriqué au type décrit dans le certificat d'examen "CE de type" et aux exigences du présent décret.
-
-3. Le fabricant ou son mandataire conserve une copie de la déclaration de conformité pendant une durée d'au moins dix ans à
-compter de la dernière date de fabrication du produit.
-
-Lorsque ni le fabricant ni son mandataire ne sont établis dans la Communauté, cette obligation de tenir la documentation
-technique à disposition incombe à la personne responsable de la mise sur le marché communautaire du produit.
-
-Un organisme habilité choisi par le fabricant effectue ou fait effectuer des contrôles du produit à des intervalles
-aléatoires. Un échantillon approprié de produits finis, prélevés sur place par l'organisme habilité, est contrôlé et des
-essais appropriés définis dans la ou les normes applicables ou, à défaut, les spécifications techniques visées à l'article
-1-3 ou des essais équivalents sont effectués pour vérifier la conformité de la production aux exigences du présent décret.
-Dans le cas où un ou plusieurs exemplaires des produits contrôlés ne sont pas conformes, l'organisme habilité prend les
-mesures appropriées.
-
-Le fabricant appose, sous la responsabilité de l'organisme habilité, le symbole d'identification de ce dernier au cours du
-processus de fabrication.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe IV
-
-MODULE D : ASSURANCE DE QUALITE DE PRODUCTION 
-
-1. Ce module décrit la procédure par laquelle le fabricant qui satisfait aux obligations prévues au point 2 certifie que les
-explosifs en question sont conformes au type décrit dans l'attestation d'examen "CE de type" et répondent aux exigences du
-présent décret. Le fabricant appose le marquage CE sur chaque explosif et établit une déclaration écrite de conformité. Le
-marquage CE est accompagné du symbole d'identification de l'organisme habilité responsable de la surveillance visée au point
-4.
-
-2. Le fabricant doit appliquer un système approuvé de qualité de la production, effectuer une inspection et des essais des
-appareils prévus au point 3. Il est soumis à la surveillance visée au point 4.
-
-3. Système de qualité.
-
-3.1. Le fabricant introduit une demande d'évaluation de son système de qualité, auprès de l'organisme habilité de son choix,
-pour les appareils dont l'utilisation est prise en compte pour la définition de ce système.
-
-Cette demande comprend :
-
-― toutes les informations pertinentes pour la catégorie de produits envisagés ;
-
-― la documentation relative au système de qualité ;
-
-― la documentation technique relative au type approuvé et une copie de l'attestation d'examen "CE de type".
-
-3.2. Le système de qualité doit garantir la conformité des appareils au type décrit dans l'attestation d'examen "CE de type"
-et aux exigences du présent décret qui leur sont applicables.
-
-Tous les éléments, exigences et dispositions adoptés par le fabricant doivent être réunis de manière systématique et ordonnés
-dans une documentation sous la forme de mesures, de procédures et d'instructions écrites. Cette documentation relative au
-système de qualité doit permettre une interprétation uniforme des programmes, des plans, des manuels et des dossiers de
-qualité.
-
-Elle comprend en particulier une description adéquate :
-
-― des objectifs de qualité, de l'organigramme, des responsabilités des cadres et de leurs pouvoirs en ce qui concerne la
-qualité des explosifs ;
-
-― des procédés de fabrication, des techniques de contrôle et de l'assurance de la qualité et des techniques et des actions
-systématiques qui seront appliqués ;
-
-― des examens et des essais qui seront effectués avant, pendant et après la fabrication, avec indication de la fréquence à
-laquelle ils auront lieu ;
-
-― des dossiers de qualité tels que les rapports d'inspection et les données d'essais et d'étalonnage, les rapports sur la
-qualification du personnel concerné, etc. ;
-
-― des moyens de surveillance permettant de contrôler l'obtention de la qualité requise des explosifs et le fonctionnement
-efficace du système de qualité.
-
-3.3. L'organisme habilité évalue le système de qualité pour déterminer s'il satisfait aux exigences visées au point 3.2. Il
-présume la conformité avec ces exigences des systèmes de qualité qui mettent en œuvre la norme harmonisée correspondante.
-L'équipe de contrôleurs comportera au moins un membre expérimenté dans l'évaluation de la technologie du produit concerné. La
-procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
-
-La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation
-motivée.
-
-3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est approuvé et à le maintenir
-de sorte qu'il demeure adéquat et efficace.
-
-Le fabricant ou son mandataire informe l'organisme habilité, qui a approuvé le système de qualité, de toute adaptation
-envisagée du système de qualité.
-
-L'organisme habilité évalue les changements proposés et décide si le système de qualité ainsi modifié continuera à répondre
-aux exigences visées au point 3.2 ou s'il y a lieu de procéder à une nouvelle évaluation.
-
-Il notifie sa décision au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation
-motivée.
-
-4. Surveillance sous la responsabilité de l'organisme habilité.
-
-4.1. Le but de la surveillance est d'assurer que le fabricant remplit correctement les obligations découlant du système
-approuvé de qualité.
-
-4.2. Le fabricant accorde à l'organisme habilité l'accès, pour inspection, aux lieux de fabrication, d'inspection, d'essais
-et de stockage et lui fournit toutes les informations nécessaires, notamment :
-
-― la documentation relative au système de qualité ;
-
-― les dossiers de qualité tels que les rapports d'inspection et les données d'essais et d'étalonnage, les rapports sur la
-qualification du personnel concerné, etc.
-
-4.3. L'organisme habilité effectue périodiquement des contrôles afin d'assurer que le fabricant maintient et applique le
-système de qualité ; il fournit un rapport de contrôle au fabricant.
-
-4.4. En outre, l'organisme habilité peut effectuer des visites inopinées chez le fabricant. A l'occasion de ces visites, cet
-organisme peut effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de qualité, si
-nécessaire. Il fournit au fabricant un rapport de la visite et, s'il y a eu essai, un rapport d'essai.
-
-5. Le fabricant tient à la disposition des autorités nationales pendant une durée d'au moins dix ans à compter de la dernière
-date de fabrication du produit :
-
-― la documentation visée au point 3.1, deuxième tiret ;
-
-― les adaptations visées au point 3.4, deuxième alinéa ;
-
-― les décisions et rapports de l'organisme habilité visés au point 3.4, dernier alinéa, et aux points 4.3 et 4.4.
-
-6. Chaque organisme habilité communique aux autres organismes habilités les informations pertinentes concernant les
-approbations de systèmes de qualité délivrées et retirées.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe V
-
-MODULE E : ASSURANCE DE QUALITE DU PRODUIT 
-
-1. Ce module décrit la procédure par laquelle le fabricant qui satisfait aux obligations du point 2 s'assure et déclare que
-les explosifs sont conformes au type décrit dans l'attestation d'examen "CE de type". Le fabricant appose le marquage CE sur
-chaque explosif et établit une déclaration écrite de conformité. Le marquage CE est accompagné du symbole d'identification de
-l'organisme habilité responsable de la surveillance visée au point 4.
-
-2. Le fabricant applique un système approuvé de qualité pour l'inspection finale des explosifs et les essais, comme spécifié
-au point 3. Il est soumis à la surveillance visée au point 4.
-
-3. Système de qualité.
-
-3.1. Le fabricant soumet une demande d'évaluation de son système de qualité auprès de l'organisme habilité de son choix, pour
-les explosifs.
-
-La demande comprend :
-
-― toutes les informations appropriées pour la catégorie d'explosifs envisagés ;
-
-― la documentation sur le système de qualité ;
-
-― la documentation technique relative au type approuvé et une copie de l'attestation d'examen "CE de type".
-
-3.2. Dans le cadre du système de qualité, chaque explosif est examiné et des essais appropriés, définis dans la ou les normes
-applicables ou, à défaut, les spécifications techniques visées à l'article 1-3, ou des essais équivalents, sont effectués
-pour vérifier sa conformité aux exigences correspondantes du présent décret. Tous les éléments, exigences et dispositions
-adoptés par le fabricant doivent figurer dans une documentation tenue de manière systématique et rationnelle sous la forme de
-mesures, de procédures et d'instructions écrites. Cette documentation sur le système de qualité permet une interprétation
-uniforme des programmes, plans, manuels et dossiers de qualité.
-
-Elle comprend en particulier une description adéquate :
-
-― des objectifs de qualité, de l'organigramme, des responsabilités des cadres et de leurs pouvoirs en matière de qualité des
-produits ;
-
-― des contrôles et des essais qui seront effectués après la fabrication ;
-
-― des moyens de vérifier le fonctionnement efficace du système de qualité ;
-
-― des dossiers de qualité, tels que les rapports d'inspection et les données d'essais, les données d'étalonnage, les rapports
-sur la qualification du personnel concerné, etc.
-
-3.3. L'organisme habilité évalue le système de qualité pour déterminer s'il répond aux exigences visées au point 3.2. Il
-présume la conformité à ces exigences pour les systèmes de qualité qui mettent en œuvre la norme harmonisée correspondante.
-
-L'équipe de contrôleurs comprend au moins un membre ayant acquis, en tant qu'évaluateur, l'expérience de la technologie du
-produit concerné. La procédure d'évaluation comprend une visite dans les locaux du fabricant.
-
-La décision est notifiée au fabricant. Elle contient les conclusions du contrôle et la décision d'évaluation motivée.
-
-3.4. Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est approuvé et à le maintenir
-de sorte qu'il demeure adéquat et efficace.
-
-Le fabricant ou son mandataire informe l'organisme habilité qui a approuvé le système de qualité de tout projet d'adaptation
-du système de qualité.
-
-L'organisme habilité évalue les modifications proposées et décide si le système de qualité modifié répondra encore aux
-exigences visées au point 3.2 ou si une réévaluation est nécessaire.
-
-Il notifie sa décision au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation
-motivée.
-
-4. Surveillance sous la responsabilité de l'organisme habilité.
-
-4.1. Le but de la surveillance est d'assurer que le fabricant remplit correctement les obligations qui découlent du système
-de qualité approuvé.
-
-4.2. Le fabricant autorise l'organisme habilité à accéder, à des fins d'inspection, aux lieux d'inspection, d'essai et de
-stockage et lui fournit toute l'information nécessaire, et notamment :
-
-― la documentation sur le système de qualité ;
-
-― la documentation technique ;
-
-― les dossiers de qualité, tels que les rapports d'inspection et les données d'essais, les données d'étalonnage, les rapports
-sur la qualification du personnel concerné, etc.
-
-4.3. L'organisme habilité procède périodiquement à des contrôles pour s'assurer que le fabricant maintient et applique le
-système de qualité et fournit un rapport de contrôle au fabricant.
-
-4.4. En outre, l'organisme habilité peut effectuer des visites inopinées chez le fabricant. A l'occasion de telles visites,
-cet organisme habilité peut effectuer ou faire effectuer des essais pour vérifier le bon fonctionnement du système de
-qualité, si nécessaire ; il fournit au fabricant un rapport de visite et, s'il y a eu lieu, un rapport d'essai.
-
-5. Le fabricant tient à la disposition des autorités nationales pendant une durée d'au moins dix ans à compter de la dernière
-date de fabrication du produit :
-
-― la documentation visée au point 3.1, deuxième tiret ;
-
-― les adaptations visées au point 3.4, deuxième alinéa ;
-
-― les décisions et rapports de l'organisme habilité visés au point 3.4, dernier alinéa, et aux points 4.3 et 4.4.
-
-6. Chaque organisme habilité communique aux autres organismes habilités les informations pertinentes concernant les
-approbations de système de qualité délivrées et retirées.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe VI
-
-MODULE F : VERIFICATION SUR PRODUIT 
-
-1. Ce module décrit la procédure par laquelle le fabricant ou son mandataire établi dans la Communauté certifie que les
-explosifs qui ont été soumis aux dispositions du point 3 sont conformes au type décrit dans le certificat d'examen "CE de
-type" et remplissent les exigences correspondantes du présent décret.
-
-2. Le fabricant prend toutes les mesures nécessaires pour que le procédé de fabrication assure la conformité des explosifs au
-type décrit dans le certificat d'examen "CE de type" et aux exigences du présent décret. Il appose le marquage "CE" sur
-chaque explosif et il établit une déclaration de conformité.
-
-3. L'organisme habilité effectue les examens et les essais appropriés afin de vérifier la conformité de l'explosif aux
-exigences correspondantes du présent décret, par contrôle et essai de chaque explosif comme spécifié au point 4.
-
-Le fabricant ou son mandataire conserve une copie de la déclaration de conformité pendant une période d'au moins dix ans à
-compter de la dernière date de fabrication de l'explosif.
-
-4. Vérification par contrôle et essai de chaque explosif.
-
-4.1. Tous les explosifs sont examinés individuellement et des essais appropriés, définis dans la ou les normes applicables
-ou, à défaut, les spécifications techniques visées à l'article 1-3, ou des essais équivalents, sont effectués afin de
-vérifier leur conformité au type et aux exigences applicables du présent décret.
-
-4.2. L'organisme habilité appose ou fait apposer son symbole d'identification sur chaque explosif approuvé et établit une
-attestation écrite de conformité relative aux essais effectués.
-
-4.3. Le fabricant ou son mandataire est en mesure de présenter sur demande les attestations de conformité de l'organisme
-habilité.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe VII
-
-MODULE G : VERIFICATION A L'UNITE 
-
-1. Ce module décrit la procédure par laquelle le fabricant certifie que l'explosif qui a obtenu l'attestation visée au point
-2 est conforme aux exigences correspondantes du présent décret. Le fabricant appose le marquage CE sur l'explosif et établit
-une déclaration de conformité.
-
-2. L'organisme habilité examine l'explosif et effectue les essais appropriés, définis dans la ou les normes applicables ou, à
-défaut, les spécifications techniques visées à l'article 1-3, ou des essais équivalents, pour vérifier sa conformité aux
-exigences applicables du présent décret.
-
-L'organisme habilité appose ou fait apposer son symbole d'identification sur l'explosif approuvé et établit une attestation
-de conformité relative aux essais effectués.
-
-3. La documentation technique doit comprendre l'ensemble des informations nécessaires à l'évaluation de la conformité de
-l'explosif aux exigences du présent décret ainsi qu'à la compréhension des concepts qu'il met en œuvre, de son mode de
-fabrication et du mécanisme de son fonctionnement.
-
-La documentation contient à cet effet :
-
-― une description générale du type ;
-
-― des dessins de conception et de fabrication, ainsi que des schémas de composants, sous-ensembles, circuits, etc. ;
-
-― les descriptions et explications nécessaires à la compréhension desdits dessins et schémas et du fonctionnement de
-l'explosif ou le système de protection ;
-
-― une liste des normes ou, à défaut, des spécifications techniques visées à l'article 1-3 appliquées entièrement ou en
-partie, et les descriptions des solutions adoptées pour satisfaire aux exigences essentielles lorsque les normes ou, à
-défaut, les spécifications techniques visées à l'article 1-3 n'ont pas été appliquées ;
-
-― les résultats des calculs de conception réalisés, des examens effectués, etc. ;
-
-― les rapports d'essais.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-###### Article Annexe VIII
-
-MARQUAGE DE CONFORMITE 
-
-Le marquage CE de conformité est constitué des initiales "CE" selon le graphisme ci-dessous :
-
-(Cliché non reproduit, voir au Journal officiel du 5 décembre 1996, page 17700).
-
-En cas de réduction ou d'agrandissement du marquage, les proportions telles qu'elles ressortent du graphisme gradué ci-dessus
-devront être respectées.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
-
-_Abrogé par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
-
-## PARTIE 3 : LE MINISTERE DE LA DEFENSE ET LES ORGANISMES SOUS TUTELLE<a id=669></a>
-
-### LIVRE Ier : L'ADMINISTRATION CENTRALE<a id=670></a>
-
-#### TITRE Ier : COMPOSITION DE L'ADMINISTRATION CENTRALE<a id=671></a>
-
-##### Chapitre unique<a id=672></a>
-
-##### Section 1 : Le ministre de la défense<a id=673></a>
+##### Section 1 : Le ministre de la défense<a id=671></a>
 
 ###### Article R*3111-1
 
@@ -54266,7 +52754,7 @@ _Cite_:
   - Code de la défense. - art. R*3121-2
 
 
-##### Section 2 :  Organisation de l'administration centrale<a id=674></a>
+##### Section 2 :  Organisation de l'administration centrale<a id=672></a>
 
 ###### Article D3111-2
 
@@ -54284,11 +52772,11 @@ _Créé par_:
   - Décret n°2009-1177 du 5 octobre 2009 - art. 5
 
 
-#### TITRE II : ORGANISMES ET AUTORITES MILITAIRES<a id=675></a>
+#### TITRE II : ORGANISMES ET AUTORITES MILITAIRES<a id=673></a>
 
-##### Chapitre Ier : Les états-majors<a id=676></a>
+##### Chapitre Ier : Les états-majors<a id=674></a>
 
-##### Section 1 :  Responsabilités générales du chef d'état-major des armées<a id=677></a>
+##### Section 1 :  Responsabilités générales du chef d'état-major des armées<a id=675></a>
 
 ###### Article R*3121-1
 
@@ -54402,7 +52890,7 @@ _Modifié par_:
   - Décret n°2009-869 du 15 juillet 2009 - art. 3
 
 
-##### Paragraphe 1 : Emploi des forces<a id=678></a>
+##### Paragraphe 1 : Emploi des forces<a id=676></a>
 
 ###### Article D3121-6
 
@@ -54442,7 +52930,7 @@ _Modifié par_:
   - Décret n°2009-1177 du 5 octobre 2009 - art. 1
 
 
-##### Paragraphe 2 :  Préparation et mise en condition d'emploi des armées<a id=679></a>
+##### Paragraphe 2 :  Préparation et mise en condition d'emploi des armées<a id=677></a>
 
 ###### Article D3121-8
 
@@ -54474,7 +52962,7 @@ _Cité par_:
   - Code de la défense. - art. D3121-24 (V)
 
 
-##### Paragraphe 3 : Constitution des capacités militaires<a id=680></a>
+##### Paragraphe 3 : Constitution des capacités militaires<a id=678></a>
 
 ###### Article D3121-9
 
@@ -54531,7 +53019,7 @@ _Cité par_:
   - Code de la défense. - art. D3121-24 (V)
 
 
-##### Paragraphe 4 : Ressources humaines<a id=681></a>
+##### Paragraphe 4 : Ressources humaines<a id=679></a>
 
 ###### Article D3121-10
 
@@ -54613,7 +53101,7 @@ _Cité par_:
   - Code de la défense. - art. D3121-24 (V)
 
 
-##### Paragraphe 5 : Relations internationales militaires<a id=682></a>
+##### Paragraphe 5 : Relations internationales militaires<a id=680></a>
 
 ###### Article D3121-14
 
@@ -54651,7 +53139,7 @@ _Cité par_:
   - Code de la défense. - art. D3121-24-1 (V)
 
 
-##### Paragraphe 6 : Soutien des armées<a id=683></a>
+##### Paragraphe 6 : Soutien des armées<a id=681></a>
 
 ###### Article D3121-15
 
@@ -54669,7 +53157,7 @@ _Cité par_:
   - Code de la défense. - art. D3121-24 (M)
 
 
-##### Paragraphe 7 : Responsabilités diverses<a id=684></a>
+##### Paragraphe 7 : Responsabilités diverses<a id=682></a>
 
 ###### Article D3121-16
 
@@ -54756,7 +53244,7 @@ _Cité par_:
   - Code de la défense. - art. D3121-32 (V)
 
 
-##### Section 2 :  L'état-major des armées<a id=685></a>
+##### Section 2 :  L'état-major des armées<a id=683></a>
 
 ###### Article D3121-21
 
@@ -54856,9 +53344,9 @@ _Cite_:
   - Code de la défense. - art. R3121-9
 
 
-##### Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air<a id=686></a>
+##### Section 3 : Les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air<a id=684></a>
 
-##### Sous-section 1 : Attributions des chefs d'état-major<a id=687></a>
+##### Sous-section 1 : Attributions des chefs d'état-major<a id=685></a>
 
 ###### Article D3121-27
 
@@ -55026,9 +53514,9 @@ _Cité par_:
   - Code de la défense. - art. R*3551-1 (M)
 
 
-##### Chapitre II : La direction générale de la gendarmerie nationale<a id=688></a>
+##### Chapitre II : La direction générale de la gendarmerie nationale<a id=686></a>
 
-##### Section 1 : Attributions du directeur général de la gendarmerie nationale<a id=689></a>
+##### Section 1 : Attributions du directeur général de la gendarmerie nationale<a id=687></a>
 
 ###### Article D3122-1
 
@@ -55197,7 +53685,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Inspection générale de la gendarmerie nationale<a id=690></a>
+##### Section 2 : Inspection générale de la gendarmerie nationale<a id=688></a>
 
 ###### Article D3122-12
 
@@ -55234,7 +53722,7 @@ _Modifié par_:
   - Décret n°2009-1727 du 30 décembre 2009 - art. 4
 
 
-##### Chapitre III : Le contrôle général des armées<a id=691></a>
+##### Chapitre III : Le contrôle général des armées<a id=689></a>
 
 ###### Article D3123-1
 
@@ -55593,9 +54081,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre IV : Les inspecteurs généraux<a id=692></a>
+##### Chapitre IV : Les inspecteurs généraux<a id=690></a>
 
-##### Section 1 : Inspecteurs généraux des armées<a id=693></a>
+##### Section 1 : Inspecteurs généraux des armées<a id=691></a>
 
 ###### Article D3124-1
 
@@ -55733,7 +54221,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Inspecteur général du service de santé des armées<a id=694></a>
+##### Section 2 : Inspecteur général du service de santé des armées<a id=692></a>
 
 ###### Article D3124-7
 
@@ -55847,9 +54335,9 @@ _Cite_:
   - Code de la défense. - art. R4137-138 (V)
 
 
-##### Chapitre V : Organismes d'enquêtes techniques<a id=695></a>
+##### Chapitre V : Organismes d'enquêtes techniques<a id=693></a>
 
-##### Section 1 : Dispositions générales<a id=696></a>
+##### Section 1 : Dispositions générales<a id=694></a>
 
 ###### Article R3125-1
 
@@ -55966,7 +54454,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre<a id=697></a>
+##### Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre<a id=695></a>
 
 ###### Article R3125-6
 
@@ -56079,7 +54567,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense<a id=698></a>
+##### Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense<a id=696></a>
 
 ###### Article R3125-13
 
@@ -56197,7 +54685,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées<a id=699></a>
+##### Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les batiments des forces armées<a id=697></a>
 
 ###### Article R3125-18
 
@@ -56294,7 +54782,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes techniques après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation<a id=700></a>
+##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes techniques après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation<a id=698></a>
 
 ###### Article R3125-22
 
@@ -56452,9 +54940,9 @@ _Cite_:
   - Code de la défense. - art. R3125-27 (V)
 
 
-##### Chapitre VI : Les services de renseignement et de sécurité<a id=701></a>
+##### Chapitre VI : Les services de renseignement et de sécurité<a id=699></a>
 
-##### Section 1 : Direction générale de la sécurité extérieure<a id=702></a>
+##### Section 1 : Direction générale de la sécurité extérieure<a id=700></a>
 
 ###### Article D3126-1
 
@@ -56523,7 +55011,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Direction de la protection et de la sécurité de la défense<a id=703></a>
+##### Section 2 : Direction de la protection et de la sécurité de la défense<a id=701></a>
 
 ###### Article D3126-5
 
@@ -56637,7 +55125,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Direction du renseignement militaire<a id=704></a>
+##### Section 3 : Direction du renseignement militaire<a id=702></a>
 
 ###### Article D3126-10
 
@@ -56726,7 +55214,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre VII : Le service de la poste interarmées<a id=705></a>
+##### Chapitre VII : Le service de la poste interarmées<a id=703></a>
 
 ###### Article R3127-1
 
@@ -56881,13 +55369,13 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-### LIVRE II : LES FORCES ARMEES<a id=706></a>
+### LIVRE II : LES FORCES ARMEES<a id=704></a>
 
-#### TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE<a id=707></a>
+#### TITRE II : LES ARMEES ET LA GENDARMERIE NATIONALE<a id=705></a>
 
-##### Chapitre II : Organisation de l'armée de terre<a id=708></a>
+##### Chapitre II : Organisation de l'armée de terre<a id=706></a>
 
-##### Section 1 : Dispositions générales<a id=709></a>
+##### Section 1 : Dispositions générales<a id=707></a>
 
 ###### Article R3222-1
 
@@ -56968,7 +55456,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Section 2 : Dispositions relatives aux forces<a id=710></a>
+##### Section 2 : Dispositions relatives aux forces<a id=708></a>
 
 ###### Article R3222-4
 
@@ -57001,7 +55489,7 @@ _Cité par_:
   - Code de la défense. - art. R3222-10 (V)
 
 
-##### Section 3 : Dispositions relatives aux commandements organiques territoriaux de l'armée de terre<a id=711></a>
+##### Section 3 : Dispositions relatives aux commandements organiques territoriaux de l'armée de terre<a id=709></a>
 
 ###### Article R3222-5
 
@@ -57132,7 +55620,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Section 4 : Dispositions relatives aux services de l'armée de terre<a id=712></a>
+##### Section 4 : Dispositions relatives aux services de l'armée de terre<a id=710></a>
 
 ###### Article R3222-8
 
@@ -57165,7 +55653,7 @@ _Cite_:
   - Code de la défense. - art. R3231-1
 
 
-##### Section 5 : Relations entre commandements et services<a id=713></a>
+##### Section 5 : Relations entre commandements et services<a id=711></a>
 
 ###### Article R3222-9
 
@@ -57196,9 +55684,9 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Section 6 : Dispositions particulières à certaines formations<a id=714></a>
+##### Section 6 : Dispositions particulières à certaines formations<a id=712></a>
 
-##### Sous-section 1 : Les organismes de formation<a id=715></a>
+##### Sous-section 1 : Les organismes de formation<a id=713></a>
 
 ###### Article R3222-10
 
@@ -57216,7 +55704,7 @@ _Modifié par_:
   - Décret n°2009-1213 du 9 octobre 2009 - art. 1
 
 
-##### Sous-section 2 : La légion étrangère<a id=716></a>
+##### Sous-section 2 : La légion étrangère<a id=714></a>
 
 ###### Article D3222-11
 
@@ -57242,7 +55730,7 @@ _Cité par_:
   - Code de la défense. - art. D3571-4 (M)
 
 
-##### Sous-section 3 : Le commandement des formations militaires de la sécurité civile<a id=717></a>
+##### Sous-section 3 : Le commandement des formations militaires de la sécurité civile<a id=715></a>
 
 ###### Article D3222-12
 
@@ -57264,7 +55752,7 @@ _Cité par_:
   - Code de la défense. - art. D3541-4 (M)
 
 
-##### Sous-section 4 : Les sapeurs-pompiers de Paris<a id=718></a>
+##### Sous-section 4 : Les sapeurs-pompiers de Paris<a id=716></a>
 
 ###### Article R3222-13
 
@@ -57420,7 +55908,7 @@ _Abrogé par_:
   - Décret n°2014-1169 du 10 octobre 2014 - art. 5
 
 
-##### Sous-section 5 : Le commandement du service militaire adapté<a id=719></a>
+##### Sous-section 5 : Le commandement du service militaire adapté<a id=717></a>
 
 ###### Article D3222-19
 
@@ -57489,7 +55977,7 @@ _Cite_:
   - Code de la défense. - art. D3222-21 (V)
 
 
-##### Sous-section 6 : Le commandement de l'aviation légère de l'armée de terre<a id=720></a>
+##### Sous-section 6 : Le commandement de l'aviation légère de l'armée de terre<a id=718></a>
 
 ###### Article D3222-23
 
@@ -57512,9 +56000,9 @@ _Abrogé par_:
   - Décret n°2017-417 du 27 mars 2017 - art. 3
 
 
-##### Chapitre III : Organisation de la marine nationale<a id=721></a>
+##### Chapitre III : Organisation de la marine nationale<a id=719></a>
 
-##### Section 1 : Dispositions générales<a id=722></a>
+##### Section 1 : Dispositions générales<a id=720></a>
 
 ###### Article R3223-1
 
@@ -57620,9 +56108,9 @@ _Cite_:
   - Code de la défense. - art. R3223-56 (V)
 
 
-##### Section 2 : Dispositions relatives aux forces maritimes et aux éléments de forces maritimes<a id=723></a>
+##### Section 2 : Dispositions relatives aux forces maritimes et aux éléments de forces maritimes<a id=721></a>
 
-##### Sous-section 1 : Composition des forces maritimes<a id=724></a>
+##### Sous-section 1 : Composition des forces maritimes<a id=722></a>
 
 ###### Article D3223-7
 
@@ -57689,7 +56177,7 @@ _Cité par_:
   - Décret n°2019-415 du 7 mai 2019 - art. 1 (V)
 
 
-##### Sous-section 2 : Le commandant de force maritime<a id=725></a>
+##### Sous-section 2 : Le commandant de force maritime<a id=723></a>
 
 ###### Article D3223-9
 
@@ -57797,7 +56285,7 @@ _Cite_:
   - Code de la défense. - art. L4137-5 (V)
 
 
-##### Sous-section 3 : Le commandant l'élément de force maritime<a id=726></a>
+##### Sous-section 3 : Le commandant l'élément de force maritime<a id=724></a>
 
 ###### Article D3223-15
 
@@ -57990,7 +56478,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 4 : Relations avec l'extérieur<a id=727></a>
+##### Sous-section 4 : Relations avec l'extérieur<a id=725></a>
 
 ###### Article D3223-25
 
@@ -58241,7 +56729,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 5 : Dispositions particulières en cas de tension, de crise, de conflit armé ou de guerre<a id=728></a>
+##### Sous-section 5 : Dispositions particulières en cas de tension, de crise, de conflit armé ou de guerre<a id=726></a>
 
 ###### Article D3223-40
 
@@ -58345,7 +56833,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Dispositions relatives aux commandements organiques territoriaux de la marine<a id=729></a>
+##### Section 3 : Dispositions relatives aux commandements organiques territoriaux de la marine<a id=727></a>
 
 ###### Article D3223-51
 
@@ -58603,7 +57091,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Section 4 : Dispositions relatives aux services de la marine<a id=730></a>
+##### Section 4 : Dispositions relatives aux services de la marine<a id=728></a>
 
 ###### Article R3223-56
 
@@ -58651,7 +57139,7 @@ _Cite_:
   - Code de la défense. - art. R3231-1
 
 
-##### Section 5 : Relations entre commandements et services<a id=731></a>
+##### Section 5 : Relations entre commandements et services<a id=729></a>
 
 ###### Article R3223-57
 
@@ -58695,9 +57183,9 @@ _Cité par_:
   - Code de la défense. - art. R3223-48 (V)
 
 
-##### Section 6 : Dispositions particulières à certaines formations<a id=732></a>
+##### Section 6 : Dispositions particulières à certaines formations<a id=730></a>
 
-##### Sous-section 1 : Les organismes de formation<a id=733></a>
+##### Sous-section 1 : Les organismes de formation<a id=731></a>
 
 ###### Article R3223-59
 
@@ -58712,7 +57200,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Sous-section 2 : Le bataillon des marins-pompiers de Marseille<a id=734></a>
+##### Sous-section 2 : Le bataillon des marins-pompiers de Marseille<a id=732></a>
 
 ###### Article R3223-60
 
@@ -58730,9 +57218,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2513-6 (V)
 
 
-##### Chapitre  IV : Organisation de l'armée de l'air<a id=735></a>
+##### Chapitre  IV : Organisation de l'armée de l'air<a id=733></a>
 
-##### Section 1 : Dispositions générales<a id=736></a>
+##### Section 1 : Dispositions générales<a id=734></a>
 
 ###### Article R3224-1
 
@@ -58824,7 +57312,7 @@ _Cite_:
   - Code de la défense. - art. R3224-1 (V)
 
 
-##### Section 2 : Dispositions relatives aux forces<a id=737></a>
+##### Section 2 : Dispositions relatives aux forces<a id=735></a>
 
 ###### Article R3224-6
 
@@ -58859,7 +57347,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Section 3 : Dispositions relatives aux services de l'armée de l'air<a id=738></a>
+##### Section 3 : Dispositions relatives aux services de l'armée de l'air<a id=736></a>
 
 ###### Article R3224-8
 
@@ -58892,7 +57380,7 @@ _Cite_:
   - Code de la défense. - art. R3231-1
 
 
-##### Section 4 : Relations entre commandements et services<a id=739></a>
+##### Section 4 : Relations entre commandements et services<a id=737></a>
 
 ###### Article R3224-9
 
@@ -58924,9 +57412,9 @@ _Cité par_:
   - Arrêté du 22 décembre 2015 - art. 5 (V)
 
 
-##### Section 5 : Dispositions particulières à certaines formations<a id=740></a>
+##### Section 5 : Dispositions particulières à certaines formations<a id=738></a>
 
-##### Sous-section 1 : Les bases aériennes<a id=741></a>
+##### Sous-section 1 : Les bases aériennes<a id=739></a>
 
 ###### Article R3224-11
 
@@ -58948,7 +57436,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Sous-section 2 : La direction des ressources humaines de l'armée de l'air<a id=742></a>
+##### Sous-section 2 : La direction des ressources humaines de l'armée de l'air<a id=740></a>
 
 ###### Article R3224-12
 
@@ -58961,7 +57449,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Sous-section 3 : Le directeur de la circulation aérienne militaire<a id=743></a>
+##### Sous-section 3 : Le directeur de la circulation aérienne militaire<a id=741></a>
 
 ###### Article D3224-13
 
@@ -59116,9 +57604,9 @@ _Abrogé par_:
   - Décret n°2013-366 du 29 avril 2013 - art. 11
 
 
-##### Chapitre V : Organisation de la gendarmerie nationale<a id=744></a>
+##### Chapitre V : Organisation de la gendarmerie nationale<a id=742></a>
 
-##### Section unique : Dispositions générales<a id=745></a>
+##### Section unique : Dispositions générales<a id=743></a>
 
 ###### Article R3225-1
 
@@ -59346,9 +57834,9 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-#### TITRE III : LES SERVICES DE SOUTIEN ET D'ADMINISTRATION<a id=746></a>
+#### TITRE III : LES SERVICES DE SOUTIEN ET D'ADMINISTRATION<a id=744></a>
 
-##### Chapitre Ier : Organisation générale<a id=747></a>
+##### Chapitre Ier : Organisation générale<a id=745></a>
 
 ###### Article R3231-1
 
@@ -59588,7 +58076,7 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-##### Chapitre II : Les services du commissariat<a id=748></a>
+##### Chapitre II : Les services du commissariat<a id=746></a>
 
 ###### Article R3232-1
 
@@ -59846,9 +58334,9 @@ _Cite_:
   - Code de la défense. - art. R3231-2
 
 
-##### Chapitre III : Les services et organismes interarmées<a id=749></a>
+##### Chapitre III : Les services et organismes interarmées<a id=747></a>
 
-##### Section 1 : Le service de santé des armées<a id=750></a>
+##### Section 1 : Le service de santé des armées<a id=748></a>
 
 ###### Article R3233-1
 
@@ -59941,7 +58429,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Le service des essences des armées<a id=751></a>
+##### Section 2 : Le service des essences des armées<a id=749></a>
 
 ###### Article R3233-5
 
@@ -60027,7 +58515,7 @@ _Cité par_:
   - Arrêté du 11 février 2015 - art. 2 (V)
 
 
-##### Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense<a id=752></a>
+##### Section 3 : La direction interarmées des réseaux d'infrastructure et des systèmes d'information de la défense<a id=750></a>
 
 ###### Article R3233-10
 
@@ -60237,7 +58725,7 @@ _Nouveaux textes_:
   - Code de la défense. - art. R3232-29 (V)
 
 
-##### Section 4 : Dispositions communes aux organismes interarmées et à vocation interarmées<a id=753></a>
+##### Section 4 : Dispositions communes aux organismes interarmées et à vocation interarmées<a id=751></a>
 
 ###### Article R3233-19
 
@@ -60256,7 +58744,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 5 : La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense<a id=754></a>
+##### Section 5 : La structure intégrée du maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense<a id=752></a>
 
 ###### Article R3233-20
 
@@ -60525,11 +59013,11 @@ _Nouveaux textes_:
   - Code de la défense. - art. R3232-38 (Ab)
 
 
-#### TITRE IV : COMMANDEMENTS INTERARMEES<a id=755></a>
+#### TITRE IV : COMMANDEMENTS INTERARMEES<a id=753></a>
 
-##### Chapitre unique : Commandements de forces  françaises à l'étranger<a id=756></a>
+##### Chapitre unique : Commandements de forces  françaises à l'étranger<a id=754></a>
 
-##### Section 1 : Commandement des forces françaises au Cap-Vert<a id=757></a>
+##### Section 1 : Commandement des forces françaises au Cap-Vert<a id=755></a>
 
 ###### Article D3241-1
 
@@ -60605,7 +59093,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Commandement des forces françaises stationnées à Djibouti<a id=758></a>
+##### Section 2 : Commandement des forces françaises stationnées à Djibouti<a id=756></a>
 
 ###### Article D3241-5
 
@@ -60681,7 +59169,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Commandement des forces françaises stationnées au Gabon<a id=759></a>
+##### Section 3 : Commandement des forces françaises stationnées au Gabon<a id=757></a>
 
 ###### Article D3241-9
 
@@ -60757,7 +59245,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne<a id=760></a>
+##### Section 4 : Commandement des forces françaises et éléments civils stationnés en Allemagne<a id=758></a>
 
 ###### Article D3241-13
 
@@ -60825,11 +59313,11 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-### LIVRE III : ORGANISMES CONSULTATIFS<a id=761></a>
+### LIVRE III : ORGANISMES CONSULTATIFS<a id=759></a>
 
-#### TITRE IER : LES CONSEILLERS DU GOUVERNEMENT  POUR LA DEFENSE<a id=762></a>
+#### TITRE IER : LES CONSEILLERS DU GOUVERNEMENT  POUR LA DEFENSE<a id=760></a>
 
-##### Chapitre unique<a id=763></a>
+##### Chapitre unique<a id=761></a>
 
 ###### Article R*3311-1
 
@@ -60882,11 +59370,11 @@ _Créé par_:
   - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
 
 
-#### TITRE II : LES CONSEILS SUPERIEURS DE L'ARMEE DE TERRE, DE LA MARINE, DE L'ARMEE DE L'AIR ET DE LA GENDARMERIE<a id=764></a>
+#### TITRE II : LES CONSEILS SUPERIEURS DE L'ARMEE DE TERRE, DE LA MARINE, DE L'ARMEE DE L'AIR ET DE LA GENDARMERIE<a id=762></a>
 
-##### Chapitre Ier : Le conseil supérieur interarmées et les conseils supérieurs d'armée<a id=765></a>
+##### Chapitre Ier : Le conseil supérieur interarmées et les conseils supérieurs d'armée<a id=763></a>
 
-##### Section 1 : Le conseil supérieur interarmées<a id=766></a>
+##### Section 1 : Le conseil supérieur interarmées<a id=764></a>
 
 ###### Article R3321-1
 
@@ -60936,7 +59424,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Les conseils supérieurs d'armée<a id=767></a>
+##### Section 2 : Les conseils supérieurs d'armée<a id=765></a>
 
 ###### Article R3321-3
 
@@ -60997,9 +59485,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre II : Les conseils supérieurs de formation rattachée<a id=768></a>
+##### Chapitre II : Les conseils supérieurs de formation rattachée<a id=766></a>
 
-##### Section 1 : Attributions<a id=769></a>
+##### Section 1 : Attributions<a id=767></a>
 
 ###### Article R3322-1
 
@@ -61034,7 +59522,7 @@ _Cite_:
   - Code de la défense. - art. L4141-2
 
 
-##### Section 2 : Composition<a id=770></a>
+##### Section 2 : Composition<a id=768></a>
 
 ###### Article R3322-2
 
@@ -61130,7 +59618,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre III : Règles de fonctionnement<a id=771></a>
+##### Chapitre III : Règles de fonctionnement<a id=769></a>
 
 ###### Article R3323-1
 
@@ -61149,9 +59637,9 @@ _Cité par_:
   - Arrêté du 8 février 2013 - art. 13 (V)
 
 
-#### TITRE III : LE CONSEIL GENERAL DE L'ARMEMENT<a id=772></a>
+#### TITRE III : LE CONSEIL GENERAL DE L'ARMEMENT<a id=770></a>
 
-##### Chapitre unique<a id=773></a>
+##### Chapitre unique<a id=771></a>
 
 ###### Article D3331-1
 
@@ -61289,9 +59777,9 @@ _Modifié par_:
   - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
-#### TITRE IV : LE COMITE CONSULTATIF DE SANTE DES ARMEES<a id=774></a>
+#### TITRE IV : LE COMITE CONSULTATIF DE SANTE DES ARMEES<a id=772></a>
 
-##### Chapitre unique<a id=775></a>
+##### Chapitre unique<a id=773></a>
 
 ###### Article D3341-1
 
@@ -61491,13 +59979,13 @@ _Abrogé par_:
   - Décret n°2019-1079 du 24 octobre 2019 - art. 1
 
 
-### LIVRE IV : ETABLISSEMENTS PUBLICS<a id=776></a>
+### LIVRE IV : ETABLISSEMENTS PUBLICS<a id=774></a>
 
-#### TITRE Ier : ETABLISSEMENTS PUBLICS  A CARACTERE ADMINISTRATIF<a id=777></a>
+#### TITRE Ier : ETABLISSEMENTS PUBLICS  A CARACTERE ADMINISTRATIF<a id=775></a>
 
-##### Chapitre Ier : Etablissements d'enseignement supérieur et de recherche<a id=778></a>
+##### Chapitre Ier : Etablissements d'enseignement supérieur et de recherche<a id=776></a>
 
-##### Section 1 : Institut supérieur de l'aéronautique et de l'espace<a id=779></a>
+##### Section 1 : Institut supérieur de l'aéronautique et de l'espace<a id=777></a>
 
 ###### Article R3411-1
 
@@ -61647,7 +60135,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 1 : Organisation administrative<a id=780></a>
+##### Sous-section 1 : Organisation administrative<a id=778></a>
 
 ###### Article D3411-17
 
@@ -62037,7 +60525,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Personnel<a id=781></a>
+##### Sous-section 2 : Personnel<a id=779></a>
 
 ###### Article R3411-21
 
@@ -62058,7 +60546,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Organisation financière<a id=782></a>
+##### Sous-section 3 : Organisation financière<a id=780></a>
 
 ###### Article R3411-22
 
@@ -62136,7 +60624,7 @@ _Cite_:
   - Code de l'éducation - art. L719-9 (V)
 
 
-##### Sous-section 4 : Discipline<a id=783></a>
+##### Sous-section 4 : Discipline<a id=781></a>
 
 ###### Article R3411-26
 
@@ -62208,7 +60696,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Ecole nationale supérieure des techniques avancées<a id=784></a>
+##### Section 2 : Ecole nationale supérieure des techniques avancées<a id=782></a>
 
 ###### Article R3411-29
 
@@ -62300,7 +60788,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 1 : Organisation administrative<a id=785></a>
+##### Sous-section 1 : Organisation administrative<a id=783></a>
 
 ###### Article D3411-40
 
@@ -62687,7 +61175,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Personnel<a id=786></a>
+##### Sous-section 2 : Personnel<a id=784></a>
 
 ###### Article R3411-46
 
@@ -62724,7 +61212,7 @@ _Cité par_:
   - Arrêté du 9 juillet 2010 (V)
 
 
-##### Sous-section 3 : Organisation financière<a id=787></a>
+##### Sous-section 3 : Organisation financière<a id=785></a>
 
 ###### Article R3411-47
 
@@ -62882,7 +61370,7 @@ _Abrogé par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 28
 
 
-##### Sous-section 4 : Discipline<a id=788></a>
+##### Sous-section 4 : Discipline<a id=786></a>
 
 ###### Article R3411-55
 
@@ -62940,7 +61428,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement<a id=789></a>
+##### Section 3 : Ecole nationale supérieure des ingénieurs des études et techniques d'armement<a id=787></a>
 
 ###### Article R3411-57
 
@@ -63041,7 +61529,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 1 : Organisation administrative<a id=790></a>
+##### Sous-section 1 : Organisation administrative<a id=788></a>
 
 ###### Article D3411-68
 
@@ -63491,7 +61979,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Personnel<a id=791></a>
+##### Sous-section 2 : Personnel<a id=789></a>
 
 ###### Article R3411-76
 
@@ -63520,7 +62008,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Organisation financière<a id=792></a>
+##### Sous-section 3 : Organisation financière<a id=790></a>
 
 ###### Article R3411-77
 
@@ -63671,7 +62159,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 4 : Discipline<a id=793></a>
+##### Sous-section 4 : Discipline<a id=791></a>
 
 ###### Article R3411-85
 
@@ -63749,9 +62237,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre II : Cercles et foyers<a id=794></a>
+##### Chapitre II : Cercles et foyers<a id=792></a>
 
-##### Section 1 : Dispositions générales<a id=795></a>
+##### Section 1 : Dispositions générales<a id=793></a>
 
 ###### Article R3412-1
 
@@ -64108,7 +62596,7 @@ _Cité par_:
   - Arrêté du 5 août 2011 - art. 11 (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=796></a>
+##### Section 2 : Organisation administrative et financière<a id=794></a>
 
 ###### Article R3412-14
 
@@ -64294,7 +62782,7 @@ _Modifié par_:
   - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
 
 
-##### Section 3 : Dispositions spécifiques aux foyers<a id=797></a>
+##### Section 3 : Dispositions spécifiques aux foyers<a id=795></a>
 
 ###### Article R3412-20
 
@@ -64312,7 +62800,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 4 : Dispositions spécifiques au Cercle national des armées<a id=798></a>
+##### Section 4 : Dispositions spécifiques au Cercle national des armées<a id=796></a>
 
 ###### Article R3412-21
 
@@ -64372,11 +62860,11 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre III : Organismes scientifiques et culturels<a id=799></a>
+##### Chapitre III : Organismes scientifiques et culturels<a id=797></a>
 
-##### Section 1 : Musée de l'Armée<a id=800></a>
+##### Section 1 : Musée de l'Armée<a id=798></a>
 
-##### Sous-section 1 : Dispositions générales<a id=801></a>
+##### Sous-section 1 : Dispositions générales<a id=799></a>
 
 ###### Article R3413-1
 
@@ -64512,7 +63000,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Organisation administrative et financière<a id=802></a>
+##### Sous-section 2 : Organisation administrative et financière<a id=800></a>
 
 ###### Article R3413-8
 
@@ -64893,7 +63381,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Règles comptables relatives aux collections et objets de collection<a id=803></a>
+##### Sous-section 3 : Règles comptables relatives aux collections et objets de collection<a id=801></a>
 
 ###### Article R3413-24
 
@@ -65039,7 +63527,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 4 : Personnel<a id=804></a>
+##### Sous-section 4 : Personnel<a id=802></a>
 
 ###### Article R3413-32
 
@@ -65088,7 +63576,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Musée national de la Marine<a id=805></a>
+##### Section 2 : Musée national de la Marine<a id=803></a>
 
 ###### Article R3413-35
 
@@ -65253,7 +63741,7 @@ _Cite_:
   - Code de la défense. - art. R3413-41 (V)
 
 
-##### Sous-section 1 : Organisation administrative et financière<a id=806></a>
+##### Sous-section 1 : Organisation administrative et financière<a id=804></a>
 
 ###### Article R3413-43
 
@@ -65650,7 +64138,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Personnel<a id=807></a>
+##### Sous-section 2 : Personnel<a id=805></a>
 
 ###### Article R3413-59
 
@@ -65699,9 +64187,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Musée de l'Air et de l'Espace<a id=808></a>
+##### Section 3 : Musée de l'Air et de l'Espace<a id=806></a>
 
-##### Sous-section 1 : Dispositions générales<a id=809></a>
+##### Sous-section 1 : Dispositions générales<a id=807></a>
 
 ###### Article R3413-62
 
@@ -65862,7 +64350,7 @@ _Cite_:
   - Code de la défense. - art. R3413-67 (V)
 
 
-##### Sous-section 2 : Organisation administrative et financière<a id=810></a>
+##### Sous-section 2 : Organisation administrative et financière<a id=808></a>
 
 ###### Article R3413-70
 
@@ -66240,7 +64728,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Personnel<a id=811></a>
+##### Sous-section 3 : Personnel<a id=809></a>
 
 ###### Article R3413-84
 
@@ -66300,9 +64788,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 4 : Académie de marine<a id=812></a>
+##### Section 4 : Académie de marine<a id=810></a>
 
-##### Sous-section 1 : Dispositions générales<a id=813></a>
+##### Sous-section 1 : Dispositions générales<a id=811></a>
 
 ###### Article R3413-88
 
@@ -66353,7 +64841,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Organisation administrative et financière<a id=814></a>
+##### Sous-section 2 : Organisation administrative et financière<a id=812></a>
 
 ###### Article R3413-91
 
@@ -66712,7 +65200,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Membres de l'académie<a id=815></a>
+##### Sous-section 3 : Membres de l'académie<a id=813></a>
 
 ###### Article R3413-109
 
@@ -66856,7 +65344,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre IV : Etablissement public d'insertion de la défense<a id=816></a>
+##### Chapitre IV : Etablissement public d'insertion de la défense<a id=814></a>
 
 ###### Article R3414-1
 
@@ -66912,7 +65400,7 @@ _Cité par_:
   - Code de la défense. - art. R3414-10 (V)
 
 
-##### Section 1 : Organisation et fonctionnement<a id=817></a>
+##### Section 1 : Organisation et fonctionnement<a id=815></a>
 
 ###### Article R3414-3
 
@@ -67230,7 +65718,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Personnel<a id=818></a>
+##### Section 2 : Personnel<a id=816></a>
 
 ###### Article R3414-19
 
@@ -67267,7 +65755,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Régime financier et comptable<a id=819></a>
+##### Section 3 : Régime financier et comptable<a id=817></a>
 
 ###### Article R3414-21
 
@@ -67361,7 +65849,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 4 : Immeubles<a id=820></a>
+##### Section 4 : Immeubles<a id=818></a>
 
 ###### Article R3414-27
 
@@ -67381,9 +65869,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre V : Etablissement de communication et de production audiovisuelle de la défense<a id=821></a>
+##### Chapitre V : Etablissement de communication et de production audiovisuelle de la défense<a id=819></a>
 
-##### Section 1 : Dispositions générales<a id=822></a>
+##### Section 1 : Dispositions générales<a id=820></a>
 
 ###### Article R3415-1
 
@@ -67465,7 +65953,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Organisation administrative<a id=823></a>
+##### Section 2 : Organisation administrative<a id=821></a>
 
 ###### Article R3415-4
 
@@ -67636,7 +66124,7 @@ _Cite_:
   - Code de la défense. - art. R3415-10 (V)
 
 
-##### Section 3 : Personnel<a id=824></a>
+##### Section 3 : Personnel<a id=822></a>
 
 ###### Article R3415-10
 
@@ -67661,7 +66149,7 @@ _Cité par_:
   - Code de la défense. - art. R3415-9 (V)
 
 
-##### Section 4 : Dispositions administratives et financières<a id=825></a>
+##### Section 4 : Dispositions administratives et financières<a id=823></a>
 
 ###### Article R3415-11
 
@@ -67800,9 +66288,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM)<a id=826></a>
+##### Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM)<a id=824></a>
 
-##### Section 1 : Missions<a id=827></a>
+##### Section 1 : Missions<a id=825></a>
 
 ###### Article R3416-1
 
@@ -67955,7 +66443,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=828></a>
+##### Section 2 : Organisation et fonctionnement<a id=826></a>
 
 ###### Article R3416-8
 
@@ -68329,7 +66817,7 @@ _Cite_:
   - Code de la défense. - art. R3416-20 (V)
 
 
-##### Section 3 : Régime financier et comptable<a id=829></a>
+##### Section 3 : Régime financier et comptable<a id=827></a>
 
 ###### Article R3416-23
 
@@ -68461,7 +66949,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 4 : Personnel<a id=830></a>
+##### Section 4 : Personnel<a id=828></a>
 
 ###### Article R3416-29
 
@@ -68494,9 +66982,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre VII : L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique<a id=831></a>
+##### Chapitre VII : L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique<a id=829></a>
 
-##### Section 1 : Dispositions générales<a id=832></a>
+##### Section 1 : Dispositions générales<a id=830></a>
 
 ###### Article R3417-1
 
@@ -68549,7 +67037,7 @@ _Cité par_:
   - Code de la défense. - art. R3417-22 (V)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=833></a>
+##### Section 2 : Organisation et fonctionnement<a id=831></a>
 
 ###### Article R3417-4
 
@@ -68795,7 +67283,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Comité d'investissement<a id=834></a>
+##### Section 3 : Comité d'investissement<a id=832></a>
 
 ###### Article R3417-16
 
@@ -68846,7 +67334,7 @@ _Cite_:
   - Code de la défense. - art. R3417-22 (V)
 
 
-##### Section 4 : Directeur de l'établissement<a id=835></a>
+##### Section 4 : Directeur de l'établissement<a id=833></a>
 
 ###### Article R3417-19
 
@@ -68910,7 +67398,7 @@ _Cité par_:
   - Arrêté du 11 août 2015 - art. 1 (V)
 
 
-##### Section 5 : Convention de gestion<a id=836></a>
+##### Section 5 : Convention de gestion<a id=834></a>
 
 ###### Article R3417-21
 
@@ -69047,7 +67535,7 @@ _Cite_:
   - Code monétaire et financier - art. L321-2
 
 
-##### Section 6 : Régime financier et comptable<a id=837></a>
+##### Section 6 : Régime financier et comptable<a id=835></a>
 
 ###### Article R3417-27
 
@@ -69221,11 +67709,11 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-#### TITRE II : ETABLISSEMENTS PUBLICS A CARACTERE  INDUSTRIEL ET COMMERCIAL<a id=838></a>
+#### TITRE II : ETABLISSEMENTS PUBLICS A CARACTERE  INDUSTRIEL ET COMMERCIAL<a id=836></a>
 
-##### Chapitre Ier : L'économat des armées<a id=839></a>
+##### Chapitre Ier : L'économat des armées<a id=837></a>
 
-##### Section 1 : Dispositions générales<a id=840></a>
+##### Section 1 : Dispositions générales<a id=838></a>
 
 ###### Article R3421-1
 
@@ -69565,7 +68053,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=841></a>
+##### Section 2 : Organisation administrative et financière<a id=839></a>
 
 ###### Article R3421-14
 
@@ -69607,9 +68095,9 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Chapitre II : L'Institution de gestion sociale des armées<a id=842></a>
+##### Chapitre II : L'Institution de gestion sociale des armées<a id=840></a>
 
-##### Section 1 : Dispositions générales<a id=843></a>
+##### Section 1 : Dispositions générales<a id=841></a>
 
 ###### Article R3422-1
 
@@ -69672,7 +68160,7 @@ _Cite_:
   - Code de la défense. - art. R3422-1
 
 
-##### Section 2 : Organisation et fonctionnement<a id=844></a>
+##### Section 2 : Organisation et fonctionnement<a id=842></a>
 
 ###### Article R3422-3
 
@@ -69911,7 +68399,7 @@ _Cité par_:
   - Code de la défense. - art. R3422-16 (V)
 
 
-##### Section 3 : Dispositions financières<a id=845></a>
+##### Section 3 : Dispositions financières<a id=843></a>
 
 ###### Article R3422-9
 
@@ -70211,9 +68699,9 @@ _Cité par_:
   - Code de la défense. - art. R3422-15 (V)
 
 
-##### Chapitre III : L'office national d'études et de recherches aérospatiales<a id=846></a>
+##### Chapitre III : L'office national d'études et de recherches aérospatiales<a id=844></a>
 
-##### Section 1 : Dispositions générales<a id=847></a>
+##### Section 1 : Dispositions générales<a id=845></a>
 
 ###### Article R3423-1
 
@@ -70317,7 +68805,7 @@ _Cite_:
   - Code de la défense. - art. R2311-1 (V)
 
 
-##### Section 2 : Organisation administrative et financière<a id=848></a>
+##### Section 2 : Organisation administrative et financière<a id=846></a>
 
 ###### Article R3423-5
 
@@ -70332,7 +68820,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 1 : Conseil d'administration et organisation administrative générale<a id=849></a>
+##### Sous-section 1 : Conseil d'administration et organisation administrative générale<a id=847></a>
 
 ###### Article R3423-6
 
@@ -70664,7 +69152,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 2 : Haut conseil scientifique<a id=850></a>
+##### Sous-section 2 : Haut conseil scientifique<a id=848></a>
 
 ###### Article R3423-20
 
@@ -70717,7 +69205,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 3 : Comité scientifique et technique<a id=851></a>
+##### Sous-section 3 : Comité scientifique et technique<a id=849></a>
 
 ###### Article R3423-22
 
@@ -70829,7 +69317,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Sous-section 4 : Organisation financière<a id=852></a>
+##### Sous-section 4 : Organisation financière<a id=850></a>
 
 ###### Article R3423-26
 
@@ -70975,7 +69463,7 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-##### Section 3 : Personnel<a id=853></a>
+##### Section 3 : Personnel<a id=851></a>
 
 ###### Article R3423-35
 
@@ -70989,11 +69477,11 @@ _Créé par_:
   - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 
-### LIVRE V : DISPOSITIONS RELATIVES A L'OUTRE MER<a id=854></a>
+### LIVRE V : DISPOSITIONS RELATIVES A L'OUTRE MER<a id=852></a>
 
-#### TITRE Ier : DISPOSITIONS PARTICULIERES  AUX DEPARTEMENTS D'OUTRE MER<a id=855></a>
+#### TITRE Ier : DISPOSITIONS PARTICULIERES  AUX DEPARTEMENTS D'OUTRE MER<a id=853></a>
 
-##### Chapitre unique<a id=856></a>
+##### Chapitre unique<a id=854></a>
 
 ###### Article R3511-1
 
@@ -71013,9 +69501,9 @@ _Cite_:
   - Code de la défense. - art. R3223-56 (V)
 
 
-#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=857></a>
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=855></a>
 
-##### Chapitre unique<a id=858></a>
+##### Chapitre unique<a id=856></a>
 
 ###### Article R3521-1
 
@@ -71035,9 +69523,9 @@ _Cite_:
   - Code de la défense. - art. R3223-56 (V)
 
 
-#### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE<a id=859></a>
+#### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE<a id=857></a>
 
-##### Chapitre unique<a id=860></a>
+##### Chapitre unique<a id=858></a>
 
 ###### Article R3531-1
 
@@ -71057,9 +69545,9 @@ _Cite_:
   - Code de la défense. - art. R3223-56 (V)
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=861></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=859></a>
 
-##### Chapitre unique<a id=862></a>
+##### Chapitre unique<a id=860></a>
 
 ###### Article D3541-4
 
@@ -71158,9 +69646,9 @@ _Cite_:
   - Code de la défense. - art. R3411-1
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE<a id=863></a>
+#### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE<a id=861></a>
 
-##### Chapitre unique<a id=864></a>
+##### Chapitre unique<a id=862></a>
 
 ###### Article D3551-4
 
@@ -71246,9 +69734,9 @@ _Cite_:
   - Code de la défense. - art. R3411-1
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE<a id=865></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE<a id=863></a>
 
-##### Chapitre unique<a id=866></a>
+##### Chapitre unique<a id=864></a>
 
 ###### Article D3561-4
 
@@ -71333,9 +69821,9 @@ _Cite_:
   - Code de la défense. - art. R3411-1
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=867></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=865></a>
 
-##### Chapitre unique<a id=868></a>
+##### Chapitre unique<a id=866></a>
 
 ###### Article D3571-4
 
@@ -71430,9 +69918,9 @@ _Modifié par_:
   - Décret n°2009-869 du 15 juillet 2009 - art. 4
 
 
-#### TITRE VIII : DISPOSITIONS PARTICULIERES A SAINT BARTHELEMY  ET A SAINT MARTIN<a id=869></a>
+#### TITRE VIII : DISPOSITIONS PARTICULIERES A SAINT BARTHELEMY  ET A SAINT MARTIN<a id=867></a>
 
-##### Chapitre Ier : Saint-Barthélemy<a id=870></a>
+##### Chapitre Ier : Saint-Barthélemy<a id=868></a>
 
 ###### Article R3581-1
 
@@ -71452,7 +69940,7 @@ _Cite_:
   - Code de la défense. - art. R3223-56 (V)
 
 
-##### Chapitre II : Saint-Martin<a id=871></a>
+##### Chapitre II : Saint-Martin<a id=869></a>
 
 ###### Article R3582-1
 
@@ -71473,15 +69961,15 @@ _Cite_:
   - Code de la défense. - art. R3223-56 (V)
 
 
-## PARTIE 4 : LE PERSONNEL MILITAIRE<a id=872></a>
+## PARTIE 4 : LE PERSONNEL MILITAIRE<a id=870></a>
 
-### LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES<a id=873></a>
+### LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES<a id=871></a>
 
-#### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=874></a>
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=872></a>
 
-##### Chapitre unique<a id=875></a>
+##### Chapitre unique<a id=873></a>
 
-##### Section unique : Haut Comité d'évaluation de la condition militaire<a id=876></a>
+##### Section unique : Haut Comité d'évaluation de la condition militaire<a id=874></a>
 
 ###### Article D4111-1
 
@@ -71601,9 +70089,9 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-#### TITRE II : DROITS ET OBLIGATIONS<a id=877></a>
+#### TITRE II : DROITS ET OBLIGATIONS<a id=875></a>
 
-##### Chapitre Ier : Exercice des droits civils et politiques<a id=878></a>
+##### Chapitre Ier : Exercice des droits civils et politiques<a id=876></a>
 
 ###### Article D4121-1
 
@@ -71686,11 +70174,11 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Chapitre II : Obligations et responsabilités<a id=879></a>
+##### Chapitre II : Obligations et responsabilités<a id=877></a>
 
-##### Section 1 : Dispositions générales<a id=880></a>
+##### Section 1 : Dispositions générales<a id=878></a>
 
-##### Sous-section 1 : Devoirs et responsabilités du chef  et du subordonné militaires<a id=881></a>
+##### Sous-section 1 : Devoirs et responsabilités du chef  et du subordonné militaires<a id=879></a>
 
 ###### Article D4122-1
 
@@ -71846,7 +70334,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 2 : Respect des règles du droit international  applicable aux conflits armés<a id=882></a>
+##### Sous-section 2 : Respect des règles du droit international  applicable aux conflits armés<a id=880></a>
 
 ###### Article D4122-7
 
@@ -71950,7 +70438,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 3 : Respect de la neutralité des forces armées  et protection du moral et de la discipline<a id=883></a>
+##### Sous-section 3 : Respect de la neutralité des forces armées  et protection du moral et de la discipline<a id=881></a>
 
 ###### Article D4122-12
 
@@ -71978,7 +70466,7 @@ _Cité par_:
   - Arrêté du 5 août 2011 - art. 19 (V)
 
 
-##### Sous-section 4 : Vaccination<a id=884></a>
+##### Sous-section 4 : Vaccination<a id=882></a>
 
 ###### Article D4122-13
 
@@ -71996,9 +70484,9 @@ _Cité par_:
   - Arrêté du 12 septembre 2016 - art. 4 (VD)
 
 
-##### Section 2 : Exercice d'activités privées ou d'activités accessoires.<a id=885></a>
+##### Section 2 : Exercice d'activités privées ou d'activités accessoires.<a id=883></a>
 
-##### Sous-section 1 : Exercice d'activités privées lucratives par certains militaires.<a id=886></a>
+##### Sous-section 1 : Exercice d'activités privées lucratives par certains militaires.<a id=884></a>
 
 ###### Article R*4122-14
 
@@ -72369,7 +70857,7 @@ _Cité par_:
   - Code de la défense. - art. R4122-21 (V)
 
 
-##### Sous-section 2 : Cumul d'activités à titre accessoire des militaires.<a id=887></a>
+##### Sous-section 2 : Cumul d'activités à titre accessoire des militaires.<a id=885></a>
 
 ###### Article R4122-25
 
@@ -72584,9 +71072,9 @@ _Créé par_:
   - Décret n°2008-999 du 24 septembre 2008 - art. 2
 
 
-##### Chapitre III : Rémunération, garanties et protections<a id=888></a>
+##### Chapitre III : Rémunération, garanties et protections<a id=886></a>
 
-##### Section 1 : Rémunération<a id=889></a>
+##### Section 1 : Rémunération<a id=887></a>
 
 ###### Article R4123-1
 
@@ -72614,9 +71102,9 @@ _Cité par_:
   - Code de la défense. - art. R4382-2 (V)
 
 
-##### Section 2 : Garanties et couverture des risques<a id=890></a>
+##### Section 2 : Garanties et couverture des risques<a id=888></a>
 
-##### Sous-section 1 : Fonds de prévoyance militaire<a id=891></a>
+##### Sous-section 1 : Fonds de prévoyance militaire<a id=889></a>
 
 ###### Article D4123-2
 
@@ -73049,7 +71537,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 2 : Fonds de prévoyance de l'aéronautique<a id=892></a>
+##### Sous-section 2 : Fonds de prévoyance de l'aéronautique<a id=890></a>
 
 ###### Article R4123-14
 
@@ -73520,7 +72008,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat<a id=893></a>
+##### Sous-section 3 : Indemnisation du chômage des militaires  ayant servi en vertu d'un contrat<a id=891></a>
 
 ###### Article R4123-30
 
@@ -73719,7 +72207,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Dispositions au bénéfice d'enfants mineurs de militaires  tués ou blessés accidentellement en temps de paix<a id=894></a>
+##### Section 3 : Dispositions au bénéfice d'enfants mineurs de militaires  tués ou blessés accidentellement en temps de paix<a id=892></a>
 
 ###### Article R4123-38
 
@@ -73841,9 +72329,9 @@ _Cite_:
   - Code de la défense. - art. L4123-15 (V)
 
 
-##### Chapitre IV : Organismes consultatifs et de concertation<a id=895></a>
+##### Chapitre IV : Organismes consultatifs et de concertation<a id=893></a>
 
-##### Section 1 : Conseil supérieur de la fonction militaire<a id=896></a>
+##### Section 1 : Conseil supérieur de la fonction militaire<a id=894></a>
 
 ###### Article R4124-1
 
@@ -73981,7 +72469,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Conseils de la fonction militaire<a id=897></a>
+##### Section 2 : Conseils de la fonction militaire<a id=895></a>
 
 ###### Article R4124-6
 
@@ -74178,7 +72666,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Dispositions communes au conseil supérieur  et aux conseils de la fonction militaire<a id=898></a>
+##### Section 3 : Dispositions communes au conseil supérieur  et aux conseils de la fonction militaire<a id=896></a>
 
 ###### Article R4124-15
 
@@ -74410,7 +72898,7 @@ _Cité par_:
   - Arrêté du 3 octobre 2016 - art. 4 (V)
 
 
-##### Chapitre V : Recours administratif préalable<a id=899></a>
+##### Chapitre V : Recours administratif préalable<a id=897></a>
 
 ###### Article R4125-1
 
@@ -74456,7 +72944,7 @@ _Modifié par_:
   - Décret n°2009-1716 du 30 décembre 2009 - art. 2
 
 
-##### Section 1 : Dispositions générales<a id=900></a>
+##### Section 1 : Dispositions générales<a id=898></a>
 
 ###### Article R4125-2
 
@@ -74717,9 +73205,9 @@ _Cite_:
   - Code de la défense. - art. R4125-2 (V)
 
 
-##### Section 2 : Dispositions particulières aux militaires rattachés organiquement à un ministre autre que le ministre de la défense<a id=901></a>
+##### Section 2 : Dispositions particulières aux militaires rattachés organiquement à un ministre autre que le ministre de la défense<a id=899></a>
 
-##### Sous-section 1 : Dispositions particulières aux militaires de la gendarmerie nationale<a id=902></a>
+##### Sous-section 1 : Dispositions particulières aux militaires de la gendarmerie nationale<a id=900></a>
 
 ###### Article R4125-15
 
@@ -74795,7 +73283,7 @@ _Créé par_:
   - Décret n°2009-1716 du 30 décembre 2009 - art. 13
 
 
-##### Sous-section 2 : Dispositions particulières aux militaires relevant du ministre chargé de la mer<a id=903></a>
+##### Sous-section 2 : Dispositions particulières aux militaires relevant du ministre chargé de la mer<a id=901></a>
 
 ###### Article R4125-20
 
@@ -74852,9 +73340,9 @@ _Créé par_:
   - Décret n°2009-1716 du 30 décembre 2009 - art. 13
 
 
-#### TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES<a id=904></a>
+#### TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES<a id=902></a>
 
-##### Chapitre Ier : Hiérarchie militaire<a id=905></a>
+##### Chapitre Ier : Hiérarchie militaire<a id=903></a>
 
 ###### Article D4131-1
 
@@ -75420,9 +73908,9 @@ _Cité par_:
   - Décret n°2009-21 du 7 janvier 2009 - art. 1 (VD)
 
 
-##### Chapitre III : Changements d'armée ou de corps<a id=906></a>
+##### Chapitre III : Changements d'armée ou de corps<a id=904></a>
 
-##### Section 1 : Dispositions générales<a id=907></a>
+##### Section 1 : Dispositions générales<a id=905></a>
 
 ###### Article R4133-1
 
@@ -75511,7 +73999,7 @@ _Cite_:
   - Code de la défense. - art. R4133-5 (V)
 
 
-##### Section 2 : Dispositions particulières aux changements sur demande<a id=908></a>
+##### Section 2 : Dispositions particulières aux changements sur demande<a id=906></a>
 
 ###### Article R4133-5
 
@@ -75549,7 +74037,7 @@ _Cité par_:
   - Code de la défense. - art. R4133-6 (M)
 
 
-##### Section 3 : Dispositions particulières aux changements d'office<a id=909></a>
+##### Section 3 : Dispositions particulières aux changements d'office<a id=907></a>
 
 ###### Article R4133-6
 
@@ -75650,9 +74138,9 @@ _Cite_:
   - Code de la défense. - art. R4133-8 (V)
 
 
-##### Chapitre V : Notation<a id=910></a>
+##### Chapitre V : Notation<a id=908></a>
 
-##### Section 1 : Dispositions générales<a id=911></a>
+##### Section 1 : Dispositions générales<a id=909></a>
 
 ###### Article R4135-1
 
@@ -75788,7 +74276,7 @@ _Cite_:
   - Code de la défense. - art. R4125-1 (V)
 
 
-##### Section 2 : Dispositions relatives aux mutations<a id=912></a>
+##### Section 2 : Dispositions relatives aux mutations<a id=910></a>
 
 ###### Article R4135-8
 
@@ -75807,7 +74295,7 @@ _Modifié par_:
   - Décret n°2009-1720 du 30 décembre 2009 - art. 20
 
 
-##### Chapitre VI : Avancement<a id=913></a>
+##### Chapitre VI : Avancement<a id=911></a>
 
 ###### Article R4136-1
 
@@ -75820,7 +74308,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Chapitre VI-1 : Orientation professionnelle<a id=914></a>
+##### Chapitre VI-1 : Orientation professionnelle<a id=912></a>
 
 ###### Article D4136-1-1
 
@@ -75862,11 +74350,11 @@ _Cité par_:
   - Arrêté du 1er août 2011 (V)
 
 
-##### Chapitre VII : Discipline<a id=915></a>
+##### Chapitre VII : Discipline<a id=913></a>
 
-##### Section 1 : Dispositions générales<a id=916></a>
+##### Section 1 : Dispositions générales<a id=914></a>
 
-##### Sous-section 1 : Discipline militaire<a id=917></a>
+##### Sous-section 1 : Discipline militaire<a id=915></a>
 
 ###### Article D4137-1
 
@@ -75895,7 +74383,7 @@ _Cité par_:
   - Code de la défense. - art. D4382-4 (VD)
 
 
-##### Sous-section 2 : Tenue<a id=918></a>
+##### Sous-section 2 : Tenue<a id=916></a>
 
 ###### Article D4137-2
 
@@ -75937,7 +74425,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Récompenses<a id=919></a>
+##### Section 2 : Récompenses<a id=917></a>
 
 ###### Article D4137-4
 
@@ -76031,9 +74519,9 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Sanctions disciplinaires<a id=920></a>
+##### Section 3 : Sanctions disciplinaires<a id=918></a>
 
-##### Sous-section 1 : Principes<a id=921></a>
+##### Sous-section 1 : Principes<a id=919></a>
 
 ###### Article R4137-9
 
@@ -76455,7 +74943,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 2 : Sanctions disciplinaires du premier groupe<a id=922></a>
+##### Sous-section 2 : Sanctions disciplinaires du premier groupe<a id=920></a>
 
 ###### Article R4137-25
 
@@ -76727,7 +75215,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 3 : Sanctions disciplinaires du deuxième groupe<a id=923></a>
+##### Sous-section 3 : Sanctions disciplinaires du deuxième groupe<a id=921></a>
 
 ###### Article R4137-34
 
@@ -76828,7 +75316,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 4 : Sanctions disciplinaires du troisième groupe<a id=924></a>
+##### Sous-section 4 : Sanctions disciplinaires du troisième groupe<a id=922></a>
 
 ###### Article R4137-41
 
@@ -76893,7 +75381,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 5 : Suspension de fonctions<a id=925></a>
+##### Sous-section 5 : Suspension de fonctions<a id=923></a>
 
 ###### Article R4137-45
 
@@ -76938,9 +75426,9 @@ _Cité par_:
   - Code de la défense. - art. R4137-45 (V)
 
 
-##### Section 4 : Conseil de discipline<a id=926></a>
+##### Section 4 : Conseil de discipline<a id=924></a>
 
-##### Sous-section 1 : Dispositions générales<a id=927></a>
+##### Sous-section 1 : Dispositions générales<a id=925></a>
 
 ###### Article R4137-47
 
@@ -76970,7 +75458,7 @@ _Cite_:
   - Code de la défense. - art. L4131-1 (V)
 
 
-##### Sous-section 2 : Composition du conseil de discipline<a id=928></a>
+##### Sous-section 2 : Composition du conseil de discipline<a id=926></a>
 
 ###### Article R4137-48
 
@@ -77102,7 +75590,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 3 : Constitution du conseil de discipline<a id=929></a>
+##### Sous-section 3 : Constitution du conseil de discipline<a id=927></a>
 
 ###### Article R4137-53
 
@@ -77188,7 +75676,7 @@ _Cite_:
   - Code de la défense. - art. R4137-53 (V)
 
 
-##### Sous-section 4 : Fonctionnement du conseil de discipline<a id=930></a>
+##### Sous-section 4 : Fonctionnement du conseil de discipline<a id=928></a>
 
 ###### Article R4137-57
 
@@ -77373,9 +75861,9 @@ _Cité par_:
   - Décret n°2008-951 du 12 septembre 2008 - art. 14 (VD)
 
 
-##### Section 5 : Conseil d'enquête<a id=931></a>
+##### Section 5 : Conseil d'enquête<a id=929></a>
 
-##### Sous-section 1 : Dispositions générales<a id=932></a>
+##### Sous-section 1 : Dispositions générales<a id=930></a>
 
 ###### Article R4137-66
 
@@ -77403,7 +75891,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 2 : Composition du conseil d'enquête<a id=933></a>
+##### Sous-section 2 : Composition du conseil d'enquête<a id=931></a>
 
 ###### Article R4137-67
 
@@ -77537,7 +76025,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-72 (V)
 
 
-##### Sous-section 3 : Constitution du conseil d'enquête<a id=934></a>
+##### Sous-section 3 : Constitution du conseil d'enquête<a id=932></a>
 
 ###### Article R4137-72
 
@@ -77655,7 +76143,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-75 (V)
 
 
-##### Sous-section 4 : Fonctionnement du conseil d'enquête<a id=935></a>
+##### Sous-section 4 : Fonctionnement du conseil d'enquête<a id=933></a>
 
 ###### Article R4137-77
 
@@ -78017,9 +76505,9 @@ _Cité par_:
   - Code de la défense. - art. R4139-48 (V)
 
 
-##### Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement<a id=936></a>
+##### Section 6 : Conseil supérieur d'armée ou de formation  rattachée siégeant disciplinairement<a id=934></a>
 
-##### Sous-section 1 : Dispositions générales<a id=937></a>
+##### Sous-section 1 : Dispositions générales<a id=935></a>
 
 ###### Article R4137-93
 
@@ -78052,7 +76540,7 @@ _Cité par_:
   - Code de la défense. - art. R3322-1 (M)
 
 
-##### Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=938></a>
+##### Sous-section 2 : Composition du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=936></a>
 
 ###### Article R4137-94
 
@@ -78098,7 +76586,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-98 (V)
 
 
-##### Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=939></a>
+##### Sous-section 3 : Constitution du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=937></a>
 
 ###### Article R4137-96
 
@@ -78203,7 +76691,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-99 (V)
 
 
-##### Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=940></a>
+##### Sous-section 4 : Fonctionnement du conseil supérieur d'armée  ou de formation rattachée siégeant disciplinairement<a id=938></a>
 
 ###### Article R4137-101
 
@@ -78483,9 +76971,9 @@ _Cité par_:
   - Code de la défense. - art. R4139-48 (V)
 
 
-##### Section 7 : Sanctions professionnelles applicables aux militaires<a id=941></a>
+##### Section 7 : Sanctions professionnelles applicables aux militaires<a id=939></a>
 
-##### Sous-section 1 : Principes<a id=942></a>
+##### Sous-section 1 : Principes<a id=940></a>
 
 ###### Article R4137-114
 
@@ -78670,7 +77158,7 @@ _Cité par_:
   - Arrêté du 9 avril 2014 - art. 2 (V)
 
 
-##### Sous-section 2 : Conseil d'examen des faits professionnels<a id=943></a>
+##### Sous-section 2 : Conseil d'examen des faits professionnels<a id=941></a>
 
 ###### Article R4137-121
 
@@ -78913,7 +77401,7 @@ _Cité par_:
   - Code de la défense. - art. R4137-133 (V)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=944></a>
+##### Sous-section 3 : Dispositions diverses<a id=942></a>
 
 ###### Article R4137-133
 
@@ -78934,7 +77422,7 @@ _Cite_:
   - Code de la défense. - art. R4137-132 (V)
 
 
-##### Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables<a id=945></a>
+##### Section 8 :  Droit de recours à l'encontre des sanctions disciplinaires et professionnelles ainsi que de la suspension de fonctions applicables<a id=943></a>
 
 ###### Article R4137-134
 
@@ -79091,7 +77579,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 9 : Dispositions finales<a id=946></a>
+##### Section 9 : Dispositions finales<a id=944></a>
 
 ###### Article D4137-142
 
@@ -79119,9 +77607,9 @@ _Cité par_:
   - Code de la défense. - art. D4382-4 (VD)
 
 
-##### Chapitre VIII : Positions statutaires<a id=947></a>
+##### Chapitre VIII : Positions statutaires<a id=945></a>
 
-##### Section 1 : Activité<a id=948></a>
+##### Section 1 : Activité<a id=946></a>
 
 ###### Article R4138-1
 
@@ -79201,7 +77689,7 @@ _Cite_:
   - Code de la défense. - art. R4138-4
 
 
-##### Sous-section 1 : Congé de maladie<a id=949></a>
+##### Sous-section 1 : Congé de maladie<a id=947></a>
 
 ###### Article R4138-3
 
@@ -79244,7 +77732,7 @@ _Cité par_:
   - Code de la défense. - art. R4138-75 (V)
 
 
-##### Sous-section 2 : Congé de maternité<a id=950></a>
+##### Sous-section 2 : Congé de maternité<a id=948></a>
 
 ###### Article R4138-4
 
@@ -79278,7 +77766,7 @@ _Cite_:
   - Code du travail - art. L1225-30 (V)
 
 
-##### Sous-section 3 : Congé de paternité<a id=951></a>
+##### Sous-section 3 : Congé de paternité<a id=949></a>
 
 ###### Article R4138-5
 
@@ -79326,7 +77814,7 @@ _Cite_:
   - Code de la défense. - art. L4138-4 (V)
 
 
-##### Sous-section 4 : Congé d'adoption<a id=952></a>
+##### Sous-section 4 : Congé d'adoption<a id=950></a>
 
 ###### Article R4138-6
 
@@ -79377,7 +77865,7 @@ _Cite_:
   - Code de l'action sociale et des familles - art. L225-2 (V)
 
 
-##### Sous-section 5 : Congé de présence parentale<a id=953></a>
+##### Sous-section 5 : Congé de présence parentale<a id=951></a>
 
 ###### Article R4138-7
 
@@ -79523,7 +78011,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 6 : Permissions et congé de fin de campagne<a id=954></a>
+##### Sous-section 6 : Permissions et congé de fin de campagne<a id=952></a>
 
 ###### Article R4138-16
 
@@ -79800,7 +78288,7 @@ _Cite_:
   - Code de la défense. - art. R4138-19
 
 
-##### Sous-section 7 : Congé de reconversion<a id=955></a>
+##### Sous-section 7 : Congé de reconversion<a id=953></a>
 
 ###### Article R4138-28
 
@@ -79879,7 +78367,7 @@ _Cité par_:
   - Code de la défense. - art. R4138-70 (V)
 
 
-##### Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées<a id=956></a>
+##### Sous-section 8 : Affectation temporaire d'un militaire en dehors des armées<a id=954></a>
 
 ###### Article R4138-30
 
@@ -79978,7 +78466,7 @@ _Cite_:
   - Code de la défense. - art. L4138-2
 
 
-##### Section 2 : Détachement<a id=957></a>
+##### Section 2 : Détachement<a id=955></a>
 
 ###### Article R4138-34
 
@@ -80278,7 +78766,7 @@ _Modifié par_:
   - Décret n°2009-1720 du 30 décembre 2009 - art. 36
 
 
-##### Section 3 : Hors cadres<a id=958></a>
+##### Section 3 : Hors cadres<a id=956></a>
 
 ###### Article R4138-45
 
@@ -80334,9 +78822,9 @@ _Cite_:
   - Code de la défense. - art. L4138-8 (V)
 
 
-##### Section 4 : Non-activité<a id=959></a>
+##### Section 4 : Non-activité<a id=957></a>
 
-##### Sous-section 1 : Congé de longue durée pour maladie<a id=960></a>
+##### Sous-section 1 : Congé de longue durée pour maladie<a id=958></a>
 
 ###### Article R4138-47
 
@@ -80568,7 +79056,7 @@ _Cite_:
   - Code de la défense. - art. R4138-50
 
 
-##### Sous-section 2 : Congé de longue maladie<a id=961></a>
+##### Sous-section 2 : Congé de longue maladie<a id=959></a>
 
 ###### Article R4138-58
 
@@ -80606,7 +79094,7 @@ _Cite_:
   - Code de la défense. - art. R4138-55
 
 
-##### Sous-section 3 : Congé parental<a id=962></a>
+##### Sous-section 3 : Congé parental<a id=960></a>
 
 ###### Article R4138-59
 
@@ -80717,7 +79205,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 4 : Retrait d'emploi<a id=963></a>
+##### Sous-section 4 : Retrait d'emploi<a id=961></a>
 
 ###### Article R4138-64
 
@@ -80736,7 +79224,7 @@ _Cite_:
   - Code de la défense. - art. L4138-15 (V)
 
 
-##### Sous-section 5 : Congé pour convenances personnelles<a id=964></a>
+##### Sous-section 5 : Congé pour convenances personnelles<a id=962></a>
 
 ###### Article R4138-65
 
@@ -80788,7 +79276,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 6 : Disponibilité<a id=965></a>
+##### Sous-section 6 : Disponibilité<a id=963></a>
 
 ###### Article R4138-67
 
@@ -80814,7 +79302,7 @@ _Cité par_:
   - Code de la défense. - art. R4139-49 (V)
 
 
-##### Sous-section 7 : Congé complémentaire de reconversion<a id=966></a>
+##### Sous-section 7 : Congé complémentaire de reconversion<a id=964></a>
 
 ###### Article R4138-68
 
@@ -80872,9 +79360,9 @@ _Cite_:
   - Code de la défense. - art. R4138-29 (V)
 
 
-##### Sous-section 8 : Congé du personnel navigant<a id=967></a>
+##### Sous-section 8 : Congé du personnel navigant<a id=965></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=968></a>
+##### Paragraphe 1 : Dispositions générales<a id=966></a>
 
 ###### Article R4138-71
 
@@ -80923,7 +79411,7 @@ _Cite_:
   - Code de la défense. - art. L4139-6 (V)
 
 
-##### Paragraphe 2 : Dispositions applicables aux militaires de carrière<a id=969></a>
+##### Paragraphe 2 : Dispositions applicables aux militaires de carrière<a id=967></a>
 
 ###### Article R4138-73
 
@@ -80957,7 +79445,7 @@ _Cité par_:
   - Code de la défense. - art. R4138-74 (V)
 
 
-##### Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires<a id=970></a>
+##### Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires<a id=968></a>
 
 ###### Article R4138-74
 
@@ -81035,11 +79523,11 @@ _Cite_:
   - Code de la défense. - art. R4138-65 (V)
 
 
-##### Chapitre IX : Fin de l'état militaire<a id=971></a>
+##### Chapitre IX : Fin de l'état militaire<a id=969></a>
 
-##### Section 1 :  Dispositifs d'accès à la fonction publique civile<a id=972></a>
+##### Section 1 :  Dispositifs d'accès à la fonction publique civile<a id=970></a>
 
-##### Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature<a id=973></a>
+##### Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature<a id=971></a>
 
 ###### Article R4139-1
 
@@ -81277,7 +79765,7 @@ _Cite_:
   - Code de la défense. - art. R4139-8 (V)
 
 
-##### Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques<a id=974></a>
+##### Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques<a id=972></a>
 
 ###### Article D4139-10
 
@@ -81382,7 +79870,7 @@ _Nouveaux textes_:
   - Code de la défense. - art. R4139-13 (VD)
 
 
-##### Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat<a id=975></a>
+##### Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat<a id=973></a>
 
 ###### Article R*4139-14
 
@@ -81629,7 +80117,7 @@ _Modifié par_:
   - Décret n°2009-1719 du 30 décembre 2009 - art. 7
 
 
-##### Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale<a id=976></a>
+##### Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale<a id=974></a>
 
 ###### Article R4139-23
 
@@ -81847,7 +80335,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière<a id=977></a>
+##### Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière<a id=975></a>
 
 ###### Article R4139-32
 
@@ -82056,9 +80544,9 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Dispositifs d'aide au départ<a id=978></a>
+##### Section 2 : Dispositifs d'aide au départ<a id=976></a>
 
-##### Sous-section unique : Dispositions applicables aux militaires de carrière<a id=979></a>
+##### Sous-section unique : Dispositions applicables aux militaires de carrière<a id=977></a>
 
 ###### Article R4139-41
 
@@ -82134,9 +80622,9 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Radiation des cadres ou des contrôles<a id=980></a>
+##### Section 3 : Radiation des cadres ou des contrôles<a id=978></a>
 
-##### Sous-section 1 : Dispositions générales<a id=981></a>
+##### Sous-section 1 : Dispositions générales<a id=979></a>
 
 ###### Article R4139-46
 
@@ -82233,7 +80721,7 @@ _Cite_:
   - Code de la défense. - art. R4139-47
 
 
-##### Sous-section 2 : Lien au service<a id=982></a>
+##### Sous-section 2 : Lien au service<a id=980></a>
 
 ###### Article R4139-50
 
@@ -82336,7 +80824,7 @@ _Cite_:
   - Code de la défense. - art. L4139-14 (V)
 
 
-##### Sous-section 3 : Commission de réforme<a id=983></a>
+##### Sous-section 3 : Commission de réforme<a id=981></a>
 
 ###### Article R4139-53
 
@@ -82552,9 +81040,9 @@ _Cite_:
   - Code de la défense. - art. R4139-60
 
 
-#### TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES<a id=984></a>
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES<a id=982></a>
 
-##### Chapitre Ier : Officiers généraux<a id=985></a>
+##### Chapitre Ier : Officiers généraux<a id=983></a>
 
 ###### Article R4141-1
 
@@ -82692,11 +81180,11 @@ _Cite_:
   - Code de la défense. - art. R4141-3
 
 
-#### TITRE V : FORMATION DES MILITAIRES<a id=986></a>
+#### TITRE V : FORMATION DES MILITAIRES<a id=984></a>
 
-##### Chapitre Ier : Attribution du titre d'ingénieur<a id=987></a>
+##### Chapitre Ier : Attribution du titre d'ingénieur<a id=985></a>
 
-##### Section 1 : Ingénieur diplômé de l'armée de terre<a id=988></a>
+##### Section 1 : Ingénieur diplômé de l'armée de terre<a id=986></a>
 
 ###### Article D4151-1
 
@@ -82760,7 +81248,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Ingénieur diplômé de l'Ecole navale<a id=989></a>
+##### Section 2 : Ingénieur diplômé de l'Ecole navale<a id=987></a>
 
 ###### Article D4151-4
 
@@ -82775,7 +81263,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Ingénieur diplômé de l'Ecole de l'air<a id=990></a>
+##### Section 3 : Ingénieur diplômé de l'Ecole de l'air<a id=988></a>
 
 ###### Article D4151-5
 
@@ -82803,9 +81291,9 @@ _Cité par_:
   - Décret n°2017-1280 du 9 août 2017 - art. 1
 
 
-##### Chapitre II : Enseignement militaire supérieur<a id=991></a>
+##### Chapitre II : Enseignement militaire supérieur<a id=989></a>
 
-##### Section 1 : Organisation générale<a id=992></a>
+##### Section 1 : Organisation générale<a id=990></a>
 
 ###### Article D4152-1
 
@@ -82981,7 +81469,7 @@ _Cite_:
   - Code de la défense. - art. D4152-6
 
 
-##### Section 2 : Direction de l'enseignement militaire supérieur<a id=993></a>
+##### Section 2 : Direction de l'enseignement militaire supérieur<a id=991></a>
 
 ###### Article D4152-8
 
@@ -83082,13 +81570,13 @@ _Abrogé par_:
   - Décret n°2010-1220 du 15 octobre 2010 - art. 3
 
 
-### LIVRE II : RÉSERVE MILITAIRE<a id=994></a>
+### LIVRE II : RÉSERVE MILITAIRE<a id=992></a>
 
-#### TITRE Ier :  DISPOSITIONS COMMUNES<a id=995></a>
+#### TITRE Ier :  DISPOSITIONS COMMUNES<a id=993></a>
 
-##### Chapitre unique<a id=996></a>
+##### Chapitre unique<a id=994></a>
 
-##### Section 1 : Dispositions générales<a id=997></a>
+##### Section 1 : Dispositions générales<a id=995></a>
 
 ###### Article R4211-1
 
@@ -83176,7 +81664,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Dispositions relatives à l'honorariat<a id=998></a>
+##### Section 2 : Dispositions relatives à l'honorariat<a id=996></a>
 
 ###### Article R4211-6
 
@@ -83257,7 +81745,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Radiation de la réserve<a id=999></a>
+##### Section 3 : Radiation de la réserve<a id=997></a>
 
 ###### Article R4211-10
 
@@ -83340,11 +81828,11 @@ _Cité par_:
   - Code de la défense. - art. R4221-19 (V)
 
 
-#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE<a id=1000></a>
+#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE<a id=998></a>
 
-##### Chapitre unique<a id=1001></a>
+##### Chapitre unique<a id=999></a>
 
-##### Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle<a id=1002></a>
+##### Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle<a id=1000></a>
 
 ###### Article R4221-1
 
@@ -83444,7 +81932,7 @@ _Cite_:
   - Code de la défense. - art. L4231-4 (V)
 
 
-##### Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an<a id=1003></a>
+##### Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an<a id=1001></a>
 
 ###### Article D4221-6
 
@@ -83513,7 +82001,7 @@ _Modifié par_:
   - Décret n°2009-1728 du 30 décembre 2009 - art. 2
 
 
-##### Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle<a id=1004></a>
+##### Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle<a id=1002></a>
 
 ###### Article R4221-9
 
@@ -83550,7 +82038,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 4 : Souscription et exécution de la clause de réactivité<a id=1005></a>
+##### Section 4 : Souscription et exécution de la clause de réactivité<a id=1003></a>
 
 ###### Article R4221-11
 
@@ -83632,7 +82120,7 @@ _Cite_:
   - Code de la défense. - art. L4221-4 (V)
 
 
-##### Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise<a id=1006></a>
+##### Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise<a id=1004></a>
 
 ###### Article R4221-15
 
@@ -83696,7 +82184,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=1007></a>
+##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=1005></a>
 
 ###### Article R4221-17-1
 
@@ -83762,7 +82250,7 @@ _Créé par_:
   - Décret n°2009-1304 du 26 octobre 2009 - art. 1
 
 
-##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=1008></a>
+##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=1006></a>
 
 ###### Article R4221-18
 
@@ -83815,7 +82303,7 @@ _Cite_:
   - Code de la défense. - art. R4211-10 (V)
 
 
-##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=1009></a>
+##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=1007></a>
 
 ###### Article R4221-20
 
@@ -84033,9 +82521,9 @@ _Cite_:
   - Code de la défense. - art. R4221-22
 
 
-#### TITRE III : DISPONIBILITÉ<a id=1010></a>
+#### TITRE III : DISPONIBILITÉ<a id=1008></a>
 
-##### Chapitre unique<a id=1011></a>
+##### Chapitre unique<a id=1009></a>
 
 ###### Article R4231-1
 
@@ -84110,9 +82598,9 @@ _Cite_:
   - Code de la défense. - art. L4231-4 (V)
 
 
-#### TITRE IV : RÉSERVE CITOYENNE<a id=1012></a>
+#### TITRE IV : RÉSERVE CITOYENNE<a id=1010></a>
 
-##### Chapitre unique<a id=1013></a>
+##### Chapitre unique<a id=1011></a>
 
 ###### Article R4241-1
 
@@ -84178,11 +82666,11 @@ _Cité par_:
   - Arrêté du 12 septembre 2017 - art. 1
 
 
-#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=1014></a>
+#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=1012></a>
 
-##### Chapitre unique<a id=1015></a>
+##### Chapitre unique<a id=1013></a>
 
-##### Section 1 : Mission<a id=1016></a>
+##### Section 1 : Mission<a id=1014></a>
 
 ###### Article D4261-1
 
@@ -84234,7 +82722,7 @@ _Cité par_:
   - Code de la défense. - art. D4261-8 (V)
 
 
-##### Section 2 : Composition et organisation<a id=1017></a>
+##### Section 2 : Composition et organisation<a id=1015></a>
 
 ###### Article D4261-3
 
@@ -84493,7 +82981,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 3 : Fonctionnement<a id=1018></a>
+##### Section 3 : Fonctionnement<a id=1016></a>
 
 ###### Article D4261-13
 
@@ -84714,11 +83202,11 @@ _Abrogé par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1019></a>
+### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1017></a>
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1020></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1018></a>
 
-##### Chapitre unique<a id=1021></a>
+##### Chapitre unique<a id=1019></a>
 
 ###### Article D4341-4
 
@@ -84813,9 +83301,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1022></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1020></a>
 
-##### Chapitre unique<a id=1023></a>
+##### Chapitre unique<a id=1021></a>
 
 ###### Article D4351-4
 
@@ -84910,9 +83398,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1024></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1022></a>
 
-##### Chapitre unique<a id=1025></a>
+##### Chapitre unique<a id=1023></a>
 
 ###### Article D4361-4
 
@@ -85007,9 +83495,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1026></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1024></a>
 
-##### Chapitre unique<a id=1027></a>
+##### Chapitre unique<a id=1025></a>
 
 ###### Article D4371-3
 
@@ -85078,9 +83566,9 @@ _Cite_:
   - Code de la défense. - art. R4139-23 (V)
 
 
-#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1028></a>
+#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1026></a>
 
-##### Chapitre Ier : Saint-Barthélemy<a id=1029></a>
+##### Chapitre Ier : Saint-Barthélemy<a id=1027></a>
 
 ###### Article D4381-4
 
@@ -85172,7 +83660,7 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-##### Chapitre II : Saint-Martin<a id=1030></a>
+##### Chapitre II : Saint-Martin<a id=1028></a>
 
 ###### Article D4382-4
 
