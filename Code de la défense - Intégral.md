@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-07-04
+Version Consolidée au 2010-07-11
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -28122,10 +28122,13 @@ _Nouveaux textes_:
 
 ###### Article D1321-3
 
-Les forces armées ne peuvent participer au maintien de l'ordre que lorsqu'elles en sont légalement requises.
+Les forces armées, à l'exception de la gendarmerie nationale, ne peuvent participer au maintien de l'ordre que lorsqu'elles
+en sont légalement requises.
 
-La réquisition des forces armées est adressée par l'autorité civile territorialement responsable au commandant de gendarmerie
-pour les forces de gendarmerie, au commandant militaire compétent pour les autres forces.
+Lorsqu'elles sont requises à ces fins, les forces armées font partie de la force publique. 
+
+La réquisition des forces armées est adressée par l'autorité civile territorialement responsable au commandant militaire
+compétent.
 
 La responsabilité de l'exécution de la réquisition incombe à l'autorité militaire requise qui reste juge des moyens à y
 consacrer.
@@ -28136,9 +28139,9 @@ _Anciens textes_:
 
   - Décret n°95-573 du 2 mai 1995 - art. 2 (Ab)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+  - Décret n°2010-777 du 8 juillet 2010 - art. 2
 
 _Cité par_:
 
@@ -28224,13 +28227,16 @@ _Cité par_:
 ###### Article D1321-7
 
 Les forces de première catégorie assurent quotidiennement et d'initiative des missions entrant dans le cadre du maintien de
-l'ordre public. Leur engagement en unités constituées peut également intervenir sur réquisition de l'autorité civile.
+l'ordre public. 
+
+Elles sont engagées sur ordre du ministre de l'intérieur ou par les préfets de zone de défense pour ce qui concerne les
+forces implantées dans leur ressort, à l'exception de celles affectées à un emploi national.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+  - Décret n°2010-777 du 8 juillet 2010 - art. 3
 
 
 ###### Article D1321-8
@@ -28238,11 +28244,14 @@ _Codifié par_:
 Les forces de deuxième catégorie constituent une réserve générale à la disposition du Gouvernement pour le maintien de
 l'ordre.
 
+Elles sont engagées sur ordre du ministre de l'intérieur ou par les préfets de zone de défense pour ce qui concerne les
+forces implantées dans leur ressort, à l'exception de celles affectées à un emploi national.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+  - Décret n°2010-777 du 8 juillet 2010 - art. 4
 
 
 ###### Article D1321-9
@@ -28265,14 +28274,14 @@ _Codifié par_:
 
 ###### Article D1321-10
 
-Les unités constituées de la gendarmerie, mises sur pied à la mobilisation ou sur décision du ministre de la défense, sont
-destinées à remplir en priorité des missions de sûreté afin d'en décharger les forces de première et deuxième catégories.
+Les unités constituées de la gendarmerie, mises sur pied à la mobilisation, sont destinées à remplir en priorité des missions
+de sûreté afin d'en décharger les forces de première et deuxième catégories.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°2007-586 2007-04-23 JORF 24 avril 2007
+  - Décret n°2010-777 du 8 juillet 2010 - art. 5
 
 
 ###### Article R*1321-1
@@ -57578,15 +57587,14 @@ _Modifié par_:
 
 ###### Article R3225-10
 
-En Ile-de-France, les commandants de la garde républicaine et de la force de gendarmerie mobile et d'intervention sont placés
-sous l'autorité du commandant de région de gendarmerie d'Ile-de-France, commandant la gendarmerie pour la zone de défense
-d'Ile-de-France.
+En Ile-de-France, le commandant de la garde républicaine est placé sous l'autorité du commandant de région de gendarmerie
+d'Ile-de-France, commandant la gendarmerie pour la zone de défense et de sécurité d'Ile-de-France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
+  - Décret n°2010-773 du 8 juillet 2010 - art. 6
 
 
 #### TITRE III : LES SERVICES DE SOUTIEN ET D'ADMINISTRATION<a id=744></a>
