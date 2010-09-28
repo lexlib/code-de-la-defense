@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-08-29
+Version Consolidée au 2010-09-29
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -42440,15 +42440,15 @@ usages locaux d'après les renseignements obtenus auprès des chambres départem
 départementaux compétents du ministère chargé de l'agriculture.
 
 L'indemnité périodique de privation de jouissance due au prestataire est déterminée d'après tous éléments, dans la limite des
-fermages fixés dans chaque département par le préfet, conformément aux dispositions des articles L. 411-11 et R. 411-9-6 du
-code rural et de la pêche maritime,  pour les exploitations similaires de la région considérée, sans pouvoir dépasser, pour
-les éléments d'exploitation pris à bail, le montant du fermage conventionnel.
+fermages fixés dans chaque département par le préfet, conformément aux dispositions de l'article L. 411-11 du code rural et
+de la pêche maritime, pour les exploitations similaires de la région considérée, sans pouvoir dépasser, pour les éléments
+d'exploitation pris à bail, le montant du fermage conventionnel.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+  - Décret n°2010-1126 du 27 septembre 2010 - art. 2
 
 _Cité par_:
 
@@ -42463,8 +42463,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural (V)
-  - Code rural - art. R411-9-6 (V)
+  - Code rural - art. L411-11
 
 
 ###### Article R2234-31
