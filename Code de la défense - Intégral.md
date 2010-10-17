@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2010-09-29
+Version Consolidée au 2010-10-18
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -876,7 +876,7 @@ Version Consolidée au 2010-09-29
           - [Chapitre Ier : Saint-Barthélemy (art. R3581-1)](#873)
           - [Chapitre II : Saint-Martin (art. R3582-1)](#874)
     - [PARTIE 4 : LE PERSONNEL MILITAIRE (art. D4111-1 à R4382-3)](#875)
-      - [LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES (art. D4111-1 à D4152-11)](#876)
+      - [LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES (art. D4111-1 à D4152-10)](#876)
         - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D4111-1 à D4111-7)](#877)
           - [Chapitre unique (art. D4111-1 à D4111-7)](#878)
             - [Section unique : Haut Comité d'évaluation de la condition militaire (art. D4111-1 à D4111-7)](#879)
@@ -989,14 +989,14 @@ Version Consolidée au 2010-09-29
               - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#986)
         - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#987)
           - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#988)
-        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-11)](#989)
+        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-10)](#989)
           - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#990)
             - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#991)
             - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#992)
             - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#993)
-          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-11)](#994)
+          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-10)](#994)
             - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#995)
-            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-11)](#996)
+            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-10)](#996)
       - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-25)](#997)
         - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#998)
           - [Chapitre unique (art. R4211-1 à R4211-12)](#999)
@@ -81679,15 +81679,16 @@ _Modifié par_:
 
 La direction de l'enseignement militaire supérieur : 
 
-1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur à caractère
-interarmées et les conditions de sa mise en œuvre, en vue notamment d'en conforter le rayonnement en France et à
-l'étranger ; 
+1° Propose au chef d'état-major des armées l'orientation de la politique de l'enseignement militaire supérieur du personnel
+des armées, services et organismes interarmées, ainsi que les conditions de sa mise en œuvre, en vue notamment d'en conforter
+le rayonnement en France et à l'étranger. Elle veille à la cohérence des projets pédagogiques entre les différents niveaux de
+l'enseignement militaire supérieur et à celle des parcours de formation depuis la formation initiale ; 
 
 2° Soumet aux instances chargées de superviser l'enseignement militaire supérieur des recommandations de nature à garantir sa
 cohérence d'ensemble, en particulier dans le domaine de la formation et de la recherche ; 
 
-3° Prépare les officiers supérieurs des forces armées, de la     direction générale de l'armement et de la justice militaire
-à exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
+3° Prépare les officiers supérieurs des forces armées, de la direction générale de l'armement et de la justice militaire à
+exercer des responsabilités d'état-major, de commandement et de direction au sein de ces entités, des états-majors
 interarmées ou interalliés, des organismes interministériels et dans tout autre poste où s'élabore et s'exécute la politique
 de défense et de sécurité ; 
 
@@ -81705,18 +81706,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1180 du 5 octobre 2009 - art. 11 (V)
+  - Décret n°2010-1220 du 15 octobre 2010 - art. 1
 
 
 ###### Article D4152-10
 
-La direction de l'enseignement militaire supérieur comprend :
+La direction de l'enseignement militaire supérieur comprend : 
 
 1° Le centre des hautes études militaires ;
 
 2° Le collège interarmées de défense ;
 
-3° La division de la recherche et de la documentation.
+3° Le centre de documentation de l'Ecole militaire.
 
 Son organisation est fixée par arrêté du ministre de la défense.
 
@@ -81728,37 +81729,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-256 du 4 mars 2009 - art. 1
-
-
-###### Article D4152-11
-
-Le conseil scientifique de la division de la recherche et de la documentation propose les axes de recherche et les
-orientations générales de la politique de documentation de la division de la recherche et de la documentation. Il donne un
-avis pour le recrutement des chercheurs et des enseignants de l'enseignement militaire supérieur.
-
-Un arrêté du ministre de la défense précise la composition, les attributions et les modalités de fonctionnement de ce
-conseil.
-
-**Nota:**
-
-Décret n° 2009-630 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Conseil
-scientifique de la division de la recherche et de la documentation).
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-256 du 4 mars 2009 - art. 1
-
-_Cité par_:
-
-  - Décret n°2009-630 du 6 juin 2009 - art. (VD)
-
-_Abrogé par_:
-
-  - Décret n°2010-1220 du 15 octobre 2010 - art. 3
+  - Décret n°2010-1220 du 15 octobre 2010 - art. 2
 
 
 ### LIVRE II : RÉSERVE MILITAIRE<a id=997></a>
