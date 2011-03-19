@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-03-20
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -344,7 +344,7 @@ Version Consolidée au 2011-03-16
         - [TITRE VIII : DISPOSITIONS PARTICULIÈRES   À SAINT-BARTHÉLEMY ET À SAINT-MARTIN (art. L5381-1 à L5382-1)](#341)
           - [Chapitre Ier : Saint-Barthélemy (art. L5381-1)](#342)
           - [Chapitre II : Saint-Martin (art. L5382-1)](#343)
-  - [Partie réglementaire (art. R*1122-1 à R4382-3)](#344)
+  - [Partie réglementaire (art. R*1122-1 à D5382-1)](#344)
     - [PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE (art. R*1122-1 à R*1691-1)](#345)
       - [LIVRE Ier : LA DIRECTION DE LA DEFENSE (art. R*1122-1 à R1143-11)](#346)
         - [TITRE II : LE PRÉSIDENT DE LA RÉPUBLIQUE, CHEF DES ARMÉES (art. R*1122-1 à R*1122-10)](#347)
@@ -1041,6 +1041,47 @@ Version Consolidée au 2011-03-16
         - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1038)
           - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1039)
           - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1040)
+    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES (art. R5111-1 à D5382-1)](#1041)
+      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5131-16)](#1042)
+        - [TITRE Ier : SERVITUDES (art. R5111-1 à R5114-11)](#1043)
+          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. R5111-1 à R5111-10)](#1044)
+            - [Section 1 : Dispositions générales (art. R5111-1 à R5111-2)](#1045)
+            - [Section 2 : Etablissement d'un polygone d'isolement (art. R5111-3 à R5111-5)](#1046)
+            - [Section 3 : Autorisation de construction dans un polygone d'isolement (art. R5111-6 à R5111-10)](#1047)
+          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. R5112-1 à R5112-2)](#1048)
+          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. R5113-1)](#1049)
+          - [Chapitre IV : Autres installations de défense (art. R5114-1 à R5114-11)](#1050)
+            - [Section 1 : Etablissement des servitudes des installations de défense (art. R5114-1 à R5114-4)](#1051)
+            - [Section 2 : Conditions d'autorisation de certaines
+constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1052)
+              - [Sous-section 1 : Secteurs de construction réglementée (art. R5114-5 à R5114-6)](#1053)
+              - [Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable (art. R5114-7 à R5114-8)](#1054)
+              - [Sous-section 3 : Dispositions communes (art. R5114-9 à R5114-11)](#1055)
+        - [TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE (art. R5121-1 à R5121-2)](#1056)
+          - [Chapitre unique : Répression des infractions relatives aux servitudes militaires (art. R5121-1 à R5121-2)](#1057)
+            - [Section 1 : Dispositions générales (art. R5121-1 à R5121-2)](#1058)
+        - [TITRE III : GESTION ET ADMINISTRATION (art. D5131-4 à R5131-16)](#1059)
+          - [Chapitre unique : Gestion et administration des infrastructures de la défense (art. D5131-4 à R5131-16)](#1060)
+            - [Section 1 : Dispositions générales (art. D5131-4 à R5131-3)](#1061)
+            - [Section 2 : Compétence des autorités chargées de l'infrastructure (art. D5131-8 à D5131-11)](#1062)
+            - [Section 3 : Attributions du service d'infrastructure
+de la défense (art. D5131-12 à D5131-14)](#1063)
+            - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-15)](#1064)
+            - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1065)
+      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1066)
+        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1067)
+          - [Chapitre unique (art. D5321-1)](#1068)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-1)](#1069)
+          - [Chapitre unique (art. D5341-2 à R5341-1)](#1070)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-1)](#1071)
+          - [Chapitre unique (art. D5351-2 à R5351-1)](#1072)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-1)](#1073)
+          - [Chapitre unique (art. D5361-2 à R5361-1)](#1074)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1075)
+          - [Chapitre unique (art. D5371-2 à R5371-1)](#1076)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1077)
+          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1078)
+          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1079)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -84936,5 +84977,1249 @@ _Créé par_:
 _Cite_:
 
   - Code de la défense. - art. R4138-6 (V)
+
+
+## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES<a id=1041></a>
+
+### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=1042></a>
+
+#### TITRE Ier : SERVITUDES<a id=1043></a>
+
+##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=1044></a>
+
+##### Section 1 : Dispositions générales<a id=1045></a>
+
+###### Article R5111-1
+
+Le décret pris en application de l'article L. 5111-1 désigne l'établissement bénéficiant du régime de servitude défini aux
+articles L. 5111-2 à L. 5111-4. Il est notifié aux propriétaires dont les biens, soumis à ce régime, ont été déterminés
+contradictoirement en application du I de l'article L. 11-1 du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L5111-1 (V)
+  - Code de la défense. - art. L5111-2 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. R5111-2 (V)
+  - Code de la défense. - art. R5341-1 (V)
+  - Code de la défense. - art. R5351-1 (V)
+  - Code de la défense. - art. R5361-1 (V)
+  - Code de la défense. - art. R5371-1 (V)
+
+
+###### Article R5111-2
+
+Un état parcellaire indiquant les noms de chaque propriétaire, tels qu'ils sont inscrits au cadastre, est annexé au décret
+mentionné à l'article R. 5111-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-1 (V)
+
+_Anciens textes_:
+
+  - Loi n°1929-08-08 du 8 août 1929 - art. 6 (Ab), alinéa 2
+
+
+##### Section 2 : Etablissement d'un polygone d'isolement<a id=1046></a>
+
+###### Article R5111-3
+
+Le décret établissant un polygone d'isolement en application de l'article L. 5111-5 en définit l'étendue. 
+
+Un plan parcellaire des terrains compris dans le polygone d'isolement est annexé au décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L5111-5 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. R5111-4 (V)
+
+
+###### Article R5111-4
+
+Le décret mentionné à l'article R. 5111-3 est notifié aux propriétaires intéressés par lettre recommandée avec demande d'avis
+de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-3 (V)
+
+_Anciens textes_:
+
+  - Loi n°1929-08-08 du 8 août 1929 - art. 7 (Ab), 1er alinéa
+
+
+###### Article R5111-5
+
+Le polygone d'isolement est délimité sur le terrain par la pose de bornes.
+
+Un procès-verbal de cette délimitation est dressé par le représentant du ministère de la défense, en présence des
+propriétaires intéressés et des maires des communes sur le territoire desquelles se trouve le polygone ou de leurs
+représentants.
+
+Ces personnes et autorités peuvent faire inscrire leurs observations audit procès-verbal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Anciens textes_:
+
+  - Loi n°1929-08-08 du 8 août 1929 - art. 8 (Ab)
+
+
+##### Section 3 : Autorisation de construction dans un polygone d'isolement<a id=1047></a>
+
+###### Article R5111-6
+
+L'autorisation préalable du ministre de la défense, prévue à l'article L. 5111-6, est requise dans le polygone d'isolement
+pour toute construction nouvelle ou toute reconstruction, réhabilitation ou transformation d'ouvrage existant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Décret n°2014-453 du 5 mai 2014 (V)
+  - Code de la défense. - art. R5111-10 (V)
+  - Code de la défense. - art. R5111-8 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L5111-6 (V)
+
+
+###### Article R5111-7
+
+La délivrance de l'autorisation préalable donne lieu à la présentation d'une demande indiquant la nature des travaux, la
+position et les principales dimensions de la construction, ainsi que la nature des matériaux.
+
+Le directeur local du service d'infrastructure de la défense instruit la demande et fait connaître son avis au ministre dans
+les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être complétée.
+
+L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur local ou de l'expiration
+du délai qui lui était imparti pour le donner.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Décret n°2014-453 du 5 mai 2014 (V)
+  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+
+
+###### Article R5111-8
+
+L'autorisation préalable prévue à l'article R. 5111-6 est délivrée sans préjudice des autorisations ou déclarations exigées
+par le code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-6 (V)
+
+
+###### Article R5111-9
+
+Le directeur local du service d'infrastructure de la défense délivre au bénéficiaire de l'autorisation préalable une copie
+certifiée de l'autorisation accordée, contenant l'énoncé des clauses et des conditions imposées.
+
+L'autorisation préalable dont il n'a pas été fait usage dans le délai d'un an, à partir de la date du certificat délivré, est
+frappée de péremption.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5111-10
+
+Les travaux ayant fait l'objet d'une autorisation en application de l'article R. 5111-6 ne peuvent être entrepris qu'après
+déclaration adressée au directeur local du service d'infrastructure de la défense. La déclaration de travaux doit être
+transmise par lettre recommandée avec avis de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-6 (V)
+
+
+##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=1048></a>
+
+###### Article R5112-1
+
+Les décrets désignant, en vertu de l'article L. 5112-1, les postes électrosémaphoriques de la marine nationale et les postes
+militaires de défense des côtes et de sécurité de la navigation et déterminant les limites de leur champ de vue sont pris
+selon la procédure définie par les articles 1er et 2 du décret n° 91-400 du 25 avril 1991 pris pour l'application de la loi
+n° 87-954 du 27 novembre 1987 relative à la visibilité des amers, des feux et des phares et au champ de vue des centres de
+surveillance de la navigation maritime.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°87-954 du 27 novembre 1987 (V)
+  - Décret n°91-400 du 25 avril 1991 - art. 1 (V)
+  - Code de la défense. - art. L5112-1 (V)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5112-2
+
+L'article 3 du décret du 25 avril 1991 mentionné à l'article précédent est applicable aux servitudes de protection des
+ouvrages de défense des côtes et des installations de sécurité maritime. 
+
+Ces servitudes sont inscrites, dans chaque commune où elles s'appliquent, à l'annexe au plan local d'urbanisme prescrite par
+l'article R. * 126-1 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°91-400 du 25 avril 1991 - art. 3 (V)
+  - Code de l'urbanisme - art. R*126-1 (V)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=1049></a>
+
+###### Article R5113-1
+
+Les règles relatives aux servitudes de protection des émissions et réceptions radioélectriques du ministère de la défense
+sont celles fixées aux articles R. 21 à R. 39 du code des postes et des communications électroniques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code des postes et des communications électroni... - art. R*21 (V)
+
+
+##### Chapitre IV : Autres installations de défense<a id=1050></a>
+
+##### Section 1 : Etablissement des servitudes des installations de défense<a id=1051></a>
+
+###### Article R5114-1
+
+Le décret établissant une servitude autour d'une installation de défense en application de l'article L. 5114-1 en définit
+l'étendue. Il est accompagné d'un plan indiquant, avec le tracé de l'installation, les limites des terrains qui doivent y
+être soumis. 
+
+Ce décret est publié au Journal officiel de la République française et affiché dans les communes intéressées. 
+
+Il est notifié aux propriétaires dont les biens, soumis à la servitude, ont été déterminés contradictoirement en application
+du I de l'article L. 11-1 du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Anciens textes_:
+
+  - Décret du 10 août 1853 - art. 3 (Ab), alinéas 3 et 4
+
+_Cite_:
+
+  - Code de la défense. - art. L5114-1 (V)
+  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. R5114-3 (V)
+
+
+###### Article R5114-2
+
+L'emprise de l'installation de défense donnant lieu à l'établissement de la servitude est délimitée par des bornes plantées
+contradictoirement avec les propriétaires des terrains limitrophes.
+
+Cette délimitation est exécutée aux frais de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Anciens textes_:
+
+  - Loi n°1819-07-17 du 17 juillet 1819 - art. 2 (Ab)
+
+
+###### Article R5114-3
+
+Le décret mentionné à l'article R. 5114-1 peut faire l'objet d'une modification lorsqu'il est possible de réduire l'étendue
+des servitudes dans les zones urbaines ou à urbaniser, sans compromettre la sécurité des personnes ni celle des installations
+de défense et sans porter atteinte aux intérêts financiers de l'Etat. 
+
+Le décret opérant cette modification est précédé de l'enquête prévue à l'article L. 5114-1. Il est publié et notifié
+conformément aux dispositions de l'article R. 5114-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Anciens textes_:
+
+  - Décret du 10 août 1853 - art. 6 (Ab)
+
+_Cite_:
+
+  - Code de la défense. - art. L5114-1 (V)
+  - Code de la défense. - art. R5114-1 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. R5114-4 (V)
+
+
+###### Article R5114-4
+
+Le directeur local du service d'infrastructure de la défense fait établir, par agent assermenté, un plan et des photographies
+des constructions existant à la date de publication du décret instaurant la servitude. Le plan et les photographies
+constituent un dossier qui atteste de l'état initial des zones de servitudes. Ce dossier, contresigné par le directeur local
+du service d'infrastructure de la défense et les maires des communes concernées, est établi en trois exemplaires, dont un
+déposé en mairie, un deuxième à la préfecture et le troisième au siège local du service d'infrastructure de la défense. 
+
+Ce dossier est modifié lorsqu'intervient un décret modificatif en application de l'article R. 5114-3.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret du 10 août 1853 - art. 30 (Ab), alinéa 1 et 2
+
+_Cite_:
+
+  - Code de la défense. - art. R5114-3 (V)
+
+
+##### Section 2 : Conditions d'autorisation de certaines
+constructions dans les zones de servitudes<a id=1052></a>
+
+##### Sous-section 1 : Secteurs de construction réglementée<a id=1053></a>
+
+###### Article R5114-5
+
+Un décret peut déterminer, à l'intérieur de la zone soumise à la servitude régie par le présent chapitre, les terrains sur
+lesquels peut être acceptée, sans nuire aux fonctions de l'installation de défense protégée, la réalisation de bâtiments,
+clôtures et autres ouvrages. Il fixe les limites et conditions que doivent respecter ces constructions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Anciens textes_:
+
+  - Décret du 10 août 1853 - art. 15 (Ab)
+
+_Cité par_:
+
+  - Code de la défense. - art. R5114-6 (V)
+  - Code de la défense. - art. R5114-7 (V)
+
+
+###### Article R5114-6
+
+L'autorisation des constructions dont la réalisation est conforme aux prescriptions du décret prévu par l'article R. 5114-5
+est donnée par le directeur local du service d'infrastructure de la défense, dans le délai de trois mois du dépôt de la
+demande complète indiquant la nature des travaux, la position et les principales dimensions de la construction et justifiant
+du respect des prescriptions énoncées par le décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+  - Code de la défense. - art. R5114-11 (V)
+  - Code de la défense. - art. R5114-9 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5114-5 (V)
+
+
+##### Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable<a id=1054></a>
+
+###### Article R5114-7
+
+Hors le cas d'application des articles R. 5114-5 et R. 5114-6, l'autorisation préalable du ministre de la défense prévue à
+l'article L. 5114-2 est requise pour toute construction nouvelle ou toute reconstruction, réhabilitation ou transformation
+d'ouvrage existant dans la zone de servitudes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+
+_Anciens textes_:
+
+  - Décret du 10 août 1853 - art. 11 (Ab)
+  - Décret du 10 août 1853 - art. 12 (Ab)
+
+_Cite_:
+
+  - Code de la défense. - art. L5114-2 (V)
+  - Code de la défense. - art. R5114-5 (V)
+
+
+###### Article R5114-8
+
+La délivrance de l'autorisation préalable donne lieu à la présentation d'une demande indiquant la nature des travaux, la
+position et les principales dimensions de la construction, ainsi que la nature des matériaux.
+
+Le directeur local du service d'infrastructure de la défense instruit la demande et fait connaître son avis au ministre dans
+les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être complétée.
+
+L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur local ou de l'expiration
+du délai qui lui était imparti pour le donner.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
+
+
+##### Sous-section 3 : Dispositions communes<a id=1055></a>
+
+###### Article R5114-9
+
+Les autorisations préalables prévues aux articles R. 5114-6 et R. 5114-7 sont délivrées sans préjudice des autorisations ou
+déclarations exigées par le code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5114-6 (V)
+
+
+###### Article R5114-10
+
+Le directeur local du service d'infrastructure de la défense délivre au bénéficiaire de l'autorisation préalable une copie
+certifiée de l'autorisation accordée, contenant l'énoncé des clauses et des conditions imposées.
+
+L'autorisation dont il n'a pas été fait usage dans le délai d'un an, à partir de la date du certificat délivré, est frappée
+de péremption.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5114-11
+
+Les travaux ayant fait l'objet d'une autorisation en application des articles R. 5114-6 et R. 5114-7 ne peuvent être
+entrepris qu'après déclaration adressée au directeur local du service d'infrastructure de la défense. La déclaration de
+travaux doit être transmise par lettre recommandée avec avis de réception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Anciens textes_:
+
+  - Décret du 10 août 1853 - art. 26 (Ab), alinéa 1
+
+_Cite_:
+
+  - Code de la défense. - art. R5114-6 (V)
+
+
+#### TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE<a id=1056></a>
+
+##### Chapitre unique : Répression des infractions relatives aux servitudes militaires<a id=1057></a>
+
+##### Section 1 : Dispositions générales<a id=1058></a>
+
+###### Article R5121-1
+
+La répression des contraventions est conduite selon les modalités définies aux articles L. 774-1 et suivants du code de
+justice administrative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de justice administrative - art. L774-1 (V)
+
+
+###### Article R5121-2
+
+En cas d'échec de la mise en demeure prévue à l'article L. 5121-2, l'agent assermenté du service d'infrastructure de la
+défense ou l'officier de police judiciaire transmet sans délai au préfet le procès-verbal de constat de la contravention en
+vue de l'engagement de l'action devant le juge administratif.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L5121-2 (V)
+
+
+#### TITRE III : GESTION ET ADMINISTRATION<a id=1059></a>
+
+##### Chapitre unique : Gestion et administration des infrastructures de la défense<a id=1060></a>
+
+##### Section 1 : Dispositions générales<a id=1061></a>
+
+###### Article D5131-4
+
+L'attributaire d'un élément du domaine utilisé par le ministère de la défense est l'état-major, la direction ou le service
+qui en reçoit la disposition ou en assure la garde.
+
+L'attribution d'un élément du domaine est confiée par décision du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 4 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+_Cité par_:
+
+  - Code de la défense. - art. D5341-2 (V)
+  - Code de la défense. - art. D5351-2 (V)
+  - Code de la défense. - art. D5361-2 (V)
+  - Code de la défense. - art. D5371-2 (V)
+
+_Nouveaux textes_:
+
+  - Code de la défense. - art. R5131-4 (M)
+
+
+###### Article D5131-5
+
+Les attributaires désignent les occupants, qui peuvent être des formations, des services, des organismes, des personnes
+physiques ou morales et qui reçoivent le droit d'usage de tout ou partie d'un élément immobilier.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 5 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de la défense. - art. R5131-5 (M)
+
+
+###### Article D5131-6
+
+La gestion de l'infrastructure est l'ensemble des mesures et décisions concourant à sa constitution, son occupation, son
+utilisation, son adaptation et sa conservation.
+
+L'administration de l'infrastructure est chargée de la mise en œuvre de ces mesures et décisions.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 6 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. D5341-2 (V)
+  - Code de la défense. - art. D5351-2 (V)
+  - Code de la défense. - art. D5361-2 (V)
+  - Code de la défense. - art. D5371-2 (V)
+
+
+###### Article D5131-7
+
+Un arrêté du ministre de la défense précise les conditions d'application des sections 1 à 4 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 15 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5131-1
+
+La politique immobilière de la défense répond aux besoins des formations militaires et des autres organismes du ministère, en
+conformité avec les règles applicables en matière d'aménagement du territoire, d'urbanisme et d'environnement et dans le
+respect des intérêts domaniaux de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 2 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Arrêté du 14 décembre 2016 - art. 10 (VD)
+
+
+###### Article R5131-2
+
+Au sens du présent code, l'infrastructure de la défense est constituée, d'une part, par l'ensemble des immeubles bâtis ou non
+appartenant au domaine public ou privé de l'Etat et utilisés par les unités militaires et services du ministère et, d'autre
+part, par les immeubles bâtis ou non que les services du ministère prennent à bail ou occupent à un autre titre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 3 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5131-3
+
+Conformément aux articles R. 53, R. 57-3 et R. 57-4 du code du domaine de l'Etat, le ministre de la défense, ou l'autorité à
+laquelle il donne délégation à cette fin, signe les conventions d'occupation temporaire et délivre les autorisations
+d'occupation temporaire du domaine public utilisé par le ministère de la défense.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2009-1179 du 5 octobre 2009 - art. 21 (V)
+  - Arrêté du 31 mai 2010 - art. 5 (Ab)
+  - Arrêté du 27 décembre 2012 - art. 1 (Ab)
+  - Arrêté du 30 juillet 2015 - art. 3 (Ab)
+  - Arrêté du 6 avril 2018 - art. 3 (V)
+  - Code de la défense. - art. D5131-6 (M)
+  - Code de la défense. - art. D5131-7 (V)
+  - Code de la défense. - art. R5131-11 (V)
+  - Code de la défense. - art. R5131-4 (M)
+  - Code de la défense. - art. R5131-5 (M)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code du domaine de l'Etat - art. R53 (V)
+  - Code du domaine de l'Etat - art. R57-3 (V)
+
+
+##### Section 2 : Compétence des autorités chargées de l'infrastructure<a id=1062></a>
+
+###### Article D5131-8
+
+Le secrétaire général pour l'administration propose au ministre de la défense, en liaison avec les états-majors, directions
+et services, la politique immobilière d'ensemble du ministère en matière domaniale, d'infrastructure, d'environnement et de
+logement, et notamment la programmation des crédits relatifs à cette politique immobilière. Il en assure la mise en œuvre en
+coordination avec les attributaires.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 7 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de la défense. - art. R5131-8 (V)
+
+
+###### Article D5131-9
+
+Les attributaires ont en charge l'infrastructure mise à leur disposition ou sous leur garde.
+
+Ils en établissent les règles d'utilisation et peuvent proposer d'en modifier l'assiette ou la consistance.
+
+Avec l'assistance du service d'infrastructure de la défense, ils définissent leurs besoins, proposent au secrétaire général
+pour l'administration, le cas échéant en fonction des priorités définies par le chef d'état-major des armées, les programmes
+correspondants et en suivent la réalisation.
+
+Quelles que soient les modalités de financement ou de conduite des opérations à réaliser, les attributaires ont
+obligatoirement recours au service d'infrastructure de la défense, sous réserve des attributions confiées à la direction
+générale de la sécurité extérieure, à la direction générale pour l'armement pour ses installations à vocation industrielle ou
+d'expérimentation et au service des essences des armées pour ses installations techniques de gestion de la ressource
+pétrolière.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 8 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de la défense. - art. R5131-9 (V)
+
+
+###### Article D5131-10
+
+Les autorités subordonnées aux attributaires participent, dans leurs zones de compétences respectives, à la gestion de
+l'infrastructure dont ils ont la charge, sous réserve des attributions des commandants supérieurs dans les départements et
+collectivités d'outre-mer, en Nouvelle-Calédonie, dans les Terres australes et antarctiques françaises, et des commandants de
+forces françaises à l'étranger. Elles peuvent recevoir à cet effet en matière domaniale des délégations de pouvoirs du
+ministre.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 9 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article D5131-11
+
+Les occupants sont responsables devant les attributaires de l'intégrité, de la surveillance et de la sauvegarde des éléments
+d'infrastructure dont ils ont la jouissance. Ils veillent à leur maintien en bon état.
+
+Ils peuvent demander l'assistance du service d'infrastructure de la défense et bénéficier de prestations de sa part.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 10 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-1499 du 27 décembre 2012 - art. 2
+
+_Nouveaux textes_:
+
+  - Code de la défense. - art. R5131-11 (V)
+
+
+##### Section 3 : Attributions du service d'infrastructure
+de la défense<a id=1063></a>
+
+###### Article D5131-12
+
+Le service d'infrastructure de la défense participe aux tâches d'administration concernant la constitution, l'adaptation et
+l'inventaire permanent du domaine immobilier confié aux unités et services du ministère de la défense.
+
+Il participe à la surveillance, à la conservation et à la police de ce domaine et peut disposer à cette fin d'agents
+assermentés.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 11 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. D5341-2 (V)
+  - Code de la défense. - art. D5351-2 (V)
+  - Code de la défense. - art. D5361-2 (V)
+  - Code de la défense. - art. D5371-2 (V)
+  - Code de la défense. - art. R3222-5 (V)
+
+
+###### Article D5131-13
+
+Le service d'infrastructure de la défense participe à l'élaboration des procédures réglementaires d'établissement des
+servitudes administratives dont bénéficient les installations de la défense.
+
+Il en assure la continuité et l'application. Il est consulté à cet effet sur les projets susceptibles de les affecter.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 12 (Ab)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article D5131-14
+
+Le service d'infrastructure prête son concours aux attributaires pour la maintenance et la conservation de l'infrastructure.
+Il en assure l'entretien conjointement avec les occupants.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 13 (Ab)
+
+_Cité par_:
+
+  - Décret n°2009-1179 du 5 octobre 2009 - art. 21 (V)
+  - Arrêté du 6 avril 2018 - art. 11 (V)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+##### Section 4 : Programmation et coordination en matière d'infrastructure<a id=1064></a>
+
+###### Article D5131-15
+
+Le comité de coordination de la fonction immobilière examine les orientations de la politique immobilière de la défense, à
+l'exception des installations de la direction générale de la sécurité extérieure et du soutien des forces en opération
+extérieure. Il propose au secrétaire général pour l'administration, sur la base des propositions des états-majors, directions
+et services établies, le cas échéant, en fonction des priorités définies par le chef d'état-major des armées, la
+programmation des crédits couvrant les dépenses immobilières du ministère répondant aux besoins organiques et opérationnels
+des forces, aux besoins des divers organismes de soutien, au logement du personnel et des familles et au fonctionnement du
+service d'infrastructure.
+
+A ce titre, il prend connaissance des principaux programmes d'infrastructure proposés par les attributaires. Il propose au
+secrétaire général pour l'administration leurs modalités de gestion et suit l'évolution des projets.
+
+Il est saisi des propositions du comité interarmées du logement militaire en matière de logement familial.
+
+En liaison avec le conseil de gestion du service d'infrastructure de la défense, il suit l'activité de ce service. Il
+s'assure de l'exécution de la programmation et propose les redéploiements de crédits nécessaires. Présidé par le secrétaire
+général pour l'administration, il regroupe les représentants des états-majors, directions et services.
+
+La direction de la mémoire, du patrimoine et des archives assure la préparation et le suivi de ses travaux.
+
+La composition et les modalités de fonctionnement du comité de coordination de la fonction immobilière sont fixées par
+arrêté.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°2000-288 du 30 mars 2000 - art. 14 (Ab)
+
+_Cité par_:
+
+  - Arrêté du 9 février 2001 - art. 1 (VD)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+##### Section 5 : Attributions particulières en matière de déminage<a id=1065></a>
+
+###### Article R5131-16
+
+Les attributions du ministre de la défense et du ministre de l'intérieur en matière de recherche, neutralisation, enlèvement
+et destruction des munitions, mines, pièges, engins et explosifs sont fixées par les articles 2 à 4 et 6 à 9 du décret n°
+76-225 du 4 mars 1976.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°76-225 du 4 mars 1976 - art. 2 (V)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. R5341-1 (V)
+  - Code de la défense. - art. R5351-1 (V)
+  - Code de la défense. - art. R5361-1 (V)
+
+
+### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1066></a>
+
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1067></a>
+
+##### Chapitre unique<a id=1068></a>
+
+###### Article D5321-1
+
+Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon :
+
+1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
+d'infrastructure de la défense ;
+
+2° La référence au préfet est remplacée par la référence au représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1069></a>
+
+##### Chapitre unique<a id=1070></a>
+
+###### Article D5341-2
+
+Sont applicables dans les îles Wallis et Futuna les articles D. 5131-4 à D. 5131-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. D5131-4 (V)
+
+
+###### Article D5341-3
+
+Pour l'application de la présente partie du code aux îles Wallis et Futuna :
+
+1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
+d'infrastructure de la défense ;
+
+2° La référence au préfet est remplacée par la référence à l'administrateur des îles Wallis et Futuna ;
+
+3° La référence à la préfecture est remplacée par la référence au siège de l'administrateur des îles Wallis et Futuna ;
+
+4° La référence à la commune ou à la mairie est remplacée par la référence à la circonscription ;
+
+5° La référence au maire est remplacée par la référence au chef de circonscription.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5341-1
+
+Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3 et R. 5131-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-1 (V)
+  - Code de la défense. - art. R5131-16 (V)
+
+
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1071></a>
+
+##### Chapitre unique<a id=1072></a>
+
+###### Article D5351-2
+
+Sont applicables en Polynésie française les articles D. 5131-4 à D. 5131-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. D5131-4 (V)
+
+
+###### Article D5351-3
+
+Pour l'application de la présente partie du code à la Polynésie française :
+
+1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
+d'infrastructure de la défense ;
+
+2° La référence au préfet est remplacée par la référence au haut-commissaire de la République en Polynésie française ;
+
+3° La référence à la préfecture est remplacée par la référence au siège du haut-commissaire de la République en Polynésie
+française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5351-1
+
+Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3 et R. 5131-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-1 (V)
+  - Code de la défense. - art. R5131-16 (V)
+
+
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1073></a>
+
+##### Chapitre unique<a id=1074></a>
+
+###### Article D5361-2
+
+Sont applicables en Nouvelle-Calédonie les articles D. 5131-4 à D. 5131-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. D5131-4 (V)
+
+
+###### Article D5361-3
+
+Pour l'application de la présente partie du code en Nouvelle-Calédonie :
+
+1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
+d'infrastructure de la défense ;
+
+2° La référence au préfet est remplacée par la référence au haut-commissaire de la république en Nouvelle-Calédonie ;
+
+3° La référence à la préfecture est remplacée par la référence au siège du haut-commissaire de la République en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5361-1
+
+Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3 et R. 5131-16.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. R5111-1 (V)
+  - Code de la défense. - art. R5131-16 (V)
+
+
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1075></a>
+
+##### Chapitre unique<a id=1076></a>
+
+###### Article D5371-2
+
+Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
+applicables aux Terres australes et antarctiques françaises les articles D. 5131-4 à D. 5131-15.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°61-1300 du 30 novembre 1961, v. init.
+  - Code de la défense. - art. D5131-4 (V)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article D5371-3
+
+Pour l'application de la présente partie du code aux Terres australes et antarctiques françaises :
+
+1° La référence au directeur local du service d'infrastructure de la défense est remplacée par la référence à la direction
+d'infrastructure de la défense ;
+
+2° La référence au préfet est remplacée par la référence à l'administrateur des Terres australes et antarctiques françaises ;
+
+3° La référence à la préfecture est remplacée par la référence au siège de l'administrateur des Terres australes et
+antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+###### Article R5371-1
+
+Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
+applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°61-1300 du 30 novembre 1961, v. init.
+  - Code de la défense. - art. R5111-1 (V)
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1077></a>
+
+##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1078></a>
+
+###### Article D5381-1
+
+Pour l'application de la présente partie du code à Saint-Barthélemy, la référence au directeur local du service
+d'infrastructure de la défense est remplacée par la référence à la direction d'infrastructure de la défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
+
+
+##### Chapitre II : SAINT-MARTIN<a id=1079></a>
+
+###### Article D5382-1
+
+Pour l'application de la présente partie du code à Saint-Martin, la référence au directeur local du service d'infrastructure
+de la défense est remplacée par la référence à la direction d'infrastructure de la défense.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2011-280 du 16 mars 2011 (V)
 
 
