@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-03-27
+Version Consolidée au 2011-05-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -985,7 +985,7 @@ Version Consolidée au 2011-03-27
             - [Section 1 :  Dispositifs d'accès à la fonction publique civile (art. R4139-1 à R4139-40)](#982)
               - [Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature (art. R4139-1 à R4139-9)](#983)
               - [Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques (art. D4139-10 à D4139-13)](#984)
-              - [Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat (art. R*4139-14 à R*4139-22)](#985)
+              - [Sous-section 3 :  Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique de l'Etat (art. R*4139-14 à R4139-20-1)](#985)
               - [Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale (art. R4139-23 à R4139-31)](#986)
               - [Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière (art. R4139-32 à R4139-40)](#987)
             - [Section 2 : Dispositifs d'aide au départ (art. R4139-41 à R4139-45)](#988)
@@ -80088,17 +80088,25 @@ _Cite_:
 
 ###### Article R4138-39
 
-Durant le détachement prévu par les dispositions des articles L. 4139-1 à L. 4139-3, et en cas de détachement d'office, le
-militaire reçoit de l'administration d'accueil le traitement indiciaire, les indemnités de résidence et à caractère familial
-et, le cas échéant, les primes et indemnités attachées au nouvel emploi. 
+I.-Lors du détachement prévu par les articles L. 4139-1 à L. 4139-3 ou en cas de détachement d'office, le militaire est
+classé, dans le grade dans lequel il est détaché, à un indice égal ou, à défaut, immédiatement supérieur à l'indice dont il
+bénéficiait dans son grade d'origine. 
+
+Le militaire est classé dans l'échelon sommital du grade dans lequel il est détaché si l'indice afférent à cet échelon est
+inférieur à l'indice qu'il détenait dans son grade d'origine. Il conserve néanmoins à titre personnel, durant la durée de son
+détachement, l'indice détenu dans son grade d'origine, dans la limite de l'indice afférent à l'échelon sommital du corps ou
+cadre d'emplois d'accueil. 
+
+II.-Durant le détachement prévu au I, le militaire perçoit de l'administration d'accueil une rémunération comprenant le
+traitement indiciaire brut calculé sur la base du classement opéré en application du I, les indemnités de résidence et à
+caractère familial et, le cas échéant, les primes et indemnités allouées au titre du nouvel emploi. 
 
 Dans le cas où la rémunération perçue par le militaire dans son nouvel emploi est inférieure à celle qu'il aurait perçue s'il
-était resté en position d'activité au sein des forces armées, le militaire reçoit, du ministère de la défense, ou du
-ministère de l'intérieur pour les militaires de la gendarmerie nationale, une indemnité compensatrice égale à la différence
-entre, d'une part, la solde indiciaire brute, l'indemnité de résidence, le supplément familial de solde, l'indemnité pour
-charges militaires et les primes et indemnités liées à la qualification qu'il aurait perçus s'il était resté en position
-d'activité, et, d'autre part, le traitement indiciaire brut, les indemnités de résidence et à caractère familial, et les
-primes et indemnités attachées au nouvel emploi.
+était resté en position d'activité au sein des forces armées, le militaire perçoit de son administration d'origine une
+indemnité compensatrice égale à la différence entre, d'une part, la solde indiciaire brute, l'indemnité de résidence, le
+supplément familial de solde, l'indemnité pour charges militaires et les primes et indemnités liées à la qualification qu'il
+aurait perçus s'il était resté en position d'activité et, d'autre part, le traitement indiciaire brut, les indemnités de
+résidence et à caractère familial, et les primes et indemnités allouées au titre du nouvel emploi.
 
 **Liens relatifs à cet article**
 
@@ -80115,12 +80123,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-1721 du 30 décembre 2009 - art. 2
+  - Décret n°2011-469 du 28 avril 2011 - art. 1
 
 _Cite_:
 
   - Code de la défense. - art. L4139-1
-  - Code de la défense. - art. R4139-1 (V)
 
 
 ###### Article R4138-40
@@ -81005,33 +81012,6 @@ _Cité par_:
   - Code de la défense. - art. R4138-39 (V)
 
 
-###### Article R4139-2
-
-Durant le détachement, en application des dispositions de l'article L. 4139-4, le militaire reçoit de l'administration
-d'accueil le traitement indiciaire brut, les indemnités de résidence et à caractère familial et, le cas échéant, les primes
-et indemnités attachées au nouvel emploi. Dans le cas où la rémunération perçue par le militaire dans son nouvel emploi est
-inférieure à celle qu'il aurait perçue s'il était resté en position d'activité au sein des forces armées, le militaire
-reçoit, du ministère de la défense, ou du ministère de l'intérieur pour les militaires de la gendarmerie nationale, une
-indemnité compensatrice égale à la différence entre, d'une part, la solde indiciaire brute, l'indemnité de résidence, le
-supplément familial de solde, l'indemnité pour charges militaires et les primes et indemnités liées à la qualification qu'il
-aurait perçus s'il était resté en position d'activité, et, d'autre part, le traitement indiciaire brut, les indemnités de
-résidence et à caractère familial, et les primes et indemnités attachées au nouvel emploi.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1721 du 30 décembre 2009 - art. 3
-
-_Abrogé par_:
-
-  - Décret n°2011-469 du 28 avril 2011 - art. 5
-
-_Cite_:
-
-  - Code de la défense. - art. L4139-4
-
-
 ###### Article R4139-3
 
 A l'issue du stage ou de la période de formation, le militaire est soit titularisé dans les conditions fixées par le statut
@@ -81446,19 +81426,7 @@ radié des cadres ou rayé des contrôles de l'armée active à la date de son i
 
 Le militaire est nommé à l'emploi dans lequel il a été détaché et classé dans le corps, en tenant compte, le cas échéant, des
 responsabilités correspondant à son emploi d'intégration, à un grade et à un échelon doté d'un indice égal ou à défaut
-immédiatement supérieur à celui dont il bénéficiait en qualité de militaire. 
-
-Dans la limite de la durée moyenne fixée pour chaque avancement d'échelon par le statut particulier du corps d'accueil, le
-militaire conserve l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement consécutive à
-sa nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans son ancienne situation, ou à celle qui a
-résulté de son élévation au dernier échelon de son grade précédent. 
-
-Les services militaires sont assimilés à des services effectifs accomplis dans le corps et le grade d'intégration pour
-l'avancement dans le corps d'accueil, dans la limite de la durée moyenne d'ancienneté nécessaire pour atteindre l'échelon du
-grade dans lequel le militaire a été classé à partir du premier échelon du premier grade du corps d'accueil. 
-
-Toutefois, les dispositions statutaires du corps d'accueil demeurent applicables lorsqu'elles fixent pour le militaire des
-règles de classement plus favorables que celles prévues au présent article.
+immédiatement supérieur à celui dont il bénéficiait en qualité de militaire.
 
 **Liens relatifs à cet article**
 
@@ -81471,9 +81439,9 @@ _Cité par_:
   - Décret n°2009-1388 du 11 novembre 2009 - art. 17 (V)
   - Code de la défense. - art. R4139-20-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-391 du 23 avril 2008 - art.
+  - Décret n°2011-469 du 28 avril 2011 - art. 2
 
 
 ###### Article R*4139-21
@@ -81527,6 +81495,40 @@ Le règlement intérieur de la commission est fixé, sur proposition de son pré
 _Modifié par_:
 
   - Décret n°2009-1719 du 30 décembre 2009 - art. 7
+
+
+###### Article R4139-20-1
+
+Si l'indice afférent à l'échelon sommital du grade dans lequel le militaire est intégré au titre du deuxième alinéa de
+l'article R. * 4139-20 est inférieur à l'indice qu'il détenait dans son grade d'origine, le militaire est classé dans cet
+échelon. Il conserve néanmoins à titre personnel l'indice détenu dans son grade d'origine, dans la limite de l'indice
+afférent à l'échelon sommital du corps d'accueil et jusqu'à ce qu'il atteigne dans ce corps un indice au moins égal. 
+
+Dans la limite de la durée maximale fixée pour chaque avancement d'échelon par le statut particulier du corps d'accueil, le
+militaire conserve l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement consécutive à
+sa nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans son ancienne situation, ou à celle qui a
+résulté de son élévation au dernier échelon de son grade précédent. 
+
+Les services militaires sont assimilés à des services effectifs accomplis dans le corps et le grade d'intégration pour
+l'avancement dans le corps d'accueil, dans la limite de la durée maximale d'ancienneté nécessaire pour atteindre l'échelon du
+grade dans lequel le militaire a été classé à partir du premier échelon du premier grade du corps d'accueil. 
+
+Toutefois, les dispositions statutaires du corps d'accueil demeurent applicables lorsqu'elles fixent pour le militaire des
+règles de classement plus favorables que celles prévues au présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2007-767 du 9 mai 2007 - art. 19 (VD)
+
+_Créé par_:
+
+  - Décret n°2011-469 du 28 avril 2011 - art. 3
+
+_Cite_:
+
+  - Code de la défense. - art. R*4139-20
 
 
 ##### Sous-section 4  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un cadre d'emplois relevant de la fonction publique territoriale<a id=986></a>
@@ -81688,12 +81690,16 @@ contrôles de l'armée active à la date de son intégration.
 
 Le militaire est nommé à l'emploi dans lequel il a été détaché et classé dans le cadre d'emplois en tenant compte, le cas
 échéant, des responsabilités correspondant à son emploi d'intégration, à un grade et à un échelon doté d'un indice égal ou, à
-défaut, immédiatement supérieur à celui dont il bénéficiait en qualité de militaire.
+défaut, immédiatement supérieur à celui dont il bénéficiait en qualité de militaire. Si l'indice afférent à cet échelon est
+inférieur à l'indice qu'il détenait dans son grade d'origine, le militaire est classé dans l'échelon sommital du grade dans
+lequel il est intégré. Il conserve néanmoins à titre personnel l'indice détenu dans son grade d'origine, dans la limite de
+l'indice afférent à l'échelon sommital du cadre d'emplois d'accueil et jusqu'à ce qu'il atteigne dans ce cadre d'emplois un
+indice au moins égal. 
 
 Dans la limite de la durée maximale fixée pour chaque avancement d'échelon par le statut particulier du cadre d'emplois
 d'accueil, le militaire conserve l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement
 consécutive à sa nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans son ancienne situation, ou
-à celle qui a résulté de son élévation au dernier échelon de son grade précédent.
+à celle qui a résulté de son élévation au dernier échelon de son grade précédent. 
 
 Les services militaires sont assimilés à des services effectifs accomplis dans le cadre d'emplois et le grade d'intégration
 pour l'avancement dans le cadre d'emplois d'accueil, dans la limite de la durée maximale d'ancienneté nécessaire pour
@@ -81705,9 +81711,9 @@ militaire des règles de classement plus favorables que celles prévues au prés
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2011-469 du 28 avril 2011 - art. 4
 
 
 ###### Article R4139-30
@@ -81901,7 +81907,10 @@ radié des cadres ou rayé des contrôles de l'armée active à la date de son i
 
 Le militaire est nommé à l'emploi dans lequel il a été détaché et classé dans le corps, en tenant compte, le cas échéant, des
 responsabilités correspondant à son emploi d'intégration, à un grade et à un échelon doté d'un indice égal ou, à défaut,
-immédiatement supérieur à celui dont il bénéficiait en qualité de militaire.
+immédiatement supérieur à celui dont il bénéficiait en qualité de militaire. Si l'indice afférent à cet échelon est inférieur
+à l'indice qu'il détenait dans son grade d'origine, le militaire est classé dans l'échelon sommital du grade dans lequel il
+est intégré. Il conserve néanmoins à titre personnel l'indice détenu dans son grade d'origine, dans la limite de l'indice
+afférent à l'échelon sommital du corps d'accueil et jusqu'à ce qu'il atteigne dans ce corps un indice au moins égal. 
 
 Dans la limite de la durée moyenne fixée pour chaque avancement d'échelon par le statut particulier du corps d'accueil, le
 militaire conserve l'ancienneté d'échelon acquise dans son précédent grade lorsque l'augmentation de traitement consécutive à
@@ -81917,9 +81926,9 @@ règles de classement plus favorables que celles prévues au présent article.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2011-469 du 28 avril 2011 - art. 4
 
 
 ###### Article R4139-39
