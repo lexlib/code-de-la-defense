@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-05-01
+Version Consolidée au 2011-05-12
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -58401,24 +58401,25 @@ _Créé par_:
 
 Dans les zones maritimes qui ne ressortissent pas de la compétence d'un préfet maritime ou d'un délégué du Gouvernement pour
 l'action de l'Etat en mer outre-mer, le commandant de zone maritime exerce les fonctions de délégué du Gouvernement pour
-l'application des dispositions prévues par la loi n° 94-589 du 15 juillet 1994 relative aux modalités de l'exercice par
-l'Etat de ses pouvoirs de police en mer.
+l'application des articles L. 1521-1 à L. 1521-18 et des dispositions prévues par la loi n° 94-589 du 15 juillet 1994
+relative aux modalités de l'exercice par l'Etat de ses pouvoirs de police en mer.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°94-589 du 15 juillet 1994 (V)
-
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Loi n°94-589 du 15 juillet 1994
+  - Code de la défense. - art. L1521-1 (V)
 
 _Cité par_:
 
   - Décret n°2011-505 du 9 mai 2011 (V)
   - Arrêté du 28 octobre 2011 - art. 2 (V)
   - Code de la défense. - art. D3223-55 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-505 du 9 mai 2011 - art. 1
 
 
 ###### Article D3223-55
