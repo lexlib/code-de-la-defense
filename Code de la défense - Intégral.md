@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-05-12
+Version Consolidée au 2011-05-19
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -2670,7 +2670,7 @@ _Modifié par_:
 L'importation et l'exportation de matières nucléaires définies à l'article L. 1333-1 faites en exécution de contrats conclus
 par les opérateurs français et étrangers ainsi que l'élaboration, la détention, le transfert, l'utilisation et le transport
 des mêmes matières sont soumis à une autorisation et à un contrôle dans les conditions définies par le présent chapitre. Ces
-conditions sont précisées par décret en Conseil d'Etat pris après avis du Conseil supérieur de la sûreté nucléaire.
+conditions sont précisées par décret en Conseil d'Etat pris        après consultation de l'Autorité de sûreté nucléaire. 
 
 L'exportateur est tenu de stipuler aux acquéreurs et sous-acquéreurs les conditions relatives à l'utilisation ultérieure des
 matières nucléaires auxquelles peut être subordonnée la délivrance de l'autorisation de toute exportation.
@@ -2726,12 +2726,16 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+  - Ordonnance n°2004-1374 du 20 décembre 2004
+  - Loi n°2005-1550 du 12 décembre 2005 - art. 1
+
+_Modifié par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 95
 
 _Cite_:
 
-  - Code de la défense. - art. L1333-1 (V)
+  - Code de la défense. - art. L1333-1
 
 
 ###### Article L1333-3
@@ -18070,6 +18074,8 @@ juridiction pénale.
 L'Etat est également tenu d'accorder sa protection au militaire dans le cas où il fait l'objet de poursuites pénales à
 l'occasion de faits qui n'ont pas le caractère d'une faute personnelle.
 
+Le service compétent pour accorder la protection est celui dont relève le militaire à la date des faits en cause.
+
 En cas de poursuites exercées par un tiers contre des militaires pour faute de service sans que le conflit d'attribution ait
 été élevé, l'Etat doit, dans la mesure où aucune faute personnelle détachable de l'exercice des fonctions n'a été commise,
 les couvrir des condamnations civiles prononcées contre eux.
@@ -18109,6 +18115,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 71
 
 
 ###### Article L4123-11
