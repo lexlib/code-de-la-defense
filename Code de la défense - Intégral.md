@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-05-22
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -72551,7 +72551,7 @@ _Cite_:
 Lorsque le décès est reconnu imputable au service, il est versé aux différents ayants cause du défunt des allocations. Le
 taux des allocations est défini dans les conditions suivantes : 
 
-1° Conjoint ou partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant : 
+1° Conjoint ou partenaire lié par un pacte civil de solidarité survivant : 
 
 a) Avec un ou plusieurs enfants à charge : montant égal à deux fois la solde budgétaire annuelle correspondant : 
 
@@ -72569,8 +72569,7 @@ b) Sans enfant à charge : montant égal à deux fois la solde budgétaire annue
 correspondant à l'indice brut 702. Ces allocations sont majorées de 50 % pour les orphelins de père et de mère et pour les
 orphelins dont le père ou la mère survivant n'a pas droit à une allocation personnelle ; dans ce dernier cas, le total des
 allocations des orphelins ne peut être supérieur au total des allocations qui auraient pu être attribuées aux orphelins et au
-conjoint ou partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant si celui-ci avait eu droit à
-l'allocation. 
+conjoint ou partenaire lié par un pacte civil de solidarité survivant si celui-ci avait eu droit à l'allocation. 
 
 Par enfant, il faut entendre : 
 
@@ -72603,14 +72602,13 @@ retraite rémunérant moins de vingt-cinq ans de services.
 des pensions militaires d'invalidité et des victimes de la guerre : montant égal au deux cinquièmes de la solde budgétaire
 annuelle correspondant à l'indice brut 702. 
 
-Toutefois, les conditions d'âge ne sont pas exigées lorsque le défunt était célibataire ou partenaire lié par un pacte civil
-de solidarité de moins de trois ans et sans enfant à charge.
+Toutefois, les conditions d'âge ne sont pas exigées lorsque le défunt était célibataire et sans enfant à charge.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2011-549 du 19 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -72626,10 +72624,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retr... - art. L17 (V)
-  - Code civil - art. 351 (V)
-  - Code civil - art. 377 (V)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre. (V)
+  - Code des pensions civiles et militaires de retraite - art. L17
+  - Code civil - art. 351
+  - Code civil - art. 353 (V)
+  - Code civil - art. 377
+  - Code des pensions militaires d'invalidité et des victimes de la guerre.
 
 
 ###### Article D4123-5
@@ -72637,7 +72636,7 @@ _Cite_:
 Lorsque le décès est imputable à l'un des risques exceptionnels spécifiques au métier militaire énumérés à l'article D.
 4123-9, le montant des allocations versées aux ayants cause mentionnés à l'article D. 4123-4 sont les suivants : 
 
-1° Conjoint ou partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant : 
+1° Conjoint ou partenaire lié par un pacte civil de solidarité survivant : 
 
 a) Avec un ou plusieurs enfants à charge : montant égal à quatre fois la solde budgétaire annuelle correspondant : 
 
@@ -72649,28 +72648,26 @@ b) Sans enfant à charge : montant égal à quatre fois la solde budgétaire ann
 
 ― lorsque le défunt était officier, à l'indice brut 546 ; 
 
-― lorsqu'il était non-officier, à l'indice brut 398. 
+― lorsqu'il était non-officier, à l'indice brut 398.
 
 2° Enfants à charge âgés de moins de vingt-cinq ans ou infirmes : montant égal à deux fois la solde budgétaire annuelle
 correspondant à l'indice brut 702. Ces allocations sont majorées de 50 % pour les orphelins de père et de mère et pour les
 orphelins dont le père ou la mère survivant n'a pas droit à une allocation personnelle ; dans ce dernier cas, le total des
 allocations des orphelins ne peut être supérieur au total des allocations qui auraient pu être attribuées aux orphelins et au
-conjoint ou partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant si celui-ci avait eu droit à
-l'allocation. 
+conjoint ou partenaire lié par un pacte civil de solidarité survivant si celui-ci avait eu droit à l'allocation. 
 
 3° Ascendants : montant égal aux quatre cinquièmes de la solde budgétaire annuelle correspondant à l'indice brut 702. 
 
 Toutefois, les conditions fixées au titre IV du livre Ier du code des pensions militaires d'invalidité et des victimes de
 guerre ne sont pas exigées lorsque le décès du militaire est survenu des suites d'un attentat ou d'une opération militaire,
 alors que la victime se trouvait en service ou en mission à l'étranger. Dans les autres circonstances, les conditions d'âge
-ne sont pas exigées lorsque le défunt était célibataire sans être partenaire lié par un pacte civil de solidarité d'au moins
-trois ans et sans enfant à charge.
+ne sont pas exigées lorsque le défunt était célibataire et sans enfant à charge.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2011-549 du 19 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -72680,8 +72677,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. D4123-4 (V)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre. (V)
+  - Code de la défense. - art. D4123-4
+  - Code des pensions militaires d'invalidité et des victimes de la guerre.
 
 
 ###### Article D4123-6
@@ -72691,12 +72688,12 @@ l'intéressé :
 
 1° Une allocation principale dont le montant est fixé comme suit : 
 
-a) S'il est marié ou partenaire lié par un pacte civil de solidarité d'au moins trois ans ou a des enfants à charge : montant
-égal à celui prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte civil de solidarité d'au moins
-trois ans survivant avec un ou plusieurs enfants à charge ; 
+a) S'il est marié ou partenaire lié par un pacte civil de solidarité      ou a des enfants à charge : montant égal à celui
+prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte civil de solidarité      survivant avec un ou
+plusieurs enfants à charge ; 
 
 b) Dans les autres cas : montant égal à celui prévu à l'article D. 4123-4 pour le conjoint ou le partenaire lié par un pacte
-civil de solidarité d'au moins trois ans survivant sans enfant à charge ; 
+civil de solidarité      survivant sans enfant à charge ; 
 
 c) Pour les taux d'invalidité inférieurs à 40 %, l'allocation principale est calculée proportionnellement au taux
 d'invalidité. 
@@ -72713,9 +72710,9 @@ autre allocation du fonds de prévoyance militaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2011-549 du 19 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -72726,15 +72723,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. D4123-4 (V)
+  - Code de la défense. - art. D4123-4
 
 
 ###### Article D4123-7
 
 Les allocations mentionnées aux articles D. 4123-4 et D. 4123-5 sont calculées : 
 
-― pour le conjoint ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant et pour les
-orphelins : au taux en vigueur à la date du décès de l'affilié ; 
+― pour le conjoint ou le partenaire lié par un pacte civil de solidarité survivant et pour les orphelins : au taux en vigueur
+à la date du décès de l'affilié ; 
 
 ― pour les ascendants : au taux en vigueur à la date où ils remplissent les conditions nécessaires ou, s'ils sont titulaires
 d'une pension d'ascendants concédée au titre du code des pensions militaires d'invalidité et des victimes de la guerre, à la
@@ -72742,13 +72739,13 @@ date d'entrée en jouissance de la pension.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2011-549 du 19 mai 2011 - art. 1
 
 _Cite_:
 
-  - Code de la défense. - art. D4123-4 (V)
+  - Code de la défense. - art. D4123-4
 
 
 ###### Article D4123-8
@@ -72758,8 +72755,8 @@ entraîne la mise à la retraite ou la réforme définitive, il est versé à l'
 
 1° Une allocation principale dont le montant est fixé comme suit : 
 
-a) Si celui-ci est marié, partenaire lié par un pacte civil de solidarité d'au moins trois ans ou a des enfants à charge,
-montant égal à quatre fois la solde budgétaire annuelle correspondant à : 
+a) Si celui-ci est marié, partenaire lié par un pacte civil de solidarité      ou a des enfants à charge, montant égal à
+quatre fois la solde budgétaire annuelle correspondant à : 
 
 i) L'indice brut 762 s'il est officier ; 
 
@@ -72786,9 +72783,9 @@ autre allocation du fonds de prévoyance militaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2011-549 du 19 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -72797,7 +72794,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. D4123-9 (V)
+  - Code de la défense. - art. D4123-9
 
 
 ###### Article D4123-9
@@ -73138,8 +73135,7 @@ _Cite_:
 Peuvent prétendre à l'allocation en cas de décès survenu en service aérien aux personnels affiliés au fonds de prévoyance de
 l'aéronautique leurs ayants cause définis comme suit : 
 
-1° Le conjoint non divorcé et non séparé de corps ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans,
-survivant. 
+1° Le conjoint non divorcé et non séparé de corps ou le partenaire lié par un pacte civil de solidarité, survivant.
 
 2° Les enfants à charge, c'est-à-dire âgés de moins de vingt-cinq ans ou infirmes. 
 
@@ -73175,9 +73171,9 @@ des pensions militaires d'invalidité et des victimes de la guerre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2011-548 du 19 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -73186,11 +73182,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions civiles et militaires de retr... - art. L17 (V)
-  - Code civil - art. 351 (V)
-  - Code civil - art. 353 (V)
-  - Code civil - art. 377 (V)
-  - Code des pensions militaires d'invalidité et des victimes de la guerre. (V)
+  - Code des pensions civiles et militaires de retraite - art. L17
+  - Code civil - art. 351
+  - Code civil - art. 353
+  - Code civil - art. 377
+  - Code des pensions militaires d'invalidité et des victimes de la guerre.
 
 
 ###### Article R4123-22
@@ -73200,24 +73196,23 @@ ressources requises, l'attribution de son allocation est différée jusqu'au mom
 
 Toutefois, ces conditions d'âge et de ressources ne sont pas exigées lorsque le décès du militaire est survenu des suites
 d'un attentat ou d'une opération militaire, alors que la victime se trouvait en service ou en mission à l'étranger. Dans les
-autres circonstances, les conditions d'âge ne sont pas exigées lorsque le défunt était célibataire ou partenaire lié par un
-pacte civil de solidarité de moins de trois ans et sans enfant à charge. 
+autres circonstances, les conditions d'âge ne sont pas exigées lorsque le défunt était célibataire et sans enfant à charge. 
 
-Alors que les allocations du conjoint ou du partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant et
-des orphelins sont calculées au taux en vigueur à la date du décès de l'affilié, les allocations d'ascendants sont fixées au
-taux en vigueur à la date à laquelle les intéressés remplissent les conditions nécessaires ou, s'ils sont titulaires d'une
-pension d'ascendant concédée au titre du code des pensions militaires d'invalidité et des victimes de la guerre, à la date
-d'entrée en jouissance de cette pension.
+Alors que les allocations du conjoint ou du partenaire lié par un pacte civil de solidarité survivant et des orphelins sont
+calculées au taux en vigueur à la date du décès de l'affilié, les allocations d'ascendants sont fixées au taux en vigueur à
+la date à laquelle les intéressés remplissent les conditions nécessaires ou, s'ils sont titulaires d'une pension d'ascendant
+concédée au titre du code des pensions militaires d'invalidité et des victimes de la guerre, à la date d'entrée en jouissance
+de cette pension.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2011-548 du 19 mai 2011 - art. 1
 
 _Cite_:
 
-  - Code de la défense. - art. R4123-21 (V)
+  - Code de la défense. - art. R4123-21
 
 
 ###### Article R4123-23
@@ -73244,7 +73239,7 @@ _Cité par_:
 Lorsque le décès est imputable à un accident survenu au cours de l'exécution de services aériens, tels qu'ils sont définis à
 l'article R. 4123-19, les taux des allocations versées aux ayants cause sont les suivants : 
 
-1° Conjoint ou partenaire lié par un pacte civil de solidarité d'au moins trois ans survivant : 
+1° Conjoint ou partenaire lié par un pacte civil de solidarité survivant : 
 
 a) Avec un ou plusieurs enfants à charge : montant égal à quatre fois la solde budgétaire annuelle correspondant : 
 
@@ -73256,14 +73251,15 @@ b) Sans enfants à charge : montant égal à quatre fois la solde budgétaire an
 
 ― lorsque le défunt était officier, à l'indice brut 546 ; 
 
-― lorsqu'il était non-officier, à l'indice brut 398. 
+― lorsqu'il était non-officier, à l'indice brut 398.
 
 2° Enfants à charge : 
 
 Montant égal à deux fois la solde budgétaire annuelle correspondant à l'indice brut 702. Ces allocations sont majorées de 50
 % pour les orphelins de père et de mère et pour les orphelins dont le père ou la mère survivant n'a pas droit à une
 allocation personnelle ; dans ce dernier cas, le total des allocations des orphelins ne peut être supérieur au total des
-allocations qui auraient pu être attribuées aux orphelins et à l'époux survivant si celui-ci avait eu droit à l'allocation. 
+allocations qui auraient pu être attribuées aux orphelins et au conjoint ou partenaire lié par un pacte civil de solidarité
+survivant si celui-ci avait eu droit à l'allocation. 
 
 3° Ascendants : 
 
@@ -73271,9 +73267,9 @@ Montant égal à quatre cinquièmes de la solde budgétaire annuelle corresponda
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2011-548 du 19 mai 2011 - art. 1
 
 _Cité par_:
 
@@ -73283,7 +73279,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R4123-19 (V)
+  - Code de la défense. - art. R4123-19
 
 
 ###### Article R4123-25
@@ -73293,12 +73289,12 @@ Lorsque l'infirmité contractée en service aérien entraîne la mise à la retr
 
 1° Une allocation principale dont le montant est fixé comme suit : 
 
-a) Si celui-ci est marié ou partenaire lié par un pacte civil de solidarité d'au moins trois ans ou a des enfants à charge :
-montant égal à celui prévu pour le conjoint ou le partenaire lié par un pacte civil de solidarité d'au moins trois ans
-survivant avec un ou plusieurs enfants à charge fixé à l'article R. 4123-24 ; 
+a) Si celui-ci est marié ou partenaire lié par un pacte civil de solidarité      ou a des enfants à charge : montant égal à
+celui prévu pour le conjoint ou le partenaire lié par un pacte civil de solidarité      survivant avec un ou plusieurs
+enfants à charge fixé à l'article R. 4123-24 ; 
 
 b) Dans les autres cas : montant égal à celui prévu pour le conjoint ou le partenaire lié par un pacte civil de solidarité
-d'au moins trois ans survivant sans enfant à charge fixé à l'article R. 4123-24. 
+survivant sans enfant à charge fixé à l'article R. 4123-24.
 
 2° Une majoration par enfant à charge d'un montant égal à celui fixé au 2° de l'article R. 4123-24, en cas d'invalidité égale
 ou supérieure à 40 % après consolidation de la blessure. 
@@ -73308,15 +73304,15 @@ l'aéronautique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2011-548 du 19 mai 2011 - art. 1
 
 _Cite_:
 
-  - Code de la défense. - art. R4123-20 (V)
-  - Code de la défense. - art. R4123-23 (V)
-  - Code de la défense. - art. R4123-24 (V)
+  - Code de la défense. - art. R4123-20
+  - Code de la défense. - art. R4123-23
+  - Code de la défense. - art. R4123-24
 
 _Cité par_:
 
