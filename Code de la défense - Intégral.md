@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-05-23
+Version Consolidée au 2011-05-27
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -46811,27 +46811,26 @@ _Créé par_:
 
 ###### Article R2313-1
 
-Les règles relatives aux services d'archives relevant du ministère de la défense sont définies par le décret n° 79-1035 du 3
-décembre 1979 relatif aux archives de la défense et par l'article 4 du décret n° 79-1037 du 3 décembre 1979 relatif à la
-compétence des services d'archives publics et à la coopération entre les administrations pour la collecte, la conservation et
-la communication des archives publiques.
+Les règles relatives aux services d'archives relevant du ministère de la défense sont définies par les articles R 212-6, R.
+212-65 à R212-70 et R213-11 du code du patrimoine.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°79-1035 du 3 décembre 1979, v. init.
-  - Décret n°79-1037 du 3 décembre 1979, v. init.
-
-_Créé par_:
-
-  - Décret n°2009-254 du 4 mars 2009 - art.
+  - Décret n°2011-574 du 24 mai 2011 - art. 2 (V)
 
 _Cité par_:
 
   - Code de la défense. - art. R2441-2 (V)
   - Code de la défense. - art. R2451-2 (V)
   - Code de la défense. - art. R2471-2 (V)
+
+_Cite_:
+
+  - Code du patrimoine. - art. R212-6 (V)
+  - Code du patrimoine. - art. R212-65 (V)
+  - Code du patrimoine. - art. R213-11 (V)
 
 
 ##### Section 2 : Urbanisme et environnement<a id=596></a>
