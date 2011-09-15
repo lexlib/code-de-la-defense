@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2011-09-07
+Version Consolidée au 2011-09-16
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -55620,19 +55620,19 @@ guerre, notamment les articles L. 2333-1 à L. 2333-8 du présent code et le dé
 administratif des marchés, d'une part, les articles L. 2331-1 à L. 2339-13 du présent code et les textes subséquents sur le
 régime des matériels de guerre, d'autre part. 
 
-Il effectue les missions de contrôle qui peuvent découler de l'application de l'article 129 du code des marchés publics.
+Il effectue les missions de contrôle qui peuvent découler de l'application de l'article 126 du code des marchés publics.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2011-1104 du 14 septembre 2011 - art. 14
 
 _Cite_:
 
-  - Code des marchés publics - art. 129 (V)
-  - Code de la défense. - art. L2331-1 (V)
-  - Code de la défense. - art. L2333-1 (V)
+  - Code des marchés publics - art. 126
+  - Code de la défense. - art. L2331-1
+  - Code de la défense. - art. L2333-1
 
 
 ###### Article D3123-12
