@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-07
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -2314,21 +2314,15 @@ _Modifié par_:
 ###### Article L1332-2
 
 Les obligations prescrites par le présent chapitre peuvent être étendues à des établissements mentionnés à l'article L. 511-1
-du code de l'environnement ou comprenant une installation nucléaire de base visée à l'article 28 de la loi n° 2006-686 du 13
-juin 2006 relative à la transparence et à la sécurité en matière nucléaire quand la destruction ou l'avarie de certaines
-installations de ces établissements peut présenter un danger grave pour la population. Ces établissements sont désignés par
-l'autorité administrative.
+du code de l'environnement ou comprenant une installation nucléaire de base visée à l'article L593-1 du code de
+l'environnement quand la destruction ou l'avarie de certaines installations de ces établissements peut présenter un danger
+grave pour la population. Ces établissements sont désignés par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Ordonnance n°58-1371 du 29 décembre 1958 - art. 2 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
-  - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
 
 _Cité par_:
 
@@ -2352,14 +2346,14 @@ _Cité par_:
   - Code des postes et des communications électroni... - art. R10-13-1 (V)
   - Code des postes et des communications électroni... - art. R9-7 (V)
 
-_Cite_:
-
-  - Loi n°2006-686 du 13 juin 2006 - art. 28 (V)
-  - Code de l'environnement - art. L511-1 (V)
-
 _Modifié par_:
 
-  - Loi n°2006-686 du 13 juin 2006 - art. 59 () JORF 14 juin 2006
+  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
+
+_Cite_:
+
+  - Code de l'environnement - art. L511-1 (V)
+  - Code de l'environnement - art. L593-1 (V)
 
 
 ###### Article L1332-2-1
