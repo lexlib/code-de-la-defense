@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-03-08
+Version Consolidée au 2012-03-14
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -18186,6 +18186,8 @@ Nul ne peut être militaire :
 4° S'il n'est âgé de dix-sept ans au moins, ou de seize ans pour recevoir une formation générale et professionnelle en
 qualité de volontaire dans les armées ou en qualité d'engagé dans une école militaire. 
 
+Ces conditions sont vérifiées au plus tard à la date du recrutement. 
+
 Le mineur non émancipé doit être pourvu du consentement de son représentant légal.
 
 **Liens relatifs à cet article**
@@ -18236,6 +18238,10 @@ _Cité par_:
   - Arrêté du 19 février 2019 - art. 21 (V)
   - Arrêté du 19 février 2019 - art. 23 (V)
   - Code de la défense. - art. L4132-7 (V)
+
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 63
 
 
 ##### Section 2 : Dispositions applicables aux militaires de carrière<a id=262></a>
@@ -18598,30 +18604,52 @@ _Cite_:
 
 ###### Article L4132-13
 
-Tous les corps militaires sont accessibles par la voie du détachement suivi, le cas échéant, d'une intégration, aux
-fonctionnaires régis par la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, nonobstant
-l'absence de disposition ou toute disposition contraire prévue par les statuts particuliers de ces corps. 
+Tous les corps militaires sont accessibles par la voie du détachement, suivi le cas échéant d'une intégration, aux
+fonctionnaires régis par la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et aux
+fonctionnaires mentionnés à l'article 2 de la loi n° 53-39 du 3 février 1953 relative au développement des crédits affectés
+aux dépenses de fonctionnement des services civils pour l'exercice 1953 (Présidence du Conseil), nonobstant l'absence de
+disposition ou toute disposition contraire prévue par les statuts particuliers. 
 
-Le détachement s'effectue entre corps et cadres d'emplois de niveau comparable, apprécié au regard des conditions de
-recrutement ou de la nature des missions. 
+Sous réserve d'une dérogation prévue par le statut particulier du corps d'accueil, la commission prévue à l'article 13 ter de
+la loi n° 83-634 du 13 juillet 1983 précitée émet un avis conforme sur le corps et le grade d'accueil du fonctionnaire,
+déterminés en fonction de ses qualifications et de son parcours professionnel. 
 
 Lorsque l'exercice de fonctions du corps d'accueil est soumis à la détention d'un titre ou d'un diplôme spécifique, l'accès à
 ces fonctions est subordonné à la détention de ce titre ou de ce diplôme. 
 
-Le fonctionnaire détaché dans un corps qui est admis à poursuivre son détachement au-delà d'une période de cinq ans se voit
-proposer une intégration dans ce corps. 
+Tout fonctionnaire détaché dans un corps militaire acquiert l'état militaire et est soumis aux articles L. 4121-1 à L.
+4121-5.
 
-Les modalités d'application du présent article sont précisées par un décret en Conseil d'Etat.
+Il est soumis aux dispositions du code électoral concernant l'incompatibilité avec un mandat électif des fonctions de
+militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale. Il peut participer, en tant
+qu'électeur, à la désignation des représentants des personnels au titre de la commission administrative paritaire de son
+corps ou cadre d'emplois d'origine. 
+
+Le fonctionnaire détaché après avis de la commission prévue à l'article 13 ter de la loi n° 83-634 du 13 juillet 1983
+précitée peut, le cas échéant, demeurer affilié à des groupements à caractère politique ou syndical. Il doit toutefois
+s'abstenir de toute activité politique ou syndicale pendant la durée de son détachement. 
+
+Au titre des fautes commises lors du détachement, le ministre de la défense ou les autorités habilitées à cet effet sont
+compétents pour l'exercice du pouvoir disciplinaire. La procédure et les sanctions applicables sont celles prévues par le
+code de la défense. Nonobstant les dispositions prévues par le statut général de la fonction publique, l'autorité investie du
+pouvoir de nomination dans le corps ou le cadre d'emplois d'origine prend, lors de la réintégration du fonctionnaire, les
+actes d'application des sanctions le cas échéant appliquées pendant le détachement et qui ont été prononcées à ce titre, dans
+des conditions fixées par décret en Conseil d'Etat. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°83-634 du 13 juillet 1983
+  - Loi n°53-39 du 3 février 1953 - art. 2 (V)
+  - Loi n°83-634 du 13 juillet 1983 (V)
+  - Loi n°83-634 du 13 juillet 1983 - art. 13 ter (V)
+  - Code de la défense. - art. L4121-1 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-972 du 3 août 2009 - art. 3
+  - Loi n°2012-347 du 12 mars 2012 - art. 62
 
 
 ##### Chapitre III : Changement d'armée ou de corps<a id=267></a>
@@ -18632,10 +18660,10 @@ Les militaires de carrière peuvent, pour les besoins du service, être admis su
 d'autres corps de l'armée ou de la formation rattachée à laquelle ils appartiennent. Ils ne peuvent être admis dans un corps
 d'une autre armée ou d'une autre formation rattachée que sur leur demande.
 
-Ces dispositions ne peuvent entraîner ni l'admission dans les corps recrutés exclusivement par concours ou sur présentation
-de titres déterminés, ni la modification du grade et de l'ancienneté de grade acquise dans le corps d'origine, ni la prise de
-rang dans le nouveau corps avant les militaires de même grade et de même ancienneté, ni la perte du bénéfice d'une
-inscription au tableau d'avancement.
+Ces dispositions ne peuvent entraîner ni l'admission dans les corps recrutés exclusivement sur présentation de titres
+déterminés, ni la modification du grade et de l'ancienneté de grade acquise dans le corps d'origine, ni la prise de rang dans
+le nouveau corps avant les militaires de même grade et de même ancienneté, ni la perte du bénéfice d'une inscription au
+tableau d'avancement.
 
 Les militaires servant en vertu d'un contrat peuvent changer d'armée ou de formation rattachée et, le cas échéant, changer de
 corps de rattachement dans les mêmes conditions que les militaires de carrière. Dans ce cas, il est souscrit un nouvel
@@ -18669,6 +18697,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 64
 
 
 ##### Chapitre IV : Nomination<a id=268></a>
@@ -18798,9 +18830,9 @@ _Cité par_:
 
 Les promotions sont prononcées dans les mêmes conditions que les nominations.
 
-L'avancement de grade a lieu soit au choix, soit au choix et à l'ancienneté, soit à l'ancienneté. Les promotions ont lieu de
-façon continue de grade à grade. Sauf action d'éclat ou services exceptionnels, nul ne peut être promu à un grade s'il ne
-compte dans le grade inférieur un minimum de durée de service, fixé par voie réglementaire.
+L'avancement de grade a lieu soit au choix, soit au choix et à l'ancienneté, soit à l'ancienneté. Sauf action d'éclat ou
+services exceptionnels, les promotions ont lieu de façon continue de grade à grade et  nul ne peut être promu à un grade s'il
+ne compte dans le grade inférieur un minimum de durée de service, fixé par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -18819,6 +18851,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 65
 
 
 ###### Article L4136-2
@@ -19621,23 +19657,27 @@ _Cite_:
 
 Le détachement est la position du militaire placé hors de son corps d'origine. Dans cette position, le militaire continue à
 figurer sur la liste d'ancienneté de son corps et à bénéficier des droits à l'avancement et à pension de retraite. Les
-conditions d'affiliation au régime de retraite sont fixées par décret en Conseil d'Etat.
+conditions d'affiliation au régime de retraite sont fixées par décret en Conseil d'Etat. 
 
-Le détachement est prononcé de droit, sur demande agréée ou d'office.
+Le détachement est prononcé de droit, sur demande agréée ou d'office. 
 
 Le détachement d'office est prononcé par le ministre de la défense ou, pour les militaires de la gendarmerie nationale, par
 le ministre de l'intérieur, après avis d'une commission comprenant un officier général et deux militaires de grade égal ou
-supérieur à celui des intéressés.
+supérieur à celui des intéressés. 
 
 Le militaire détaché est soumis à l'ensemble des règles régissant la fonction qu'il exerce par l'effet de son détachement, à
-l'exception de toute disposition prévoyant le versement d'indemnités de licenciement ou de fin de carrière.
+l'exception de toute disposition prévoyant le versement d'indemnités de licenciement ou de fin de carrière. 
 
-Sauf lorsqu'elle est de droit, la position de détachement est révocable et ne peut être renouvelée que sur demande.
+Le militaire détaché dans un corps ou un cadre d'emplois civil conserve l'état militaire et demeure par conséquent soumis aux
+articles L. 4121-1 à L. 4121-5. Toutefois, le militaire détaché peut, en application du statut particulier de son corps
+d'origine, se voir appliquer les dispositions dont relèvent les fonctionnaires du corps ou cadre d'emplois d'accueil. 
 
-Le militaire détaché est remplacé dans son emploi.
+Sauf lorsqu'elle est de droit, la position de détachement est révocable et ne peut être renouvelée que sur demande. 
+
+Le militaire détaché est remplacé dans son emploi. 
 
 Pour les militaires servant en vertu d'un contrat, le détachement n'affecte pas le terme du contrat. Le temps passé en
-détachement est pris en compte dans la durée de service du militaire servant en vertu d'un contrat.
+détachement est pris en compte dans la durée de service du militaire servant en vertu d'un contrat. 
 
 Sous réserve de dérogations fixées par décret en Conseil d'Etat, la personne morale auprès de laquelle un militaire est
 détaché est redevable, envers le Trésor, d'une contribution pour la constitution des droits à pension de l'intéressé. Le taux
@@ -19675,7 +19715,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-971 du 3 août 2009 - art. 14
+  - Loi n°2012-347 du 12 mars 2012 - art. 62
+
+_Cite_:
+
+  - Code de la défense. - art. L4121-1
 
 
 ###### Article L4138-9
@@ -20023,10 +20067,12 @@ _Codifié par_:
 ###### Article L4139-1
 
 La demande de mise en détachement du militaire lauréat d'un concours de l'une des fonctions publiques civiles ou d'accès à la
-magistrature est acceptée, sous réserve que l'intéressé ait accompli au moins quatre ans de services militaires, ait informé
-son autorité d'emploi de son inscription au concours et ait atteint le terme du délai pendant lequel il s'est engagé à rester
-en position d'activité à la suite d'une formation spécialisée ou de la perception d'une prime liée au recrutement ou à la
-fidélisation. 
+magistrature ainsi que celle du militaire admis à un recrutement sans concours prévu par le statut particulier dans un corps
+ou cadre d'emplois de fonctionnaires de catégorie C pour l'accès au premier grade du corps ou cadre d'emplois est acceptée,
+sous réserve que l'intéressé ait accompli au moins quatre ans de services militaires, ait informé son   autorité d'emploi de
+sa démarche visant à un recrutement sans concours ou de son inscription au concours et ait atteint le terme du délai pendant
+lequel il s'est engagé à rester en position d'activité à la suite d'une formation spécialisée ou de la perception d'une prime
+liée au recrutement ou à la fidélisation. 
 
 Sous réserve des dispositions de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la
 magistrature, le militaire lauréat de l'un de ces concours est titularisé et reclassé, dans le corps ou le cadre d'emploi
@@ -20041,7 +20087,7 @@ des corps et cadres d'emplois d'accueil.
 
 _Cite_:
 
-  - Ordonnance n°58-1270 du 22 décembre 1958 (V)
+  - Ordonnance n°58-1270 du 22 décembre 1958
 
 _Cité par_:
 
@@ -20102,21 +20148,29 @@ _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
 
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 66
+
 
 ###### Article L4139-2
 
 Le militaire, remplissant les conditions de grade et d'ancienneté fixées par décret, peut, sur demande agréée, après un stage
 probatoire, être détaché pour occuper des emplois vacants et correspondant à ses qualifications au sein des administrations
 de l'Etat, des collectivités territoriales, de la fonction publique hospitalière et des établissements publics à caractère
-administratif, nonobstant les règles de recrutement pour ces emplois.
+administratif, nonobstant les règles de recrutement pour ces emplois. 
 
 Les contingents annuels de ces emplois sont fixés par voie réglementaire pour chaque administration de l'Etat et pour chaque
-catégorie de collectivité territoriale ou établissement public administratif, compte tenu des possibilités d'accueil.
+catégorie de collectivité territoriale ou établissement public administratif, compte tenu des possibilités d'accueil. 
 
 Après un an de détachement, le militaire peut demander, dans les conditions fixées par décret en Conseil d'Etat, son
 intégration ou sa titularisation dans le corps ou le cadre d'emploi dont relève l'emploi considéré, sous réserve de la
 vérification de son aptitude. Pour l'intégration ou la titularisation dans un corps enseignant, la durée du détachement est
-portée à deux ans. La période initiale de détachement peut être prolongée pour une période de même durée.
+portée à deux ans. La période initiale de détachement peut être prolongée pour une période de même durée. 
+
+Le militaire du rang détaché dans un corps ou un cadre d'emplois depuis deux ans en application de l'article 13 ter de la loi
+n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires peut demander son intégration dans ce corps ou
+ce cadre d'emplois dans les conditions prévues au troisième alinéa du présent article. 
 
 En cas d'intégration ou de titularisation, l'intéressé est reclassé à un échelon comportant un indice égal ou, à défaut,
 immédiatement supérieur à celui détenu dans le corps d'origine.
@@ -20210,6 +20264,10 @@ _Cité par_:
   - Code de la défense. - art. R4139-32 (VD)
   - Code de la défense. - art. R4139-43 (V)
 
+_Cite_:
+
+  - Loi n°83-634 du 13 juillet 1983 - art. 13 (V)
+
 _Anciens textes_:
 
   - Loi n°2005-270 2005-03-24 art. 62
@@ -20218,6 +20276,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 62
 
 
 ###### Article L4139-3
@@ -20335,6 +20397,14 @@ Le volontaire ayant accompli moins de quatre années de services effectifs peut 
 durée maximale de vingt jours ouvrés selon les mêmes modalités et dans les mêmes conditions de fractionnement que celles
 prévues au premier alinéa du présent II. 
 
+Sauf faute de la victime détachable du service, le militaire blessé en opération de guerre, au cours d'une opération
+qualifiée d'opération extérieure dans les conditions prévues à l'article L. 4123-4, d'une opération de maintien de l'ordre,
+d'une opération de sécurité publique ou de sécurité civile définie par décret peut, sur demande agréée et sans condition
+d'ancienneté de service, bénéficier des dispositions prévues au premier alinéa du présent II, sans préjudice du droit à
+pension visé au 2° de l'article L. 6 du code des pensions civiles et militaires de retraite. L'agrément est délivré après
+avis d'un médecin des armées portant sur la capacité du militaire à suivre les actions de formation professionnelle ou
+d'accompagnement vers l'emploi pour lesquelles il sollicite le placement en congé de reconversion. 
+
 Le bénéficiaire de ces congés perçoit, dans des conditions définies par décret en Conseil d'Etat, la rémunération de son
 grade. Celle-ci est réduite ou suspendue lorsque le bénéficiaire perçoit une rémunération publique ou privée. 
 
@@ -20364,6 +20434,8 @@ _Anciens textes_:
 _Cite_:
 
   - Loi n°2005-270 du 24 mars 2005 - art. 89
+  - Code des pensions civiles et militaires de retraite - art. L6
+  - Code de la défense. - art. L4123-4
   - Code de la défense. - art. L4138-2
 
 _Codifié par_:
@@ -20394,7 +20466,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-14 du 5 janvier 2011 - art. 1
+  - Loi n°2012-347 du 12 mars 2012 - art. 67
 
 
 ###### Article L4139-5-1
@@ -22321,7 +22393,8 @@ Les forces armées peuvent avoir recours à des spécialistes volontaires pour e
 leur qualification professionnelle civile, sans formation militaire spécifique.
 
 Le grade attaché à l'exercice de cette fonction de spécialiste dans la réserve opérationnelle est conféré par arrêté du
-ministre de la défense. Il ne donne pas droit à l'exercice du commandement hors du cadre de la fonction exercée.
+ministre de la défense, ou du ministre de l'intérieur pour les réservistes de la gendarmerie nationale. Il ne donne pas droit
+à l'exercice du commandement hors du cadre de la fonction exercée.
 
 **Liens relatifs à cet article**
 
@@ -22339,6 +22412,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2007-465 du 29 mars 2007 - art. Annexe (V)
+
+_Modifié par_:
+
+  - Loi n°2012-347 du 12 mars 2012 - art. 69
 
 
 ###### Article L4221-4
