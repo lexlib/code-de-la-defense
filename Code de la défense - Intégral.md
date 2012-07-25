@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-07-23
+Version Consolidée au 2012-07-26
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -80320,14 +80320,14 @@ _Cité par_:
 
 ###### Article R4138-20
 
-Le militaire servant à titre étranger bénéficie, pendant les deux premières années de service, de vingt jours de permissions
-de longue durée lors de la première année et de trente-cinq jours de permissions de longue durée lors de la deuxième année.
+Le  militaire servant à titre étranger bénéficie, lors de la première année  de service, de vingt jours de permissions de
+longue durée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2012-905 du 23 juillet 2012 - art. 1
 
 _Cité par_:
 
