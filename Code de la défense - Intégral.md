@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-08-02
+Version Consolidée au 2012-08-04
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -84258,10 +84258,11 @@ Dans l'armée de terre, la marine et l'armée de l'air, l'enseignement militaire
 relève du chef d'état-major concerné. A la direction générale de l'armement, cet enseignement relève du délégué général pour
 l'armement. 
 
-Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées,        le directeur
-central du service des essences des armées, le directeur central du service d'infrastructure de la défense et, pour la
-justice militaire, le directeur des affaires juridiques peuvent être chargés de diriger l'enseignement conduisant à
-l'acquisition de certains diplômes ou brevets propres à leur formation rattachée. 
+Le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées, le directeur central
+du service des essences des armées, le directeur central du service d'infrastructure de la défense, le directeur central du
+service du commissariat des armées et, pour le service de la justice militaire, le directeur des affaires juridiques peuvent
+être chargés de diriger l'enseignement conduisant à l'acquisition de certains diplômes ou brevets propres à leur formation
+rattachée. 
 
 L'enseignement militaire supérieur au-dessus du deuxième degré ainsi que l'enseignement militaire supérieur interarmées du
 deuxième degré sont placés sous l'autorité directe du chef d'état-major des armées.
@@ -84270,15 +84271,15 @@ deuxième degré sont placés sous l'autorité directe du chef d'état-major des
 
 _Modifié par_:
 
-  - Décret n°2011-1329 du 20 octobre 2011 - art. 1
+  - Décret n°2012-944 du 1er août 2012 - art. 1
 
 
 ###### Article D4152-5
 
 Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à suivre l'enseignement militaire supérieur sont
 désignés par le chef d'état-major de l'armée concernée. A la direction générale de l'armement, dans la gendarmerie nationale,
-le service de santé des armées,     le service des essences des armées, le service d'infrastructure de la défense et la
-justice militaire, ils sont désignés par le délégué ou le directeur concerné. 
+le service de santé des armées, le service des essences des armées, le service d'infrastructure de la défense, le service du
+commissariat des armées et la justice militaire, ils sont désignés par le délégué ou le directeur concerné. 
 
 Ces désignations sont effectuées : 
 
@@ -84303,7 +84304,7 @@ Des officiers étrangers peuvent être admis à suivre l'enseignement militaire 
 
 _Modifié par_:
 
-  - Décret n°2011-1329 du 20 octobre 2011 - art. 2
+  - Décret n°2012-944 du 1er août 2012 - art. 2
 
 _Cité par_:
 
