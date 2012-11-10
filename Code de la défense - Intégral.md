@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2012-11-09
+Version Consolidée au 2012-11-11
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -64878,8 +64878,8 @@ _Cite_:
 
 ###### Article R3412-18
 
-Les cercles et foyers des armées ne sont pas soumis aux dispositions du décret n° 62-1587 du 29 décembre 1962 portant
-règlement général sur la comptabilité publique. 
+Les cercles et foyers des armées ne sont pas soumis aux dispositions du                 décret n° 2012-1246 du 7 novembre
+2012 relatif à la gestion budgétaire et comptable publique. 
 
 Des instructions ministérielles définissent les conditions et modalités de présentation de la comptabilité des cercles et
 foyers ainsi que les modalités d'exercice de leur contrôle interne.
@@ -64888,11 +64888,11 @@ foyers ainsi que les modalités d'exercice de leur contrôle interne.
 
 _Cite_:
 
-  - Décret n°62-1587 du 29 décembre 1962 (V)
+  - Décret n°2012-1246 du 7 novembre 2012
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 7
 
 
 ###### Article R3412-19
@@ -75153,17 +75153,10 @@ décisions :
 1° Concernant le recrutement du militaire ou l'exercice du pouvoir disciplinaire ; 
 
 2° Pris en application du code des pensions militaires d'invalidité et des victimes de la guerre et du code des pensions
-civiles et militaires de retraite ainsi que ceux qui relèvent de la procédure organisée par le décret n° 92-1369 du 29
-décembre 1992 modifiant le décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique et
-fixant les dispositions applicables au recouvrement des créances de l'Etat mentionnées à l'article 60 de ce décret.
+civiles et militaires de retraite ainsi que ceux qui relèvent de la procédure organisée par les articles 112 à 124 du décret
+n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 (V)
-  - Décret n°92-1369 du 29 décembre 1992 (V)
-  - Code de la défense. - art. R4125-10 (V)
 
 _Cité par_:
 
@@ -75175,9 +75168,14 @@ _Cité par_:
   - Décret n°2017-566 du 18 avril 2017 (V)
   - Code de la défense. - art. R4135-7 (V)
 
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+  - Code de la défense. - art. R4125-10
+
 _Modifié par_:
 
-  - Décret n°2009-1716 du 30 décembre 2009 - art. 2
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 7
 
 
 ##### Section 1 : Dispositions générales<a id=926></a>
