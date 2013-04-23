@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-03-28
+Version Consolidée au 2013-04-24
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -25938,9 +25938,9 @@ b) Des représentants des ministres de l'intérieur et de la défense, ainsi que
 transports et de l'industrie, de l'agriculture, des postes et communications électroniques et, en tant que de besoin, de ceux
 d'autres départements ministériels ; 
 
-c) Du représentant du directeur général du centre d'analyse stratégique ; 
+c) Du représentant du Commissaire général à la stratégie et à la prospective ; 
 
-d) Du représentant du     secrétaire général de la défense et de la sécurité nationale. 
+d) Du représentant du secrétaire général de la défense et de la sécurité nationale. 
 
 Le ministre chargé de l'outre-mer est représenté lorsque la commission examine des affaires intéressant les départements, les
 régions et les collectivités d'outre-mer, la Nouvelle-Calédonie et les Terres australes et antarctiques françaises.
@@ -25950,6 +25950,14 @@ régions et les collectivités d'outre-mer, la Nouvelle-Calédonie et les Terres
 _Anciens textes_:
 
   - Décret n°62-729 du 29 juin 1962 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2013-333 du 22 avril 2013 - art. 11
+
+_Abrogé par_:
+
+  - Décret n°2013-420 du 23 mai 2013 - art. 13 (V)
 
 
 ##### Sous-section 2 : Industrie<a id=386></a>
