@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2013-08-30
+Version Consolidée au 2013-09-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -70807,50 +70807,40 @@ _Cite_:
 
 ###### Article R3421-3
 
-Le conseil d'administration est composé de douze membres. Il comprend :
+Le conseil d'administration est composé de dix membres. Il comprend outre son président : 
 
-1° Un président ;
+1° Deux représentants de l'état-major des armées ; 
 
-2° Le chef d'état-major des armées ou son représentant ;
+2° Deux représentants du secrétariat général pour l'administration ; 
 
-3° Le secrétaire général pour l'administration ou son représentant ;
+3° Un représentant du service du commissariat des armées ; 
 
-4° Le chef d'état-major de l'armée de terre ou son représentant ;
+4° Un représentant du ministère de l'économie et des finances ; 
 
-5° Le chef d'état-major de la marine ou son représentant ;
+5° Une personnalité qualifiée désignée par arrêté du ministre de la défense ; 
 
-6° Le chef d'état-major de l'armée de l'air ou son représentant ;
-
-7° Le directeur général de la gendarmerie nationale ou son représentant ;
-
-8° Le directeur du service de santé des armées ou son représentant ;
-
-9° Un représentant du ministère de l'économie, des finances et de l'industrie ;
-
-10° Une personnalité qualifiée désignée par arrêté du ministre de la défense ;
-
-11° Deux représentants du personnel de l'Economat des armées désignés par ce personnel selon des modalités déterminées par
-arrêté du ministre de la défense.
+6° Deux représentants du personnel de l'économat des armées désignés par ce personnel selon des modalités déterminées par
+arrêté du ministre de la défense. 
 
 Assistent aux délibérations du conseil d'administration avec voix consultative le directeur général de l'établissement, le
-contrôleur d'Etat et l'agent comptable principal.
+contrôleur d'Etat et l'agent comptable principal. 
 
 Le contrôle général des armées est informé des réunions du conseil d'administration. Un de ses membres peut assister aux
-réunions.
+réunions. 
 
-Le président du conseil d'administration peut inviter à participer aux séances avec voix consultative toute personne dont la
-présence serait jugée utile pour un point particulier de l'ordre du jour.
+Le président du conseil d'administration peut inviter à participer aux séances, avec voix consultative, toute personne dont
+la présence serait jugée utile sur un point particulier de l'ordre du jour.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 _Cité par_:
 
   - Décret n°2013-779 du 27 août 2013 - art. 13 (V)
   - Code de la défense. - art. R3421-4 (VD)
+
+_Modifié par_:
+
+  - Décret n°2013-779 du 27 août 2013 - art. 3
 
 
 ###### Article R3421-4
@@ -70861,8 +70851,8 @@ proposition du ministre de la défense. La limite d'âge qui lui est applicable 
 Il est assisté par un vice-président, nommé par arrêté du ministre de la défense pour la même durée, parmi les membres du
 conseil d'administration. 
 
-La durée du mandat des membres du conseil d'administration mentionnés aux 9°, 10° et 11° de l'article R. 3421-3 est fixée à
-trois ans. Le mandat est renouvelable. 
+La durée du mandat des membres du conseil d'administration mentionnés aux                4°, 5° et 6° de l'article R. 3421-3
+est fixée à trois ans. Le mandat est renouvelable. 
 
 En cas de vacance d'un siège pour quelque cause que ce soit, un remplaçant est désigné dans les mêmes conditions que le
 précédent titulaire pour la durée du mandat qui reste à courir. 
@@ -70872,13 +70862,13 @@ justifiés.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2010-117 du 3 février 2010 - art. 1
-
 _Cité par_:
 
   - Décret n°2013-779 du 27 août 2013 - art. 13 (V)
+
+_Modifié par_:
+
+  - Décret n°2013-779 du 27 août 2013 - art. 4
 
 _Cite_:
 
