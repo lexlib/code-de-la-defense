@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-02-02
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -61855,22 +61855,23 @@ _Cité par_:
 
 ###### Article R*3311-2
 
-Ils sont choisis parmi les officiers généraux ayant reçu rang et appellation de général de corps d'armée ou d'armée, de
-général de corps aérien ou d'armée aérienne, de vice-amiral d'escadre ou d'amiral, d'ingénieur général hors classe ou
-d'ingénieur général de classe exceptionnelle.
+Ils sont choisis parmi les officiers généraux ayant reçu rang et appellation
+de général de corps d'armée ou d'armée, de général de corps aérien ou d'armée aérienne, de vice-amiral d'escadre ou d'amiral,
+d'ingénieur général hors classe ou d'ingénieur général de classe exceptionnelle, de médecin général des armées ou de
+commissaire général hors classe. 
 
 Leur nomination à ces emplois est prononcée par décret pris en conseil des ministres sur proposition du ministre de la
 défense, pour une période qui ne peut excéder un an. Elle est renouvelable.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-1218 du 25 novembre 2008 -  Annexe (V)
-
 _Cité par_:
 
   - Décret n°2014-88 du 30 janvier 2014 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-88 du 30 janvier 2014 - art. 1
 
 
 ###### Article R*3311-3
