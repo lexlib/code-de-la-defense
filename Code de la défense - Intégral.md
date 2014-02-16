@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-02-02
+Version Consolidée au 2014-02-17
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -1026,7 +1026,7 @@ Version Consolidée au 2014-02-02
           - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-10)](#1023)
             - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#1024)
             - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-10)](#1025)
-      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-25)](#1026)
+      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-24)](#1026)
         - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#1027)
           - [Chapitre unique (art. R4211-1 à R4211-12)](#1028)
             - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#1029)
@@ -1046,66 +1046,74 @@ Version Consolidée au 2014-02-02
           - [Chapitre unique (art. R4231-1 à R4231-5)](#1043)
         - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1044)
           - [Chapitre unique (art. R4241-1 à R4241-3)](#1045)
-        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-25)](#1046)
-          - [Chapitre unique (art. D4261-1 à D4261-25)](#1047)
-            - [Section 1 : Mission (art. D4261-1 à D4261-2)](#1048)
-            - [Section 2 : Composition et organisation (art. D4261-3 à D4261-12)](#1049)
-            - [Section 3 : Fonctionnement (art. D4261-13 à D4261-25)](#1050)
-      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1051)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1052)
-          - [Chapitre unique (art. D4341-4 à R4341-3)](#1053)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1054)
-          - [Chapitre unique (art. D4351-4 à R4351-3)](#1055)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1056)
-          - [Chapitre unique (art. D4361-4 à R4361-3)](#1057)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1058)
-          - [Chapitre unique (art. D4371-3 à R4371-2)](#1059)
-        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1060)
-          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1061)
-          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1062)
-    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES (art. R5111-1 à D5382-1)](#1063)
-      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5131-16)](#1064)
-        - [TITRE Ier : SERVITUDES (art. R5111-1 à R5114-11)](#1065)
-          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. R5111-1 à R5111-10)](#1066)
-            - [Section 1 : Dispositions générales (art. R5111-1 à R5111-2)](#1067)
-            - [Section 2 : Etablissement d'un polygone d'isolement (art. R5111-3 à R5111-5)](#1068)
-            - [Section 3 : Autorisation de construction dans un polygone d'isolement (art. R5111-6 à R5111-10)](#1069)
-          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. R5112-1 à R5112-2)](#1070)
-          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. R5113-1)](#1071)
-          - [Chapitre IV : Autres installations de défense (art. R5114-1 à R5114-11)](#1072)
-            - [Section 1 : Etablissement des servitudes des installations de défense (art. R5114-1 à R5114-4)](#1073)
+        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-24)](#1046)
+          - [Chapitre unique (art. D4261-1 à D4261-24)](#1047)
+            - [Section 1 : Mission (art. D4261-1)](#1048)
+            - [Section 2 : Composition et organisation (art. D4261-2 à D4261-11)](#1049)
+              - [Sous-section 1 : L'assemblée plénière (art. D4261-7)](#1050)
+              - [Sous-section 2 : Le conseil restreint (art. D4261-8 à D4261-9)](#1051)
+              - [Sous-section 3 : Les commissions (art. D4261-10)](#1052)
+              - [Sous-section 4 : Les groupes de travail (art. D4261-11)](#1053)
+            - [Section 3 : Fonctionnement et attributions (art. D4261-12 à D4261-24)](#1054)
+              - [Sous-section 1 : L'assemblée plénière (art. D4261-14 à D4261-16)](#1055)
+              - [Sous-section 2 : Le conseil restreint (art. D4261-17 à D4261-19)](#1056)
+              - [Sous-section 3 : La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense (art. D4261-20)](#1057)
+              - [Sous-section 4 : Le secrétariat général (art. D4261-21 à D4261-24)](#1058)
+      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1059)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1060)
+          - [Chapitre unique (art. D4341-4 à R4341-3)](#1061)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1062)
+          - [Chapitre unique (art. D4351-4 à R4351-3)](#1063)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1064)
+          - [Chapitre unique (art. D4361-4 à R4361-3)](#1065)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1066)
+          - [Chapitre unique (art. D4371-3 à R4371-2)](#1067)
+        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1068)
+          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1069)
+          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1070)
+    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES (art. R5111-1 à D5382-1)](#1071)
+      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5131-16)](#1072)
+        - [TITRE Ier : SERVITUDES (art. R5111-1 à R5114-11)](#1073)
+          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. R5111-1 à R5111-10)](#1074)
+            - [Section 1 : Dispositions générales (art. R5111-1 à R5111-2)](#1075)
+            - [Section 2 : Etablissement d'un polygone d'isolement (art. R5111-3 à R5111-5)](#1076)
+            - [Section 3 : Autorisation de construction dans un polygone d'isolement (art. R5111-6 à R5111-10)](#1077)
+          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. R5112-1 à R5112-2)](#1078)
+          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. R5113-1)](#1079)
+          - [Chapitre IV : Autres installations de défense (art. R5114-1 à R5114-11)](#1080)
+            - [Section 1 : Etablissement des servitudes des installations de défense (art. R5114-1 à R5114-4)](#1081)
             - [Section 2 : Conditions d'autorisation de certaines
-constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1074)
-              - [Sous-section 1 : Secteurs de construction réglementée (art. R5114-5 à R5114-6)](#1075)
-              - [Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable (art. R5114-7 à R5114-8)](#1076)
-              - [Sous-section 3 : Dispositions communes (art. R5114-9 à R5114-11)](#1077)
-        - [TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE (art. R5121-1 à R5121-2)](#1078)
-          - [Chapitre unique : Répression des infractions relatives aux servitudes militaires (art. R5121-1 à R5121-2)](#1079)
-            - [Section 1 : Dispositions générales (art. R5121-1 à R5121-2)](#1080)
-        - [TITRE III : GESTION ET ADMINISTRATION (art. R5131-1 à R5131-16)](#1081)
-          - [Chapitre unique : Gestion et administration des infrastructures de la défense (art. R5131-1 à R5131-16)](#1082)
-            - [Section 1 : Politique immobilière de la défense (art. R5131-1 à R5131-3)](#1083)
-            - [Section 2 : Compétence des autorités du ministère de la défense en matière domaniale (art. D5131-6 à R5131-9)](#1084)
-            - [Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme (art. D5131-10 à D5131-13)](#1085)
-              - [Sous-section 1 : Compétences en matière d'environnement (art. D5131-10)](#1086)
-              - [Sous-section 2 : Compétences en matière de logement (art. R5131-11)](#1087)
-              - [Sous-section 3 : Compétences en matière d'urbanisme (art. D5131-12 à D5131-13)](#1088)
-            - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-14 à D5131-15)](#1089)
-            - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1090)
-      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1091)
-        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1092)
-          - [Chapitre unique (art. D5321-1)](#1093)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-1)](#1094)
-          - [Chapitre unique (art. D5341-2 à R5341-1)](#1095)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-1)](#1096)
-          - [Chapitre unique (art. D5351-2 à R5351-1)](#1097)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-1)](#1098)
-          - [Chapitre unique (art. D5361-2 à R5361-1)](#1099)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1100)
-          - [Chapitre unique (art. D5371-2 à R5371-1)](#1101)
-        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1102)
-          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1103)
-          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1104)
+constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1082)
+              - [Sous-section 1 : Secteurs de construction réglementée (art. R5114-5 à R5114-6)](#1083)
+              - [Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable (art. R5114-7 à R5114-8)](#1084)
+              - [Sous-section 3 : Dispositions communes (art. R5114-9 à R5114-11)](#1085)
+        - [TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE (art. R5121-1 à R5121-2)](#1086)
+          - [Chapitre unique : Répression des infractions relatives aux servitudes militaires (art. R5121-1 à R5121-2)](#1087)
+            - [Section 1 : Dispositions générales (art. R5121-1 à R5121-2)](#1088)
+        - [TITRE III : GESTION ET ADMINISTRATION (art. R5131-1 à R5131-16)](#1089)
+          - [Chapitre unique : Gestion et administration des infrastructures de la défense (art. R5131-1 à R5131-16)](#1090)
+            - [Section 1 : Politique immobilière de la défense (art. R5131-1 à R5131-3)](#1091)
+            - [Section 2 : Compétence des autorités du ministère de la défense en matière domaniale (art. D5131-6 à R5131-9)](#1092)
+            - [Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme (art. D5131-10 à D5131-13)](#1093)
+              - [Sous-section 1 : Compétences en matière d'environnement (art. D5131-10)](#1094)
+              - [Sous-section 2 : Compétences en matière de logement (art. R5131-11)](#1095)
+              - [Sous-section 3 : Compétences en matière d'urbanisme (art. D5131-12 à D5131-13)](#1096)
+            - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-14 à D5131-15)](#1097)
+            - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1098)
+      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1099)
+        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1100)
+          - [Chapitre unique (art. D5321-1)](#1101)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-1)](#1102)
+          - [Chapitre unique (art. D5341-2 à R5341-1)](#1103)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-1)](#1104)
+          - [Chapitre unique (art. D5351-2 à R5351-1)](#1105)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-1)](#1106)
+          - [Chapitre unique (art. D5361-2 à R5361-1)](#1107)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1108)
+          - [Chapitre unique (art. D5371-2 à R5371-1)](#1109)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1110)
+          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1111)
+          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1112)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -84117,25 +84125,26 @@ _Cité par_:
 
 ###### Article D4261-1
 
-Le Conseil supérieur de la réserve militaire a pour missions :
+Le Conseil supérieur de la réserve militaire a pour missions : 
 
-1° De participer à la réflexion sur le rôle des réserves dans le cadre de la réforme de la défense et de la
-professionnalisation des armées ;
+1° De participer à la réflexion sur le rôle des réserves militaires au service de la défense et de la sécurité nationale ; 
 
-2° De participer, dans le cadre d'un plan d'action soumis par le ministre de la défense, à la promotion de l'esprit de
-défense et au développement du lien entre la nation et ses forces armées ;
+2° De constituer un lieu de consultation et d'échange sur toute question d'ordre général relative à la mise en œuvre du
+présent livre ; 
 
-3° De favoriser le développement d'un partenariat durable entre les forces armées, les réservistes et leurs employeurs ;
+3° De favoriser le développement d'un partenariat durable entre les armées et formations rattachées, les réservistes et leurs
+employeurs ; 
 
-4° D'examiner toute question d'ordre général relative à la mise en œuvre du présent livre ;
+4° De contribuer à la promotion de l'esprit de défense et au développement du lien entre la nation et ses forces armées ; 
 
-5° D'établir un rapport annuel, transmis au Parlement, évaluant l'état de la réserve militaire.
+5° D'établir pour le ministre de la défense un rapport annuel, transmis au Parlement, évaluant l'état de la réserve
+militaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 _Cité par_:
 
@@ -84146,17 +84155,107 @@ _Cité par_:
   - Code de la défense. - art. D4382-4 (V)
 
 
+##### Section 2 : Composition et organisation<a id=1049></a>
+
 ###### Article D4261-2
 
-Le Conseil supérieur de la réserve militaire est présidé par le ministre de la défense ou son représentant.
+Le Conseil supérieur de la réserve militaire est présidé par le ministre de la défense ou son représentant. 
 
-Il siège en assemblée plénière ou en conseil restreint.
+Il comprend soixante-dix-neuf membres répartis dans les sept collèges suivants : 
+
+1° Le collège des représentants du Parlement, composé de quatre membres : 
+
+a) Deux députés désignés par le président de l'Assemblée nationale ; 
+
+b) Deux sénateurs désignés par le président du Sénat. 
+
+2° Le collège des représentants de l'administration composé de seize membres : 
+
+a) Le chef d'état-major des armées ou son représentant ; 
+
+b) Le délégué général pour l'armement ou son représentant ; 
+
+c) Le secrétaire général pour l'administration ou son représentant ; 
+
+d) Les chefs d'état-major de l'armée de terre, de la marine, de l'armée de l'air ou leurs représentants ; 
+
+e) Le directeur général de la gendarmerie nationale ou son représentant ; 
+
+f) Le chef du contrôle général des armées ou son représentant ; 
+
+g) Le directeur central du service de santé des armées ou son représentant ; 
+
+h) Le directeur central du service des essences des armées ou son représentant ; 
+
+i) Le directeur des ressources humaines du ministère de la défense ou son représentant ; 
+
+j) Le directeur central du service du commissariat des armées ou son représentant ; 
+
+k) Deux officiers généraux de zone de défense et de sécurité, ou leurs représentants, désignés par le chef d'état-major des
+armées ; 
+
+l) Deux commandants de région de gendarmerie, ou leurs représentants, désignés par le directeur général de la gendarmerie
+nationale ; 
+
+3° Le collège des représentants des associations de réservistes agréées par le ministre de la défense sur proposition des
+armées et formations rattachées, composé de treize membres, désignés par le ministre de la défense sur proposition des
+associations de réservistes ; 
+
+4° Le collège des réservistes opérationnels composé de quatorze membres : 
+
+a) Cinq réservistes opérationnels de la gendarmerie nationale désignés par le directeur général de la gendarmerie nationale
+parmi les réservistes ayant fait acte de volontariat ; 
+
+b) Trois réservistes opérationnels de l'armée de terre tirés au sort parmi les membres de l'instance de consultation des
+réserves de l'armée de terre ayant fait acte de volontariat ; 
+
+c) Deux réservistes opérationnels de la marine nationale tirés au sort parmi les membres de l'instance de consultation des
+réserves de la marine nationale ayant fait acte de volontariat ; 
+
+d) Deux réservistes opérationnels de l'armée de l'air tirés au sort parmi les membres de l'instance de consultation de
+l'armée de l'air ayant fait acte de volontariat ; 
+
+e) Un réserviste opérationnel du service de santé des armées tiré au sort parmi les membres de l'instance de consultation des
+réserves du service de santé des armées ayant fait acte de volontariat ; 
+
+f) Un réserviste opérationnel de la direction générale de l'armement tiré au sort parmi les membres de l'instance de
+consultation de la direction générale de l'armement ayant fait acte de volontariat. 
+
+Parmi les réservistes opérationnels énoncés au a, une représentation minimum d'un membre de chaque catégorie, officiers,
+sous-officiers, militaires du rang, est assurée par le directeur général de la gendarmerie nationale. 
+
+Parmi les réservistes opérationnels énoncés au b, une représentation d'un membre de chaque catégorie, officiers, sous-
+officiers, militaires du rang, est assurée par le chef d'état-major de l'armée de terre au moyen d'un tirage au sort par
+catégorie. 
+
+Parmi les réservistes opérationnels énoncés aux c et d, une représentation de deux catégories différentes parmi les
+officiers, sous-officiers et militaires du rang est assurée, respectivement, par les chefs d'état-major de la marine et de
+l'armée de l'air selon les modalités suivantes : 
+
+- un premier tirage au sort détermine le premier membre relevant d'une des trois catégories ; 
+
+- un second tirage au sort est effectué parmi les deux autres catégories non pourvues ; 
+
+5° Le collège des réservistes citoyens composé de quatre membres : 
+
+a) Un réserviste citoyen de l'armée de terre désigné par le chef d'état-major de l'armée de terre ; 
+
+b) Un réserviste citoyen de la marine nationale désigné par le chef d'état-major de la marine ; 
+
+c) Un réserviste citoyen de l'armée de l'air désigné par le chef d'état-major de l'armée de l'air ; 
+
+d) Un réserviste citoyen de la gendarmerie nationale désigné par le directeur général de la gendarmerie nationale ; 
+
+6° Le collège des salariés et des agents publics composé de quatorze membres ; 
+
+7° Le collège des employeurs et professions libérales composé de quatorze membres, dont au moins un représentant de l'ordre
+des médecins.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 _Cité par_:
 
@@ -84165,105 +84264,16 @@ _Cité par_:
   - Code de la défense. - art. D4261-8 (V)
 
 
-##### Section 2 : Composition et organisation<a id=1049></a>
-
 ###### Article D4261-3
 
-Le Conseil supérieur de la réserve militaire comprend les six collèges suivants :
-
-1° Le collège des représentants du Parlement, composé de :
-
-a) Deux députés désignés par le président de l'Assemblée nationale ;
-
-b) Deux sénateurs désignés par le président du Sénat ;
-
-2° Le collège des représentants de l'administration, composé :
-
-a) Du chef d'état-major des armées ou son représentant ;
-
-b) Du délégué général pour l'armement ou son représentant ;
-
-c) Du secrétaire général pour l'administration ou son représentant ;
-
-d) Des chefs d'état-major de l'armée de terre, de la marine, de l'armée de l'air ou leurs représentants ;
-
-e) Du directeur général de la gendarmerie nationale ou son représentant ;
-
-f) Du chef du contrôle général des armées ou son représentant ;
-
-g) Du directeur central du service de santé des armées ou son représentant ;
-
-h) Du directeur central du service des essences des armées ou son représentant ;
-
-i) Du directeur des ressources humaines du ministère de la défense ou son représentant.
-
-3° Le collège des employeurs et professions libérales, composé de quatorze membres :
-
-a) Quatre membres représentant les professions autres qu'agricoles :
-
-― deux membres désignés sur proposition du Mouvement des entreprises de France, dont un représentant des petites et moyennes
-entreprises ;
-
-― un membre représentant les entreprises publiques, désigné après consultation du Mouvement des entreprises de France ;
-
-― un membre désigné sur proposition de la Confédération générale des petites et moyennes entreprises ;
-
-b) Un membre représentant les employeurs artisans, désigné sur proposition de l'Union professionnelle artisanale ;
-
-c) Un membre représentant les entreprises agricoles, désigné sur proposition de la Fédération nationale des syndicats
-d'exploitants agricoles et de la Confédération nationale de la mutualité, de la coopération et du crédit agricoles ;
-
-d) Trois membres représentant les employeurs de la fonction publique de l'Etat, de la fonction publique territoriale et de la
-fonction publique hospitalière, désignés sur proposition des ministres chargés des trois fonctions publiques ;
-
-e) Deux membres désignés sur proposition de l'ordre national des médecins ;
-
-f) Un membre désigné sur proposition de l'ordre national des pharmaciens ;
-
-g) Un membre désigné sur proposition du Conseil national des barreaux ;
-
-h) Un membre désigné sur proposition de l'ordre national des experts-comptables ;
-
-4° Le collège des salariés et des agents publics, composé de quatorze membres représentant :
-
-a) Au titre des salariés, les organisations syndicales les plus représentatives sur le plan national, à raison de :
-
-― deux membres désignés sur proposition de la Confédération générale du travail ;
-
-― deux membres désignés sur proposition de la Confédération française démocratique du travail ;
-
-― deux membres désignés sur proposition de la Confédération générale du travail-Force ouvrière ;
-
-― un membre désigné sur proposition de la Confédération française de l'encadrement-Confédération générale des cadres ;
-
-― un membre désigné sur proposition de la Confédération française des travailleurs chrétiens ;
-
-b) Au titre des agents publics, les syndicats ou unions de syndicats de fonctionnaires représentatifs des fonctions
-publiques, à raison de :
-
-― un membre désigné sur proposition de la Confédération générale du travail ;
-
-― un membre désigné sur proposition de la Confédération française démocratique du travail ;
-
-― un membre désigné sur proposition de la Confédération générale du travail-Force ouvrière ;
-
-― un membre désigné sur proposition de la Confédération française de l'encadrement-Confédération générale des cadres ;
-
-― un membre désigné sur proposition de la Confédération française des travailleurs chrétiens ;
-
-― un membre désigné sur proposition de l'Union nationale des syndicats autonomes ;
-
-5° Le collège des réservistes, composé de treize membres désignés sur proposition des associations de réservistes agréées par
-le ministre de la défense.
-
-6° Le collège des personnalités qualifiées, composé de huit membres désignés en raison de leur compétence ou de leur
-expérience.
+Les membres titulaires du conseil supérieur, et leurs suppléants, des collèges prévus aux 3°, 6° et 7° de l'article D. 4261-2
+sont nommés par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 _Cité par_:
 
@@ -84272,256 +84282,301 @@ _Cité par_:
 
 ###### Article D4261-4
 
-Les membres titulaires du conseil supérieur, et leurs suppléants, mentionnés aux 3°, 4°, 5° et 6° de l'article D. 4261-3 sont
-nommés par arrêté du ministre de la défense.
+Les députés et les sénateurs, ainsi que leurs suppléants, sont nommés pour la durée de leur mandat parlementaire. 
 
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
-_Cite_:
-
-  - Code de la défense. - art. D4261-3 (V)
-
-
-###### Article D4261-5
-
-Les députés et les sénateurs, ainsi que leurs suppléants, sont nommés pour la durée de leur mandat parlementaire.
-
-Les autres membres, excepté ceux représentant l'administration, sont nommés pour un mandat de trois ans renouvelable.
+Les autres membres, excepté ceux représentant l'administration, sont nommés pour un mandat de trois ans renouvelable. 
 
 Le membre qui perd la qualité au titre de laquelle il a été désigné cesse d'office de faire partie du conseil supérieur. Il
-est remplacé dans les trois mois suivant la fin de ses fonctions.
+est remplacé dans les trois mois suivant la fin de ses fonctions. 
 
 En cas de remplacement d'un membre, le mandat du nouveau membre expire à la date de fin du mandat en cours.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. D4261-3
 
 
-###### Article D4261-6
+###### Article D4261-5
 
-Les membres suppléants sont désignés en nombre égal et dans les mêmes conditions que les membres titulaires.
+Les membres suppléants sont désignés en nombre égal et dans les mêmes conditions que les membres titulaires. 
 
 Le membre titulaire mentionné à l'alinéa précédent, démissionnaire ou décédé, est remplacé par son suppléant jusqu'à la date
 de fin du mandat en cours.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-###### Article D4261-7
+###### Article D4261-6
 
-Le secrétaire général du conseil supérieur et son adjoint sont désignés par arrêté du ministre de la défense, pour un mandat
-de deux ans renouvelable.
-
-Ils exercent ces fonctions à temps plein. Le secrétaire général peut être suppléé dans ses fonctions par son adjoint.
+Le Conseil supérieur de la réserve militaire siège en assemblée plénière ou en conseil restreint.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
+
+##### Sous-section 1 : L'assemblée plénière<a id=1050></a>
+
+###### Article D4261-7
+
+L'assemblée plénière est composée de l'ensemble des membres du Conseil supérieur de la réserve militaire. 
+
+Le ministre de la défense et le secrétaire général du conseil supérieur peuvent demander la participation, avec voix
+consultative, de toute personne dont le concours peut être utile aux travaux de l'assemblée plénière.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+
+##### Sous-section 2 : Le conseil restreint<a id=1051></a>
 
 ###### Article D4261-8
 
-Le conseil restreint est présidé par le secrétaire général du conseil supérieur ou son adjoint.
-
-Il comprend dix-huit membres, désignés parmi les membres titulaires du conseil supérieur, leurs représentants ou leurs
-suppléants :
+Le conseil restreint comprend vingt et un membres, désignés parmi les membres titulaires du conseil supérieur, leurs
+représentants ou leurs suppléants : 
 
 1° Un député et un sénateur, représentant le collège des représentants du Parlement, désignés par le président de leur
-assemblée respective ;
+assemblée respective. 
 
-2° Cinq représentants du collège des représentants de l'administration, désignés par le ministre de la défense ;
+2° Six représentants du collège des représentants de l'administration : 
 
-3° Trois représentants du collège des employeurs et professions libérales ;
+a) Le chef d'état-major des armées ou son représentant ; 
 
-4° Trois représentants du collège des salariés et des agents publics, dont au moins un représentant des syndicats ou unions
-de fonctionnaires représentatifs des fonctions publiques ;
+b) Le délégué général pour l'armement ou son représentant ; 
 
-5° Quatre représentants du collège des réservistes ;
+c) Le secrétaire général pour l'administration ou son représentant ; 
 
-6° Un représentant du collège des personnalités qualifiées.
+d) Deux chefs d'état-major d'armée ou directeurs centraux de service interarmées désignés par le chef d'état-major des armées
+ou leurs représentants ; 
 
-Les membres mentionnés aux 3°, 4°, 5° et 6° sont nommés par arrêté du ministre de la défense, sur proposition de chaque
-collège procédant par élection, pour un mandat de deux ans, non immédiatement renouvelable.
+e) Le directeur général de la gendarmerie nationale ou son représentant. 
+
+3° Quatre représentants du collège des associations de réservistes du 3° de l'article D. 4261-2 ; 
+
+4° Deux représentants du collège des réservistes opérationnels du 4° de l'article D. 4261-2 ; 
+
+5° Un représentant du collège des réservistes citoyens du 5° de l'article D. 4261-2 ; 
+
+6° Trois représentants du collège des salariés et des agents publics du 6° de l'article D. 4261-2, dont au moins un
+représentant des syndicats ou unions de fonctionnaires représentatifs des fonctions publiques ; 
+
+7° Trois représentants du collège des employeurs et professions libérales du 7° de l'article D. 4261-2. 
+
+Les membres mentionnés aux 3°, 4°, 5°, 6° et 7° sont nommés par arrêté du ministre de la défense, sur proposition de chaque
+collège procédant par élection. 
+
+Les élections ont lieu immédiatement après le renouvellement du conseil supérieur. Le mandat commence dès la publication de
+l'arrêté de nomination et cesse dès la publication de l'arrêté de nomination suivant. 
+
+Le ministre de la défense et le secrétaire général du conseil supérieur peuvent demander la participation, avec voix
+consultative, de toute personne dont le concours peut être utile aux travaux du conseil restreint.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. D4261-2 (V)
+
+
+###### Article D4261-9
 
 Le contrôle général des armées est informé des réunions du conseil restreint, auxquelles un de ses membres peut assister.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-###### Article D4261-9
-
-Le conseil supérieur comprend deux commissions d'études prospectives relatives à chacune des deux composantes de la réserve
-militaire.
-
-Les membres de ces commissions sont nommés par le conseil supérieur parmi ses membres, sur proposition du secrétaire général
-du conseil supérieur lors de la première assemblée plénière suivant le renouvellement du conseil supérieur.
-
-Le remplacement d'un membre de ces commissions est effectué dans les mêmes conditions que sa désignation.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
+##### Sous-section 3 : Les commissions<a id=1052></a>
 
 ###### Article D4261-10
 
-Le secrétaire général du conseil supérieur ou le conseil restreint peuvent constituer des groupes de travail chargés
-d'examiner des questions spécifiques.
+Les membres des collèges définis à l'article D. 4261-2 siègent dans une ou plusieurs des commissions du Conseil supérieur de
+la réserve militaire. Ces commissions sont : 
 
-Ces groupes de travail sont constitués pour une durée de six mois maximum. Ils comprennent des personnalités désignées en
+1° La commission de la consultation ; 
+
+2° La commission du partenariat ; 
+
+3° La commission de la promotion de l'esprit de défense. 
+
+Les membres de ces commissions sont nommés par le secrétaire général du conseil supérieur sur proposition du conseil
+restreint parmi les membres volontaires du Conseil supérieur de la réserve militaire. 
+
+Le ministre de la défense et le secrétaire général du conseil supérieur peuvent demander la participation, avec voix
+consultative, de toute personne dont le concours peut être utile aux travaux d'une de ces commissions.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. D4261-2 (V)
+
+
+##### Sous-section 4 : Les groupes de travail<a id=1053></a>
+
+###### Article D4261-11
+
+Le secrétaire général du conseil supérieur peut constituer des groupes de travail chargés d'examiner des questions
+spécifiques. 
+
+Ces groupes de travail sont constitués pour une durée maximale de six mois. Ils comprennent des personnalités désignées en
 raison de leurs compétences dans le domaine traité. Ces personnalités peuvent être choisies hors du conseil supérieur, avec
-l'accord du secrétaire général.
+l'accord du secrétaire général. 
 
 Les responsables des groupes de travail sont désignés par le secrétaire général du conseil supérieur.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-###### Article D4261-11
-
-Le comité de liaison réserve-entreprises du conseil supérieur de la réserve militaire est présidé par le secrétaire général
-dudit conseil.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
+##### Section 3 : Fonctionnement et attributions<a id=1054></a>
 
 ###### Article D4261-12
 
-Le ministre de la défense et le secrétaire général du conseil supérieur peuvent demander la participation, avec voix
-consultative, de toute personne dont le concours peut être utile aux travaux du conseil supérieur et du conseil restreint.
+Les délibérations de l'assemblée plénière, du conseil restreint, de la commission de la consultation, de la commission du
+partenariat, de la commission de la promotion de l'esprit de défense et des groupes de travail ne sont pas publiques. 
 
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
-
-##### Section 3 : Fonctionnement<a id=1050></a>
-
-###### Article D4261-13
-
-Les délibérations de l'assemblée plénière, du conseil restreint, des commissions d'études prospectives et des groupes de
-travail ne sont pas publiques.
-
-Tout membre, ou toute personne appelée à participer aux séances et travaux du Conseil supérieur, est soumis à l'obligation de
+Tout membre, ou toute personne appelée à participer aux séances et travaux du conseil supérieur, est soumis à l'obligation de
 discrétion pour tous les faits et documents dont il a connaissance en cette qualité ou dans ce cadre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+
+###### Article D4261-13
+
+Le règlement intérieur du Conseil supérieur de la réserve militaire est fixé par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 _Cité par_:
 
   - Arrêté du 18 juin 2014 (V)
 
 
+##### Sous-section 1 : L'assemblée plénière<a id=1055></a>
+
 ###### Article D4261-14
 
-Le règlement intérieur du Conseil supérieur de la réserve militaire est fixé par arrêté du ministre de la défense.
+L'assemblée plénière se réunit au moins une fois par an sur convocation de son président ou dans un délai de trois mois à la
+demande écrite de la majorité des membres. Dans le second cas, son président peut décider de renvoyer préalablement l'objet
+de la demande à l'examen du conseil restreint, d'une commission ou d'un groupe de travail.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
 ###### Article D4261-15
 
-Le Conseil supérieur se réunit au moins une fois par an en assemblée plénière, sur convocation de son président, ou dans un
-délai de trois mois à la demande écrite de la majorité des membres. Dans le second cas, le président peut décider de renvoyer
-préalablement l'objet de la demande à l'examen du conseil restreint, d'une commission d'études prospectives ou d'un groupe de
-travail.
+L'ordre du jour de l'assemblée plénière est fixé par son président sur proposition du conseil restreint. 
+
+Sauf urgence, il est adressé aux intéressés un mois au moins avant la date de l'assemblée. Les demandes d'avis du ministre de
+la défense sont inscrites par priorité à l'ordre du jour.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
 ###### Article D4261-16
 
-L'ordre du jour de l'assemblée plénière est fixé par le président sur proposition du conseil restreint. Sauf urgence, il est
-adressé aux intéressés un mois au moins avant la date de l'assemblée.
+L'assemblée plénière délibère valablement sur l'ordre du jour, quel que soit le nombre des membres présents. 
 
-Les demandes d'avis du ministre de la défense sont inscrites par priorité à l'ordre du jour.
+Elle émet des avis ou des recommandations, adoptés à la majorité des suffrages exprimés. 
+
+Un procès-verbal est établi après chaque séance de l'assemblée plénière. 
+
+Il est transmis dans un délai de quinze jours aux membres du conseil supérieur. Il y est fait mention des votes ou des avis
+divergents. Ce procès-verbal est signé par l'autorité qui a présidé la séance et contresigné par le secrétaire général ou son
+adjoint.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
+
+##### Sous-section 2 : Le conseil restreint<a id=1056></a>
 
 ###### Article D4261-17
 
-L'assemblée plénière délibère valablement sur l'ordre du jour, quel que soit le nombre des membres présents.
+Le conseil restreint : 
 
-Elle émet des avis ou des recommandations à la majorité des suffrages exprimés.
+1° Prépare les travaux de l'assemblée plénière ; 
 
-Un procès-verbal est établi après chaque séance de l'assemblée plénière et transmis dans le délai de quinze jours aux membres
-du Conseil supérieur. Il y est fait mention des votes ou des avis divergents. Ce procès-verbal est signé par l'autorité qui a
-présidé la séance et contresigné par le secrétaire général ou son adjoint.
+2° Approuve le projet de rapport annuel évaluant l'état de la réserve militaire, préparé par le secrétaire général ; 
+
+3° Définit et coordonne les actions de la commission de la consultation, de la commission du partenariat, de la commission de
+la promotion de l'esprit de défense et des groupes de travail ; 
+
+4° Propose au ministre de la défense le thème de la journée nationale du réserviste.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
 ###### Article D4261-18
 
-Le secrétaire général du Conseil supérieur participe aux séances de l'assemblée plénière et préside le conseil restreint.
+Le conseil restreint se réunit au moins deux fois par an sur convocation de son président. Celui-ci en fixe l'ordre du jour,
+adressé, sauf urgence, aux membres de ce conseil quinze jours au moins avant la date de la réunion. 
 
-Il peut être chargé par le ministre de la défense de toute mission dans le domaine de la réserve militaire et de représenter
-à ce titre le ministre de la défense auprès des associations de réservistes.
+Le conseil restreint délibère valablement si la moitié de ses membres au moins est présente. 
 
-Il est chargé de l'animation de la politique de la réserve citoyenne.
+Il émet des propositions, adoptées à la majorité des suffrages exprimés. 
 
-Il veille au développement du partenariat entre les armées et formations rattachées, les réservistes et leurs employeurs.
-
-Il assure la liaison entre l'administration centrale et les commandements interarmées territoriaux signataires de conventions
-de soutien à la politique de la réserve.
-
-Il dirige le secrétariat général du Conseil supérieur.
+Un procès-verbal est établi après chaque séance, signé par l'autorité ayant présidé la séance et diffusé dans les mêmes
+conditions que pour l'assemblée plénière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 _Cité par_:
 
@@ -84531,125 +84586,136 @@ _Cité par_:
 
 ###### Article D4261-19
 
-Le conseil restreint :
-
-1° Prépare les travaux de l'assemblée plénière ;
-
-2° Oriente et coordonne l'action et les études des commissions d'études prospectives et des groupes de travail.
+Le directeur des ressources humaines du ministère de la défense ou son représentant peut participer, avec voix consultative,
+aux travaux du conseil restreint.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
+_Abrogé par_:
+
+  - Décret n°2018-832 du 1er octobre 2018 - art. 1
+
+
+##### Sous-section 3 : La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense<a id=1057></a>
 
 ###### Article D4261-20
 
-Le conseil restreint se réunit au moins trois fois par an sur convocation de son président. Celui-ci en fixe l'ordre du jour,
-adressé, sauf urgence, aux membres de ce conseil quinze jours au moins avant la date de la réunion.
+La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense sont
+présidées par le secrétaire général du Conseil supérieur de la réserve militaire ou son représentant. Elles élaborent, sur
+les sujets qui leur sont soumis par le secrétaire général du Conseil supérieur de la réserve militaire ou son représentant
+soit un projet de rapport et d'avis, soit un projet d'avis seul. 
 
-Le conseil restreint délibère valablement si la moitié de ses membres est présente.
-
-Les propositions sont adoptées à la majorité des suffrages exprimés.
+Les projets de rapport ou d'avis transmis par ces commissions à l'assemblée plénière ou au conseil restreint font mention des
+votes ou des avis divergents en leur sein. 
 
 Un procès-verbal est établi après chaque séance, signé par l'autorité ayant présidé la séance et diffusé dans les mêmes
 conditions que pour l'assemblée plénière.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
+_Abrogé par_:
+
+  - Décret n°2018-832 du 1er octobre 2018 - art. 1
+
+
+##### Sous-section 4 : Le secrétariat général<a id=1058></a>
 
 ###### Article D4261-21
 
-Les responsables des commissions d'études prospectives ainsi que le représentant de la direction des ressources humaines du
-ministère de la défense, s'ils ne sont pas membres du conseil restreint, peuvent, à la demande du secrétaire général du
-Conseil supérieur, participer, avec voix consultative, aux travaux du conseil restreint.
+Le secrétaire général du Conseil supérieur de la réserve militaire peut être chargé par le ministre de la défense de toute
+mission dans le domaine de la réserve militaire, à l'exclusion de l'emploi opérationnel des réserves militaires. Il peut
+représenter le ministre de la défense auprès des associations de réservistes. Il est coordonnateur de la réserve citoyenne et
+à ce titre chargé d'assurer la cohérence des politiques suivies dans ce domaine. 
+
+Il veille au développement du partenariat entre les armées et formations rattachées, les réservistes et les entreprises. A ce
+titre, il établit et assure le suivi des conventions de soutien à la politique de réserve en liaison avec les commandements
+interarmées territoriaux. Il en informe l'état-major des armées et la direction générale de la gendarmerie nationale. 
+
+Il préside le comité de liaison réserve-entreprises dont l'organisation et le fonctionnement sont précisés par arrêté du
+ministre de la défense. 
+
+Il dirige le secrétariat général du Conseil supérieur de la réserve militaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
 ###### Article D4261-22
 
-Les commissions d'études prospectives élaborent, sur les études qui leur sont soumises par l'assemblée plénière ou le conseil
-restreint, soit un rapport et un projet d'avis, soit un projet d'avis seul.
+Le secrétaire général du conseil supérieur et son adjoint sont nommés par arrêté du ministre de la défense. 
 
-Les documents transmis par ces commissions à l'assemblée plénière ou au conseil restreint font mention des votes ou des avis
-divergents en leur sein.
+Ils exercent leurs fonctions à temps plein. Le secrétaire général peut être suppléé dans ses fonctions par son adjoint.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-832 du 1er octobre 2018 - art. 1
 
 
 ###### Article D4261-23
 
-Le comité de liaison réserve-entreprises est chargé :
+Le secrétariat général du conseil supérieur assure le fonctionnement courant de toutes les formations du conseil supérieur. 
 
-1° De participer au développement du partenariat entre les armées et formations rattachées, les réservistes et les
-entreprises ;
+Il reçoit les propositions d'inscription à l'ordre du jour de l'assemblée plénière, des commissions ou du conseil restreint,
+vérifie qu'elles relèvent de la compétence du conseil supérieur et les soumet au président de séance concerné. 
 
-2° D'examiner toute difficulté rencontrée par les réservistes dans leurs relations avec leurs employeurs.
+Le secrétariat général est chargé de l'organisation et du déroulement des séances de l'assemblée plénière, des commissions et
+du conseil restreint, en rédige les procès-verbaux et en assure la diffusion auprès des membres concernés. 
 
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
-
-###### Article D4261-24
-
-Le secrétariat général du Conseil supérieur assure le fonctionnement courant de toutes les formations du Conseil supérieur.
-
-Il reçoit les propositions d'inscription à l'ordre du jour de l'assemblée plénière ou du conseil restreint, vérifie qu'elles
-relèvent de la compétence du Conseil supérieur et les soumet au président de séance concerné.
-
-Le secrétariat général est chargé de l'organisation et du déroulement des séances de l'assemblée plénière et du conseil
-restreint, en rédige les procès-verbaux et en assure la diffusion auprès des membres concernés. Il tient à jour et met à la
-disposition de chacun des membres toute documentation et information sur les questions relevant de la compétence du Conseil
-supérieur.
+Il tient à jour et met à la disposition de chacun des membres toute documentation et information sur les questions relevant
+de la compétence du conseil supérieur. 
 
 Le ministre peut déléguer sa signature au secrétaire général pour les besoins du fonctionnement du Conseil supérieur de la
 réserve militaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
+  - Décret n°2014-130 du 14 février 2014 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2018-832 du 1er octobre 2018 - art. 1
 
 
-###### Article D4261-25
+###### Article D4261-24
 
 L'organisation et le fonctionnement du secrétariat général du Conseil supérieur de la réserve militaire sont fixés par arrêté
 du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-393 du 23 avril 2008 - art. (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
+_Abrogé par_:
 
-### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1051></a>
+  - Décret n°2018-832 du 1er octobre 2018 - art. 1
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1052></a>
 
-##### Chapitre unique<a id=1053></a>
+### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1059></a>
+
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1060></a>
+
+##### Chapitre unique<a id=1061></a>
 
 ###### Article D4341-4
 
@@ -84744,9 +84810,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1054></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1062></a>
 
-##### Chapitre unique<a id=1055></a>
+##### Chapitre unique<a id=1063></a>
 
 ###### Article D4351-4
 
@@ -84841,9 +84907,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1056></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1064></a>
 
-##### Chapitre unique<a id=1057></a>
+##### Chapitre unique<a id=1065></a>
 
 ###### Article D4361-4
 
@@ -84938,9 +85004,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1058></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1066></a>
 
-##### Chapitre unique<a id=1059></a>
+##### Chapitre unique<a id=1067></a>
 
 ###### Article D4371-3
 
@@ -85009,9 +85075,9 @@ _Cite_:
   - Code de la défense. - art. R4139-23 (V)
 
 
-#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1060></a>
+#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1068></a>
 
-##### Chapitre Ier : Saint-Barthélemy<a id=1061></a>
+##### Chapitre Ier : Saint-Barthélemy<a id=1069></a>
 
 ###### Article D4381-4
 
@@ -85103,7 +85169,7 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-##### Chapitre II : Saint-Martin<a id=1062></a>
+##### Chapitre II : Saint-Martin<a id=1070></a>
 
 ###### Article D4382-4
 
@@ -85194,15 +85260,15 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES<a id=1063></a>
+## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES<a id=1071></a>
 
-### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=1064></a>
+### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=1072></a>
 
-#### TITRE Ier : SERVITUDES<a id=1065></a>
+#### TITRE Ier : SERVITUDES<a id=1073></a>
 
-##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=1066></a>
+##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=1074></a>
 
-##### Section 1 : Dispositions générales<a id=1067></a>
+##### Section 1 : Dispositions générales<a id=1075></a>
 
 ###### Article R5111-1
 
@@ -85251,7 +85317,7 @@ _Anciens textes_:
   - Loi n°1929-08-08 du 8 août 1929 - art. 6 (Ab), alinéa 2
 
 
-##### Section 2 : Etablissement d'un polygone d'isolement<a id=1068></a>
+##### Section 2 : Etablissement d'un polygone d'isolement<a id=1076></a>
 
 ###### Article R5111-3
 
@@ -85315,7 +85381,7 @@ _Anciens textes_:
   - Loi n°1929-08-08 du 8 août 1929 - art. 8 (Ab)
 
 
-##### Section 3 : Autorisation de construction dans un polygone d'isolement<a id=1069></a>
+##### Section 3 : Autorisation de construction dans un polygone d'isolement<a id=1077></a>
 
 ###### Article R5111-6
 
@@ -85462,7 +85528,7 @@ _Cite_:
   - Code de la défense. - art. R5111-6
 
 
-##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=1070></a>
+##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=1078></a>
 
 ###### Article R5112-1
 
@@ -85505,7 +85571,7 @@ _Codifié par_:
   - Décret n°2011-280 du 16 mars 2011 (V)
 
 
-##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=1071></a>
+##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=1079></a>
 
 ###### Article R5113-1
 
@@ -85523,9 +85589,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R*21 (V)
 
 
-##### Chapitre IV : Autres installations de défense<a id=1072></a>
+##### Chapitre IV : Autres installations de défense<a id=1080></a>
 
-##### Section 1 : Etablissement des servitudes des installations de défense<a id=1073></a>
+##### Section 1 : Etablissement des servitudes des installations de défense<a id=1081></a>
 
 ###### Article R5114-1
 
@@ -85632,9 +85698,9 @@ _Cite_:
 
 
 ##### Section 2 : Conditions d'autorisation de certaines
-constructions dans les zones de servitudes<a id=1074></a>
+constructions dans les zones de servitudes<a id=1082></a>
 
-##### Sous-section 1 : Secteurs de construction réglementée<a id=1075></a>
+##### Sous-section 1 : Secteurs de construction réglementée<a id=1083></a>
 
 ###### Article R5114-5
 
@@ -85686,7 +85752,7 @@ _Cite_:
   - Code de la défense. - art. R5114-5
 
 
-##### Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable<a id=1076></a>
+##### Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable<a id=1084></a>
 
 ###### Article R5114-7
 
@@ -85742,7 +85808,7 @@ _Cité par_:
   - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=1077></a>
+##### Sous-section 3 : Dispositions communes<a id=1085></a>
 
 ###### Article R5114-9
 
@@ -85800,11 +85866,11 @@ _Cite_:
   - Code de la défense. - art. R5114-6
 
 
-#### TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE<a id=1078></a>
+#### TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE<a id=1086></a>
 
-##### Chapitre unique : Répression des infractions relatives aux servitudes militaires<a id=1079></a>
+##### Chapitre unique : Répression des infractions relatives aux servitudes militaires<a id=1087></a>
 
-##### Section 1 : Dispositions générales<a id=1080></a>
+##### Section 1 : Dispositions générales<a id=1088></a>
 
 ###### Article R5121-1
 
@@ -85839,11 +85905,11 @@ _Cite_:
   - Code de la défense. - art. L5121-2 (V)
 
 
-#### TITRE III : GESTION ET ADMINISTRATION<a id=1081></a>
+#### TITRE III : GESTION ET ADMINISTRATION<a id=1089></a>
 
-##### Chapitre unique : Gestion et administration des infrastructures de la défense<a id=1082></a>
+##### Chapitre unique : Gestion et administration des infrastructures de la défense<a id=1090></a>
 
-##### Section 1 : Politique immobilière de la défense<a id=1083></a>
+##### Section 1 : Politique immobilière de la défense<a id=1091></a>
 
 ###### Article R5131-1
 
@@ -85938,7 +86004,7 @@ _Cite_:
   - Code du domaine de l'Etat - art. R57-3
 
 
-##### Section 2 : Compétence des autorités du ministère de la défense en matière domaniale<a id=1084></a>
+##### Section 2 : Compétence des autorités du ministère de la défense en matière domaniale<a id=1092></a>
 
 ###### Article D5131-6
 
@@ -86112,9 +86178,9 @@ _Anciens textes_:
   - Code de la défense. - art. D5131-9 (T)
 
 
-##### Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme<a id=1085></a>
+##### Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme<a id=1093></a>
 
-##### Sous-section 1 : Compétences en matière d'environnement<a id=1086></a>
+##### Sous-section 1 : Compétences en matière d'environnement<a id=1094></a>
 
 ###### Article D5131-10
 
@@ -86157,7 +86223,7 @@ _Cite_:
   - Code de l'environnement - art. R217-1 (VD)
 
 
-##### Sous-section 2 : Compétences en matière de logement<a id=1087></a>
+##### Sous-section 2 : Compétences en matière de logement<a id=1095></a>
 
 ###### Article R5131-11
 
@@ -86191,7 +86257,7 @@ _Cite_:
   - Code de la défense. - art. R5131-3 (V)
 
 
-##### Sous-section 3 : Compétences en matière d'urbanisme<a id=1088></a>
+##### Sous-section 3 : Compétences en matière d'urbanisme<a id=1096></a>
 
 ###### Article D5131-12
 
@@ -86271,7 +86337,7 @@ _Cite_:
   - Code de la défense. - art. L5114-1 (V)
 
 
-##### Section 4 : Programmation et coordination en matière d'infrastructure<a id=1089></a>
+##### Section 4 : Programmation et coordination en matière d'infrastructure<a id=1097></a>
 
 ###### Article D5131-14
 
@@ -86327,7 +86393,7 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
 
-##### Section 5 : Attributions particulières en matière de déminage<a id=1090></a>
+##### Section 5 : Attributions particulières en matière de déminage<a id=1098></a>
 
 ###### Article R5131-16
 
@@ -86352,11 +86418,11 @@ _Cité par_:
   - Code de la défense. - art. R5361-1 (V)
 
 
-### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1091></a>
+### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1099></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1092></a>
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1100></a>
 
-##### Chapitre unique<a id=1093></a>
+##### Chapitre unique<a id=1101></a>
 
 ###### Article D5321-1
 
@@ -86378,9 +86444,9 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1094></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1102></a>
 
-##### Chapitre unique<a id=1095></a>
+##### Chapitre unique<a id=1103></a>
 
 ###### Article D5341-2
 
@@ -86450,9 +86516,9 @@ _Cite_:
   - Code de la défense. - art. R5131-5 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1096></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1104></a>
 
-##### Chapitre unique<a id=1097></a>
+##### Chapitre unique<a id=1105></a>
 
 ###### Article D5351-2
 
@@ -86520,9 +86586,9 @@ _Cite_:
   - Code de la défense. - art. R5131-5 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1098></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1106></a>
 
-##### Chapitre unique<a id=1099></a>
+##### Chapitre unique<a id=1107></a>
 
 ###### Article D5361-2
 
@@ -86590,9 +86656,9 @@ _Cite_:
   - Code de la défense. - art. R5131-5 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1100></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1108></a>
 
-##### Chapitre unique<a id=1101></a>
+##### Chapitre unique<a id=1109></a>
 
 ###### Article D5371-2
 
@@ -86665,9 +86731,9 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1102></a>
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1110></a>
 
-##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1103></a>
+##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1111></a>
 
 ###### Article D5381-1
 
@@ -86686,7 +86752,7 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-##### Chapitre II : SAINT-MARTIN<a id=1104></a>
+##### Chapitre II : SAINT-MARTIN<a id=1112></a>
 
 ###### Article D5382-1
 
