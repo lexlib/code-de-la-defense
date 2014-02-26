@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-02-27
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -24797,19 +24797,23 @@ _Cité par_:
 Le secrétaire général de la défense et de la sécurité nationale peut signer, au nom du Premier ministre et par délégation,
 l'ensemble des actes, à l'exception des décrets, relatifs aux affaires mentionnées à la présente section.
 
+En cas d'absence ou d'empêchement du secrétaire général de la défense et de la sécurité nationale, le secrétaire général
+adjoint peut signer, au nom du Premier ministre et par délégation, l'ensemble des actes, à l'exception des décrets, relatifs
+aux affaires mentionnées à la présente section.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°78-78 du 25 janvier 1978 - art. 4 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2009-1657 du 24 décembre 2009 - art. 2
-
 _Cité par_:
 
   - Décret n°2014-211 du 24 février 2014 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-211 du 24 février 2014 - art. 1
 
 
 ###### Article D1132-6
