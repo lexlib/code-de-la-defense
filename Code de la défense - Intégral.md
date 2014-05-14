@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-05-01
+Version Consolidée au 2014-05-15
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -372,7 +372,7 @@ Version Consolidée au 2014-05-01
           - [Chapitre II : Organes collégiaux relevant du Président de la République (art. R*1122-1 à R*1122-10)](#369)
             - [Section unique : Conseil de défense et de sécurité nationale (art. R*1122-1 à R*1122-10)](#370)
               - [Sous-section 1 : Dispositions générales (art. R*1122-1 à R*1122-5)](#371)
-              - [Sous-section 2 : Conseil national du renseignement (art. R*1122-6 à R*1122-8)](#372)
+              - [Sous-section 2 : Conseil national du renseignement (art. D1122-8-1 à R*1122-8)](#372)
               - [Sous-section 3 : Conseil des armements nucléaires (art. R*1122-9 à R*1122-10)](#373)
         - [TITRE III : LE PREMIER MINISTRE (art. D*1131-1 à D1132-54)](#374)
           - [Chapitre Ier : Attributions (art. D*1131-1)](#375)
@@ -24815,6 +24815,29 @@ _Créé par_:
 
 
 ##### Sous-section 2 : Conseil national du renseignement<a id=372></a>
+
+###### Article D1122-8-1
+
+Les services spécialisés de renseignement, mentionnés à l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958
+relative au fonctionnement des assemblées parlementaires, sont la direction générale de la sécurité extérieure, la direction
+de la protection et de la sécurité de la défense, la direction du renseignement militaire, la direction générale de la
+sécurité intérieure, le service à compétence nationale dénommé " direction nationale du renseignement et des enquêtes
+douanières " et le service à compétence nationale dénommé " traitement du renseignement et action contre les circuits
+financiers clandestins ". 
+
+Ces services forment avec le coordonnateur national du renseignement et l'académie du renseignement la communauté française
+du renseignement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6 nonies (V)
+
+_Créé par_:
+
+  - Décret n°2014-474 du 12 mai 2014 - art. 1
+
 
 ###### Article R*1122-6
 
