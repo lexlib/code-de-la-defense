@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-07-19
+Version Consolidée au 2014-08-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -88746,8 +88746,10 @@ _Anciens textes_:
 
 ###### Article R5111-6
 
-L'autorisation préalable du ministre de la défense, prévue à l'article L. 5111-6, est requise dans le polygone d'isolement
-pour toute construction nouvelle ou toute reconstruction, réhabilitation ou transformation d'ouvrage existant.
+L'autorisation préalable de l'autorité administrative, prévue à l'article L. 5111-6, est requise dans le polygone d'isolement
+pour toute construction nouvelle ou toute reconstruction, réhabilitation ou transformation d'ouvrage existant. 
+
+Cette autorisation est délivrée par les autorités désignées à l'article R. 5111-7-1.
 
 **Liens relatifs à cet article**
 
@@ -88761,9 +88763,14 @@ _Cité par_:
   - Code de la défense. - art. R5111-10 (V)
   - Code de la défense. - art. R5111-8 (V)
 
+_Modifié par_:
+
+  - Décret n°2014-453 du 5 mai 2014 - art. 1
+
 _Cite_:
 
-  - Code de la défense. - art. L5111-6 (V)
+  - Code de la défense. - art. L5111-6
+  - Code de la défense. - art. R5111-7-1 (VD)
 
 
 ###### Article R5111-7
@@ -88771,12 +88778,12 @@ _Cite_:
 La délivrance de l'autorisation préalable donne lieu à la présentation d'une demande indiquant la nature des travaux, la
 position et les principales dimensions de la construction, ainsi que la nature des matériaux. 
 
-Le directeur de l'établissement du service d'infrastructure de la défense instruit la demande et fait connaître son avis au
-ministre dans les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande doit être
-complétée. 
+Le directeur de l'établissement du service d'infrastructure de la défense instruit la demande et fait connaître son avis à
+l'autorité administrative dans les deux mois à compter du dépôt de la demande, délai éventuellement prolongé si la demande
+doit être complétée. 
 
-L'autorisation du ministre est consentie dans les deux mois de la réception de l'avis du directeur de l'établissement du
-service d'infrastructure de la défense ou de l'expiration du délai qui lui était imparti pour le donner.
+L'autorisation de l'autorité administrative est consentie dans les deux mois de la réception de l'avis du directeur de
+l'établissement du service d'infrastructure de la défense ou de l'expiration du délai qui lui était imparti pour le donner.
 
 **Liens relatifs à cet article**
 
@@ -88784,53 +88791,54 @@ _Codifié par_:
 
   - Décret n°2011-280 du 16 mars 2011 (V)
 
-_Modifié par_:
-
-  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
-
 _Cité par_:
 
   - Décret n°2014-453 du 5 mai 2014 (V)
   - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
 
+_Modifié par_:
+
+  - Décret n°2014-453 du 5 mai 2014 - art. 2
+
 
 ###### Article R5111-7-1
 
-Le ministre de la défense peut déléguer par arrêté sa signature en matière d'autorisations mentionnées à l'article L.
-5111-6 : 
+Les autorisations prévues à l'article L. 5111-6 sont délivrées, pour leur zone ou leur domaine de compétence, par : 
 
-1° A l'inspecteur de l'armement pour les poudres et explosifs, pour les autorisations de construire dans les polygones
-d'isolement établis autour des établissements transférés par la loi n° 70-575 du 3 juillet 1970 portant réforme du régime des
-poudres et substances explosives et par la loi n° 89-924 du 23 décembre 1989 autorisant le transfert à une société nationale
-des établissements industriels dépendant du groupement industriel des armements terrestres ; 
+1° Le délégué général pour l'armement ; 
 
-2° Au directeur technique de la direction générale de l'armement, pour les autorisations de construire dans les polygones
-d'isolement établis autour des magasins et établissements servant à la conservation, à la manipulation ou à la fabrication de
-poudres, munitions, artifices et explosifs relevant du délégué général pour l'armement ou dont la direction générale de
-l'armement exerce la tutelle ; 
+2° L'inspecteur de l'armement pour les poudres et explosifs ; 
 
-3° Aux commandants de région terre, aux commandants d'arrondissement maritime et au commandant de la défense aérienne et des
-opérations aériennes, pour signer, après avis technique du service interarmées des munitions, les autorisations de construire
-dans les polygones d'isolement établis autour des établissements relevant de leur compétence. 
+3° Les commandants de région terre ; 
 
-Les autorités mentionnées aux 1° à 3° peuvent subdéléguer cette signature à leurs adjoints.
+4° Les commandants d'arrondissement maritime ; 
+
+5° Le commandant de la défense aérienne et des opérations aériennes ; 
+
+6° Les commandants supérieurs des forces armées dans les départements et régions d'outre-mer, dans les collectivités d'outre-
+mer régies par l'article 74 de la Constitution et en Nouvelle-Calédonie. 
+
+Les autorités mentionnées aux 1°, 2°, 3°, 4°, 5° et 6° peuvent déléguer leur signature à leurs adjoints ou leurs
+subordonnés. 
+
+Les autorités mentionnées aux 3°, 4° et 5° recueillent l'avis du service interarmées des munitions pour les autorisations de
+construire dans les polygones d'isolement établis autour des établissements relevant de ce service.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°70-575 du 3 juillet 1970 (V)
-  - Loi n°89-924 du 23 décembre 1989 (V)
-  - Code de la défense. - art. L5111-6 (V)
-
-_Créé par_:
-
-  - Décret n°2012-1499 du 27 décembre 2012 - art. 1
 
 _Cité par_:
 
   - Décret n°2014-453 du 5 mai 2014 (V)
   - Arrêté du 22 décembre 2015 - art. 5 (V)
+  - Code de la défense. - art. R5111-6 (VD)
+
+_Modifié par_:
+
+  - Décret n°2014-453 du 5 mai 2014 - art. 3
+
+_Cite_:
+
+  - Code de la défense. - art. L5111-6
 
 
 ###### Article R5111-8
