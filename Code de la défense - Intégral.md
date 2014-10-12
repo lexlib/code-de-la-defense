@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-09-14
+Version Consolidée au 2014-10-13
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -766,7 +766,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#632)
               - [Sous-section 1 : Les organismes de formation (art. R3222-10)](#762)
               - [Sous-section 2 : La légion étrangère (art. D3222-11)](#763)
               - [Sous-section 3 : Le commandement des formations militaires de la sécurité civile (art. D3222-12)](#764)
-              - [Sous-section 4 : Les sapeurs-pompiers de Paris (art. R3222-13 à R3222-18)](#765)
+              - [Sous-section 4 : Les sapeurs-pompiers de Paris (art. R3222-13 à R3222-17)](#765)
               - [Sous-section 5 : Le commandement du service militaire adapté (art. D3222-19 à D3222-22)](#766)
               - [Sous-section 6 : Le commandement de l'aviation légère de l'armée de terre (art. D3222-23)](#767)
           - [Chapitre III : Organisation de la marine nationale (art. R3223-1 à R3223-61)](#768)
@@ -30149,24 +30149,26 @@ Dans le cadre de ses missions, la brigade de sapeurs-pompiers de Paris intervien
 
 3° La protection des personnes, des biens et de l'environnement ;
 
-4° L'assistance et les secours d'urgence aux personnes en détresse ou victimes d'accidents, de sinistres ou de catastrophes
-ainsi que leur évacuation.
+4° Les secours d'urgence aux personnes victimes d'accidents, de sinistres ou de catastrophes ainsi que leur évacuation.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2000-1162 2000-11-28 art. 4 al. 3 à 7
   - Décret n°2000-1162 du 28 novembre 2000 - art. 4 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
 
 _Cité par_:
 
   - Arrêté du 14 février 2014 - art. 7 (V)
   - Arrêté du 11 décembre 2017 - art. 1 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-1169 du 10 octobre 2014 - art. 1
 
 
 ###### Article R1321-21
@@ -59593,14 +59595,16 @@ _Cité par_:
 La brigade de sapeurs-pompiers de Paris est une unité militaire de sapeurs-pompiers de l'armée de terre appartenant à l'arme
 du génie. Le commandement en est exercé par un officier général.
 
-Le commandant de la brigade dispose d'adjoints, officiers supérieurs, auxquels il peut déléguer sa signature dans les
-conditions fixées par arrêté du ministre de la défense.
+Le commandant de la brigade dispose d'un commandant en second et d'adjoints. Sans préjudice des dispositions de l'article 77
+du décret n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de
+l'Etat dans les régions et départements, il peut leur déléguer sa signature dans les conditions fixées par arrêté du ministre
+de la défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2004-374 du 29 avril 2004 - art. 77
 
 _Cité par_:
 
@@ -59609,6 +59613,10 @@ _Cité par_:
   - Code de la défense. - art. R3551-3 (M)
   - Code de la défense. - art. R3561-3 (M)
   - Code de la défense. - art. R3571-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2014-1169 du 10 octobre 2014 - art. 2
 
 
 ###### Article R3222-14
@@ -59631,7 +59639,7 @@ _Créé par_:
 ###### Article R3222-15
 
 Le service de santé et de secours médical de la brigade de sapeurs-pompiers de Paris participe, dans son domaine de
-compétence, à l'exercice des missions prévues aux articles R. 1321-11 à R. 1321-15.
+compétence, à l'exercice des missions prévues aux articles R. 1321-19 à R. 1321-24-1. 
 
 A cet effet, il concourt en particulier à l'aide médicale urgente telle que définie par l'article L. 6311-1 du code de la
 santé publique. 
@@ -59646,20 +59654,20 @@ fonctionnement du service de santé et de secours médical de la brigade.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2014-1169 du 10 octobre 2014 - art. 3
 
 _Cite_:
 
-  - Code de la santé publique - art. L6311-1 (V)
-  - Code de la santé publique - art. R1321-11 (V)
+  - Code de la défense. - art. R1321-19
+  - Code de la santé publique - art. L6311-1
 
 
 ###### Article R3222-16
 
-I. ― Le général commandant la brigade de sapeurs-pompiers de Paris dispose d'un centre de coordination des opérations et des
-transmissions lui permettant d'assurer :
+I. ― Le général commandant la brigade de sapeurs-pompiers de Paris dispose d'un centre opérationnel lui permettant
+d'assurer :
 
 1° La coordination des moyens d'incendie et de secours sur le secteur de compétence de la brigade ;
 
@@ -59668,25 +59676,24 @@ transmissions lui permettant d'assurer :
 3° La coordination médicale de la brigade et le déclenchement des interventions des équipes médicales du service de santé et
 de secours médical de la brigade.
 
-II. ― Le centre de coordination des opérations et des transmissions de la brigade est interconnecté avec, d'une part, les
-centres de réception et de régulation des appels des unités participant au service d'aide médicale urgente appelées SAMU des
-départements concernés et, d'autre part, les dispositifs de réception des appels des services de police territorialement
-compétents.
+II. ― Le centre opérationnel de la brigade est interconnecté avec, d'une part, les centres de réception et de régulation des
+appels des unités participant au service d'aide médicale urgente appelées SAMU des départements concernés et, d'autre part,
+les dispositifs de réception des appels des services de police territorialement compétents.
 
 III. ― Pour les interventions relevant de la gestion quotidienne des secours, les relations entre la brigade de sapeurs-
 pompiers de Paris et chacun des SAMU susmentionnés sont organisées par voie de convention.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 _Cité par_:
 
   - Arrêté du 14 février 2014 - art. 9 (V)
   - Décret n°2018-856 du 8 octobre 2018 - art. 1
   - Code de la sécurité intérieure - art. R732-11-2 (VD)
+
+_Modifié par_:
+
+  - Décret n°2014-1169 du 10 octobre 2014 - art. 4
 
 
 ###### Article R3222-17
@@ -59717,28 +59724,6 @@ _Cité par_:
 _Cite_:
 
   - Code général des collectivités territoriales - art. R1424-52 (V)
-
-
-###### Article R3222-18
-
-Le général commandant la brigade de sapeurs-pompiers de Paris peut recevoir délégation de signature du préfet de police.
-
-En cas d'absence ou d'empêchement du général commandant la brigade de sapeurs-pompiers de Paris, le préfet de police peut
-donner délégation de signature aux officiers supérieurs de l'état-major dans la limite de leurs attributions respectives.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
-_Cité par_:
-
-  - Décret n°2014-1169 du 10 octobre 2014 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-1169 du 10 octobre 2014 - art. 5
 
 
 ##### Sous-section 5 : Le commandement du service militaire adapté<a id=766></a>
@@ -70654,9 +70639,9 @@ _Créé par_:
 
 ###### Article R3416-19
 
-Le comité directeur de l'océanographie militaire, le comité scientifique de l'océanographie militaire et le comité
-consultatif des utilisateurs des documents, levés et prestations du SHOM, dont les attributions et la composition sont fixées
-par arrêtés du ministre de la défense, assistent le conseil d'administration et le directeur général.
+Le comité directeur de l'océanographie militaire et le comité consultatif des utilisateurs des documents, levés et
+prestations du SHOM, dont les attributions et la composition sont fixées par arrêtés du ministre de la défense, assistent le
+conseil d'administration et le directeur général.
 
 Sur proposition du directeur général, le conseil d'administration peut décider de la création de comités consultatifs dont il
 fixe l'objet, la composition et la durée.
@@ -70673,16 +70658,16 @@ l'entrée en vigueur du présent décret (jusqu'au 8 juin 2015).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 _Cité par_:
 
   - Arrêté du 11 mai 2009 - art. 1 (V)
   - Décret n°2009-630 du 6 juin 2009 - art. (VD)
   - Décret n°2014-596 du 6 juin 2014 - art. (V)
   - Code de la défense. - art. R3416-15 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-1169 du 10 octobre 2014 - art. 6
 
 
 ###### Article R3416-20
@@ -73126,20 +73111,19 @@ _Créé par_:
 ###### Article R3423-13
 
 Le président du conseil d'administration de l'office est nommé parmi les membres du conseil d'administration et sur
-proposition de celui-ci, pour une durée de trois ans renouvelable, par décret en conseil des ministres pris sur le rapport du
-ministre de la défense.
+proposition de celui-ci, par décret en conseil des ministres pris sur le rapport du ministre de la défense.
 
 Il assure la direction générale de l'office.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
-
 _Cité par_:
 
   - Décret n°2014-1169 du 10 octobre 2014 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-1169 du 10 octobre 2014 - art. 7
 
 
 ###### Article R3423-14
