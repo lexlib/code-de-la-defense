@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-10-30
+Version Consolidée au 2014-12-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -46550,78 +46550,66 @@ _Cite_:
 Les autorisations d'importation mentionnées à l'article L. 2335-1 peuvent être accordées : 
 
 I. ― En ce qui concerne les matériels de guerre, armes, éléments d'arme, munitions et éléments de munition classés dans les
-catégories A et B mentionnées à l'article L. 2331-1 : 
+catégories A et B mentionnées à l'article R. 311-2 du code de la sécurité intérieure : 
 
-1° Aux personnes titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 ou de l'agrément mentionné à l'article
-91 du décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à
-l'établissement d'un contrôle des armes moderne, simplifié et préventif ; 
+1° Aux personnes titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 du présent code ou de l'agrément
+mentionné à l'article R. 313-1 du code de la sécurité intérieure ; 
 
-2° Aux personnes qui ont obtenu, dans les conditions définies par le décret n° 2013-700 du 30 juillet 2013 susmentionné,
-l'autorisation de les acquérir ou de les détenir ; 
+2° Aux personnes qui ont obtenu, dans les conditions définies par le chapitre II du titre Ier du livre III du code de la
+sécurité intérieure, l'autorisation de les acquérir ou de les détenir ; 
 
 3° Aux personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 et qui, à titre
 exceptionnel, demandent l'autorisation d'importer des matériels des catégories A et B. Celles-ci doivent indiquer avec
 précision dans leur demande d'autorisation d'importation l'usage auquel elles destinent le matériel à importer ; 
 
-4° Aux communes qui ont obtenu, dans les conditions prévues par le décret n° 2000-276 du 24 mars 2000 fixant les modalités
-d'application de l'article L. 412-51 du code des communes et relatif à l'armement des agents de police municipale,
-l'autorisation d'en faire l'acquisition et de les détenir. 
+4° Aux communes qui ont obtenu, dans les conditions prévues par le chapitre Ier du titre Ier du livre V du code de la
+sécurité intérieure, l'autorisation d'en faire l'acquisition et de les détenir. 
 
-II. ― En ce qui concerne les armes, éléments d'arme, munitions et éléments de munition classés par l'article 2 du décret du
-30 juillet 2013 susmentionné aux 1°, 2°, 6°, 7° et 8° de la catégorie C et au 1° de la catégorie D mentionnées à l'article L.
-2331-1 : 
+II. ― En ce qui concerne les armes, éléments d'arme, munitions et éléments de munition classés aux 1°, 2°, 6°, 7° et 8° de la
+catégorie C et au 1° de la catégorie D : 
 
-1° Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions des articles 91,74,97 et 101 du décret du
-30 juillet 2013 susmentionné ; 
+1° Aux fabricants ou commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8
+et R. 313-12 du code de la sécurité intérieure et de l'article 74 du décret n° 2013-700 du 30 juillet 2013 ; 
 
-2° Aux autres personnes, sur présentation des pièces prévues à l'article 43 du décret du 30 juillet 2013 susmentionné. 
+2° Aux autres personnes, sur présentation des pièces prévues à l'article R. 312-53 du code de la sécurité intérieure. 
 
-III. ― En ce qui concerne les armes des a, b et c du 2° de la catégorie D énumérées par l'article 2 du décret du 30 juillet
-2013 susmentionné : 
+III. ― En ce qui concerne les armes des a, b et c du 2° de la catégorie D énumérées par l'article R. 311-2 du code de la
+sécurité intérieure : 
 
-1° Aux fabricants et commerçants ayant satisfait, selon le cas, aux prescriptions des articles 91,74,97 et 101 du décret du
-30 juillet 2013 susmentionné ; 
+1° Aux fabricants et commerçants ayant satisfait, selon le cas, aux prescriptions des articles R. 313-1, R. 313-2, R. 313-8
+et R. 313-12 du code de la sécurité intérieure et de l'article 74 du décret n° 2013-700 du 30 juillet 2013 ; 
 
 2° Aux autres personnes, pour les détenir à titre personnel ou professionnel. 
 
-IV. ― En ce qui concerne les matériels, armes, éléments d'arme et munitions visés aux I et II de l'article 25 du décret du 30
-juillet 2013 susmentionné, aux administrations et services publics mentionnés audit article. 
+IV. ― En ce qui concerne les matériels, armes, éléments d'arme et munitions mentionnés aux articles R. 312-22 et R. 312-23 du
+code de la sécurité intérieure, aux administrations et services publics mentionnés aux mêmes articles. 
 
-V. ― En ce qui concerne les armes, éléments d'arme, munitions et éléments de munition mentionnés au I de l'article L. 2335-1
-mentionnées à l'article L. 2331-1, aux personnes mentionnées aux I, II et III du présent article, qui les importent
-temporairement pour exposition, rénovation, transformation ou fabrication.
-
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014. 
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
+V. ― En ce qui concerne les armes, éléments d'arme, munitions et éléments de munition mentionnés au I de l'article L. 2335-1,
+aux personnes mentionnées aux I, II et III du présent article, qui les importent temporairement pour exposition, rénovation,
+transformation ou fabrication.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2000-276 du 24 mars 2000
-  - Décret n°2013-700 du 30 juillet 2013
-  - Décret n°2013-700 du 30 juillet 2013 - art. 25
-  - Décret n°2013-700 du 30 juillet 2013 - art. 43
-  - Décret n°2013-700 du 30 juillet 2013 - art. 91
-  - Code des communes - art. L412-51
-  - Code de la défense. - art. L2331-1 (V)
-  - Code de la défense. - art. L2332-1 (VT)
-  - Code de la défense. - art. L2335-1 (V)
-
-_Modifié par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-  - Décret n°2013-723 du 12 août 2013 - art. 2
+  - Décret n°2013-700 du 30 juillet 2013 - art. 74 (VD)
+  - Code de la défense. - art. L2332-1
+  - Code de la défense. - art. L2335-1
+  - Code de la sécurité intérieure - art. R311-2
+  - Code de la sécurité intérieure - art. R312-53
+  - Code de la sécurité intérieure - art. R313-1
+  - Code de la sécurité intérieure - art. R313-12
+  - Code de la sécurité intérieure - art. R313-2
+  - Code de la sécurité intérieure - art. R313-8
 
 _Cité par_:
 
   - Arrêté du 2 juin 2014 - art. 1 (V)
   - Code de la défense. - art. R2335-33 (VD)
+
+_Modifié par_:
+
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
 
 
 ###### Article R2335-4
@@ -46665,8 +46653,7 @@ régime douanier des retours ou en suite de régime de perfectionnement passif.
 temporaire et cent cartouches par arme ; 
 
 8° Les armes de poing et les munitions dont le port est autorisé par arrêté du ministre de l'intérieur en application de
-l'article 124 du décret n° 2013-700 du 30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à
-l'établissement d'un contrôle des armes moderne, simplifié et préventif ; 
+l'article R. 315-6 du code de la sécurité intérieure ; 
 
 9° Les matériels de guerre classés aux 8°, 9°, 10°, 12°, 13° et 14° de la catégorie A 2 importés sous le régime douanier de
 l'admission temporaire, les véhicules ou engins chenillés devant être transportés par un autre véhicule muni de pneumatiques,
@@ -46679,14 +46666,6 @@ et 7° de la catégorie C et en catégorie D.
 
 Ce régime est prévu par le règlement n° 2913/92 du Conseil des Communautés européennes du 12 octobre 1992 établissant le code
 des douanes communautaires.
-
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014. 
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -46701,16 +46680,14 @@ _Cité par_:
   - Code de la sécurité intérieure - art. R311-4 (VD)
   - Code de la sécurité intérieure - art. R316-32 (V)
 
-_Cite_:
-
-  - Décret n°2013-700 du 30 juillet 2013 - art. 124
-  - Code de la défense. - art. L2335-1
-  - Code des douanes
-  - Code de la route. - art. R314-1
-
 _Modifié par_:
 
-  - Décret n°2014-62 du 28 janvier 2014 - art. 16
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+
+_Cite_:
+
+  - Code de la défense. - art. L2335-1
+  - Code de la route. - art. R314-1
 
 
 ###### Article R2335-5
@@ -46738,41 +46715,31 @@ _Cite_:
 
 ###### Article R2335-6
 
-Les personnes mentionnées aux articles 32 à 34,36 et 56 du décret du 30 juillet 2013 portant application de la loi n°
-2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes moderne, simplifié et préventif, portant ou
-transportant des armes, éléments d'armes ou des munitions des catégories A ou B et entrant ou rentrant en France peuvent
-importer ces armes, éléments d'arme et munitions sur simple présentation de l'autorisation d'acquisition ou de détention
-correspondante délivrée par les autorités citées à l'article 10 du décret du 30 juillet 2013 susmentionné. 
+Les personnes mentionnées aux articles R. 312-37 à R. 312-40, R. 312-44 et R. 312-66 du code de la sécurité intérieure,
+portant ou transportant des armes, éléments d'armes ou des munitions des catégories A ou B et entrant ou rentrant en France
+peuvent importer ces armes, éléments d'arme et munitions sur simple présentation de l'autorisation d'acquisition ou de
+détention correspondante délivrée par les autorités citées à l'article l'article R. 312-2 du même code. 
 
 Si elles ne peuvent présenter cette autorisation, elles sont tenues de déposer ces armes, éléments d'arme et munitions au
 premier bureau de douane ; les armes, éléments d'arme et munitions ainsi déposés ne peuvent être retirés que sur présentation
 de ladite autorisation.
 
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014. 
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
-
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°2012-304 du 6 mars 2012
-  - Décret n°2013-700 du 30 juillet 2013 - art. 10 (V)
-  - Décret n°2013-700 du 30 juillet 2013 - art. 32 (V)
-  - Décret n°2013-700 du 30 juillet 2013 - art. 36 (V)
-  - Décret n°2013-700 du 30 juillet 2013 - art. 56 (V)
-
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
 
 _Modifié par_:
 
-  - Décret n°2013-723 du 12 août 2013 - art. 2
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+
+_Abrogé par_:
+
+  - Décret n°2017-909 du 9 mai 2017 - art. 12
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R312-2
+  - Code de la sécurité intérieure - art. R312-37
+  - Code de la sécurité intérieure - art. R312-44
+  - Code de la sécurité intérieure - art. R312-66
 
 
 ###### Article R2335-7
@@ -46922,8 +46889,8 @@ L. 2335-7.
 
 Les personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 et qui, à titre
 exceptionnel, conformément au deuxième alinéa du V de l'article L. 2335-3, demandent l'autorisation d'exporter des matériels
-des catégories A et B mentionnées à l'article L. 2331-1, doivent indiquer avec précision, dans leur demande d'autorisation
-d'exportation, l'usage auquel elles destinent le matériel à exporter.
+des catégories A et B mentionnées à l'article R. 311-2 du code de la sécurité intérieure, doivent indiquer avec précision,
+dans leur demande d'autorisation d'exportation, l'usage auquel elles destinent le matériel à exporter.
 
 Les matériels destinés à être transbordés dans les ports ou aérodromes de France font l'objet de la demande d'autorisation de
 transit mentionnée à l'article R. 2335-41.
@@ -46951,15 +46918,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-723 du 12 août 2013 - art. 2
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
 
 _Cite_:
 
-  - Code de la défense. - art. L2331-1 (V)
+  - Code de la défense. - art. L2331-1
   - Code de la défense. - art. L2332-1
-  - Code de la défense. - art. L2335-3 (V)
+  - Code de la défense. - art. L2335-3
   - Code de la défense. - art. L2335-5
-  - Code de la défense. - art. L2335-7 (V)
+  - Code de la défense. - art. L2335-7
   - Code de la défense. - art. R2335-41
 
 
@@ -47425,8 +47392,8 @@ ministre de la défense et du ministre chargé des douanes.
 
 Les personnes qui ne sont pas titulaires de l'autorisation mentionnée au I de l'article L. 2332-1 et qui, à titre
 exceptionnel, conformément au deuxième alinéa du VI de l'article L. 2335-10, demandent l'autorisation de transférer des
-matériels des quatre premières catégories mentionnées à l'article L. 2331-1 doivent préciser dans leur demande d'autorisation
-de transfert l'usage auquel elles destinent le matériel à transférer. 
+matériels des catégories A et B mentionnées à l'article R. 311-2 du code de la sécurité intérieure doivent préciser dans leur
+demande d'autorisation de transfert l'usage auquel elles destinent le matériel à transférer. 
 
 II. ― En application du premier alinéa de l'article L. 2335-13, le fournisseur qui a l'intention d'utiliser une licence
 générale de transfert pour la première fois en fait la déclaration au ministre de la défense dans un délai minimum de trente
@@ -47442,14 +47409,6 @@ Ce numéro est indiqué sur les documents commerciaux relatifs à tout transfert
 A compter de la réception du numéro d'enregistrement, le fournisseur peut procéder à la première opération de transfert au
 titre de la licence générale.
 
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -47462,17 +47421,12 @@ _Cité par_:
   - Arrêté du 28 juillet 2015 - art. 3 (V)
   - Code de la défense. - art. R2335-46 (VD)
 
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
 _Modifié par_:
 
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
 
 _Cite_:
 
-  - Code de la défense. - art. L2331-1
   - Code de la défense. - art. L2332-1
   - Code de la défense. - art. L2335-10
   - Code de la défense. - art. L2335-13
@@ -48287,9 +48241,8 @@ _Cite_:
 ###### Article R2335-40-1
 
 I. ― En application du V de l'article L. 2335-10, le transfert à partir d'un autre Etat membre de l'Union européenne vers la
-France des armes, munitions et leurs éléments des 1° et 2° de la catégorie A2 énumérés à l'article 2 du décret n° 2013-700 du
-30 juillet 2013 portant application de la loi n° 2012-304 du 6 mars 2012 relative à l'établissement d'un contrôle des armes
-moderne, simplifié et préventif est soumis à l'autorisation mentionnée à l'article L. 2335-1 et à ses textes d'application. 
+France des armes, munitions et leurs éléments des 1° et 2° de la catégorie A2 énumérés à l'article R. 311-2 du code de la
+sécurité intérieure est soumis à l'autorisation mentionnée à l'article L. 2335-1 et à ses textes d'application. 
 
 II. ― Le transfert des armes, munitions et leurs éléments mentionnés au I renvoyés vers la France après exposition ou
 réparation est dispensé d'autorisation. 
@@ -48302,20 +48255,15 @@ la copie de l'autorisation correspondante.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2012-304 du 6 mars 2012
-  - Décret n°2013-700 du 30 juillet 2013 - art. 2
-  - Code de la défense. - art. L2335-1
-  - Code de la défense. - art. L2335-10
-
-_Créé par_:
-
-  - Décret n°2013-700 du 30 juillet 2013 - art. 180
-
 _Modifié par_:
 
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 6
+
+_Cite_:
+
+  - Code de la défense. - art. L2335-1
+  - Code de la défense. - art. L2335-10
+  - Code de la sécurité intérieure - art. R311-2 (V)
 
 _Cité par_:
 
@@ -89261,24 +89209,25 @@ _Modifié par_:
 ###### Article R5131-16
 
 Les attributions du ministre de la défense et du ministre de l'intérieur en matière de recherche, neutralisation, enlèvement
-et destruction des munitions, mines, pièges, engins et explosifs sont fixées par les articles 2 à 4 et 6 à 9 du décret n°
-76-225 du 4 mars 1976.
+et destruction des munitions, mines, pièges, engins et explosifs sont fixées par les articles R. 733-1 à R. 733-4 et R.
+733-14 à R. 733-16 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°76-225 du 4 mars 1976 - art. 2 (V)
-
-_Codifié par_:
-
-  - Décret n°2011-280 du 16 mars 2011 (V)
+  - Décret n°2014-1253 du 27 octobre 2014 - art. 2 (VD)
 
 _Cité par_:
 
   - Code de la défense. - art. R5341-1 (V)
   - Code de la défense. - art. R5351-1 (V)
   - Code de la défense. - art. R5361-1 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. R733-1 (VD)
+  - Code de la sécurité intérieure - art. R733-14 (VD)
 
 
 ### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1120></a>
