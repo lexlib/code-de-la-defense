@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2014-12-01
+Version Consolidée au 2014-12-19
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -21705,25 +21705,29 @@ _Cité par_:
 
 Le militaire de carrière se trouvant à moins de deux ans de la limite d'âge de son grade, l'officier sous contrat et le
 militaire engagé se trouvant à moins de deux ans de la limite de durée des services ainsi que le militaire en congé de
-reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 123-1-1 du code de commerce, L.
-133-6-8-1 et L. 133-6-8-2 du code de la sécurité sociale et 50-0 et 102 ter du code général des impôts. 
+reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 133-6-8-1 et L. 133-6-8-2 du code de
+la sécurité sociale et 50-0 et 102 ter du code général des impôts. 
 
 Le cumul de cette activité avec l'activité principale des militaires est autorisé dans les conditions prévues aux cinquième
 et sixième alinéas de l'article L. 4122-2 du présent code et par le décret en Conseil d'Etat pris pour leur application.
 
+**Nota:**
+
+Conformément à l'article 27 VI de la loi n° 2014-626 du 18 juin 2014, ces dispositions entrent en vigueur à une date fixée
+par décret et, au plus tard, six mois à compter de la date de publication de la présente loi.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-14 du 5 janvier 2011 - art. 3
+  - Loi n°2014-626 du 18 juin 2014 - art. 27
 
 _Cite_:
 
-  - Code de commerce - art. L123-1-1
   - Code général des impôts, CGI. - art. 102 ter (V)
   - Code général des impôts, CGI. - art. 50-0 (V)
   - Code de la défense. - art. L4122-2
-  - Code de la sécurité sociale. - art. L133-6-8-1 (V)
+  - Code de la sécurité sociale. - art. L133-6-8-1 (T)
   - Code de la sécurité sociale. - art. L133-6-8-2 (V)
 
 _Cité par_:
@@ -83661,52 +83665,29 @@ _Cite_:
 
 ###### Article R4138-60
 
-Le congé parental peut débuter à tout moment, au cours de la période y ouvrant droit.
+Le congé parental peut débuter à tout moment, au cours de la période y ouvrant droit. 
 
-Il est accordé par périodes de six mois renouvelables.
+Il est accordé par périodes de six mois renouvelables. 
+
+La dernière période de congé parental peut être inférieure à six mois pour assurer le délai mentionné au deuxième alinéa de
+l'article L. 4138-14. 
 
 Les demandes de renouvellement doivent être présentées deux mois au moins avant l'expiration de la période de congé en cours,
 sous peine de cessation de plein droit du bénéfice du congé parental.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-_Cité par_:
-
-  - Code de la défense. - art. R4138-61 (Ab)
-
-
-###### Article R4138-61
-
-A l'expiration de l'une des périodes de six mois mentionnées au deuxième alinéa de l'article R. 4138-60, le militaire peut
-renoncer au bénéfice du congé parental au profit de l'autre parent militaire pour la ou les périodes restant à courir jusqu'à
-la limite maximale fixée à l'article L. 4138-14. La demande doit être présentée deux mois au moins avant l'expiration de la
-période en cours. 
-
-La dernière période de congé parental peut être inférieure à six mois pour assurer le respect du délai mentionné au deuxième
-alinéa de l'article L. 4138-14.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
-_Cité par_:
-
-  - Décret n°2014-1522 du 16 décembre 2014 (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2014-1522 du 16 décembre 2014 - art. 1
 
 _Cite_:
 
   - Code de la défense. - art. L4138-14
-  - Code de la défense. - art. R4138-60
+
+_Cité par_:
+
+  - Code de la défense. - art. R4138-61 (Ab)
 
 
 ###### Article R4138-62
@@ -83731,13 +83712,24 @@ _Modifié par_:
 
 Si, à l'expiration du congé parental, le militaire sollicite son affectation dans un poste le plus proche possible de sa
 résidence, il doit en formuler la demande deux mois au moins avant la date de reprise de ses fonctions. Sa demande est
-examinée en tenant compte des nécessités du service.
+examinée en tenant compte des nécessités du service. 
+
+A l'expiration du congé parental, le militaire est réintégré dans les conditions prévues à l'article L. 4138-14. A sa
+demande, il est placé en position de détachement pour une période au moins égale à la durée restant à courir du détachement
+initial. 
+
+Six semaines au moins avant sa réintégration, le militaire bénéficie d'un entretien avec son gestionnaire pour en examiner
+les modalités.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
+  - Décret n°2014-1522 du 16 décembre 2014 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L4138-14
 
 
 ##### Sous-section 4 : Retrait d'emploi<a id=1016></a>
