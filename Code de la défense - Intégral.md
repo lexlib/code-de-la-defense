@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-06-22
+Version Consolidée au 2015-07-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -55206,12 +55206,12 @@ explosifs.
 Toutefois, les dispositions de l'article R. 2352-47 et des sous-sections 3,4 et 5 de la présente section ne sont pas
 applicables : 
 
-1° Aux artifices de divertissement définis par l'article 13 du décret n° 2010-455 du 4 mai 2010 relatif à la réglementation
+1° Aux artifices de divertissement définis par l'article R. 557-6-3 du code de l'environnement relatif à la réglementation
 des artifices de divertissement ; 
 
 2° Aux produits explosifs placés sous la surveillance de l'autorité militaire ; 
 
-3° Aux munitions et éléments de munitions des armes énumérées au décret n° 95-589 du 6 mai 1995relatif à l'application du
+3° Aux munitions et éléments de munitions des armes énumérées au décret n° 95-589 du 6 mai 1995 relatif à l'application du
 décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions ; 
 
 4° Aux produits explosifs, définis par arrêté conjoint du ministre de l'intérieur, du ministre de la défense et du ministre
@@ -55237,12 +55237,12 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°95-589 du 6 mai 1995 (V)
-  - Décret n°2010-455 du 4 mai 2010 - art. 13 (V)
+  - Décret n°95-589 du 6 mai 1995
+  - Code de l'environnement - art. R557-6-3 (V)
 
 _Modifié par_:
 
-  - Décret n°2009-502 du 5 mai 2009 - art. 4
+  - Décret n°2015-799 du 1er juillet 2015 - art. 2
 
 
 ##### Sous-section 1 : Autorisation des opérations de production, transfert, importation, vente et exportation<a id=693></a>
@@ -55312,8 +55312,8 @@ _Créé par_:
 
 ###### Article R2352-26
 
-Le transfert de produits explosifs de statut communautaire soumis au marquage CE au sens de l'article 4 du décret n° 2010-455
-du 4 mai 2010, d'un Etat membre de la Communauté européenne vers la France est soumis à autorisation de transfert simple
+Le transfert de produits explosifs de statut communautaire soumis au marquage CE au sens de l'article L. 557-4 du code de
+l'environnement, d'un Etat membre de la Communauté européenne vers la France est soumis à autorisation de transfert simple
 délivrée au destinataire par le ministre chargé des douanes après avis conforme du ministre de l'intérieur et du ministre
 chargé de l'industrie. La décision d'autorisation ou de refus est notifiée au pétitionnaire par le ministre chargé des
 douanes. L'autorisation peut être suspendue ou abrogée à tout moment par décision motivée, après que l'intéressé ait été mis
@@ -55324,14 +55324,6 @@ douanes. L'autorisation peut être suspendue ou abrogée à tout moment par déc
 _Anciens textes_:
 
   - Décret n°71-753 du 10 septembre 1971 - art. 8-2 (Ab)
-
-_Cite_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 4 (V)
-
-_Modifié par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
 
 _Cité par_:
 
@@ -55345,6 +55337,14 @@ _Cité par_:
   - Code de la défense. - art. R2352-4 (V)
   - Code de la défense. - art. R2352-45 (V)
   - Code de la défense. - art. R2352-5 (M)
+
+_Modifié par_:
+
+  - Décret n°2015-799 du 1er juillet 2015 - art. 2
+
+_Cite_:
+
+  - Code de l'environnement - art. L557-4 (V)
 
 
 ###### Article R2352-27
@@ -55534,11 +55534,12 @@ _Cité par_:
 
 ###### Article R2352-34
 
-Le transfert de produits explosifs de statut communautaire soumis au marquage  CE  au sens de l'article 4 du décret n°
-2010-455 du 4 mai 2010, de France vers un autre Etat membre de la Communauté européenne, est subordonné à l'obtention de
-l'autorisation de transfert simple ou de transferts multiples délivrée au destinataire par l'Etat membre de destination ainsi
-que de l'autorisation du ministre chargé des douanes prise après avis conforme du ministre chargé de l'industrie. Le ministre
-chargé des douanes notifie au pétitionnaire la décision par laquelle il statue sur une demande d'autorisation.
+Le transfert de produits explosifs de statut communautaire soumis au marquage CE                 au sens de l'article L.
+557-4 du code de l'environnement, de France vers un autre Etat membre de la Communauté européenne, est subordonné à
+l'obtention de l'autorisation de transfert simple ou de transferts multiples délivrée au destinataire par l'Etat membre de
+destination ainsi que de l'autorisation du ministre chargé des douanes prise après avis conforme du ministre chargé de
+l'industrie. Le ministre chargé des douanes notifie au pétitionnaire la décision par laquelle il statue sur une demande
+d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -55550,10 +55551,6 @@ _Cite_:
 
   - Décret n°2010-455 du 4 mai 2010 - art. 4
 
-_Modifié par_:
-
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
-
 _Cité par_:
 
   - Décret n°2014-1282 du 23 octobre 2014 - art. (V)
@@ -55563,6 +55560,10 @@ _Cité par_:
   - Code de la défense. - art. R2352-4 (V)
   - Code de la défense. - art. R2352-46 (V)
   - Code de la défense. - art. R2352-5 (M)
+
+_Modifié par_:
+
+  - Décret n°2015-799 du 1er juillet 2015 - art. 2
 
 
 ###### Article R2352-35
@@ -55935,11 +55936,11 @@ _Modifié par_:
 ###### Article R2352-64
 
 Le ministre chargé de l'intérieur, ou le préfet en ce qui concerne la circulation des produits soumis aux règles
-d'identification et de traçabilité ainsi que des produits mentionnés à l'article 4 du décret n° 2010-455 du 4 mai 2010 à
-l'intérieur du territoire national et le ministre chargé des douanes en ce qui concerne le transfert de ces produits en
-provenance ou à destination d'un autre Etat membre de la Communauté européenne peuvent, en cas de menaces graves ou
-d'atteintes à l'ordre public en raison de la détention ou de l'emploi illicites de ces produits, prendre toutes mesures
-nécessaires pour prévenir cette détention ou cet emploi illicites.
+d'identification et de traçabilité ainsi que des produits mentionnés               à l' article R. 557-6-2 du code de
+l'environnement  à l'intérieur du territoire national et le ministre chargé des douanes en ce qui concerne le transfert de
+ces produits en provenance ou à destination d'un autre Etat membre de la Communauté européenne peuvent, en cas de menaces
+graves ou d'atteintes à l'ordre public en raison de la détention ou de l'emploi illicites de ces produits, prendre toutes
+mesures nécessaires pour prévenir cette détention ou cet emploi illicites.
 
 **Liens relatifs à cet article**
 
@@ -55949,7 +55950,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-1238 du 7 novembre 2012 - art. 4
+  - Décret n°2015-799 du 1er juillet 2015 - art. 2
 
 
 ##### Sous-section 3 : Acquisition, détention et transport des produits explosifs<a id=695></a>
