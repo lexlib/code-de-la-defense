@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-07-01
+Version Consolidée au 2015-07-04
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -54819,9 +54819,9 @@ _Créé par_:
 
 ###### Article R2352-39
 
-Le transfert des produits explosifs de statut communautaire soumis au marquage "CE" au sens du décret n° 2010-455 du 4 mai
-2010, entre deux Etats membres de la Communauté européenne avec emprunt du territoire douanier national, est soumis à
-autorisation de transit délivrée au responsable du transfert en France par le ministre chargé des douanes.
+Le transfert des produits explosifs de statut communautaire soumis au marquage "CE" au sens de l' article L. 557-4 du code de
+l'environnement, entre deux Etats membres de la Communauté européenne avec emprunt du territoire douanier national, est
+soumis à autorisation de transit délivrée au responsable du transfert en France par le ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
@@ -54831,7 +54831,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2010-455 du 4 mai 2010 - art. 45
+  - Décret n°2015-799 du 1er juillet 2015 - art. 2
 
 _Cité par_:
 
