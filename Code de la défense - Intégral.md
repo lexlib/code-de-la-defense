@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-10-03
+Version Consolidée au 2015-10-04
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -27033,7 +27033,8 @@ agents recrutés par contrat au titre de l'institut ;
 défense ; 
 
 13° Il organise la mutualisation des moyens avec d'autres organismes chargés de la diffusion des savoirs en matière de
-défense et de sécurité. 
+défense et de sécurité, en particulier par la signature d'une convention avec l'Institut national des hautes études de la
+sécurité et de la justice. 
 
 Le directeur de l'institut peut déléguer sa signature.
 
@@ -27045,7 +27046,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-752 du 23 juin 2009 - art. 1
+  - Décret n°2015-1213 du 1er octobre 2015 - art. 4
 
 _Cité par_:
 
@@ -27107,6 +27108,25 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°2012-1247 du 7 novembre 2012 - art. 28
+
+
+###### Article R1132-33-3
+
+Par dérogation à l'article 188 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique, l'Institut des hautes études de la défense nationale peut constituer un groupement comptable avec l'Institut
+national des hautes études de la sécurité et de la justice dans les conditions prévues à l'article R. 123-31-1 du code de la
+sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 188
+  - Code de la sécurité intérieure - art. R123-31-1
+
+_Modifié par_:
+
+  - Décret n°2015-1213 du 1er octobre 2015 - art. 4
 
 
 ###### Article R1132-33-5
