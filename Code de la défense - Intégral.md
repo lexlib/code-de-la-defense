@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-10-04
+Version Consolidée au 2015-10-11
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -503,7 +503,7 @@ Version Consolidée au 2015-10-04
               - [Sous-section 2 : Exercice du contrôle (art. R1333-71 à R1333-75)](#500)
                 - [Paragraphe 1 : Matières et installations     relevant du ministère chargé de l'énergie (art. R1333-71 à R1333-74)](#501)
                 - [Paragraphe 2 : Matières et installations relevant du ministre de la défense (art. R1333-75)](#502)
-              - [Sous-section 3 : Sanctions pénales et administratives (art. R1333-76 à R1333-78)](#503)
+              - [Sous-section 3 : Sanctions pénales et administratives (art. D1333-79 à R1333-78)](#503)
           - [Chapitre IV : Postes et communications électroniques (art. R1334-1 à D1334-14)](#504)
             - [Section 1 : Organisation des communications électroniques (art. R1334-1 à R1334-4)](#505)
             - [Section 2 : Fonctionnement des stations radioélectriques (art. D1334-5 à D1334-14)](#506)
@@ -36521,6 +36521,49 @@ _Cité par_:
 
 
 ##### Sous-section 3 : Sanctions pénales et administratives<a id=503></a>
+
+###### Article D1333-79
+
+Les zones nucléaires à accès réglementé que constituent les locaux et terrains clos mentionnés au premier alinéa de l'article
+L. 1333-13-12 sont délimitées : 
+
+1° Par arrêté du ministre de la défense lorsque sont concernés : 
+
+a) Des installations nucléaires intéressant la dissuasion mentionnées à l'article L. 1411-1 ; 
+
+b) Des établissements ou des installations affectés à l'autorité militaire ou placés sous son contrôle et abritant des
+matières nucléaires dont la détention est soumise à l'autorisation mentionnée à l'article L. 1333-2 ; 
+
+2° Par arrêté du ministre chargé de l'énergie lorsque sont concernés des établissements ou des installations abritant des
+matières nucléaires dont la détention est soumise à l'autorisation mentionnée à l'article L. 1333-2, autres que ceux
+mentionnés au b du 1° ; 
+
+3° Par arrêté conjoint du ministre de la défense et du ministre chargé de l'énergie lorsque les limites de la zone sont
+communes à des établissements ou des installations mentionnés aux 1° et 2°. 
+
+Les arrêtés sont notifiés au responsable des établissements ou des installations concernés et au titulaire de l'autorisation
+mentionnée à l'article L. 1333-2. Ceux-ci rendent alors apparentes les limites de la zone et les mesures d'interdiction dont
+elle fait l'objet par des panneaux conformes au modèle présenté en annexe. 
+
+Un exemplaire de l'arrêté est adressé au préfet de département et au préfet de zone de défense et de sécurité
+territorialement compétents.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2015-1255 du 8 octobre 2015  - art. (V)
+
+_Créé par_:
+
+  - Décret n°2015-1255 du 8 octobre 2015  - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L1333-13-12
+  - Code de la défense. - art. L1333-2
+  - Code de la défense. - art. L1411-1
+
 
 ###### Article R1333-76
 
