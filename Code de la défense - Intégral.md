@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2015-11-02
+Version Consolidée au 2015-11-15
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -30202,15 +30202,11 @@ _Cite_:
 ###### Article R*1311-31
 
 Sous l'autorité du préfet de zone de défense et de sécurité, le préfet de région contribue à la préparation et à la mise en
-œuvre des mesures intéressant la défense économique dans la région. A ce titre, il dispose d'une commission régionale de
-défense économique dont la composition et les missions sont définies par arrêté interministériel.
+œuvre des mesures intéressant la défense économique dans la région. 
 
 Le directeur régional des finances publiques est le conseiller permanent du préfet de région pour les questions économiques
 intéressant la défense et la sécurité nationale. En matière de sécurité économique, il exerce ces fonctions conjointement
 avec le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
-
-Le préfet de région ou, en son absence, le directeur régional des finances publiques préside la commission régionale de
-défense économique.
 
 **Liens relatifs à cet article**
 
@@ -30220,7 +30216,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2015-81 du 29 janvier 2015 - art. 8
+  - Décret n°2015-1469 du 13 novembre 2015 - art. 29 (V)
 
 
 ###### Article R*1311-32
@@ -34266,41 +34262,6 @@ _Cite_:
   - Code de la défense. - art. R1333-3
   - Code de la défense. - art. R1333-8
   - Code de la défense. - art. R1333-9
-
-
-###### Article R1333-15
-
-Le ministre chargé de l'énergie et le ministre de la défense constituent, chacun en ce qui le concerne, des groupes d'experts
-chargés d'étudier, d'une part, les transports des matières nucléaires et, d'autre part, la protection des installations et
-établissements.A cette fin, ils font appel aux spécialistes issus de la recherche, de l'enseignement supérieur, des
-administrations compétentes ainsi que des organismes et des opérateurs dont l'activité se rapporte à la détention ou au
-transport des matières nucléaires. 
-
-Ces groupes d'experts peuvent être consultés par le ministre compétent sur toute question relative à leur champ de
-compétence. Le ministre peut notamment demander au groupe d'experts compétent d'auditionner les demandeurs ou titulaires
-d'autorisation s'il lui apparaît nécessaire de disposer d'éléments d'information complémentaires pour l'exercice des pouvoirs
-que lui confère la présente section. 
-
-Des arrêtés du ministre chargé de l'énergie et du ministre de la défense précisent, chacun en ce qui le concerne, les
-modalités de fonctionnement de ces groupes et les modalités de désignation des experts.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°81-512 du 12 mai 1981 - art. 15 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-1120 du 17 septembre 2009 - art. 1
-
-_Cité par_:
-
-  - Arrêté du 28 avril 2011 - art. 7 (V)
-
-_Abrogé par_:
-
-  - Décret n°2015-1469 du 13 novembre 2015 - art. 18 (V)
 
 
 ###### Article R1333-16
