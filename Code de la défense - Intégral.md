@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-01-31
+Version Consolidée au 2016-02-12
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -2851,12 +2851,16 @@ _Cité par_:
 
 ###### Article L1333-1
 
-Sont soumises aux dispositions  de la présente section les matières nucléaires fusibles, fissiles ou fertiles, ainsi que
-toute matière, à l'exception des minerais, contenant un ou plusieurs éléments fusibles, fissiles ou fertiles dont la liste
-est précisée par décret en Conseil d'Etat. 
+Sont soumises aux dispositions de la présente section les matières nucléaires fusibles, fissiles ou fertiles, ainsi que toute
+matière, à l'exception des minerais, contenant un ou plusieurs éléments fusibles, fissiles ou fertiles dont la liste est
+précisée par décret en Conseil d'Etat. 
 
-Les conditions particulières d'application  de la présente section aux matières nucléaires affectées aux moyens nécessaires à
-la mise en oeuvre de la politique de dissuasion sont définies par décret en Conseil d'Etat.
+Les conditions particulières d'application de la présente section aux matières nucléaires affectées aux moyens nécessaires à
+la mise en oeuvre de la politique de dissuasion sont définies par décret en Conseil d'Etat. 
+
+Sont également soumises aux dispositions de la présente section, pour ce qui concerne la protection contre les actes de
+malveillance, les sources de rayonnements ionisants mises en œuvre par les activités nucléaires réalisées dans certains
+établissements, installations ou ouvrages, relevant de l'article L. 1332-1, définies par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -2890,20 +2894,35 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 45
+
+_Cite_:
+
+  - Code de la défense. - art. L1332-1 (V)
 
 
 ##### Sous-section 2 : Dispositions générales<a id=40></a>
 
 ###### Article L1333-2
 
-L'importation et l'exportation de matières nucléaires définies à l'article L. 1333-1 faites en exécution de contrats conclus
-par les opérateurs français et étrangers ainsi que l'élaboration, la détention, le transfert, l'utilisation et le transport
-des mêmes matières sont soumis à une autorisation et à un contrôle dans les conditions définies   par la présente section.
-Ces conditions sont précisées par décret en Conseil d'Etat pris après consultation de l'Autorité de sûreté nucléaire. 
+Sont soumis à une autorisation ou à une déclaration, ainsi qu'à un contrôle dans les conditions définies par le présent
+chapitre, l'importation et l'exportation de matières nucléaires définies à l'article L. 1333-1 faites en exécution de
+contrats conclus par les opérateurs français et étrangers, l'élaboration, la détention, le transfert, l'utilisation et le
+transport des mêmes matières, ainsi que, pour ce qui concerne la protection contre les actes de malveillance, les activités
+nucléaires mettant en œuvre les sources de rayonnements ionisants définies au dernier alinéa de l'article L. 1333-1. 
+
+Ces conditions peuvent prévoir la prescription de la réalisation, aux frais du demandeur ou du titulaire d'une autorisation,
+le cas échéant par un organisme extérieur, d'analyses critiques de documents, de contrôles, de mises en situation et
+d'études. 
+
+Ces conditions sont précisées par décret en Conseil d'Etat pris après avis de l'Autorité de sûreté nucléaire. 
 
 L'exportateur est tenu de stipuler aux acquéreurs et sous-acquéreurs les conditions relatives à l'utilisation ultérieure des
-matières nucléaires auxquelles peut être subordonnée la délivrance de l'autorisation de toute exportation.
+matières nucléaires auxquelles peut être subordonnée la délivrance de l'autorisation de toute exportation. 
+
+Dans les cas prévus par l'article L. 1333-9 du code de la santé publique, l'autorisation délivrée au titre du présent article
+assure la prise en compte des obligations mentionnées à l'article L. 1333-7 de ce code en matière de protection contre les
+actes de malveillance
 
 **Liens relatifs à cet article**
 
@@ -2961,21 +2980,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 45
 
 _Cite_:
 
-  - Code de la défense. - art. L1333-1
+  - Code de la défense. - art. L1333-1 (V)
+  - Code de la défense. - art. L1333-7 (V)
 
 
 ###### Article L1333-3
 
-L'autorisation prévue à l'article L. 1333-2 peut être assortie de spécifications relatives notamment à sa durée, aux
-quantités et à la forme des matières nucléaires, aux mesures à prendre pour en connaître la localisation et en assurer la
-protection. 
+L'autorisation ou la déclaration prévues à l'article L. 1333-2 peuvent être assorties de spécifications relatives notamment à
+leur durée, aux quantités et à la forme des matières nucléaires, ainsi qu'aux mesures à prendre pour en connaître la
+localisation et en assurer la protection. 
 
-Elle peut être suspendue ou retirée en cas d'infraction aux dispositions  de la présente section et des règlements pris pour
-son application, ou en raison du non-respect de ces spécifications.
+Ces spécifications peuvent également porter sur les activités nucléaires mettant en œuvre les sources de rayonnements
+ionisants définies au dernier alinéa de l'article L. 1333-1, pour ce qui concerne la protection contre les actes de
+malveillance. 
+
+Les spécifications prévues au premier alinéa peuvent être modifiées ou complétées par l'autorité administrative lorsqu'elle
+le juge nécessaire. 
+
+L'autorité administrative peut faire opposition à une déclaration dans les conditions précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2991,24 +3017,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 46
 
 _Cite_:
 
-  - Code de la défense. - art. L1333-2
+  - Code de la défense. - art. L1333-1 (V)
+  - Code de la défense. - art. L1333-2 (V)
 
 
 ###### Article L1333-4
 
-Le contrôle prévu à l'article L. 1333-2 a pour objet de vérifier le respect des spécifications de l'autorisation, de
-connaître en permanence la localisation et l'emploi des matières mentionnées à l'article L. 1333-3 et de déceler la nature et
+Le contrôle prévu à l'article L. 1333-2 a pour objet de vérifier le respect de l'application du présent chapitre, des textes
+pris pour son application et des spécifications de l'autorisation ou de la déclaration. Il a également pour objet de
+connaître en permanence la localisation et l'emploi des matières mentionnées à l'article L. 1333-1 et de déceler la nature et
 les quantités de matières éventuellement manquantes. Il porte, en outre, sur les conditions de détention, de conservation, de
-suivi physique et comptable et de protection des matières nucléaires. 
+suivi physique et comptable et de protection des matières nucléaires et, pour ce qui concerne la protection contre les actes
+de malveillance, des sources de rayonnements ionisants définies au dernier alinéa de l'article L. 1333-1. 
 
-En cas de manquement aux spécifications de l'autorisation, l'autorité administrative met, par arrêté, le titulaire de
-l'autorisation en demeure de prendre les mesures prescrites dans un délai qu'elle fixe.A l'expiration de ce délai,
-l'autorisation peut être suspendue ou retirée lorsque les prescriptions de l'arrêté de mise en demeure ne sont pas
-respectées.
+Ce contrôle est exercé dans les conditions prévues à la section 1 du chapitre Ier du titre VII du livre Ier du code de
+l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -3017,26 +3044,61 @@ _Codifié par_:
   - Ordonnance n°2004-1374 du 20 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
-
-_Cité par_:
-
-  - Code de la défense. - art. L1333-12 (M)
-  - Code de la défense. - art. L1333-4-1 (V)
-  - Code de la défense. - art. R1333-10 (V)
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 47
 
 _Cite_:
 
-  - Code de la défense. - art. L1333-2
-  - Code de la défense. - art. L1333-3
+  - Code de la défense. - art. L1333-1 (V)
+  - Code de la défense. - art. L1333-2 (V)
+
+_Cité par_:
+
+  - Code de la défense. - art. L1333-12 (V)
+  - Code de la défense. - art. L1333-4-1 (V)
+  - Code de la défense. - art. R1333-10 (V)
+
+
+###### Article L1333-4-1
+
+Les dispositions de la section 2 du chapitre Ier du titre VII du livre Ier du code de l'environnement sont applicables au
+contrôle mentionné à l'article L. 1333-4 dans les conditions suivantes : 
+
+1° Les agents chargés du contrôle sont les inspecteurs mentionnés à l'article L. 1333-5 ; 
+
+2° Le montant maximal des amendes mentionnées au 4° du II de l'article L. 171-8 est fixé à 10 millions d'euros ; 
+
+3° Le montant maximal des astreintes journalières mentionnées au même article est fixé à 15 000 €. 
+
+Les litiges relatifs aux décisions administratives prises en application du présent article sont soumis à un contentieux de
+pleine juridiction. 
+
+Un décret en Conseil d'Etat précise les délais dans lesquels ces décisions peuvent être déférées à la juridiction
+administrative.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 48
+
+_Cité par_:
+
+  - Code de la défense. - art. L1333-12 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L1333-4 (V)
+  - Code de la défense. - art. L1333-5 (V)
 
 
 ###### Article L1333-5
 
 Les agents exerçant ce contrôle sont titulaires d'une habilitation conférée par les autorités de l'Etat, assermentés et
-astreints au secret professionnel dans les conditions et sous les sanctions prévues à l'article 226-13 du code pénal.
+astreints au secret professionnel dans les conditions et sous les sanctions prévues à l'article 226-13 du code pénal. Ces
+agents reçoivent l'appellation d'inspecteurs de la sécurité des matières nucléaires, de leurs installations et de leurs
+transports.
 
 **Liens relatifs à cet article**
 
@@ -3059,9 +3121,9 @@ _Cité par_:
   - Code de la défense. - art. R1333-10 (V)
   - Code de la défense. - art. R1333-71 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 49
 
 _Cite_:
 
@@ -3121,15 +3183,25 @@ _Cité par_:
 
 ###### Article L1333-8
 
-Les infractions aux dispositions  de la présente section et aux dispositions réglementaires afférentes sont constatées par
-les officiers et agents de police judiciaire, les agents des services des douanes, les agents de la répression des fraudes,
-le haut fonctionnaire de défense placé auprès du ministre chargé de l'énergie, les agents en charge de la métrologie légale.
+Les infractions aux dispositions de la présente section et aux dispositions réglementaires prises pour son application sont
+constatées par les officiers et agents de police judiciaire, les agents des services des douanes, les agents de la répression
+des fraudes, le haut fonctionnaire de défense placé auprès du ministre chargé de l'énergie, les agents mentionnés à l'article
+L. 1333-5 et les agents en charge de la métrologie légale. 
+
+Ils exercent leur mission dans les conditions prévues à la section 2 du chapitre II du titre VII du livre Ier du code de
+l'environnement. Ils disposent des droits et prérogatives conférés par cette section aux fonctionnaires et agents mentionnés
+à l'article L. 172-4 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 49
+
+_Cite_:
+
+  - Code de la défense. - art. L1333-5 (V)
+  - Code de l'environnement - art. L172-4
 
 _Cité par_:
 
@@ -3142,12 +3214,14 @@ _Cité par_:
 
 I.-Est puni d'un emprisonnement de dix ans et d'une amende de 7 500 000 euros : 
 
-1° Le fait d'exercer sans autorisation les activités mentionnées à l'article L. 1333-2 ou de   se faire délivrer indûment par
+1° Le fait d'exercer sans autorisation les activités mentionnées à l'article L. 1333-2 ou de se faire délivrer indûment par
 quelque moyen frauduleux que ce soit ladite autorisation ; 
 
 2° Le fait de s'approprier indûment les matières nucléaires mentionnées à l'article L. 1333-1 ; 
 
-3° Le fait d'abandonner ou de disperser les matières nucléaires mentionnées à l'article L. 1333-1 ; 
+3° Le fait d'abandonner ou de confier des matières nucléaires mentionnées à l'article L. 1333-1 à une personne morale ou
+physique qui n'est pas autorisée ou déclarée pour détenir ces matières, ou sans informer la personne morale ou physique de la
+nature de ces matières ou de disperser les matières nucléaires mentionnées à l'article L. 1333-1 ; 
 
 4° Le fait d'altérer ou de détériorer les matières nucléaires mentionnées a l'article L. 1333-1 ; 
 
@@ -3170,9 +3244,9 @@ _Codifié par_:
   - Ordonnance n°2004-1374 du 20 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 50
 
 _Cite_:
 
@@ -3199,11 +3273,10 @@ _Cité par_:
 
 ###### Article L1333-10
 
-La violation intentionnelle, par des personnes physiques ou morales intervenant à quelque titre que ce soit dans les
-établissements où sont détenues des matières nucléaires mentionnées à l'article L. 1333-1, des lois et règlements et des
-instructions de l'exploitant ou de ses délégués, lorsqu'elle est susceptible de mettre en cause la sûreté nucléaire des
-installations, la protection des matières nucléaires ou la sécurité des personnes et des biens, peut entraîner
-immédiatement : 
+La violation intentionnelle, par des personnes physiques ou morales, des lois et règlements et des instructions de
+l'exploitant, dans le cadre d'une activité autorisée au titre de l'article L. 1333-2, lorsqu'elle est susceptible de mettre
+en cause la sûreté nucléaire des installations, la protection des matières nucléaires ou la sécurité des personnes et des
+biens, peut entraîner immédiatement : 
 
 1° Pour les personnes physiques, sans préjudice des sanctions pénales applicables, sans préavis ni indemnité et après qu'ont
 été communiqués à la personne responsable les faits reprochés et que celle-ci a présenté ses observations, la suspension ou
@@ -3221,19 +3294,19 @@ _Codifié par_:
   - Ordonnance n°2004-1374 du 20 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
-
-_Cite_:
-
-  - Code de la défense. - art. L1333-1
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 50
 
 _Cité par_:
 
   - Code de la défense. - art. L1333-11 (V)
   - Code de la défense. - art. L1333-14 (V)
   - Code de la défense. - art. R1333-31 (Ab)
+
+_Cite_:
+
+  - Code de la défense. - art. L1333-2 (V)
 
 
 ###### Article L1333-11
@@ -3275,11 +3348,16 @@ _Cité par_:
 
 ###### Article L1333-12
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros le fait d'entraver l'exercice du contrôle prévu à
-l'article L. 1333-2 ou de fournir aux agents chargés de ce contrôle des renseignements inexacts. 
+I.-Le fait d'entraver l'exercice du contrôle prévu à l'article L. 1333-2 ou de fournir aux agents chargés de ce contrôle des
+renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 € d'amende. 
 
-Est puni des mêmes peines le titulaire de l'autorisation mentionnée à l'article L. 1333-2 qui, à l'expiration du délai fixé
-par l'arrêté de mise en demeure prévu à l'article L. 1333-4, n'a pas respecté les prescriptions de cet arrêté.
+II.-Le fait, pour le titulaire de l'autorisation mentionnée à l'article L. 1333-2, à l'expiration du délai fixé par un arrêté
+de mise en demeure pris en application des dispositions prévues à l'article L. 1333-4-1, de ne pas respecter les
+prescriptions de cet arrêté est puni de deux ans d'emprisonnement et de 100 000 € d'amende. 
+
+III.-Le fait de ne pas se conformer à une mesure de refus, de suspension ou d'opposition à déclaration prononcée par
+l'autorité administrative en application des dispositions prévues à l'article L. 1333-4-1 est puni de 3 ans d'emprisonnement
+et de 150 000 € d'amende.
 
 **Liens relatifs à cet article**
 
@@ -3288,9 +3366,9 @@ _Codifié par_:
   - Ordonnance n°2004-1374 du 20 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1
 
-**Liens**:
+_Modifié par_:
 
-  - DEPLACE: ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 16
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 50
 
 _Cité par_:
 
@@ -3302,8 +3380,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. L1333-2
-  - Code de la défense. - art. L1333-4 (M)
+  - Code de la défense. - art. L1333-2 (V)
+  - Code de la défense. - art. L1333-4-1 (V)
 
 
 ###### Article L1333-13
