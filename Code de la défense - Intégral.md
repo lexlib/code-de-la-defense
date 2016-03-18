@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-03-12
+Version Consolidée au 2016-03-19
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -49012,8 +49012,7 @@ En cas d'urgence, le ministre chargé des douanes peut suspendre l'autorisation 
 
 La modification, l'abrogation ou le retrait de l'autorisation d'importation ne peut intervenir qu'après que le titulaire de
 l'autorisation a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues
-à l'article 24 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les
-administrations. 
+aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
 
 La décision portant suspension, modification, abrogation ou retrait de l'autorisation d'importation est notifiée au titulaire
 par le ministre chargé des douanes.
@@ -49028,22 +49027,19 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°2000-321 du 12 avril 2000 - art. 24
-  - Code de la défense. - art. L2335-1
-
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
-_Modifié par_:
-
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
-
 _Cité par_:
 
   - Décret n°2014-1282 du 23 octobre 2014 - art. (VD)
+
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la défense. - art. L2335-1
+  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
 
 
 ###### Article R2335-8
@@ -49344,8 +49340,7 @@ d'une licence de transfert et incorporés dans un autre matériel de guerre ou m
 
 La modification, l'abrogation ou le retrait de la licence ou du droit mentionné au premier alinéa ne peut intervenir qu'après
 que son titulaire a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités
-prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les
-administrations. 
+prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
 
 La décision portant suspension, abrogation ou retrait du droit d'utiliser la licence générale d'exportation est notifiée à
 son titulaire par le ministre de la défense. 
@@ -49366,16 +49361,13 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 _Cite_:
 
   - Décret n°55-965 du 16 juillet 1955
-  - Loi n°2000-321 du 12 avril 2000 - art. 24
   - Code de la défense. - art. L2335-4
-
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
+  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 _Cité par_:
 
@@ -49835,8 +49827,7 @@ premier alinéa. Cette suspension ne peut excéder une durée de trente jours ou
 
 La modification, l'abrogation ou le retrait de la licence ou du droit mentionné au premier alinéa ne peut intervenir qu'après
 que son titulaire a été mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités
-prévues à l'article 24 de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les
-administrations. 
+prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
 
 La décision portant suspension, abrogation ou retrait du droit d'utiliser la licence générale de transfert est notifiée à son
 titulaire par le ministre de la défense. 
@@ -49857,22 +49848,19 @@ Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vi
 _Cite_:
 
   - Décret n°55-965 du 16 juillet 1955
-  - Loi n°2000-321 du 12 avril 2000 - art. 24
   - Code de la défense. - art. L2335-12
-
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
-_Modifié par_:
-
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
 
 _Cité par_:
 
   - Arrêté du 14 novembre 2014 - art. 1 (V)
   - Code de la défense. - art. R2335-39 (V)
   - Code de la défense. - art. R2339-3 (VD)
+
+_Modifié par_:
+
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 
 ##### Sous-section 2 : Obligations des fournisseurs et des destinataires<a id=652></a>
@@ -50674,8 +50662,8 @@ L. 2335-4.
 En cas d'urgence, le Premier ministre peut suspendre l'autorisation de transit sans délai. 
 
 La modification, l'abrogation ou le retrait de l'autorisation de transit ne peut intervenir qu'après que son titulaire a été
-mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues à l'article 24 de la
-loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relation avec les administrations. 
+mis à même de faire valoir ses observations, dans un délai de quinze jours, selon les modalités prévues aux articles L.
+121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration. 
 
 La décision portant suspension, modification, abrogation ou retrait de l'autorisation de transit est notifiée à son titulaire
 par le ministre chargé des douanes.
@@ -50695,14 +50683,12 @@ _Cite_:
   - Décret n°55-965 du 16 juillet 1955
   - Code de la défense. - art. L2335-1
   - Code de la défense. - art. L2335-4
-
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
+  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
 
 _Modifié par_:
 
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 
 ###### Article R2335-46
@@ -56947,25 +56933,22 @@ _Cite_:
 
 ###### Article R2352-116
 
-L'autorisation individuelle peut être retirée, dans les conditions définies par la loi n° 2000-321 du 12 avril 2000 relative
-aux droits des citoyens dans leurs relations avec les administrations, notamment son article 24, lorsque son titulaire cesse
-de remplir l'une des conditions prévues à la présente sous-section. 
+L'autorisation individuelle peut être retirée, dans les conditions définies par les articles L. 121-1, L. 121-2 et L. 122-1
+du code des relations entre le public et l'administration, lorsque son titulaire cesse de remplir l'une des conditions
+prévues à la présente sous-section. 
 
 Elle peut être suspendue immédiatement en cas d'urgence ou de nécessité tenant à l'ordre public.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°90-153 du 16 février 1990 - art. 25 (Ab)
+  - Décret n°2016-308 du 17 mars 2016 - art. 2 (V)
 
 _Cite_:
 
-  - Loi n°2000-321 du 12 avril 2000 (V)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
+  - Code des relations entre le public et l'adminis... - art. L121-1 (V)
+  - Code des relations entre le public et l'adminis... - art. L122-1 (V)
 
 
 ###### Article R2352-117
