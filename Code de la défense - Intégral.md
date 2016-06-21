@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-22
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -98,10 +98,10 @@ Version Consolidée au 2016-06-05
         - [TITRE VII : DISPOSITIF DE RÉSERVE DE SÉCURITÉ NATIONALE (art. L2171-1 à L2171-7)](#95)
           - [Chapitre unique (art. L2171-1 à L2171-7)](#96)
       - [LIVRE II : RÉQUISITIONS (art. L2211-1 à L2236-7)](#97)
-        - [TITRE Ier : RÉQUISITIONS POUR LES BESOINS GÉNÉRAUX DE LA NATION (art. L2211-1 à L2213-8)](#98)
+        - [TITRE Ier : RÉQUISITIONS POUR LES BESOINS GÉNÉRAUX DE LA NATION (art. L2211-1 à L2213-9)](#98)
           - [Chapitre Ier : Principes généraux (art. L2211-1 à L2211-4)](#99)
           - [Chapitre II : Réquisitions de personnes (art. L2212-1 à L2212-3)](#100)
-          - [Chapitre III : Réquisitions de biens et services (art. L2213-1 à L2213-8)](#101)
+          - [Chapitre III : Réquisitions de biens et services (art. L2213-1 à L2213-9)](#101)
         - [TITRE II : RÉQUISITIONS MILITAIRES (art. L2221-1 à L2223-19)](#102)
           - [Chapitre Ier : Conditions générales d'exercice du droit de réquisition (art. L2221-1 à L2221-10)](#103)
             - [Section 1 : Réquisitions pour l'armée de terre et la gendarmerie nationale (art. L2221-2)](#104)
@@ -6901,6 +6901,25 @@ _Codifié par_:
 
   - Ordonnance 2004-1374 2004-12-20 JORF 21 décembre 2004
   - Loi n°2005-1550 du 12 décembre 2005 - art. 1, v. init.
+
+
+###### Article L2213-9
+
+Les navires battant pavillon français peuvent être affectés à une flotte à caractère stratégique permettant d'assurer en
+temps de crise la sécurité des approvisionnements de toute nature, des moyens de communications, des services et des travaux
+maritimes indispensables ainsi que de compléter les moyens des forces armées. La composition de cette flotte à caractère
+stratégique et les conditions de sa mise en place sont déterminées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-816 du 20 juin 2016 - art. 58
+
+_Cité par_:
+
+  - Décret n°2017-850 du 9 mai 2017 (V)
+  - Décret n°2017-850 du 9 mai 2017 - art. 1 (V)
 
 
 #### TITRE II : RÉQUISITIONS MILITAIRES<a id=102></a>
