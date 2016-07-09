@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-10
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -1151,20 +1151,23 @@ constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1132)
               - [Sous-section 3 : Compétences en matière d'urbanisme (art. D5131-12 à D5131-13)](#1146)
             - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-14 à D5131-15)](#1147)
             - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1148)
-      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1149)
-        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1150)
-          - [Chapitre unique (art. D5321-1)](#1151)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-1)](#1152)
-          - [Chapitre unique (art. D5341-2 à R5341-1)](#1153)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-1)](#1154)
-          - [Chapitre unique (art. D5351-2 à R5351-1)](#1155)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-1)](#1156)
-          - [Chapitre unique (art. D5361-2 à R5361-1)](#1157)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1158)
-          - [Chapitre unique (art. D5371-2 à R5371-1)](#1159)
-        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1160)
-          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1161)
-          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1162)
+      - [LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES (art. D5222-2 à R5222-8)](#1149)
+        - [TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. D5222-2 à R5222-8)](#1150)
+          - [Chapitre II : Le service de la trésorerie aux armées (art. D5222-2 à R5222-8)](#1151)
+      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1152)
+        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1153)
+          - [Chapitre unique (art. D5321-1)](#1154)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-2-1)](#1155)
+          - [Chapitre unique (art. D5341-2 à R5341-2-1)](#1156)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-2-1)](#1157)
+          - [Chapitre unique (art. D5351-2 à R5351-2-1)](#1158)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-2-1)](#1159)
+          - [Chapitre unique (art. D5361-2 à R5361-2-1)](#1160)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1161)
+          - [Chapitre unique (art. D5371-2 à R5371-1)](#1162)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1163)
+          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1164)
+          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1165)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -92727,11 +92730,222 @@ _Cite_:
   - Code de la sécurité intérieure - art. R733-14 (VD)
 
 
-### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1149></a>
+### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES<a id=1149></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1150></a>
+#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=1150></a>
 
-##### Chapitre unique<a id=1151></a>
+##### Chapitre II : Le service de la trésorerie aux armées<a id=1151></a>
+
+###### Article D5222-2
+
+Le service de la trésorerie aux armées comprend : 
+
+1° Un bureau de liaison de la trésorerie aux armées ; 
+
+2° Des bureaux payeurs, qui sont constitués en tant que de besoin. 
+
+Le service de la trésorerie aux armées emploie des fonctionnaires du ministère chargé du budget dans les conditions définies
+par le décret n° 2004-740 du 26 juillet 2004 portant dispositions statutaires relatives aux fonctionnaires du ministère
+chargé du budget détachés au sein du service de la trésorerie aux armées. Du personnel militaire, d'active ou de réserve,
+peut être mis à disposition du service. 
+
+Le service de la trésorerie aux armées relève du chef d'état-major des armées, sauf en ce qui concerne les opérations
+relatives à la comptabilité publique, pour lesquelles il relève du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2004-740 du 26 juillet 2004
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Code de la défense. - art. D5341-2-2 (V)
+  - Code de la défense. - art. D5351-2-2 (V)
+  - Code de la défense. - art. D5361-2-2 (V)
+
+
+###### Article D5222-7
+
+Les transports de fonds décidés par le service de la trésorerie aux armées sont effectués par l'autorité militaire dans les
+conditions prévues par le décret n° 2005-796 du 15 juillet 2005 relatif à la discipline générale militaire et le décret n°
+2015-213 du 25 février 2015 portant règlement du service de garnison. Leur protection est assurée par une escorte de la
+gendarmerie nationale ou, le cas échéant, par l'autorité militaire. 
+
+Les modalités d'application du présent article sont précisées par un arrêté du ministre de la défense et du ministre de
+l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2005-796 du 15 juillet 2005
+  - Décret n°2015-213 du 25 février 2015
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2016 - art. 4 (V)
+  - Code de la défense. - art. D5341-2-2 (V)
+  - Code de la défense. - art. D5351-2-2 (V)
+  - Code de la défense. - art. D5361-2-2 (V)
+
+
+###### Article R5222-1
+
+Le service de la trésorerie aux armées assure, pour le soutien des forces armées à l'étranger ou, le cas échéant, intervenant
+sur le territoire national, des missions relatives au recouvrement de recettes publiques, au paiement de dépenses publiques,
+à la gestion de la trésorerie ainsi qu'à la gestion financière et comptable. 
+
+Le service de la trésorerie aux armées est également chargé : 
+
+1° De percevoir des droits de chancellerie pour le compte du comptable public chargé des recettes de la grande chancellerie
+de la Légion d'honneur ; 
+
+2° D'exécuter les recettes et les dépenses confiées par d'autres comptables publics et par les correspondants du Trésor ; 
+
+3° D'exercer, pour les armées en opération, les compétences attribuées en matière domaniale au directeur départemental des
+finances publiques dans les conditions prévues par le code général de la propriété des personnes publiques ; 
+
+4° Des opérations d'appropriation des biens des forces ennemies ; 
+
+5° De la comptabilité et du paiement des traites de la marine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2016 - art. 1 (V)
+  - Code de la défense. - art. R5341-2-1 (V)
+  - Code de la défense. - art. R5351-2-1 (V)
+  - Code de la défense. - art. R5361-2-1 (V)
+
+
+###### Article R5222-3
+
+Le service de la trésorerie aux armées est dirigé par le payeur général aux armées, qui : 
+
+1° Exerce les attributions définies par le décret n° 2004-740 du 26 juillet 2004 portant dispositions statutaires relatives
+aux fonctionnaires du ministère chargé du budget détachés au sein du service de la trésorerie aux armées, notamment en
+matière d'administration et de gestion du personnel ; 
+
+2° Est chargé de la constitution des bureaux payeurs ainsi que de leur fonctionnement en tant que postes comptables. 
+
+Le payeur général aux armées est comptable public spécial. 
+
+Il est assisté, en tant que chef du service de la trésorerie aux armées, par le bureau de liaison de la trésorerie aux
+armées. Il dispose d'un adjoint, payeur principal, qui le seconde et le supplée. 
+
+Lorsqu'il assume la direction d'autres postes comptables, il peut leur confier la prise en charge des ordres de payer, des
+ordres de recouvrer ainsi que des opérations de trésorerie émanant des ordonnateurs assignés sur sa caisse.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2004-740 du 26 juillet 2004 (V)
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Code de la défense. - art. R5341-2-1 (V)
+  - Code de la défense. - art. R5351-2-1 (V)
+
+
+###### Article R5222-4
+
+Le service de la trésorerie aux armées reçoit du ministre chargé du budget les instructions financières et comptables
+relatives, notamment, à l'alimentation des caisses et à la tenue de la comptabilité. 
+
+Lorsque les missions du contrôle général des armées portent sur des questions d'ordre technique relatives au service de la
+trésorerie aux armées, elles sont fixées conjointement par le ministre de la défense et le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+
+###### Article R5222-5
+
+En cas de circonstances exceptionnelles, le commandement peut faire procéder, dans les conditions prévues au présent article
+et à l'article R. 5222-6, à l'arrêté des écritures et à la vérification de la caisse d'un payeur. 
+
+Lorsque le commandement fait opérer la vérification de la caisse d'un payeur du service de la trésorerie aux armées par un
+commissaire des armées, celui-ci est désigné à cet effet par le directeur central du service du commissariat des armées. Le
+commissaire des armées ainsi désigné est tenu de présenter au payeur l'ordre écrit en vertu duquel il agit. La vérification
+est constatée par un procès-verbal signé par le commissaire des armées et le payeur. Le commissaire des armées en adresse une
+copie au supérieur immédiat du payeur et en remet une à ce dernier. 
+
+Dans tous les cas où une caisse ou des fonds sous la responsabilité des payeurs seraient exposés à un risque immédiat de
+guerre, la situation de cette caisse ou de ces fonds peut être constatée sans délai par l'autorité militaire ou son délégué.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+
+###### Article R5222-6
+
+En cas de décès ou d'empêchement d'un payeur, son adjoint désigné ou le payeur le plus ancien dans le grade le plus élevé
+prend la direction du bureau payeur. Il suspend les opérations comptables si les circonstances le permettent et rend compte
+immédiatement, d'une part au bureau de liaison de la trésorerie aux armées, d'autre part à l'autorité commandant sur le
+théâtre d'opérations et au commissaire des armées de la formation à laquelle il est rattaché. 
+
+Le bureau de liaison de la trésorerie aux armées ou, s'il n'est pas sur place, un commissaire des armées procède sans délai à
+la vérification de la caisse ou des fonds et dresse de cette opération un procès-verbal dont il remet une copie au bureau de
+liaison de la trésorerie aux armées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 11 juillet 2016 - art. 4 (V)
+
+
+###### Article R5222-8
+
+Un arrêté du ministre de la défense, du ministre chargé du budget et du ministre de l'intérieur précise l'organisation et le
+fonctionnement du service de la trésorerie aux armées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 1
+
+_Cité par_:
+
+  - Code de la défense. - art. R5341-2-1 (V)
+  - Code de la défense. - art. R5351-2-1 (V)
+
+
+### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1152></a>
+
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1153></a>
+
+##### Chapitre unique<a id=1154></a>
 
 ###### Article D5321-1
 
@@ -92753,9 +92967,9 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1152></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1155></a>
 
-##### Chapitre unique<a id=1153></a>
+##### Chapitre unique<a id=1156></a>
 
 ###### Article D5341-2
 
@@ -92775,6 +92989,22 @@ _Cite_:
 
   - Code de la défense. - art. D5131-12 (V)
   - Code de la défense. - art. D5131-6
+
+
+###### Article D5341-2-2
+
+Sont applicables dans les îles Wallis et Futuna les articles D. 5222-2 et D. 5222-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. D5222-2 (V)
+  - Code de la défense. - art. D5222-7 (V)
 
 
 ###### Article D5341-3
@@ -92825,9 +93055,26 @@ _Cite_:
   - Code de la défense. - art. R5131-5 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1154></a>
+###### Article R5341-2-1
 
-##### Chapitre unique<a id=1155></a>
+Sont applicables dans les îles Wallis et Futuna les articles R. 5222-1, R. 5222-3 à 5222-6 et R. 5222-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. R5222-1 (V)
+  - Code de la défense. - art. R5222-3 (V)
+  - Code de la défense. - art. R5222-8 (V)
+
+
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1157></a>
+
+##### Chapitre unique<a id=1158></a>
 
 ###### Article D5351-2
 
@@ -92848,6 +93095,22 @@ _Cite_:
   - Code de la défense. - art. D5131-12 (V)
   - Code de la défense. - art. D5131-6 (V)
   - Code de la défense. - art. R5131-4 (V)
+
+
+###### Article D5351-2-2
+
+Sont applicables en Polynésie française les articles D. 5222-2 et D. 5222-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. D5222-2 (V)
+  - Code de la défense. - art. D5222-7 (V)
 
 
 ###### Article D5351-3
@@ -92895,9 +93158,26 @@ _Cite_:
   - Code de la défense. - art. R5131-5 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1156></a>
+###### Article R5351-2-1
 
-##### Chapitre unique<a id=1157></a>
+Sont applicables en Polynésie française les articles R. 5222-1, R. 5222-3 à 5222-6 et R. 5222-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. R5222-1 (V)
+  - Code de la défense. - art. R5222-3 (V)
+  - Code de la défense. - art. R5222-8 (V)
+
+
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1159></a>
+
+##### Chapitre unique<a id=1160></a>
 
 ###### Article D5361-2
 
@@ -92918,6 +93198,22 @@ _Cite_:
   - Code de la défense. - art. D5131-12 (V)
   - Code de la défense. - art. D5131-6 (V)
   - Code de la défense. - art. R5131-4 (V)
+
+
+###### Article D5361-2-2
+
+Sont applicables en Nouvelle-Calédonie les articles D. 5222-2 et D. 5222-7.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. D5222-2 (V)
+  - Code de la défense. - art. D5222-7 (V)
 
 
 ###### Article D5361-3
@@ -92965,9 +93261,24 @@ _Cite_:
   - Code de la défense. - art. R5131-5 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1158></a>
+###### Article R5361-2-1
 
-##### Chapitre unique<a id=1159></a>
+Sont applicables en Nouvelle-Calédonie les articles R. 5222-1, R. 5222-3 à R. 5222-6 et R. 5222-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-938 du 7 juillet 2016 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. R5222-1 (V)
+
+
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1161></a>
+
+##### Chapitre unique<a id=1162></a>
 
 ###### Article D5371-2
 
@@ -93040,9 +93351,9 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1160></a>
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1163></a>
 
-##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1161></a>
+##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1164></a>
 
 ###### Article D5381-1
 
@@ -93061,7 +93372,7 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-##### Chapitre II : SAINT-MARTIN<a id=1162></a>
+##### Chapitre II : SAINT-MARTIN<a id=1165></a>
 
 ###### Article D5382-1
 
