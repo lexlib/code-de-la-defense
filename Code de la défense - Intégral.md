@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-08-01
+Version Consolidée au 2016-08-15
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -65341,9 +65341,10 @@ Le service des essences des armées est un service interarmées.
 Il assure l'approvisionnement, le stockage et la distribution des produits pétroliers nécessaires aux armées et à tout autre
 service ou organisme relevant du ministre de la défense. 
 
-Il peut intervenir, dans certaines circonstances d'intérêt général, au profit d'autres bénéficiaires, personnes privées. 
+Il assure, en outre, la fourniture de biens et de services complémentaires relevant de son domaine de compétence. 
 
-Il peut, en outre, agir par délégation de gestion au profit d'autres bénéficiaires, personnes publiques.
+Il peut intervenir au profit d'autres personnes publiques ainsi que, dans certaines circonstances d'intérêt général, au
+profit de personnes privées.
 
 **Liens relatifs à cet article**
 
@@ -65355,7 +65356,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2010-1238 du 20 octobre 2010 - art. 2
+  - Décret n°2016-1120 du 11 août 2016 - art. 1
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2017-744 du 4 mai 2017 - art. 3
+
+_Nouveaux textes_:
+
+  - Code de la défense. - art. R3232-15 (V)
 
 
 ###### Article R3233-6
