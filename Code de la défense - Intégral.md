@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2016-09-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -30378,91 +30378,90 @@ _Cite_:
   - Code de la défense. - art. R*1212-7
 
 
-###### Article R*1212-4
+###### Article R1212-4
 
-Les zones terre sont établies conformément au tableau suivant : 
+La composition des zones terre est fixée conformément au tableau suivant : 
 
 <table border="1">
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>
 
 ZONES TERRE 
 
 </th>
-      <th>
+        <th>
 
-DÉPARTEMENTS 
+RÉGIONS 
 
 </th>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
-Ile-de-France (siège : Saint-Germain-en-Laye). 
-
-</td>
-      <td align="left" valign="top">
-
-Essonne, Hauts-de-Seine, Paris, Seine-Saint-Denis, Seine-et-Marne, Val-de-Marne, Val-d'Oise, Yvelines. 
+Ile-de-France (siège : Saint-Germain-en-Laye) 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
+        <td align="center" valign="middle">
 
-Nord-Est (siège : Metz). 
+Ile-de-France 
 
 </td>
-      <td valign="top" align="left">
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
 
-Aisne, Nord, Oise, Pas-de-Calais, Somme. Ardennes, Aube, Bas-Rhin, Côte-d'Or, Doubs, Haute-Marne, Haut-Rhin, Haute-Saône,
-Jura, Marne, Meurthe-et-Moselle, Meuse, Moselle, Nièvre, Saône-et-Loire, Territoire de Belfort, Vosges, Yonne. 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Nord-Ouest (siège : Rennes). 
+Nord-Est (siège : Metz) 
 
 </td>
-      <td align="left" valign="top">
+        <td valign="middle" align="center">
 
-Calvados, Cher, Côtes-d'Armor, Eure, Eure-et-Loir, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-
-Atlantique, Loiret, Maine-et-Loire, Mayenne, Manche, Morbihan, Orne, Sarthe, Seine-Maritime, Vendée. 
+Alsace-Champagne-Ardenne-Lorraine, Bourgogne-Franche-Comté, 
 
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-Sud-Est (siège : Lyon). 
+Nord-Pas-de-Calais-Picardie 
 
 </td>
-      <td align="left" valign="top">
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
 
-Ain, Allier, Ardèche, Cantal, Drôme, Puy-de-Dôme, Haute-Loire, Haute-Savoie, Isère, Loire, Rhône, Savoie. Alpes-Maritimes,
-Alpes-de-Haute-Provence, Aude, Bouches-du-Rhône, Corse-du-Sud, Gard, Hautes-Alpes, Haute-Corse, Hérault, Lozère, Pyrénées-
-Orientales, Var, Vaucluse 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Sud-Ouest (siège : Bordeaux). 
+Nord-Ouest (siège : Rennes) 
 
 </td>
-      <td valign="top" align="left">
+        <td align="center" valign="middle">
 
-Ariège, Aveyron, Charente, Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gers, Gironde, Haute-Garonne, Hautes-
-Pyrénées, Haute-Vienne, Landes, Lot, Lot-et-Garonne, Pyrénées-Atlantiques, Tarn, Tarn-et-Garonne, Vienne
+Bretagne, Centre-Val de Loire, Normandie, Pays de la Loire 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+      <tr>
+        <td valign="middle" align="center">
+
+Sud-Est (siège : Lyon) 
+
+</td>
+        <td valign="middle" align="center">
+
+Auvergne-Rhône-Alpes, Corse, Languedoc-Roussillon-Midi-Pyrénées, 
+
+Provence-Alpes-Côte d'Azur 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center" valign="middle">
+
+Sud-Ouest (siège : Bordeaux) 
+
+</td>
+        <td align="center" valign="middle">
+
+Aquitaine-Limousin-Poitou-Charentes
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -30476,7 +30475,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-81 du 29 janvier 2015 - art. 2
+  - Décret n°2016-525 du 28 avril 2016 - art. 1
 
 _Cité par_:
 
