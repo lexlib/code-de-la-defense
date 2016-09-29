@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-09-25
+Version Consolidée au 2016-09-30
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -1140,7 +1140,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#660)
           - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1136)
           - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1137)
     - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES (art. R5111-1 à D5382-1)](#1138)
-      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5131-16)](#1139)
+      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5141-5)](#1139)
         - [TITRE Ier : SERVITUDES (art. R5111-1 à R5114-11)](#1140)
           - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. R5111-1 à R5111-10)](#1141)
             - [Section 1 : Dispositions générales (art. R5111-1 à R5111-2)](#1142)
@@ -1168,23 +1168,25 @@ constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1149)
               - [Sous-section 3 : Compétences en matière d'urbanisme (art. D5131-12 à D5131-13)](#1163)
             - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-14 à D5131-15)](#1164)
             - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1165)
-      - [LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES (art. D5222-2 à R5222-8)](#1166)
-        - [TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. D5222-2 à R5222-8)](#1167)
-          - [Chapitre II : Le service de la trésorerie aux armées (art. D5222-2 à R5222-8)](#1168)
-      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1169)
-        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1170)
-          - [Chapitre unique (art. D5321-1)](#1171)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-2-1)](#1172)
-          - [Chapitre unique (art. D5341-2 à R5341-2-1)](#1173)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-2-1)](#1174)
-          - [Chapitre unique (art. D5351-2 à R5351-2-1)](#1175)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-2-1)](#1176)
-          - [Chapitre unique (art. D5361-2 à R5361-2-1)](#1177)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1178)
-          - [Chapitre unique (art. D5371-2 à R5371-1)](#1179)
-        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1180)
-          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1181)
-          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1182)
+        - [TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES (art. R5141-1 à R5141-5)](#1166)
+          - [Chapitre unique (art. R5141-1 à R5141-5)](#1167)
+      - [LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES (art. D5222-2 à R5222-8)](#1168)
+        - [TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. D5222-2 à R5222-8)](#1169)
+          - [Chapitre II : Le service de la trésorerie aux armées (art. D5222-2 à R5222-8)](#1170)
+      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1171)
+        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1172)
+          - [Chapitre unique (art. D5321-1)](#1173)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-2-1)](#1174)
+          - [Chapitre unique (art. D5341-2 à R5341-2-1)](#1175)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-2-1)](#1176)
+          - [Chapitre unique (art. D5351-2 à R5351-2-1)](#1177)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-2-1)](#1178)
+          - [Chapitre unique (art. D5361-2 à R5361-2-1)](#1179)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1180)
+          - [Chapitre unique (art. D5371-2 à R5371-1)](#1181)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1182)
+          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1183)
+          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1184)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -94360,11 +94362,101 @@ _Cite_:
   - Code de la sécurité intérieure - art. R733-14 (VD)
 
 
-### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES<a id=1166></a>
+#### TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES<a id=1166></a>
 
-#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=1167></a>
+##### Chapitre unique<a id=1167></a>
 
-##### Chapitre II : Le service de la trésorerie aux armées<a id=1168></a>
+###### Article R5141-1
+
+Lorsque les conventions et accords internationaux, notamment les stipulations de l'article 53 du règlement concernant les
+lois et coutumes de la guerre sur terre annexé à la convention de La Haye du 18 octobre 1907, ainsi que les lois et coutumes
+de la guerre l'autorisent, la procédure de saisie et d'incorporation au domaine de l'Etat des biens à caractère mobilier
+destinés à servir à la conduite d'hostilités qui, au cours de celles-ci, tombent au pouvoir des forces armées françaises est
+conduite dans les conditions fixées au présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+_Cité par_:
+
+  - Code de la défense. - art. R5341-1 (V)
+  - Code de la défense. - art. R5351-1 (V)
+  - Code de la défense. - art. R5361-1 (V)
+  - Code de la défense. - art. R5371-1 (V)
+
+
+###### Article R5141-2
+
+Le commandant opérationnel ordonne les opérations de saisie. Il prend, le cas échéant, toute mesure de conservation des biens
+saisis dans l'attente de leur incorporation au domaine de l'Etat. 
+
+Les opérations de saisie sont dirigées par un commissaire des armées. Il en dresse procès-verbal et signe tout inventaire ou
+autre acte destiné à assurer les droits du Trésor. En l'absence d'un commissaire des armées, le commandant de l'élément naval
+ou l'officier désigné par le commandant opérationnel est chargé des missions attribuées au commissaire des armées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+###### Article R5141-3
+
+Après les opérations de saisie, le commandant opérationnel peut, si d'impérieuses nécessités militaires l'exigent : 
+
+1° Ordonner la destruction des biens saisis ; 
+
+2° Autoriser le réemploi immédiat par les forces armées françaises et par les forces armées alliées des biens saisis et non
+encore incorporés au domaine de l'Etat ; 
+
+Le commandant opérationnel peut décider la distribution de biens saisis périssables aux populations civiles à fin de
+consommation immédiate. 
+
+Il peut, s'il y a lieu, transférer les biens saisis à une autorité nationale ou internationale compétente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+###### Article R5141-4
+
+Les documents relatifs aux opérations mentionnées aux articles précédents sont transmis au service de la trésorerie aux
+armées qui peut se faire présenter, sur place, les biens saisis. 
+
+Ce service prononce la prise de possession des biens non détruits, non réemployés, non distribués ou non transférés et leur
+incorporation au domaine de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+###### Article R5141-5
+
+Les biens à caractère mobilier incorporés au domaine de l'Etat dans les conditions fixées au présent chapitre sont, à la
+demande du ministre de la défense, affectés au ministère de la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 1
+
+
+### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES<a id=1168></a>
+
+#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=1169></a>
+
+##### Chapitre II : Le service de la trésorerie aux armées<a id=1170></a>
 
 ###### Article D5222-2
 
@@ -94571,11 +94663,11 @@ _Cité par_:
   - Code de la défense. - art. R5351-2-1 (V)
 
 
-### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1169></a>
+### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1171></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1170></a>
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1172></a>
 
-##### Chapitre unique<a id=1171></a>
+##### Chapitre unique<a id=1173></a>
 
 ###### Article D5321-1
 
@@ -94597,9 +94689,9 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1172></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1174></a>
 
-##### Chapitre unique<a id=1173></a>
+##### Chapitre unique<a id=1175></a>
 
 ###### Article D5341-2
 
@@ -94665,7 +94757,8 @@ _Modifié par_:
 
 ###### Article R5341-1
 
-Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
+Sont applicables dans les îles Wallis et Futuna les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11, R. 5131-16 et R.
+5141-1 à R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -94675,14 +94768,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 _Cite_:
 
   - Code de la défense. - art. R5111-1
-  - Code de la défense. - art. R5131-11 (V)
-  - Code de la défense. - art. R5131-16
-  - Code de la défense. - art. R5131-5 (V)
+  - Code de la défense. - art. R5131-11
+  - Code de la défense. - art. R5131-16 (V)
+  - Code de la défense. - art. R5131-5
+  - Code de la défense. - art. R5141-1 (V)
 
 
 ###### Article R5341-2-1
@@ -94702,9 +94796,9 @@ _Cite_:
   - Code de la défense. - art. R5222-8 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1174></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1176></a>
 
-##### Chapitre unique<a id=1175></a>
+##### Chapitre unique<a id=1177></a>
 
 ###### Article D5351-2
 
@@ -94768,7 +94862,8 @@ _Modifié par_:
 
 ###### Article R5351-1
 
-Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
+Sont applicables en Polynésie française les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11, R. 5131-16 et R. 5141-1 à
+R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -94778,14 +94873,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 _Cite_:
 
   - Code de la défense. - art. R5111-1
-  - Code de la défense. - art. R5131-11 (V)
-  - Code de la défense. - art. R5131-16
-  - Code de la défense. - art. R5131-5 (V)
+  - Code de la défense. - art. R5131-11
+  - Code de la défense. - art. R5131-16 (V)
+  - Code de la défense. - art. R5131-5
+  - Code de la défense. - art. R5141-1 (V)
 
 
 ###### Article R5351-2-1
@@ -94805,9 +94901,9 @@ _Cite_:
   - Code de la défense. - art. R5222-8 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1176></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1178></a>
 
-##### Chapitre unique<a id=1177></a>
+##### Chapitre unique<a id=1179></a>
 
 ###### Article D5361-2
 
@@ -94871,7 +94967,8 @@ _Modifié par_:
 
 ###### Article R5361-1
 
-Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R. 5131-16.
+Sont applicables en Nouvelle-Calédonie les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11, R. 5131-16 et R. 5141-1 à
+R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -94881,14 +94978,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 _Cite_:
 
   - Code de la défense. - art. R5111-1
-  - Code de la défense. - art. R5131-11 (V)
-  - Code de la défense. - art. R5131-16
-  - Code de la défense. - art. R5131-5 (V)
+  - Code de la défense. - art. R5131-11
+  - Code de la défense. - art. R5131-16 (V)
+  - Code de la défense. - art. R5131-5
+  - Code de la défense. - art. R5141-1 (V)
 
 
 ###### Article R5361-2-1
@@ -94906,9 +95004,9 @@ _Cite_:
   - Code de la défense. - art. R5222-1 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1178></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1180></a>
 
-##### Chapitre unique<a id=1179></a>
+##### Chapitre unique<a id=1181></a>
 
 ###### Article D5371-2
 
@@ -94961,7 +95059,8 @@ _Modifié par_:
 ###### Article R5371-1
 
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961, sont
-applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3, R. 5131-5 et R. 5131-11.
+applicables aux Terres australes et antarctiques françaises les articles R. 5111-1 à R. 5131-3, R. 5131-5, R. 5131-11 et R.
+5141-1 à R. 5141-5.
 
 **Liens relatifs à cet article**
 
@@ -94971,6 +95070,7 @@ _Cite_:
   - Code de la défense. - art. R5111-1
   - Code de la défense. - art. R5131-11 (V)
   - Code de la défense. - art. R5131-5 (V)
+  - Code de la défense. - art. R5141-1 (V)
 
 _Codifié par_:
 
@@ -94978,12 +95078,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1499 du 27 décembre 2012 - art. 3
+  - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 
-#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1180></a>
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1182></a>
 
-##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1181></a>
+##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1183></a>
 
 ###### Article D5381-1
 
@@ -95002,7 +95102,7 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-##### Chapitre II : SAINT-MARTIN<a id=1182></a>
+##### Chapitre II : SAINT-MARTIN<a id=1184></a>
 
 ###### Article D5382-1
 
