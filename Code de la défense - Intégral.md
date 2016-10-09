@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-10-10
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -780,7 +780,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#660)
             - [Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes de sécurité  après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation (art. R3125-22 à R3125-28)](#776)
           - [Chapitre VI : Les services de renseignement et de sécurité (art. D3126-1 à D3126-14)](#777)
             - [Section 1 : Direction générale de la sécurité extérieure (art. D3126-1 à D3126-4)](#778)
-            - [Section 2 : Direction de la protection et de la sécurité de la défense (art. D3126-5 à D3126-9)](#779)
+            - [Section 2 : Direction du renseignement et de la sécurité de la défense (art. D3126-5 à D3126-9)](#779)
             - [Section 3 : Direction du renseignement militaire (art. D3126-10 à D3126-14)](#780)
           - [Chapitre VII : Le service de la poste interarmées (art. R3127-1 à R3127-7)](#781)
       - [LIVRE II : LES FORCES ARMEES (art. R3222-1 à D3241-25)](#782)
@@ -59027,26 +59027,22 @@ _Cité par_:
 
 ###### Article D2362-2
 
-Les autorités compétentes pour définir, au nom du ministre de la défense, le besoin de protection des installations sont :
+Les autorités compétentes pour définir, au nom du ministre de la défense, le besoin de protection des installations sont : 
 
 1° Le chef d'état-major des armées pour les départements d'outre-mer, la Polynésie française, les îles Wallis-et-Futuna, les
 Terres australes et antarctiques françaises, la Nouvelle-Calédonie, Mayotte, Saint-Barthélemy, Saint-Martin, et les
-organismes interarmées ;
+organismes interarmées ; 
 
 2° Le délégué général pour l'armement, le secrétaire général pour l'administration, les chefs d'état-major, le directeur
-général de la sécurité extérieure, le directeur général de la gendarmerie nationale, le directeur de la protection et de la
-sécurité de la défense et les directeurs centraux de service qui ne relèvent pas d'un chef d'état-major d'armée pour les
-installations relevant de leur responsabilité.
+général de la sécurité extérieure, le directeur général de la gendarmerie nationale, le          directeur du renseignement
+et de la sécurité de la défense et les directeurs centraux de service qui ne relèvent pas d'un chef d'état-major d'armée pour
+les installations relevant de leur responsabilité.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°2001-745 du 24 août 2001 - art. 1 (Ab)
-
-_Créé par_:
-
-  - Décret n°2009-1440 du 23 novembre 2009 - art.
 
 _Cité par_:
 
@@ -59057,6 +59053,10 @@ _Cité par_:
   - Code de la défense. - art. D2461-4 (M)
   - Code de la défense. - art. D2471-5 (M)
   - Code de la défense. - art. D3121-24 (V)
+
+_Modifié par_:
+
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 
 ###### Article D2362-3
@@ -59098,19 +59098,19 @@ _Cite_:
 ###### Article D2362-4
 
 Le chef d'état-major des armées, le délégué général pour l'armement, le secrétaire général pour l'administration, le
-directeur général de la sécurité extérieure, le directeur de la protection et de la sécurité de la défense, le directeur
-central du service de santé des armées, le directeur central de la direction interarmées des réseaux d'infrastructure et des
-systèmes d'information de la défense, le directeur central du service du commissariat des armées, le directeur du service
-interarmées des munitions, le directeur du renseignement militaire, le directeur général des systèmes d'information et de
-communication  et le directeur central du service des essences des armées peuvent, au nom du ministre de la défense, par
-délégation de signature, procéder aux actes prévus à l'article D. 2362-3 pour les organismes et établissements relevant de
-leur autorité.
+directeur général de la sécurité extérieure, le          directeur du renseignement et de la sécurité de la défense, le
+directeur central du service de santé des armées, le directeur central de la direction interarmées des réseaux
+d'infrastructure et des systèmes d'information de la défense, le directeur central du service du commissariat des armées, le
+directeur du service interarmées des munitions, le directeur du renseignement militaire, le directeur général des systèmes
+d'information et de communication et le directeur central du service des essences des armées peuvent, au nom du ministre de
+la défense, par délégation de signature, procéder aux actes prévus à l'article D. 2362-3 pour les organismes et
+établissements relevant de leur autorité.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-211 du 25 février 2015 - art. 15
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cite_:
 
@@ -62727,29 +62727,29 @@ _Modifié par_:
   - Décret n°2012-1391 du 11 décembre 2012 - art. 3
 
 
-##### Section 2 : Direction de la protection et de la sécurité de la défense<a id=779></a>
+##### Section 2 : Direction du renseignement et de la sécurité de la défense<a id=779></a>
 
 ###### Article D3126-5
 
-La direction de la protection et de la sécurité de la défense est le service de renseignement dont dispose le ministre de la
-défense pour assumer ses responsabilités en matière de sécurité du personnel, des informations, du matériel et des
-installations sensibles.
+La          direction du renseignement et de la sécurité de la défense est le service de renseignement dont dispose le
+ministre de la défense pour assumer ses responsabilités en matière de sécurité du personnel, des informations, du matériel et
+des installations sensibles.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
 
 _Cité par_:
 
   - Arrêté du 22 octobre 2013 - art. 1 (V)
 
+_Modifié par_:
+
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
+
 
 ###### Article D3126-6
 
-La direction de la protection et de la sécurité de la défense apporte son concours aux états-majors, directions et services
-ainsi qu'aux différents échelons du commandement pour l'exercice de leurs responsabilités en matière de sécurité. 
+La          direction du renseignement et de la sécurité de la défense apporte son concours aux états-majors, directions et
+services ainsi qu'aux différents échelons du commandement pour l'exercice de leurs responsabilités en matière de sécurité. 
 
 Elle est chargée : 
 
@@ -62774,32 +62774,33 @@ l'information, notamment en matière de traitement automatisé, et de contrôler
 
 _Modifié par_:
 
-  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cité par_:
 
-  - Code de la défense. - art. D3126-8 (M)
+  - Code de la défense. - art. D3126-8 (V)
 
 _Cite_:
 
-  - Code de la défense. - art. L2331-1 (V)
-  - Code de la défense. - art. R2311-8 (V)
+  - Code de la défense. - art. L2331-1
+  - Code de la défense. - art. R2311-8
 
 
 ###### Article D3126-7
 
-La direction de la protection et de la sécurité de la défense participe à l'élaboration des mesures nécessaires à la
+La          direction du renseignement et de la sécurité de la défense participe à l'élaboration des mesures nécessaires à la
 protection du personnel, des informations, des matériels et des installations sensibles intéressant la défense et en contrôle
-l'application au sein :
+l'application au sein : 
 
 1° Des forces armées, des états-majors, directions et services placés sous l'autorité du ministre de la défense ainsi que des
-organismes qui en relèvent ;
+organismes qui en relèvent ; 
 
 2° Des entreprises titulaires de marchés intéressant la défense ou sous-traités à son profit, nécessitant la prise de
-précautions particulières, notamment lorsque le titulaire du marché est susceptible de détenir des informations classifiées ;
+précautions particulières, notamment lorsque le titulaire du marché est susceptible de détenir des informations
+classifiées ; 
 
 3° Des établissements relevant du ministère de la défense, dont l'activité justifie la prise de précautions particulières,
-notamment l'existence d'un régime d'accès réglementé ;
+notamment l'existence d'un régime d'accès réglementé ; 
 
 4° Des points d'importance vitale placés, pour leur sécurité, sous l'autorité du ministère de la défense et, d'une manière
 générale, de tous les établissements détenant du patrimoine scientifique et technologique et relevant du ministère de la
@@ -62807,22 +62808,22 @@ défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 
 ###### Article D3126-8
 
-Pour exercer les attributions définies aux articles D. 3126-6 et D. 3126-7, la direction de la protection et de la sécurité
-de la défense établit les liaisons nécessaires avec les autres services du ministère de la défense et des autres ministères
-concourant à la sécurité de défense.
+Pour exercer les attributions définies aux articles D. 3126-6 et D. 3126-7, la          direction du renseignement et de la
+sécurité de la défense établit les liaisons nécessaires avec les autres services du ministère de la défense et des autres
+ministères concourant à la sécurité de défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 _Cite_:
 
@@ -62831,14 +62832,14 @@ _Cite_:
 
 ###### Article D3126-9
 
-L'organisation et le fonctionnement de la direction de la protection et de la sécurité de la défense sont fixés par arrêté du
-ministre de la défense.
+L'organisation et le fonctionnement de la          direction du renseignement et de la sécurité de la défense sont fixés par
+arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2016-1337 du 7 octobre 2016 - art. 2 (V)
 
 
 ##### Section 3 : Direction du renseignement militaire<a id=780></a>
@@ -64579,27 +64580,24 @@ I. - Les commandements maritimes à compétence territoriale comprennent :
 
 1° Les commandements d'arrondissement maritime ;
 
-2° Les commandements de la marine en un lieu déterminé.
+2° Le commandement de la marine à Paris ;
+
+3° Les commandements de la marine en un lieu déterminé. 
 
 Ces commandements exercent le commandement organique des forces maritimes qui leur sont affectées ; ils peuvent, en outre, en
 exercer le commandement opérationnel. 
 
-II.-Les limites des arrondissements maritimes sont fixées par l'article R. * 1212-5. 
+II.-Les limites des arrondissements maritimes sont fixées par l'article R. 1212-5. 
 
-III. - En dehors des chefs-lieux des arrondissements maritimes, là où les missions de la marine nationale le justifient, un
-commandement de la marine est constitué.
+III. - Dans les arrondissements maritimes, en dehors de leurs chefs-lieux, un commandement de la marine peut être constitué
+là où les missions de la marine nationale le justifient.
 
 Dans les ports où il n'existe pas de commandement de la marine, un administrateur des affaires maritimes territorialement
 compétent peut représenter la marine nationale et assurer la suppléance de ses services. 
 
-IV.-Pour l'exercice des attributions prévues par les dispositions relatives à l'action de l'Etat en mer, les commandants
-d'arrondissement maritime sont préfets maritimes.
+IV. - Les commandants d'arrondissement maritime sont commandants de zone maritime.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2015-211 du 25 février 2015 - art. 4
 
 _Cité par_:
 
@@ -64609,6 +64607,10 @@ _Cité par_:
   - Code de la défense. - art. R3551-3 (M)
   - Code de la défense. - art. R3561-3 (M)
   - Code de la défense. - art. R3571-3 (M)
+
+_Modifié par_:
+
+  - Décret n°2016-1336 du 7 octobre 2016 - art. 2
 
 _Cite_:
 
@@ -64649,7 +64651,8 @@ besoins des forces maritimes ;
 
 8° Relations avec les autorités civiles et militaires dans le cadre de ses attributions ; 
 
-9° Instruction du personnel de réserve et de la préparation militaire ; 
+9° Instruction du personnel de réserve et des stagiaires des périodes militaires d'initiation ou de perfectionnement à la
+défense nationale organisées par la marine ; 
 
 10° Préparation et mise en œuvre de la mobilisation conformément aux principes définis à l'article R. 3223-58 ; 
 
@@ -64673,7 +64676,7 @@ d'utilisation des moyens de la marine nationale et de domanialité.
 
 _Modifié par_:
 
-  - Décret n°2015-211 du 25 février 2015 - art. 5
+  - Décret n°2016-1336 du 7 octobre 2016 - art. 3
 
 _Cité par_:
 
@@ -64685,23 +64688,41 @@ _Cite_:
   - Code de la défense. - art. R3223-58
 
 
-###### Article R3223-50
+###### Article R3223-49
 
-I.-Le commandant de la marine en un lieu déterminé exerce, par délégation du commandant d'arrondissement dont il relève, ses
-attributions dans les conditions définies par arrêté du ministre de la défense. 
-
-Il représente le commandant d'arrondissement maritime auprès des autorités civiles et des autres autorités militaires. 
-
-II.-Le commandant de la marine à Paris est subordonné directement au chef d'état-major de la marine. Il exerce certaines
-attributions d'un commandant d'arrondissement maritime dans les régions Ile-de-France, Alsace - Champagne-Ardenne - Lorraine
-et Bourgogne - Franche-Comté. Il relève du gouverneur militaire de Paris dans des domaines fixés par le ministre de la
-défense.
+Le commandant de la marine à Paris est subordonné directement au chef d'état-major de la marine. Il exerce les attributions
+d'un commandant d'arrondissement maritime dans les domaines définis aux 3°, 5°, 6°, 7°, 8°, 9° et aux a, b, c et d du 11° de
+l'article R. 3223-48, dans les régions Ile-de-France, Grand Est et Bourgogne-Franche-Comté.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2016-525 du 28 avril 2016 - art. 3
+  - Décret n°2016-1336 du 7 octobre 2016 - art. 4
+
+_Cite_:
+
+  - Code de la défense. - art. R3223-48
+
+
+###### Article R3223-50
+
+Le commandant de la marine en un lieu déterminé exerce, dans la limite des délégations qui lui sont consenties par le
+commandant d'arrondissement maritime dont il relève, des attributions dans les domaines définis aux 1°, 2°, 3°, 5°, 7°, 8°,
+9°, 10° et aux b et c du 11° de l'article R. 3223-48 ; 
+
+Le commandant de la marine en un lieu déterminé peut recevoir délégation du commandant de zone maritime en matière de défense
+maritime du territoire.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2016-1336 du 7 octobre 2016 - art. 5
+
+_Cite_:
+
+  - Code de la défense. - art. R3223-48
 
 
 ##### Section 4 : Dispositions relatives aux services de la marine<a id=806></a>
