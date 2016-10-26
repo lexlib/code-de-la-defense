@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2016-10-10
+Version Consolidée au 2016-10-27
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -90617,6 +90617,10 @@ service du commissariat des armées et, pour le service de la justice militaire,
 être chargés de diriger l'enseignement conduisant à l'acquisition de certains diplômes ou brevets propres à leur formation
 rattachée. 
 
+Sous le contrôle du chef d'état-major de la marine, l'inspecteur général des affaires maritimes et l'inspecteur général de
+l'enseignement maritime sont respectivement chargés de diriger l'enseignement conduisant à l'acquisition de certains diplômes
+ou brevets propres aux administrateurs des affaires maritimes et aux professeurs de l'enseignement maritime.  
+
 L'enseignement militaire supérieur au-dessus du deuxième degré ainsi que l'enseignement militaire supérieur interarmées du
 deuxième degré sont placés sous l'autorité directe du chef d'état-major des armées.
 
@@ -90624,7 +90628,7 @@ deuxième degré sont placés sous l'autorité directe du chef d'état-major des
 
 _Modifié par_:
 
-  - Décret n°2012-944 du 1er août 2012 - art. 1
+  - Décret n°2016-1431 du 24 octobre 2016 - art. 1
 
 
 ###### Article D4152-5
@@ -90632,12 +90636,16 @@ _Modifié par_:
 Dans l'armée de terre, la marine et l'armée de l'air, les officiers admis à suivre l'enseignement militaire supérieur sont
 désignés par le chef d'état-major de l'armée concernée. A la direction générale de l'armement, dans la gendarmerie nationale,
 le service de santé des armées, le service des essences des armées, le service d'infrastructure de la défense, le service du
-commissariat des armées et la justice militaire, ils sont désignés par le délégué ou le directeur concerné. 
+commissariat des armées et la justice militaire, ils sont désignés par le délégué ou le directeur concerné. Les
+administrateurs des affaires maritimes et les professeurs de l'enseignement maritime admis à suivre l'enseignement militaire
+supérieur sont respectivement désignés par l'inspecteur général des affaires maritimes et par l'inspecteur général de
+l'enseignement maritime.
 
 Ces désignations sont effectuées : 
 
-1° Pour l'admission à l'enseignement du premier degré, dans les conditions fixées par instructions du ministre de la
-défense ; 
+1° Pour l'admission à l'enseignement du premier degré, dans les conditions fixées par instructions du ministre de la défense
+ou, pour les administrateurs des affaires maritimes et les professeurs de l'enseignement maritime, par instruction conjointe
+du ministre de la défense et du ministre chargé de la mer  ; 
 
 2° Pour l'admission à l'enseignement du deuxième degré : 
 
@@ -90657,7 +90665,7 @@ Des officiers étrangers peuvent être admis à suivre l'enseignement militaire 
 
 _Modifié par_:
 
-  - Décret n°2012-944 du 1er août 2012 - art. 2
+  - Décret n°2016-1431 du 24 octobre 2016 - art. 2
 
 _Cité par_:
 
