@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-06
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -33126,11 +33126,11 @@ _Cite_:
 ###### Article R1332-6
 
 Pour chaque point d'importance vitale, l'opérateur d'importance vitale, après réception de l'avis mentionné à l'article R.
-1332-21, communique au préfet du département dans le ressort duquel se trouve chacun de ces points, ou à l'autorité militaire
-désignée par le chef d'état major des armées pour les points dépendant d'opérateurs d'importance vitale relevant du ministre
-de la défense, le nom de la personne chargée d'exercer la fonction de délégué pour la défense et la sécurité. Cette personne
-doit être habilitée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la
-protection du secret de la défense nationale. 
+1332-21, communique au préfet du département dans le ressort duquel se trouve chacun de ces points, ou au ministre de la
+défense pour les points dépendant d'opérateurs d'importance vitale relevant de sa responsabilité, le nom de la personne
+chargée d'exercer la fonction de délégué pour la défense et la sécurité. Cette personne doit être habilitée dans les
+conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la
+défense nationale. 
 
 Ce délégué exerce au niveau local les fonctions prévues au deuxième alinéa de l'article R. 1332-5.
 
@@ -33142,7 +33142,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+  - Décret n°2017-282 du 2 mars 2017 - art. 2
 
 _Cité par_:
 
@@ -33152,9 +33152,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R1332-21 (V)
-  - Code de la défense. - art. R1332-5 (V)
-  - Code de la défense. - art. R2311-1 (V)
+  - Code de la défense. - art. R1332-21
+  - Code de la défense. - art. R1332-5
+  - Code de la défense. - art. R2311-1
 
 
 ##### Section 3 : Organismes consultatifs<a id=456></a>
@@ -33172,7 +33172,7 @@ Cette commission comprend :
 
 2° Le directeur général de la police nationale ou son représentant ; 
 
-3° Le chef du cabinet militaire du ministre de la défense ou son représentant ; 
+3° Le haut fonctionnaire correspondant de défense et de sécurité auprès du ministre de la défense ou son représentant ;
 
 4° Le chef d'état-major des armées ou son représentant ; 
 
@@ -33180,7 +33180,7 @@ Cette commission comprend :
 
 6° Le haut fonctionnaire de défense et de sécurité auprès du ministre chargé de l'économie ou son représentant ; 
 
-7° Le directeur général de l'Agence nationale de la sécurité des systèmes d'information ou son représentant ;  
+7° Le directeur général de l'Agence nationale de la sécurité des systèmes d'information ou son représentant ; 
 
 8° En fonction des questions traitées et sur convocation du président, les hauts fonctionnaires mentionnés à l'article R.
 1143-1 et les directeurs d'administration centrale intéressés, ou leurs représentants, ainsi que les présidents des
@@ -33197,7 +33197,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2015-351 du 27 mars 2015 - art. 2
+  - Décret n°2017-282 du 2 mars 2017 - art. 3
 
 _Cite_:
 
@@ -33586,21 +33586,17 @@ d'activités d'importance vitale :
 coordonnateur du secteur d'activités d'importance vitale dont ils relèvent ; 
 
 2° Les opérateurs d'importance vitale mentionnés au deuxième alinéa de l'article R. 1332-3 transmettent leur plan de sécurité
-au préfet de département compétent ; 
-
-3° Les opérateurs d'importance vitale relevant du ministre de la défense présentent leur plan de sécurité d'opérateur
-d'importance vitale au chef d'état-major des armées.
+au préfet de département compétent.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-212 2006-02-23 art. 14
   - Décret n°2006-212 du 23 février 2006 - art. 14 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
 
 _Cité par_:
 
@@ -33608,9 +33604,13 @@ _Cité par_:
   - Décret n°2017-282 du 2 mars 2017 - art. 15 (V)
   - Code de la défense. - art. R1332-21 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 4
+
 _Cite_:
 
-  - Code de la défense. - art. R1332-3 (V)
+  - Code de la défense. - art. R1332-3
 
 
 ###### Article R1332-21
@@ -33665,9 +33665,6 @@ Dès réception de l'avis mentionné à l'article R. 1332-21, le ministre coordo
 opérateurs d'importance vitale mentionnés au deuxième alinéa de l'article R. 1332-3, désigne le ou les points d'importance
 vitale devant figurer en annexe du plan de sécurité d'opérateur d'importance vitale. 
 
-Le chef d'état-major des armées désigne les points d'importance vitale dépendant d'opérateurs d'importance vitale qui
-relèvent du ministre de la défense. 
-
 La décision de l'autorité administrative n'est pas publiée. Elle est notifiée à l'opérateur d'importance vitale et est
 protégée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du
 secret de la défense nationale.
@@ -33678,21 +33675,21 @@ _Anciens textes_:
 
   - Décret n°2006-212 du 23 février 2006 - art. 16 (Ab)
 
-_Modifié par_:
-
-  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
-
 _Cité par_:
 
   - Décret n°2015-1029 du 19 août 2015 - art. 5 (V)
   - Décret n°2017-282 du 2 mars 2017 - art. 15 (V)
   - Code de la défense. - art. R1332-4 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 5
+
 _Cite_:
 
-  - Code de la défense. - art. R1332-21 (V)
-  - Code de la défense. - art. R1332-3 (V)
-  - Code de la défense. - art. R2311-1 (V)
+  - Code de la défense. - art. R1332-21
+  - Code de la défense. - art. R1332-3
+  - Code de la défense. - art. R2311-1
 
 
 ##### Sous-section 1 bis : Accès aux points d'importance vitale<a id=462></a>
@@ -33701,8 +33698,8 @@ _Cite_:
 
 Avant d'autoriser l'accès d'une personne physique ou morale à tout ou partie d'un point d'importance vitale qu'il gère ou
 utilise, l'opérateur d'importance vitale peut demander par écrit l'avis du préfet de département dans le ressort duquel se
-situe le point d'importance vitale ou, pour les opérateurs d'importance vitale relevant du ministère de la défense, l'avis de
-l'autorité militaire désignée par le chef d'état-major des armées.
+situe le point d'importance vitale ou, pour les opérateurs d'importance vitale relevant du ministre de la défense, l'avis de
+celui-ci.
 
 Cette demande peut justifier que soit diligentée sous le contrôle de l'autorité concernée une enquête administrative destinée
 à vérifier que les caractéristiques de la personne physique ou morale intéressée ne sont pas incompatibles avec l'accès
@@ -33718,9 +33715,9 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 26
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-491 du 16 avril 2012 - art. 2
+  - Décret n°2017-282 du 2 mars 2017 - art. 6
 
 _Cité par_:
 
@@ -33780,8 +33777,8 @@ dispose d'un délai maximal de deux ans pour présenter le plan particulier de p
 au préfet du département dans le ressort duquel se trouve ce point.
 
 Les opérateurs d'importance vitale relevant du ministre de la défense présentent le plan particulier de protection de chaque
-point d'importance vitale à l'autorité militaire désignée par le chef d'état-major des armées, dans des délais identiques à
-ceux de l'alinéa précédent.
+point d'importance vitale à l'autorité désignée par le ministre de la défense dans des délais identiques à ceux de l'alinéa
+précédent.
 
 Les directives nationales de sécurité peuvent prévoir un délai différent de celui mentionné au premier alinéa.
 
@@ -33794,7 +33791,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 7
 
 _Cité par_:
 
@@ -33849,9 +33850,10 @@ Les opérateurs d'importance vitale transmettent pour approbation le projet de p
 département dans le ressort duquel se trouve le point d'importance vitale. 
 
 Les opérateurs d'importance vitale relevant du ministre de la défense transmettent pour approbation le projet de plan
-particulier de protection à l'autorité militaire désignée par le chef d'état-major des armées. 
+particulier de protection à l'autorité désignée par le ministre de la défense. 
 
-Le préfet de département ou l'autorité militaire statue dans un délai de six mois à compter de la date de réception du plan. 
+Le préfet de département ou l'autorité désignée par le ministre de la défense statue dans un délai de six mois à compter de
+la date de réception du plan. 
 
 La décision portant approbation du plan particulier de protection est notifiée à l'opérateur d'importance vitale intéressé et
 est protégée dans les conditions prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la
@@ -33865,7 +33867,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
+  - Décret n°2017-282 du 2 mars 2017 - art. 8
 
 _Cité par_:
 
@@ -33875,14 +33877,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2311-1 (V)
+  - Code de la défense. - art. R2311-1
 
 
 ###### Article R1332-26
 
-I.-Au cours du délai mentionné au troisième alinéa de l'article R. 1332-25, le préfet de département ou l'autorité militaire
-peut enjoindre l'opérateur d'importance vitale de compléter ou de modifier son plan particulier de protection s'il estime,
-notamment : 
+I.-Au cours du délai mentionné au troisième alinéa de l'article R. 1332-25, le préfet de département ou l'autorité désignée
+par le ministre de la défense peut enjoindre l'opérateur d'importance vitale de compléter ou de modifier son plan particulier
+de protection s'il estime, notamment : 
 
 1° Qu'il n'a pas été suffisamment tenu compte de l'avis de la commission mentionné à l'article R. 1332-21 relatif au plan de
 sécurité de l'opérateur d'importance vitale ; 
@@ -33891,13 +33893,13 @@ sécurité de l'opérateur d'importance vitale ;
 sécurité de l'opérateur d'importance vitale ou aux caractéristiques locales du point d'importance vitale. 
 
 Dans ce cas, un délai, compris entre trois et six mois, est fixé à l'opérateur d'importance vitale pour présenter un nouveau
-plan.L'injonction du préfet de département ou de l'autorité militaire indique les mesures du plan qui ne peuvent être
-approuvées, précise en quoi elles doivent être modifiées ou complétées et invite l'opérateur à présenter ses éventuelles
-observations. 
+plan. L'injonction du préfet de département ou de l'autorité désignée par le ministre de la défense indique les mesures du
+plan qui ne peuvent être approuvées, précise en quoi elles doivent être modifiées ou complétées et invite l'opérateur à
+présenter ses éventuelles observations. 
 
 II.-Si le nouveau plan ne peut être approuvé pour les motifs énoncés au I, le préfet de département, après avis de la
-commission mentionnée à l'article R. 1332-10, ou l'autorité militaire adopte par décision notifiée à l'opérateur d'importance
-vitale un plan complété ou modifié par ses soins. 
+commission mentionnée à l'article R. 1332-10, ou l'autorité désignée par le ministre de la défense adopte par décision
+notifiée à l'opérateur d'importance vitale un plan complété ou modifié par ses soins. 
 
 III.-La décision de l'autorité mentionnée au II peut faire l'objet d'un recours devant le tribunal administratif, qui statue
 d'urgence. Le tribunal peut apprécier la nécessité des travaux exigés et substituer sa propre décision à celle de cette
@@ -33907,12 +33909,15 @@ autorité.
 
 _Anciens textes_:
 
-  - Décret n°2006-212 2006-02-23 art. 20
   - Décret n°2006-212 du 23 février 2006 - art. 20 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 9
 
 _Cité par_:
 
@@ -33922,32 +33927,35 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R1332-10 (V)
-  - Code de la défense. - art. R1332-21 (V)
-  - Code de la défense. - art. R1332-25 (V)
+  - Code de la défense. - art. R1332-10
+  - Code de la défense. - art. R1332-21
+  - Code de la défense. - art. R1332-25
 
 
 ###### Article R1332-27
 
 Si, à l'expiration du délai mentionné au premier alinéa de l'article R. 1332-23, l'opérateur d'importance vitale n'a pas
-présenté au préfet de département ou à l'autorité militaire le plan particulier de protection d'un point d'importance vitale,
-le préfet de département ou cette autorité militaire le met en demeure d'établir un tel plan dans un délai de trois mois à
-compter de la date de réception de la notification de l'arrêté de mise en demeure. 
+présenté au préfet de département ou à l'autorité désignée par le ministre de la défense le plan particulier de protection
+d'un point d'importance vitale, le préfet de département ou cette autorité militaire le met en demeure d'établir un tel plan
+dans un délai de trois mois à compter de la date de réception de la notification de l'arrêté de mise en demeure. 
 
 Si l'opérateur d'importance vitale n'a pas établi le plan particulier de protection à l'expiration de ce nouveau délai, le
-préfet de département ou l'autorité militaire saisit l'autorité judiciaire aux fins de poursuites de l'auteur du délit prévu
-par les dispositions du premier alinéa de l'article L. 1332-7.
+préfet de département ou l'autorité désignée par le ministre de la défense saisit l'autorité judiciaire aux fins de
+poursuites de l'auteur du délit prévu par les dispositions du premier alinéa de l'article L. 1332-7.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-212 2006-02-23 art. 21
   - Décret n°2006-212 du 23 février 2006 - art. 21 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 9
 
 _Cité par_:
 
@@ -33956,8 +33964,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. L1332-7 (V)
-  - Code de la défense. - art. R1332-23 (V)
+  - Code de la défense. - art. L1332-7
+  - Code de la défense. - art. R1332-23
 
 
 ##### Sous-section 3 : Mise en oeuvre du plan particulier de protection<a id=464></a>
@@ -33992,19 +34000,22 @@ _Cite_:
 Le préfet du département dans le ressort duquel se trouve un point d'importance vitale veille à la réalisation du plan
 particulier de protection de ce point.
 
-L'autorité militaire procède de même pour les points d'importance vitale qui dépendent d'un opérateur d'importance vitale
-relevant du ministre de la défense.
+L'autorité désignée par le ministre de la défense procède de même pour les points d'importance vitale qui dépendent d'un
+opérateur d'importance vitale relevant du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-212 2006-02-23 art. 23
   - Décret n°2006-212 du 23 février 2006 - art. 23 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 9
 
 _Cité par_:
 
@@ -34016,24 +34027,27 @@ _Cité par_:
 
 Si, à l'expiration des délais prévus au troisième alinéa de l'article R. 1332-19 ou au troisième alinéa de l'article R.
 1332-24, l'opérateur d'importance vitale n'a pas réalisé une mesure de protection prévue au plan particulier de protection,
-le préfet de département ou l'autorité militaire le met par arrêté en demeure d'exécuter cette mesure dans un délai compris
-entre un mois et trois mois selon la nature de la mesure. Ce délai commence à courir à compter de la date de réception de la
-notification de l'arrêté de mise en demeure. 
+le préfet de département ou l'autorité désignée par le ministre de la défense le met par arrêté en demeure d'exécuter cette
+mesure dans un délai compris entre un mois et trois mois selon la nature de la mesure. Ce délai commence à courir à compter
+de la date de réception de la notification de l'arrêté de mise en demeure. 
 
-Si la mesure prévue n'a pas été réalisée à l'expiration de ce nouveau délai, le préfet de département ou l'autorité militaire
-saisit l'autorité judiciaire aux fins de poursuite de l'auteur du délit prévu par les dispositions du premier alinéa de
-l'article L. 1332-7.
+Si la mesure prévue n'a pas été réalisée à l'expiration de ce nouveau délai, le préfet de département ou l'autorité désignée
+par le ministre de la défense saisit l'autorité judiciaire aux fins de poursuite de l'auteur du délit prévu par les
+dispositions du premier alinéa de l'article L. 1332-7.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-212 2006-02-23 art. 24
   - Décret n°2006-212 du 23 février 2006 - art. 24 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 9
 
 _Cité par_:
 
@@ -34041,9 +34055,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. L1332-7 (V)
-  - Code de la défense. - art. R1332-19 (V)
-  - Code de la défense. - art. R1332-24 (V)
+  - Code de la défense. - art. L1332-7
+  - Code de la défense. - art. R1332-19
+  - Code de la défense. - art. R1332-24
 
 
 ##### Sous-section 4 : Révision du plan de sécurité et du plan particulier de protection<a id=465></a>
@@ -34141,19 +34155,22 @@ _Cite_:
 Lorsqu'en application d'accords internationaux régulièrement ratifiés ou approuvés, de lois ou de règlements, ou à
 l'initiative de l'opérateur d'importance vitale, un point d'importance vitale fait déjà l'objet de mesures de protection
 consignées dans un dossier particulier et qui répondent aux prescriptions prévues par les dispositions du présent chapitre,
-le préfet de département ou l'autorité militaire dont relève ce point peut décider que ce dossier vaut plan particulier de
-protection, après avis de la commission mentionnée à l'article R. 1332-10.
+le préfet de département ou l'autorité désignée par le ministre de la défense dont relève ce point peut décider que ce
+dossier vaut plan particulier de protection, après avis de la commission mentionnée à l'article R. 1332-10.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°2006-212 2006-02-23 art. 28
   - Décret n°2006-212 du 23 février 2006 - art. 28 (Ab)
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 9
 
 _Cité par_:
 
@@ -34164,7 +34181,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R1332-10 (V)
+  - Code de la défense. - art. R1332-10
 
 
 ##### Section 6 : Zone d'importance vitale<a id=469></a>
@@ -34213,19 +34230,18 @@ différents et interdépendants, le préfet du département dans le ressort duqu
 d'importance vitale, par arrêté pris après avis de la commission mentionnée à l'article R. 1332-13. 
 
 L'arrêté délimite la zone et identifie les opérateurs d'importance vitale. Il est notifié à chacun des opérateurs
-d'importance vitale ainsi qu'à l'officier général de la  zone de défense et de sécurité et est protégé dans les conditions
+d'importance vitale ainsi qu'à l'officier général de la zone de défense et de sécurité et est protégé dans les conditions
 prévues par les articles R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense
 nationale.
+
+L'arrêté mentionné aux premier et deuxième alinéas est pris par le ministre de la défense pour les zones d'importance vitale
+composées de points d'importance vitale relevant de sa responsabilité.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°2006-212 du 23 février 2006 - art. 29 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2015-211 du 25 février 2015 - art. 23
 
 _Cité par_:
 
@@ -34237,9 +34253,13 @@ _Cité par_:
   - Code de la défense. - art. R1651-3 (V)
   - Code des transports - art. R5332-22 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 10
+
 _Cite_:
 
-  - Code de la défense. - art. R1332-13 (V)
+  - Code de la défense. - art. R1332-13
   - Code de la défense. - art. R2311-1
 
 
@@ -43332,61 +43352,1092 @@ _Cite_:
 
 ###### Article R1641-2
 
-Sont applicables dans les îles Wallis-et-Futuna, sous réserve des adaptations prévues aux articles R. 1641-3, D. 1641-6 et au
-titre VIII du présent livre : 
+Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles R. 1641-3 et D. 1641-6 et
+au titre VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau : 
 
-1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20 et R. 1142-35 à R.
-1143-11 ; 
+<table align="center" border="1" width="720">
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
-1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-4, R. 1336-33 à
-R. 1336-38, R. 1337-1 à 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1 à R. 1338-5, les dispositions des articles R. 1333-3,
-R. 1333-6, R. 1333-17, R. 1333-71 et R. 1333-75 sont applicables dans leur rédaction résultant du décret n° 2016-1296 du 30
-septembre 2016 modifiant diverses dispositions du code de la défense relatives à la protection et au contrôle des matières
-nucléaires ; 
+DISPOSITIONS APPLICABLES 
 
-2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
-2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
-et modifiant le code de la défense ; 
+</th>
+      <th>
 
-3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
+DANS LEUR RÉDACTION 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
+</th>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre Ier 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-12 à R. 1132-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-21 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2011-1899 du 19 décembre 2011 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-22 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2013-247 du 25 mars 2013   
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-23 et R. 1132-24 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2009-752 du 23 juin 2009   
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-25 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-26 et R. 1132-27 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-28 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-29 et R. 1132-30 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-31 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-32 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33 et R. 1132-33-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-5 à R. 1132-33-9 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1142-14 à R. 1142-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1142-35 à R. 1143-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-3 et R. 1143-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-7 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-8 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-11 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-902 du 3 août 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre III 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1312-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1322-1 à R. 1324-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-1 et R. 1332-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant de l' ordonnance n° 2015-1341 du 23 octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-10 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-11 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-12 à R. 1332-15 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-16 et R. 1332-17 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-18 et R. 1332-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-21 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-22 et R. 1332-22-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-22-2 et R. 1332-22-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-491 du 16 avril 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-23 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-24 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-25 à R. 1332-27 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-28 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-29 et R. 1332-30 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-31 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-32 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-33 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-34 et R. 1332-35 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-37 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-38 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R 1332-41-1 à R. 1332-41-23 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-42 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-1 et R. 1333-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-4 et R. 1333-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-7 à R. 1333-16 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-17 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-18 et R. 1333-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-70 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-71 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-72 à R. 1333-74 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-75 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-76 à R. 1333-78 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1334-1 et R. 1334-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1334-3 et R. 1334-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1336-33 à R. 1336-38 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-1 et R. 1337-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-5 à R. 1337-13 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-18 à R. 1338-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre IV 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1411-11-24 et R. 1411-11-25 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1243 du 23 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Dans le livre V 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1511-2 à R. 1522-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au titre VIII du présent livre 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-1 et R. 1681-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-225 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-258 du 4 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-7 à R. 1682-18 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2007-585 du 23 avril 2007
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2016-1296 du 30 septembre 2016
-  - Code de la défense. - art. D1641-6
-  - Code de la défense. - art. R1132-12
-  - Code de la défense. - art. R1142-14
-  - Code de la défense. - art. R1142-35
-  - Code de la défense. - art. R1312-1
-  - Code de la défense. - art. R1322-1
-  - Code de la défense. - art. R1332-1
-  - Code de la défense. - art. R1332-37
-  - Code de la défense. - art. R1332-41-1
-  - Code de la défense. - art. R1332-42
-  - Code de la défense. - art. R1333-1
-  - Code de la défense. - art. R1333-17
-  - Code de la défense. - art. R1333-3
-  - Code de la défense. - art. R1333-6
-  - Code de la défense. - art. R1333-70
-  - Code de la défense. - art. R1333-71
-  - Code de la défense. - art. R1333-75
-  - Code de la défense. - art. R1336-33
-  - Code de la défense. - art. R1337-1
-  - Code de la défense. - art. R1337-18
-  - Code de la défense. - art. R1338-1
-  - Code de la défense. - art. R1511-2
-  - Code de la défense. - art. R1641-3
-  - Code de la défense. - art. R1681-1
-  - Code de la défense. - art. R1682-1
-
 _Modifié par_:
 
-  - Décret n°2016-1296 du 30 septembre 2016 - art. 6
+  - Décret n°2017-282 du 2 mars 2017 - art. 11
 
 
 ###### Article R1641-3
@@ -43721,60 +44772,1117 @@ _Cité par_:
 
 ###### Article R1651-3
 
-Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 1651-4, D. 1651-7 et au titre
-VIII du présent livre : 
+Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 1651-4 et D. 1651-7 et au titre
+VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans
+leur rédaction indiquée dans la colonne de droite du même tableau :
 
-1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 61142-20, et R. 1142-35 à R.
-1143-11 ; 
+<table align="center" border="1" width="720">
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre III, les dispositions des articles R. 1312-1 à R. 1312-6, 
-R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R. 1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à
-R. 1333-19, 
-R. 1333-70 à R. 1334-4, R. 1336-33 à R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5, les
-dispositions des articles R. 1333-3, R. 1333-6, R. 1333-17, R. 1333-71 et R. 1333-75 sont applicables dans leur rédaction
-résultant du décret n° 2016-1296 du 30 septembre 2016 modifiant diverses dispositions du code de la défense relatives à la
-protection et au contrôle des matières nucléaires ; 
+DISPOSITIONS APPLICABLES 
 
-2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
-2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
-et modifiant le code de la défense ; 
+</th>
+      <th>
 
-3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
+DANS LEUR RÉDACTION 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
+</th>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre Ier 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-12 à R. 1132-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-21 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2011-1899 du 19 décembre 2011 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-22 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-23 et R. 1132-24 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-25 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-26 et R. 1132-27 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-28 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-29 et R. 1132-30 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-31 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-32 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33 et R. 1132-33-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-5 à R. 1132-33-9 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1142-14 à R. 1142-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1142-35 à R. 1143-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-3 et R. 1143-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-7 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-8 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-11 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-902 du 3 août 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre III 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1312-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1322-1 à R. 1324-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-1 et R. 1332-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant de l' ordonnance n° 2015-1341 du 23 octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-10 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-11 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-12 à R. 1332-15 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-16 et R. 1332-17 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-18 et R. 1332-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-21 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-22 et R. 1332-22-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-22-2 et R. 1332-22-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-491 du 16 avril 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-23 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-24 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-25 à R. 1332-27 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-28 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-29 et R. 1332-30 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-31 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-32 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-33 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-34 et R. 1332-35 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-37 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-38 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R 1332-41-1 à R. 1332-41-23 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-42 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-1 et R. 1333-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-4 et R. 1333-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-7 à R. 1333-16 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-17 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-18 et R. 1333-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-70 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-71 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-72 à R. 1333-74 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-75 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-76 à R. 1333-78 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1334-1 et R. 1334-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1334-3 et R. 1334-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1336-33 à R. 1336-38 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-1 et R. 1337-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-5 à R. 1337-13 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-18 à R. 1338-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre IV 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1411-11-24 et R. 1411-11-25 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1243 du 23 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Dans le livre V 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1511-2 à R. 1522-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au titre VIII du présent livre 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-1 et R. 1681-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-225 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-258 du 4 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-7 à R. 1682-18 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2016-1296 du 30 septembre 2016 - art. 6
-
 _Cite_:
 
-  - Code de la défense. - art. D1651-7
-  - Code de la défense. - art. R1132-2
-  - Code de la défense. - art. R1142-14
-  - Code de la défense. - art. R1142-35
-  - Code de la défense. - art. R1312-1
-  - Code de la défense. - art. R1322-1
-  - Code de la défense. - art. R1332-1
-  - Code de la défense. - art. R1332-41-1
-  - Code de la défense. - art. R1332-42
-  - Code de la défense. - art. R1333-1
-  - Code de la défense. - art. R1333-17
-  - Code de la défense. - art. R1333-3
-  - Code de la défense. - art. R1333-6
-  - Code de la défense. - art. R1333-70
-  - Code de la défense. - art. R1333-71
-  - Code de la défense. - art. R1333-75
-  - Code de la défense. - art. R1336-33
-  - Code de la défense. - art. R1337-1
-  - Code de la défense. - art. R1337-18
-  - Code de la défense. - art. R1338-1
-  - Code de la défense. - art. R1511-2
-  - Code de la défense. - art. R1651-4
-  - Code de la défense. - art. R1681-1
-  - Code de la défense. - art. R1682-1
+  - Décret n°2007-585 du 23 avril 2007
+  - Décret n°2009-254 du 4 mars 2009
+  - Décret n°2009-752 du 23 juin 2009
+  - Décret n°2009-1120 du 17 septembre 2009
+  - Décret n°2009-1494 du 3 décembre 2009
+  - Décret n°2009-1657 du 24 décembre 2009
+  - Décret n°2010-225 du 4 mars 2010
+  - Décret n°2010-226 du 4 mars 2010
+  - Décret n°2010-902 du 3 août 2010
+  - Décret n°2011-1899 du 19 décembre 2011
+  - Décret n°2012-491 du 16 avril 2012
+  - Décret n°2012-1247 du 7 novembre 2012
+  - Décret n°2013-247 du 25 mars 2013
+  - Décret n°2013-1113 du 4 décembre 2013
+  - Décret n°2015-211 du 25 février 2015
+  - Décret n°2015-258 du 4 mars 2015
+  - Décret n°2015-351 du 27 mars 2015
+  - Décret n°2015-1213 du 1er octobre 2015
+  - Ordonnance n°2015-1341 du 23 octobre 2015
+  - Décret n°2016-1243 du 23 septembre 2016
+  - Décret n°2016-1296 du 30 septembre 2016
+  - Décret n°2017-282 du 2 mars 2017
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 12
 
 
 ###### Article R1651-4
@@ -44120,57 +46228,1116 @@ _Cité par_:
 ###### Article R1661-3
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 1661-4, D. 1661-7 et au titre
-VIII du présent livre : 
+VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans
+leur rédaction indiquée dans la colonne de droite du même tableau :
 
-1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ; 
+<table align="center" border="1" width="720">
+  <tbody>
+    <tr>
+      <th>
 
-2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6, R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
-1332-37, R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1333-1 à R. 1333-19, R. 1333-70 à R. 1334-14, R. 1336-33 à
-R. 1336-38, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22, R. 1338-1 à R. 1338-5, les dispositions des articles R. 1333-3,
-R. 1333-6, R. 1333-17, R. 1333-71 et R. 1333-75 sont applicables dans leur rédaction résultant du décret n° 2016-1296 du 30
-septembre 2016 modifiant diverses dispositions du code de la défense relatives à la protection et au contrôle des matières
-nucléaires ; 
+DISPOSITIONS APPLICABLES 
 
-2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
-2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
-et modifiant le code de la défense ; 
+</th>
+      <th>
 
-3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
+DANS LEUR RÉDACTION 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
+</th>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre Ier 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-12 à R. 1132-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-21 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2011-1899 du 19 décembre 2011 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-22 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-23 et R. 1132-24 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-25 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-26 et R. 1132-27 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-28 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-29 et R. 1132-30 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-31 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-32 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33 et R. 1132-33-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1132-33-5 à R. 1132-33-9 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1142-14 à R. 1142-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1142-35 à R. 1143-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-3 et R. 1143-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-7 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-8 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1143-11 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-902 du 3 août 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre III 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1312-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1322-1 à R. 1324-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-1 et R. 1332-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant de l' ordonnance n° 2015-1341 du 23 octobre 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-10 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-11 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-12 à R. 1332-15 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-16 et R. 1332-17 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-18 et R. 1332-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-20 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-21 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-22 et R. 1332-22-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-22-2 et R. 1332-22-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-491 du 16 avril 2012 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-23 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-24 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-25 à R. 1332-27 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-28 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-29 et R. 1332-30 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-31 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-32 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-33 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-34 et R. 1332-35 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-37 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-38 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R 1332-41-1 à R. 1332-41-23 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1332-42 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-1 et R. 1333-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-4 et R. 1333-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-7 à R. 1333-16 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-17 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-18 et R. 1333-19 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-70 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-71 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-72 à R. 1333-74 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-75 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1296 du 30 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1333-76 à R. 1333-78 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1120 du 17 septembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1334-1 et R. 1334-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1334-3 et R. 1334-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1336-33 à R. 1336-38 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-1 et R. 1337-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-5 à R. 1337-13 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1337-18 à R. 1338-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au livre IV 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1411-11-24 et R. 1411-11-25 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2016-1243 du 23 septembre 2016 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Dans le livre V 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1511-2 à R. 1522-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Au titre VIII du présent livre 
+
+</td>
+      <td align="left" valign="middle">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-1 et R. 1681-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-225 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1681-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-1 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-2 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-3 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-258 du 4 mars 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-4 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-5 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-6 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+R. 1682-7 à R. 1682-18 
+
+</td>
+      <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Décret n°2016-1296 du 30 septembre 2016 - art. 6
-
 _Cite_:
 
-  - Code de la défense. - art. D1661-7
-  - Code de la défense. - art. R1132-12
-  - Code de la défense. - art. R1142-14
-  - Code de la défense. - art. R1142-35
-  - Code de la défense. - art. R1322-1
-  - Code de la défense. - art. R1332-1
-  - Code de la défense. - art. R1332-37
-  - Code de la défense. - art. R1332-41-1
-  - Code de la défense. - art. R1332-42
-  - Code de la défense. - art. R1333-1
-  - Code de la défense. - art. R1333-17
-  - Code de la défense. - art. R1333-3
-  - Code de la défense. - art. R1333-6
-  - Code de la défense. - art. R1333-70
-  - Code de la défense. - art. R1333-71
-  - Code de la défense. - art. R1333-75
-  - Code de la défense. - art. R1336-33
-  - Code de la défense. - art. R1337-1
-  - Code de la défense. - art. R1337-18
-  - Code de la défense. - art. R1338-1
-  - Code de la défense. - art. R1511-2
-  - Code de la défense. - art. R1661-4
-  - Code de la défense. - art. R1681-1
-  - Code de la défense. - art. R1682-1
+  - Décret n°2007-585 du 23 avril 2007
+  - Décret n°2009-254 du 4 mars 2009
+  - Décret n°2009-752 du 23 juin 2009
+  - Décret n°2009-1120 du 17 septembre 2009
+  - Décret n°2009-1494 du 3 décembre 2009
+  - Décret n°2009-1657 du 24 décembre 2009
+  - Décret n°2010-225 du 4 mars 2010
+  - Décret n°2010-226 du 4 mars 2010
+  - Décret n°2010-902 du 3 août 2010
+  - Décret n°2011-1899 du 19 décembre 2011
+  - Décret n°2012-491 du 16 avril 2012
+  - Décret n°2012-1247 du 7 novembre 2012
+  - Décret n°2013-247 du 25 mars 2013
+  - Décret n°2013-1113 du 4 décembre 2013
+  - Décret n°2015-211 du 25 février 2015
+  - Décret n°2015-258 du 4 mars 2015
+  - Décret n°2015-351 du 27 mars 2015
+  - Décret n°2015-1213 du 1er octobre 2015
+  - Ordonnance n°2015-1341 du 23 octobre 2015
+  - Décret n°2016-1243 du 23 septembre 2016
+  - Décret n°2016-1296 du 30 septembre 2016
+  - Décret n°2017-282 du 2 mars 2017
+
+_Modifié par_:
+
+  - Décret n°2017-282 du 2 mars 2017 - art. 13
 
 
 ###### Article R1661-4
@@ -44475,22 +47642,906 @@ _Cité par_:
 ###### Article R1671-3
 
 Sont applicables aux Terres australes et antarctiques françaises, sous réserve des stipulations du traité sur l'Antarctique
-publié par le décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. 1671-4, D. 1671-7 et au titre
-VIII du présent livre : 
+publié par le  décret n° 61-1300 du 30 novembre 1961 et des adaptations prévues aux articles R. 1671-4 et D. 1671-7 et au
+titre VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-
+après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-1° Au livre Ier, les dispositions des articles R. 1132-12 à R. 1132-33-9, R. 1142-14 à R. 1142-20, R. 1142-35 à R. 1143-11 ; 
+<table align="center" border="1" width="720">
+    <tbody>
+      <tr>
+        <th>
 
-2° Au livre III, les dispositions des articles, R. 1312-1 à R. 1312-6 ; R. 1322-1 à R. 1331-1, R. 1332-1 à R. 1332-35, R.
-1332-37 à R. 1332-38, R. 1332-41-1 à R. 1332-41-23, R. 1332-42, R. 1337-1 à R. 1337-13, R. 1337-18 à R. 1337-22 et R. 1338-1
-à R. 1338-5 ; 
+DISPOSITIONS APPLICABLES 
 
-2° bis Au livre IV, les dispositions des articles R. 1411-11-24 et R. 1411-11-25 dans leur rédaction résultant du décret n°
-2016-1243 du 23 septembre 2016 relatif aux transports des moyens nécessaires à la mise en œuvre de la politique de dissuasion
-et modifiant le code de la défense ; 
+</th>
+        <th>
 
-3° Au livre V, les dispositions des articles R. 1511-2 à R. 1522-1 ; 
+DANS LEUR RÉDACTION 
 
-4° Au titre VIII du présent livre, les dispositions des articles R. 1681-1 à R. 1681-5 et R. 1682-1 à R. 1682-18.
+</th>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Au livre Ier 
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-12 à R. 1132-19 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-20 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-21 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2011-1899 du 19 décembre 2011 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-22 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-23 et R. 1132-24 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-25 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-26 et R. 1132-27 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-28 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-247 du 25 mars 2013 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-29 et R. 1132-30 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-31 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-32 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-33 et R. 1132-33-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-33-2 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-1247 du 7 novembre 2012 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-33-3 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-1213 du 1er octobre 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1132-33-5 à R. 1132-33-9 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-752 du 23 juin 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1142-14 à R. 1142-20 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1142-35 à R. 1143-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-2 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-3 et R. 1143-4 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-5 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-6 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-7 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-8 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1143-11 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-902 du 3 août 2010 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Au livre III 
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1312-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1322-1 à R. 1324-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-1 et R. 1332-2 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-3 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant de l' ordonnance n° 2015-1341 du 23 octobre 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-4 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-5 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-6 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-10 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-11 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-12 à R. 1332-15 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-16 et R. 1332-17 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-18 et R. 1332-19 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-20 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-21 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-22 et R. 1332-22-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-22-2 et R. 1332-22-3 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2012-491 du 16 avril 2012 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-23 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-24 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-25 à R. 1332-27 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-28 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-29 et R. 1332-30 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-31 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-32 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-33 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-34 et R. 1332-35 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2017-282 du 2 mars 2017 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-37 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-254 du 4 mars 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-38 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R 1332-41-1 à R. 1332-41-23 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-351 du 27 mars 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1332-42 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1337-1 et R. 1337-2 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1337-3 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1337-4 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1337-5 à R. 1337-13 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1337-18 à R. 1338-5 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Au livre IV 
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1411-11-24 et R. 1411-11-25 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du décret n° 2016-1243 du 23 septembre 2016
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Dans le livre V 
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1511-2 à R. 1522-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Au titre VIII du présent livre 
+
+</td>
+        <td align="left" valign="middle">
+      </td></tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1681-1 et R. 1681-2 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-225 du 4 mars 2010 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1681-3 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2013-1113 du 4 décembre 2013 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1681-4 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-1 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-2 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-3 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-258 du 4 mars 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-4 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2015-211 du 25 février 2015 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-5 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-6 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2010-226 du 4 mars 2010 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+R. 1682-7 à R. 1682-18 
+
+</td>
+        <td align="left" valign="middle">
+
+Résultant du  décret n° 2007-585 du 23 avril 2007
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 **Liens relatifs à cet article**
 
@@ -44501,26 +48552,30 @@ _Anciens textes_:
 _Cite_:
 
   - Décret n°61-1300 du 30 novembre 1961
-  - Code de la défense. - art. D1671-7
-  - Code de la défense. - art. R1132-12
-  - Code de la défense. - art. R1142-14
-  - Code de la défense. - art. R1142-35
-  - Code de la défense. - art. R1322-1
-  - Code de la défense. - art. R1332-1
-  - Code de la défense. - art. R1332-37
-  - Code de la défense. - art. R1332-41-1
-  - Code de la défense. - art. R1332-42
-  - Code de la défense. - art. R1337-1
-  - Code de la défense. - art. R1337-18
-  - Code de la défense. - art. R1338-1
-  - Code de la défense. - art. R1511-2
-  - Code de la défense. - art. R1671-4
-  - Code de la défense. - art. R1681-1
-  - Code de la défense. - art. R1682-1
+  - Décret n°2007-585 du 23 avril 2007
+  - Décret n°2009-254 du 4 mars 2009
+  - Décret n°2009-752 du 23 juin 2009
+  - Décret n°2009-1494 du 3 décembre 2009
+  - Décret n°2009-1657 du 24 décembre 2009
+  - Décret n°2010-225 du 4 mars 2010
+  - Décret n°2010-226 du 4 mars 2010
+  - Décret n°2010-902 du 3 août 2010
+  - Décret n°2011-1899 du 19 décembre 2011
+  - Décret n°2012-491 du 16 avril 2012
+  - Décret n°2012-1247 du 7 novembre 2012
+  - Décret n°2013-247 du 25 mars 2013
+  - Décret n°2013-1113 du 4 décembre 2013
+  - Décret n°2015-211 du 25 février 2015
+  - Décret n°2015-258 du 4 mars 2015
+  - Décret n°2015-351 du 27 mars 2015
+  - Décret n°2015-1213 du 1er octobre 2015
+  - Ordonnance n°2015-1341 du 23 octobre 2015
+  - Décret n°2016-1243 du 23 septembre 2016
+  - Décret n°2017-282 du 2 mars 2017
 
 _Modifié par_:
 
-  - Décret n°2016-1243 du 23 septembre 2016 - art. 5
+  - Décret n°2017-282 du 2 mars 2017 - art. 14
 
 
 ###### Article R1671-4
