@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-04-17
+Version Consolidée au 2017-04-21
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -31610,11 +31610,12 @@ _Modifié par_:
 La brigade de sapeurs-pompiers de Paris participe à l'élaboration et à la mise en oeuvre des mesures prévues, en matière de
 défense civile, par l'article L. 1321-2, des plans institués par la loi de modernisation de la sécurité civile n° 2004-811 du
 13 août 2004, ainsi que des plans interdépartementaux d'organisation des secours résultant des compétences du préfet de
-police en matière de secours et de défense contre l'incendie. 
+police en matière de secours et de défense contre l'incendie.
 
-Pour la mise en oeuvre des plans d'urgence applicables dans les aérodromes du Bourget, de Roissy-Charles de Gaulle et d'Orly,
-le préfet de police met à la disposition du préfet désigné pour exercer les pouvoirs de police prévus à l'article L. 213-2 du
-code de l'aviation civile sur l'emprise de ces aérodromes les moyens disponibles de la brigade de sapeurs-pompiers de Paris.
+**Nota:**
+
+Conformément à l'article 11 du décret n° 2017-567 du 19 avril 2017, les dispositions du présent décret, en tant qu'elles
+concernent l'emprise de l'aérodrome de Paris-Orly, entrent en vigueur à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -31624,13 +31625,17 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Loi n°2004-811 du 13 août 2004 (V)
-  - Code de la défense. - art. L1321-2 (V)
-  - Code de l'aviation civile - art. L213-2 (V)
+  - Loi n°2004-811 du 13 août 2004
+  - Code de la défense. - art. L1321-2
+  - Code de l'aviation civile - art. L213-2
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2017-567 du 19 avril 2017 - art. 8
 
 
 ###### Article R1321-22
@@ -31708,31 +31713,35 @@ _Codifié par_:
 
 ###### Article R1321-24-1
 
-Sur les emprises des aérodromes du Bourget, de Roissy-Charles-de-Gaulle et d'Orly, le général, commandant la brigade de
+Sur les emprises des aérodromes de Paris-Charles de Gaulle, du Bourget et de Paris-Orly, le général, commandant la brigade de
 sapeurs-pompiers de Paris, est chargé de la mise en œuvre de l'ensemble des moyens de secours et de défense contre
 l'incendie, dans les conditions prévues par un règlement opérationnel arrêté, après avis du conseil d'administration des
 services départementaux d'incendie et de secours concernés et du général commandant la brigade de sapeurs-pompiers de Paris,
-par le préfet désigné pour exercer les pouvoirs de police prévus à l'article L. 213-2 du code de l'aviation civile sur
-l'emprise de ces aérodromes et publié au recueil des actes administratifs des départements concernés. 
+par le préfet de police et publié au recueil des actes administratifs des départements concernés.
 
 Sur ces emprises, le commandement des opérations de secours relève du général, commandant la brigade de sapeurs-pompiers de
 Paris, ou, en son absence, d'un officier, sous-officier ou gradé de la brigade ou des services départementaux d'incendie et
-de secours concernés dans les conditions fixées par le règlement mentionné au premier alinéa du présent article. 
+de secours concernés dans les conditions fixées par le règlement mentionné au premier alinéa du présent article.
 
 Le général, commandant la brigade de sapeurs-pompiers de Paris, exerce ses compétences sans préjudice de celles confiées par
 le code de l'aviation civile à l'exploitant d'aérodrome dans le domaine du service de sauvetage et de la lutte contre les
 incendies d'aéronefs, conformément aux mesures de coordination arrêtées par le préfet dans le règlement mentionné au premier
 alinéa du présent article.
 
+**Nota:**
+
+Conformément à l'article 11 du décret n° 2017-567 du 19 avril 2017, les dispositions du présent décret, en tant qu'elles
+concernent l'emprise de l'aérodrome de Paris-Orly, entrent en vigueur à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2010-972 du 26 août 2010 - art. 2
+  - Décret n°2017-567 du 19 avril 2017 - art. 8
 
 _Cite_:
 
-  - Code de l'aviation civile - art. L213-2 (VT)
+  - Code de l'aviation civile - art. L213-2
 
 
 ##### Sous-section 2 : Bataillon de marins-pompiers de Marseille<a id=446></a>
@@ -55167,24 +55176,13 @@ I. - Peuvent faire l'objet de dérogations à l'obligation d'autorisation préal
 d'exportations définies dans un arrêté du ministre de la défense, du ministre chargé des douanes et du ministre des affaires
 étrangères.
 
+L'arrêté mentionné à l'alinéa précédent définit les modalités de la preuve d'arrivée dans le pays de destination finale ou de
+réimportation des matériels pour lesquels l'autorisation préalable d'exportation n'est pas exigée.
+
 II. - A la demande de l'un des membres de la commission interministérielle instituée par le décret n° 55-965 du 16 juillet
 1955 portant réorganisation de la commission interministérielle pour l'étude des exportations de matériels de guerre ou d'un
 ministère concerné et après avis de cette commission, ces dérogations peuvent être suspendues par décision du Premier
 ministre.
-
-Sauf dispositions contraires prévues par la décision mentionnée à l'alinéa précédent, dans le cas d'une dérogation limitée à
-certains pays, les expéditions qui demeurent autorisées donneront lieu, à la sortie du territoire, à la délivrance d'un
-acquit-à-caution ou d'une soumission garantissant l'arrivée au pays de destination et la non-réexpédition des marchandises
-dans un pays à destination duquel le transit, le transbordement ou la réexportation sont interdits. La délivrance et la
-décharge de cet acquit-à-caution ou de cette soumission sont effectuées dans les conditions prévues à l'article R. 2335-36.
-
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
 
 **Liens relatifs à cet article**
 
@@ -55192,15 +55190,6 @@ _Cite_:
 
   - Décret n°55-965 du 16 juillet 1955
   - Code de la défense. - art. L2335-2
-  - Code de la défense. - art. R2335-36
-
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
-_Modifié par_:
-
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
 
 _Cité par_:
 
@@ -55208,6 +55197,11 @@ _Cité par_:
   - Arrêté du 2 juin 2014 - art. 3 (V)
   - Arrêté du 8 août 2017 - art. 1
   - Code de la défense. - art. R2335-35 (VD)
+  - Code de la défense. - art. R2335-36 (VD)
+
+_Modifié par_:
+
+  - Décret n°2017-565 du 18 avril 2017 - art. 1
 
 
 ###### Article R2335-15
@@ -56073,41 +56067,18 @@ _Cité par_:
 
 ###### Article R2335-35
 
-L'arrivée des matériels dans le pays de destination situé hors de l'Union européenne est garantie par un acquit-à-caution
-délivré conformément au code des douanes. Lorsque des matériels sont expédiés directement à des gouvernements étrangers,
-l'acquit-à-caution est remplacé par une soumission dispensée de caution. 
+Lorsque la licence individuelle d'exportation sous couvert de laquelle des matériels de guerre ou matériels assimilés sont
+exportés requiert une preuve d'arrivée de ces matériels dans le pays de destination finale, cette preuve doit être présentée
+à première réquisition des agents mentionnés à l'article L. 2339-1.
 
-L'acquit-à-caution ou la soumission ne peuvent être déchargés que sur présentation d'un document délivré par les services des
-douanes du pays importateur établissant que les matériels exportés sont arrivés au pays désigné sur l'acquit-à-caution ou sur
-la soumission. 
-
-Par dérogation aux dispositions du précédent alinéa, l'administration des douanes et droits indirects peut accepter, à titre
-de preuve alternative, un document contractuel, commercial ou de transport établissant que les matériels sont arrivés au pays
-désigné par l'acquit-à-caution ou sur la soumission. 
-
-L'administration des douanes et droits indirects peut accorder une dispense d'acquit-à-caution ou de soumission pour les
-envois de faible importance. 
-
-Sont dispensées des formalités prévues par le présent article les expéditions des matériels bénéficiant des dérogations
-prévues par l'arrêté mentionné à l'article R. 2335-14 ou bénéficiant d'une licence générale ou globale d'exportation.
-
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
+Le ou les documents qui constituent une preuve d'arrivée dans le pays de destination finale sont définis par un arrêté du
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
 _Modifié par_:
 
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Décret n°2017-565 du 18 avril 2017 - art. 1
 
 _Cité par_:
 
@@ -56121,49 +56092,27 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2335-14
-  - Code des douanes
+  - Code de la défense. - art. L2339-1
 
 
 ###### Article R2335-36
 
-La réimportation des matériels exportés temporairement dans un pays de destination situé hors du territoire de l'Union
-européenne est garantie par un acquit-à-caution délivré conformément au code des douanes. Lorsque les matériels sont expédiés
-directement à des gouvernements étrangers ou lorsqu'il s'agit de matériels exportés sous le régime douanier du
-perfectionnement passif pour réparation à destination du fabricant, l'acquit-à-caution est remplacé par une soumission
-dispensée de caution. 
+L'exportateur doit présenter, à première réquisition des agents mentionnés à l'article L. 2339-1, un justificatif de la
+réimportation des matériels exportés temporairement sous couvert d'une licence individuelle d'exportation.
 
-L'acquit-à-caution ou la soumission ne peuvent être déchargés que sur présentation de la déclaration en douane de
-réimportation des matériels. 
-
-Lorsque le document prévu à l'alinéa précédent n'a pas pu être obtenu, l'administration des douanes et droits indirects peut
-accepter tout document établissant la réimportation des matériels ou leur destruction. 
-
-L'administration des douanes et droits indirects peut accorder une dispense d'acquit-à-caution ou de soumission pour les
-envois de faible importance. 
-
-Sont dispensées des formalités prévues par le présent article les expéditions des matériels bénéficiant des dérogations
-prévues par l'arrêté mentionné à l'article R. 2335-14, à l'exception des matériels exportés sous le régime douanier du
-perfectionnement passif pour réparation à destination du fabricant, ou bénéficiant d'une licence générale ou globale
-d'exportation.
-
-**Nota:**
-
-Le décret n° 2013-542 du 26 juin 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au 9
-janvier 2014.
-
-Le décret n° 2013-1160 du 14 décembre 2013 a reporté la date d'entrée en vigueur du décret n° 2012-901 du 20 juillet 2012 au
-4 juin 2014.
+La preuve de la réimportation est constituée par la déclaration douanière de réimportation des matériels. Les agents
+mentionnés à l'alinéa précédent peuvent accepter, à titre de preuve alternative, tout document établissant la réimportation,
+l'exportation définitive ou la destruction des matériels.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2012-901 du 20 juillet 2012 - art. 1
-
 _Modifié par_:
 
-  - Décret n°2013-1160 du 14 décembre 2013 - art. 1
+  - Décret n°2017-565 du 18 avril 2017 - art. 1
+
+_Cite_:
+
+  - Code de la défense. - art. L2339-1
 
 _Cité par_:
 
@@ -63781,26 +63730,24 @@ _Cite_:
 ###### Article R2421-1
 
 Pour l'application de la présente partie du code à Saint-Pierre-et-Miquelon, les références énumérées ci-après sont
-remplacées ainsi : 
+remplacées ainsi :
 
-1° La référence au préfet est remplacée par la référence au représentant de l'Etat ; 
+1° La référence au préfet est remplacée par la référence au représentant de l'Etat ;
 
-2° La référence au département est remplacée par la référence à la collectivité ; 
+2° La référence au département est remplacée par la référence à la collectivité ;
 
 3° La référence au tribunal d'instance et au tribunal de grande instance est remplacée par la référence au tribunal de
-première instance ; 
+première instance ;
 
 4° La référence au directeur départemental ou, le cas échéant, régional des finances publiques est remplacée par la référence
-au directeur chargé de la direction locale des finances publiques de Saint-Pierre-et-Miquelon ; 
+au directeur chargé de la direction locale des finances publiques de Saint-Pierre-et-Miquelon ;
 
 5° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
-mots : " de toute provenance " ; 
+mots : " de toute provenance " ;
 
-6° A l'article R. 2335-35, les mots : " dans le pays de destination situé hors de l'Union européenne " sont remplacés par les
-mots : " dans le pays de destination " ; 
+6° (Supprimé)
 
-7° A l'article R. 2335-36, les mots : " dans un pays de destination situé hors du territoire de l'Union européenne " sont
-remplacés par les mots : " hors de la collectivité " ; 
+7° (Supprimé)
 
 8° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
 hors de la collectivité ".
@@ -63809,7 +63756,7 @@ hors de la collectivité ".
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 6
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 
 #### TITRE III : DISPOSITIONS PARTICULIERES A MAYOTTE<a id=728></a>
@@ -64124,1281 +64071,905 @@ _Cite_:
 
 Sous la seule réserve des adaptations prévues au titre IX et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables dans les îles Wallis et Futuna, dans leur rédaction résultant du décret n° 2009-254
-du 4 mars 2009 : 
+du 4 mars 2009 :
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td>
 
-Au livre Ier 
-
-</td>
+Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2141-1 
-
 </td>
-      <td valign="middle" align="left">
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2151-1 à R. 2151-7 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
+Résultant du décret n° 2015-508 du 7 mai 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2161-1 à R. 2161-3 
-
 </td>
-      <td align="left" valign="middle">
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2161-4 
+R. 2161-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2161-5, R. 2161-6 
-
-</td>
-      <td valign="middle" align="left">
+R. 2161-5, R. 2161-6</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2161-7 
+R. 2161-7</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2161-8 à R. 2161-10 
-
-</td>
-      <td align="left" valign="middle">
+R. 2161-8 à R. 2161-10</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2171-1 à R. 2171-4 
+R. 2171-1 à R. 2171-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
+Résultant du décret n° 2015-508 du 7 mai 2015</td>
     </tr>
     <tr>
       <td>
 
-Au livre II 
-
-</td>
-      <td valign="middle" align="left">
+Au livre II</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2211-1, R. 2211-3 
-
 </td>
-      <td valign="middle" align="left">
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2211-4 
+R. 2211-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1 
-
-</td>
-      <td align="left" valign="middle">
+R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2232-2 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2009-1657 du 24 décembre 2009 
-
-</td>
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2232-3 à R. 2234-29 
-
-</td>
-      <td align="left" valign="middle">
+R. 2232-3 à R. 2234-29</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2234-30 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2010-1126 du 27 septembre 2010 
-
-</td>
+Résultant du décret n° 2010-1126 du 27 septembre 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-31 à R. 2234-52 
-
-</td>
-      <td align="left" valign="middle">
+R. 2234-31 à R. 2234-52</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-53 
+R. 2234-53</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R 2234-54, R. 2234-55 
-
-</td>
-      <td valign="middle" align="left">
+R 2234-54, R. 2234-55</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-56 
+R. 2234-56</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-57, R. 2234-58 
-
-</td>
-      <td align="left" valign="middle">
+R. 2234-57, R. 2234-58</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-59, R. 2234-60 
+R. 2234-59, R. 2234-60</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-61 à R. 2234-80 
-
-</td>
-      <td align="left" valign="middle">
+R. 2234-61 à R. 2234-80</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-81 
+R. 2234-81</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-82, R. 2234-83 
-
-</td>
-      <td align="left" valign="middle">
+R. 2234-82, R. 2234-83</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-84 
+R. 2234-84</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102 
-
-</td>
-      <td align="left" valign="middle">
+R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-103 
+R. 2234-103</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1494 du 3 décembre 2009 
-
-</td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2236-1 à R. 2236-3 
-
 </td>
-      <td align="left" valign="middle">
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
-Au livre III 
-
-</td>
-      <td align="left" valign="middle">
+Au livre III</td>
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2311-1 à R. 2311-8 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
+Résultant du décret n° 2010-678 du 21 juin 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2311-8-1, R. 2311-8-2 
+R. 2311-8-1, R. 2311-8-2</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2011-1657 du 28 novembre 2011 
-
-</td>
+Résultant du décret n° 2011-1657 du 28 novembre 2011</td>
     </tr>
     <tr>
       <td>
 
 R. 2311-9 à R. 2311-11, R. 2312-1, R. 2312-2 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
+Résultant du décret n° 2010-678 du 21 juin 2010</td>
     </tr>
     <tr>
       <td>
 
 R. 2313-1 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2011-574 du 24 mai 2011 
-
-</td>
+Résultant du décret n° 2011-574 du 24 mai 2011</td>
     </tr>
     <tr>
       <td>
 
 R. 2321-1 à R. 2321-5 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2015-349 du 27 mars 2015 
-
-</td>
+Résultant du décret n° 2015-349 du 27 mars 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2322-1 
-
 </td>
-      <td valign="middle" align="left">
+      <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2335-1, R. 2335-2 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2013-700 du 30 juillet 2013 
-
-</td>
+Résultant du décret n° 2013-700 du 30 juillet 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-3 
+R. 2335-3</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-4 
+R. 2335-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-5 à R. 2335-7 
+R. 2335-5 à R. 2335-7</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-8 
+R. 2335-8</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-9 
+R. 2335-9</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-10 
+R. 2335-10</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-11 à R. 2335-14 
+R. 2335-11 à R. 2335-13</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-15 
+R. 2335-14
 
 </td>
-      <td valign="middle">
-
-Résultant du décret n° 2016-308 du 17 mars 2016 
-
-</td>
+      <td>Résultant du décret n° 2017-565 du 18 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-16 à R. 2335-20, R. 2335-33 à R. 2335-36 
+R. 2335-15</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-37 
+R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34
 
 </td>
-      <td valign="middle">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+      <td>Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-38 
+R. 2335-35, R. 2335-36
 
 </td>
-      <td valign="middle">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+      <td>Résultant du décret n° 2017-565 du 18 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-38-1 
+R. 2335-37</td>
+      <td>
 
-</td>
-      <td valign="middle">
+Résultant du décret n° 2017-151 du 8 février 2017</td>
+    </tr>
+    <tr>
+      <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
+R. 2335-38</td>
+      <td>
 
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2335-38-1</td>
+      <td>
+
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2339-1 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2011-1467 du 9 novembre 2011 
-
-</td>
+Résultant du décret n° 2011-1467 du 9 novembre 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2339-3, R. 2339-4 
+R. 2339-3, R. 2339-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
     <tr>
       <td>
 
 R. 2342-3, R. 2342-4 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-5 
+R. 2342-5</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-6 à R. 2342-19 
+R. 2342-6 à R. 2342-19</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-20 
+R. 2342-20</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
+Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-21, R. 2342-22 
+R. 2342-21, R. 2342-22</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-23 
+R. 2342-23</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-24 
+R. 2342-24</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-25 
+R. 2342-25</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-26 
+R. 2342-26</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-27 
+R. 2342-27</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-28 à R. 2342-32 
+R. 2342-28 à R. 2342-32</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-33 
+R. 2342-33</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-34 
+R. 2342-34</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-35 
+R. 2342-35</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120 
+R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2343-1 à R. 2343-3 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
+Résultant du décret n° 2011-737 du 28 juin 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2343-4 à R. 2343-8 
+R. 2343-4 à R. 2343-8</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2344-1 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
+Résultant du décret n° 2011-737 du 28 juin 2011</td>
     </tr>
     <tr>
       <td>
 
 R. 2352-1 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-2 
+R. 2352-2</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
+Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-3 
+R. 2352-3</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
+Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-4 à R. 2352-6, R. 2352-8 à R. 2352-11 
+R. 2352-4 à R. 2352-6, R. 2352-8 à R. 2352-11</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-12 
+R. 2352-12</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-13 à R. 2352-18 
+R. 2352-13 à R. 2352-18</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-19 
+R. 2352-19</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
+Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-20, R. 2352-21 
+R. 2352-20, R. 2352-21</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-22 
+R. 2352-22</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-23 à R. 2352-25 
+R. 2352-23 à R. 2352-25</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-26 
+R. 2352-26</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-27 à R. 2352-31 
+R. 2352-27 à R. 2352-31</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-32 
+R. 2352-32</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-33 
+R. 2352-33</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-34 
+R. 2352-34</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-35 à R. 2352-38 
+R. 2352-35 à R. 2352-38</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-39 
+R. 2352-39</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-40 à R. 2352-46 
+R. 2352-40 à R. 2352-46</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-47 
+R. 2352-47</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
+Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-64 
+R. 2352-64</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-73 à R. 2352-88 
+R. 2352-73 à R. 2352-88</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-89, R. 2352-90 
+R. 2352-89, R. 2352-90</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-91 
+R. 2352-91</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-92, R. 2352-93 
+R. 2352-92, R. 2352-93</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-94 à R. 2352-96 
+R. 2352-94 à R. 2352-96</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-97 à R. 2352-102 
+R. 2352-97 à R. 2352-102</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-103 
+R. 2352-103</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-104 à R. 2352-108 
+R. 2352-104 à R. 2352-108</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-109 
+R. 2352-109</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-110 
+R. 2352-110</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-111, R. 2352-112 
+R. 2352-111, R. 2352-112</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-113 
+R. 2352-113</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-114 à R. 2352-116 
+R. 2352-114 à R. 2352-116</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-117 
+R. 2352-117</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-118, R. 2352-119 
+R. 2352-118, R. 2352-119</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-120 
+R. 2352-120</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-121 
+R. 2352-121</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-122 
+R. 2352-122</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-123 à R. 2353-1 
+R. 2352-123 à R. 2353-1</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2353-2 
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2353-7 à R. 2362-1, R. 2363-1 à R. 2363-6
-
 </td>
-      <td valign="middle">
+      <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2363-7 
+R. 2363-7</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2017-151 du 8 février 2017
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
   </tbody>
 </table>
@@ -65407,7 +64978,7 @@ Résultant du décret n° 2017-151 du 8 février 2017
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 7
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cité par_:
 
@@ -65415,56 +64986,54 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2141-1 (V)
-  - Code de la défense. - art. R2151-1 (V)
-  - Code de la défense. - art. R2161-1 (V)
-  - Code de la défense. - art. R2171-1 (V)
-  - Code de la défense. - art. R2211-1 (V)
-  - Code de la défense. - art. R2213-20 (V)
-  - Code de la défense. - art. R2232-2 (V)
-  - Code de la défense. - art. R2234-30 (V)
-  - Code de la défense. - art. R2236-1 (V)
-  - Code de la défense. - art. R2311-1 (V)
-  - Code de la défense. - art. R2312-1 (V)
-  - Code de la défense. - art. R2313-1 (V)
-  - Code de la défense. - art. R2321-1 (V)
-  - Code de la défense. - art. R2322-1 (V)
-  - Code de la défense. - art. R2335-1 (V)
-  - Code de la défense. - art. R2339-1 (V)
-  - Code de la défense. - art. R2342-3 (V)
-  - Code de la défense. - art. R2343-1 (V)
-  - Code de la défense. - art. R2344-1 (V)
-  - Code de la défense. - art. R2352-1 (V)
-  - Code de la défense. - art. R2353-2 (V)
-  - Code de la défense. - art. R2363-1 (V)
+  - Code de la défense. - art. R2141-1
+  - Code de la défense. - art. R2151-1
+  - Code de la défense. - art. R2161-1
+  - Code de la défense. - art. R2171-1
+  - Code de la défense. - art. R2211-1
+  - Code de la défense. - art. R2213-20
+  - Code de la défense. - art. R2232-2
+  - Code de la défense. - art. R2234-30
+  - Code de la défense. - art. R2236-1
+  - Code de la défense. - art. R2311-1
+  - Code de la défense. - art. R2312-1
+  - Code de la défense. - art. R2313-1
+  - Code de la défense. - art. R2321-1
+  - Code de la défense. - art. R2322-1
+  - Code de la défense. - art. R2335-1
+  - Code de la défense. - art. R2339-1
+  - Code de la défense. - art. R2342-3
+  - Code de la défense. - art. R2343-1
+  - Code de la défense. - art. R2344-1
+  - Code de la défense. - art. R2352-1
+  - Code de la défense. - art. R2353-2
+  - Code de la défense. - art. R2363-1
 
 
 ###### Article R2441-5
 
 Pour l'application de la présente partie du code dans les îles Wallis et Futuna, les références énumérées ci-après sont
-remplacées ainsi : 
+remplacées ainsi :
 
-1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ; 
+1° La référence au département est remplacée par la référence aux îles Wallis et Futuna ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ; 
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
 
-3° La référence à la commune est remplacée par la référence à la circonscription ; 
+3° La référence à la commune est remplacée par la référence à la circonscription ;
 
-4° La référence au maire est remplacée par la référence au chef de circonscription ; 
+4° La référence au maire est remplacée par la référence au chef de circonscription ;
 
-5° La référence à la mairie est remplacée par la référence à la circonscription ; 
+5° La référence à la mairie est remplacée par la référence à la circonscription ;
 
 6° La référence au tribunal d'instance et tribunal de grande instance est remplacée par la référence au tribunal de première
-instance ; 
+instance ;
 
 7° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
-mots : " de toute provenance " ; 
+mots : " de toute provenance " ;
 
-8° A l'article R. 2335-35, les mots : " dans le pays de destination situé hors de l'Union européenne " sont remplacés par les
-mots : " dans le pays de destination " ; 
+8° (Supprimé)
 
-9° A l'article R. 2335-36, les mots : " dans un pays de destination situé hors du territoire de l'Union européenne " sont
-remplacés par les mots : " hors de la collectivité " ; 
+9° (Supprimé)
 
 10° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
 hors de la collectivité ".
@@ -65473,14 +65042,12 @@ hors de la collectivité ".
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 8
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cite_:
 
-  - Code de la défense. - art. R2335-15 (V)
-  - Code de la défense. - art. R2335-35 (V)
-  - Code de la défense. - art. R2335-36 (V)
-  - Code de la défense. - art. R2335-37 (V)
+  - Code de la défense. - art. R2335-15
+  - Code de la défense. - art. R2335-37
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE<a id=732></a>
@@ -65769,35 +65336,28 @@ _Cite_:
 
 Sous la seule réserve des adaptations prévues au titre IX et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables en Polynésie française, dans leur rédaction résultant du décret n° 2009-254 du 4 mars
-2009 : 
+2009 :
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td>
 
-Au livre Ier 
-
-</td>
+Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2112-1, R. 2141-1 
-
 </td>
       <td align="left">
     </td></tr>
@@ -65805,355 +65365,258 @@ R. 2112-1, R. 2141-1
       <td>
 
 R. 2151-1 à R. 2151-7 
-
 </td>
       <td>
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
+Résultant du décret n° 2015-508 du 7 mai 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2161-1 à R. 2161-3 
-
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2161-4 
-
-</td>
+R. 2161-4</td>
       <td>
 
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2161-5, R. 2161-6 
-
-</td>
+R. 2161-5, R. 2161-6</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2161-7 
-
-</td>
+R. 2161-7</td>
       <td>
 
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2161-8 à R. 2161-10 
-
-</td>
+R. 2161-8 à R. 2161-10</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2171-1 à R. 2171-4 
-
 </td>
       <td>
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
+Résultant du décret n° 2015-508 du 7 mai 2015</td>
     </tr>
     <tr>
       <td>
 
-Au livre II 
-
-</td>
+Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2211-1, R. 2211-3 
-
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2211-4 
-
-</td>
+R. 2211-4</td>
       <td>
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1 
-
-</td>
+R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2232-2 
-
 </td>
       <td>
 
-Résultant du décret n° 2009-1657 du 24 décembre 2009 
-
-</td>
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2232-3 à R. 2234-29 
-
-</td>
+R. 2232-3 à R. 2234-29</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2234-30 
-
 </td>
       <td>
 
-Résultant du décret n° 2010-1126 du 27 septembre 2010 
-
-</td>
+Résultant du décret n° 2010-1126 du 27 septembre 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-31 à R. 2234-52 
-
-</td>
+R. 2234-31 à R. 2234-52</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-53 
-
-</td>
+R. 2234-53</td>
       <td>
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R 2234-54, R. 2234-55 
-
-</td>
+R 2234-54, R. 2234-55</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-56 
-
-</td>
+R. 2234-56</td>
       <td>
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-57, R. 2234-58 
-
-</td>
+R. 2234-57, R. 2234-58</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-59, R. 2234-60 
-
-</td>
+R. 2234-59, R. 2234-60</td>
       <td>
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-61 à R. 2234-80 
-
-</td>
+R. 2234-61 à R. 2234-80</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-81 
-
-</td>
+R. 2234-81</td>
       <td>
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-82, R. 2234-83 
-
-</td>
+R. 2234-82, R. 2234-83</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-84 
-
-</td>
+R. 2234-84</td>
       <td>
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102 
-
-</td>
+R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-103 
-
-</td>
+R. 2234-103</td>
       <td>
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009 
-
-</td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2236-1 à R. 2236-3 
-
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-Au livre III 
-
-</td>
+Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2311-1 à R. 2311-8 
-
 </td>
       <td>
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
+Résultant du décret n° 2010-678 du 21 juin 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2311-8-1, R. 2311-8-2 
-
-</td>
+R. 2311-8-1, R. 2311-8-2</td>
       <td>
 
-Résultant du décret n° 2011-1657 du 28 novembre 2011 
-
-</td>
+Résultant du décret n° 2011-1657 du 28 novembre 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2311-9 à R. 2311-11, R. 2312-1, R. 2312-2 
-
-</td>
+R. 2311-9 à R. 2311-11, R. 2312-1, R. 2312-2</td>
       <td>
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
+Résultant du décret n° 2010-678 du 21 juin 2010</td>
     </tr>
     <tr>
       <td>
 
 R. 2313-1 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-574 du 24 mai 2011 
-
-</td>
+Résultant du décret n° 2011-574 du 24 mai 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2313-4 
-
-</td>
+R. 2313-4</td>
       <td>
 
-Résultant du décret n° 2014-1635 du 26 décembre 2014 
-
-</td>
+Résultant du décret n° 2014-1635 du 26 décembre 2014</td>
     </tr>
     <tr>
       <td>
 
 R. 2321-1 à R. 2321-5 
-
 </td>
       <td>
 
-Résultant du décret n° 2015-349 du 27 mars 2015 
-
-</td>
+Résultant du décret n° 2015-349 du 27 mars 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2322-1 
-
 </td>
       <td align="left">
     </td></tr>
@@ -66161,421 +65624,302 @@ R. 2322-1
       <td>
 
 R. 2335-1, R. 2335-2 
-
 </td>
       <td>
 
-Résultant du décret n° 2013-700 du 30 juillet 2013 
-
-</td>
+Résultant du décret n° 2013-700 du 30 juillet 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-3 
-
-</td>
+R. 2335-3</td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-4 
-
-</td>
+R. 2335-4</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-5 à R. 2335-7 
-
-</td>
+R. 2335-5 à R. 2335-7</td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-8 
-
-</td>
+R. 2335-8</td>
       <td>
 
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
+Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-9 
-
-</td>
+R. 2335-9</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-10 
-
-</td>
+R. 2335-10</td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-11 à R. 2335-14 
-
-</td>
+R. 2335-11 à R. 2335-13</td>
       <td>
 
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-15 
+R. 2335-14
 
 </td>
-      <td>
-
-Résultant du décret n° 2016-308 du 17 mars 2016 
-
-</td>
+      <td>Résultant du décret n° 2017-565 du 18 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-16 à R. 2335-20, R. 2335-33 à R. 2335-36 
-
-</td>
+R. 2335-15</td>
       <td>
 
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-37 
-
-</td>
+R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34</td>
       <td>
 
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-38 
+R. 2335-35, R. 2335-36
 
 </td>
-      <td>
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+      <td>Résultant du décret n° 2017-565 du 18 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-38-1 
-
-</td>
+R. 2335-37</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
+Résultant du décret n° 2017-151 du 8 février 2017</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
+R. 2335-38</td>
+      <td>
+
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2335-38-1</td>
+      <td>
+
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2339-1 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-1467 du 9 novembre 2011 
-
-</td>
+Résultant du décret n° 2011-1467 du 9 novembre 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2339-3, R. 2339-4 
+R. 2339-3, R. 2339-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
     <tr>
       <td>
 
 R. 2342-3, R. 2342-4 
-
 </td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-5 
-
-</td>
+R. 2342-5</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-6 à R. 2342-19 
-
-</td>
+R. 2342-6 à R. 2342-19</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-20 
-
-</td>
+R. 2342-20</td>
       <td>
 
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
+Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-21, R. 2342-22 
-
-</td>
+R. 2342-21, R. 2342-22</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-23 
-
-</td>
+R. 2342-23</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-24 
-
-</td>
+R. 2342-24</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-25 
-
-</td>
+R. 2342-25</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-26 
-
-</td>
+R. 2342-26</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-27 
-
-</td>
+R. 2342-27</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-28 à R. 2342-32 
-
-</td>
+R. 2342-28 à R. 2342-32</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-33 
-
-</td>
+R. 2342-33</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-34 
-
-</td>
+R. 2342-34</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-35 
-
-</td>
+R. 2342-35</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120 
-
-</td>
+R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2343-1 à R. 2343-3 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
+Résultant du décret n° 2011-737 du 28 juin 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2343-4 à R. 2343-8 
-
-</td>
+R. 2343-4 à R. 2343-8</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2344-1 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
+Résultant du décret n° 2011-737 du 28 juin 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2361-1 à R. 2362-1, R. 2363-1 à R. 2363-6 
-
-</td>
+R. 2361-1 à R. 2362-1, R. 2363-1 à R. 2363-6</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2363-7 
-
-</td>
+R. 2363-7</td>
       <td>
 
-Résultant du décret n° 2017-151 du 8 février 2017
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
   </tbody>
 </table>
@@ -66584,7 +65928,7 @@ Résultant du décret n° 2017-151 du 8 février 2017
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 9
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cité par_:
 
@@ -66592,48 +65936,46 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2112-1 (V)
-  - Code de la défense. - art. R2151-1 (V)
-  - Code de la défense. - art. R2161-1 (V)
-  - Code de la défense. - art. R2171-1 (V)
-  - Code de la défense. - art. R2211-1 (V)
-  - Code de la défense. - art. R2213-20 (V)
-  - Code de la défense. - art. R2232-2 (V)
-  - Code de la défense. - art. R2234-30 (V)
-  - Code de la défense. - art. R2236-1 (V)
-  - Code de la défense. - art. R2311-1 (V)
-  - Code de la défense. - art. R2313-1 (V)
-  - Code de la défense. - art. R2321-1 (V)
-  - Code de la défense. - art. R2322-1 (V)
-  - Code de la défense. - art. R2335-1 (V)
-  - Code de la défense. - art. R2339-1 (V)
-  - Code de la défense. - art. R2342-3 (V)
-  - Code de la défense. - art. R2343-1 (V)
-  - Code de la défense. - art. R2344-1 (V)
-  - Code de la défense. - art. R2361-1 (V)
-  - Code de la défense. - art. R2363-1 (V)
+  - Code de la défense. - art. R2112-1
+  - Code de la défense. - art. R2151-1
+  - Code de la défense. - art. R2161-1
+  - Code de la défense. - art. R2171-1
+  - Code de la défense. - art. R2211-1
+  - Code de la défense. - art. R2213-20
+  - Code de la défense. - art. R2232-2
+  - Code de la défense. - art. R2234-30
+  - Code de la défense. - art. R2236-1
+  - Code de la défense. - art. R2311-1
+  - Code de la défense. - art. R2313-1
+  - Code de la défense. - art. R2321-1
+  - Code de la défense. - art. R2322-1
+  - Code de la défense. - art. R2335-1
+  - Code de la défense. - art. R2339-1
+  - Code de la défense. - art. R2342-3
+  - Code de la défense. - art. R2343-1
+  - Code de la défense. - art. R2344-1
+  - Code de la défense. - art. R2361-1
+  - Code de la défense. - art. R2363-1
 
 
 ###### Article R2451-5
 
 Pour l'application de la présente partie du code en Polynésie française, les références énumérées ci-après sont remplacées
-ainsi : 
+ainsi :
 
-1° La référence au département est remplacée par la référence à la Polynésie française ; 
+1° La référence au département est remplacée par la référence à la Polynésie française ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ; 
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
 
 3° La référence au " directeur départemental ou, le cas échéant, régional des finances publiques " est remplacée par la
-référence au " directeur chargé de la direction locale des finances publiques de la Polynésie française ". 
+référence au " directeur chargé de la direction locale des finances publiques de la Polynésie française ".
 
 4° A l'article R. 2335-15, les mots : " provenant d'un autre Etat membre de l'Union européenne " sont remplacés par les
-mots : " de toute provenance " ; 
+mots : " de toute provenance " ;
 
-5° A l'article R. 2335-35, les mots : " dans le pays de destination situé hors de l'Union européenne " sont remplacés par les
-mots : " dans le pays de destination " ; 
+5° (Supprimé)
 
-6° A l'article R. 2335-36, les mots : " dans un pays de destination situé hors du territoire de l'Union européenne " sont
-remplacés par les mots : " hors de la collectivité " ; 
+6° (Supprimé)
 
 7° A l'article R. 2335-37, les mots : " à destination de pays tiers à l'Union européenne " sont remplacés par les mots : "
 hors de la collectivité ".
@@ -66642,14 +65984,12 @@ hors de la collectivité ".
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 10
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cite_:
 
-  - Code de la défense. - art. R2335-15 (V)
-  - Code de la défense. - art. R2335-35 (V)
-  - Code de la défense. - art. R2335-36 (V)
-  - Code de la défense. - art. R2335-37 (V)
+  - Code de la défense. - art. R2335-15
+  - Code de la défense. - art. R2335-37
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE<a id=734></a>
@@ -66935,35 +66275,28 @@ _Cite_:
 
 Sous la seule réserve des adaptations prévues au titre IX et sauf mention contraire dans le tableau ci-après, les
 dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant du décret n° 2009-254 du 4 mars
-2009 : 
+2009 :
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES 
-
-</th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION 
-
-</th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td>
 
-Au livre Ier 
-
-</td>
+Au livre Ier</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2112-1, R. 2141-1 
-
 </td>
       <td align="left">
     </td></tr>
@@ -66971,331 +66304,242 @@ R. 2112-1, R. 2141-1
       <td>
 
 R. 2151-1 à R. 2151-7 
-
 </td>
       <td>
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
+Résultant du décret n° 2015-508 du 7 mai 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2161-1 à R. 2161-3 
-
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2161-4 
-
-</td>
+R. 2161-4</td>
       <td>
 
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2161-5, R. 2161-6 
-
-</td>
+R. 2161-5, R. 2161-6</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2161-7 
-
-</td>
+R. 2161-7</td>
       <td>
 
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
+Résultant du décret n° 2015-258 du 4 mars 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2161-8 à R. 2161-10 
-
-</td>
+R. 2161-8 à R. 2161-10</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2171-1 à R. 2171-4 
-
 </td>
       <td>
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
+Résultant du décret n° 2015-508 du 7 mai 2015</td>
     </tr>
     <tr>
       <td>
 
-Au livre II 
-
-</td>
+Au livre II</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2211-1, R. 2211-3 
-
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2211-4 
-
-</td>
+R. 2211-4</td>
       <td>
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1 
-
-</td>
+R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2232-2 
-
 </td>
       <td>
 
-Résultant du décret n° 2009-1657 du 24 décembre 2009 
-
-</td>
+Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2232-3 à R. 2234-29 
-
-</td>
+R. 2232-3 à R. 2234-29</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2234-30 
-
 </td>
       <td>
 
-Résultant du décret n° 2010-1126 du 27 septembre 2010 
-
-</td>
+Résultant du décret n° 2010-1126 du 27 septembre 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-31 à R. 2234-52 
-
-</td>
+R. 2234-31 à R. 2234-52</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-53 
-
-</td>
+R. 2234-53</td>
       <td>
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R 2234-54, R. 2234-55 
-
-</td>
+R 2234-54, R. 2234-55</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-56 
-
-</td>
+R. 2234-56</td>
       <td>
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-57, R. 2234-58 
-
-</td>
+R. 2234-57, R. 2234-58</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-59, R. 2234-60 
-
-</td>
+R. 2234-59, R. 2234-60</td>
       <td>
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
+Résultant du décret n° 2014-551 du 27 mai 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-61 à R. 2234-80 
-
-</td>
+R. 2234-61 à R. 2234-80</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-81 
-
-</td>
+R. 2234-81</td>
       <td>
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-82, R. 2234-83 
-
-</td>
+R. 2234-82, R. 2234-83</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-84 
-
-</td>
+R. 2234-84</td>
       <td>
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102 
-
-</td>
+R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-R. 2234-103 
-
-</td>
+R. 2234-103</td>
       <td>
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009 
-
-</td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2236-1 à R. 2236-3 
-
 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
-Au livre III 
-
-</td>
+Au livre III</td>
       <td align="left">
     </td></tr>
     <tr>
       <td>
 
 R. 2311-1 à R. 2311-8 
-
 </td>
       <td>
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
+Résultant du décret n° 2010-678 du 21 juin 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2311-8-1, R. 2311-8-2 
-
-</td>
+R. 2311-8-1, R. 2311-8-2</td>
       <td>
 
-Résultant du décret n° 2011-1657 du 28 novembre 2011 
-
-</td>
+Résultant du décret n° 2011-1657 du 28 novembre 2011</td>
     </tr>
     <tr>
       <td>
 
 R. 2311-9 à R. 2311-11, R. 2312-1, R. 2312-2 
-
 </td>
       <td>
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
+Résultant du décret n° 2010-678 du 21 juin 2010</td>
     </tr>
     <tr>
       <td>
 
 R. 2321-1 à R. 2321-5 
-
 </td>
       <td>
 
-Résultant du décret n° 2015-349 du 27 mars 2015 
-
-</td>
+Résultant du décret n° 2015-349 du 27 mars 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2322-1 
-
 </td>
       <td align="left">
     </td></tr>
@@ -67303,901 +66547,625 @@ R. 2322-1
       <td>
 
 R. 2335-1, R. 2335-2 
-
 </td>
       <td>
 
-Résultant du décret n° 2013-700 du 30 juillet 2013 
-
-</td>
+Résultant du décret n° 2013-700 du 30 juillet 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-3 
-
-</td>
+R. 2335-3</td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-4 
-
-</td>
+R. 2335-4</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-5 à R. 2335-7 
-
-</td>
+R. 2335-5 à R. 2335-7</td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-8 
-
-</td>
+R. 2335-8</td>
       <td>
 
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-9 
-
-</td>
+R. 2335-9</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-10 
-
-</td>
+R. 2335-10</td>
       <td>
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
+Résultant du décret n° 2014-1253 du 27 octobre 2014</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-11 à R. 2335-14 
-
-</td>
+R. 2335-11 à R. 2335-13</td>
       <td>
 
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-15 
+R. 2335-14
 
 </td>
-      <td>
-
-Résultant du décret n° 2016-308 du 17 mars 2016 
-
-</td>
+      <td>Résultant du décret n° 2017-565 du 18 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-16 à R. 2335-20, R. 2335-33 à R. 2335-36 
-
-</td>
+R. 2335-15</td>
       <td>
 
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+Résultant du décret n° 2016-308 du 17 mars 2016</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-37 
-
-</td>
+R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34</td>
       <td>
 
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-38 
+R. 2335-35, R. 2335-36
 
 </td>
-      <td>
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
+      <td>Résultant du décret n° 2017-565 du 18 avril 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2335-38-1 
-
-</td>
+R. 2335-37</td>
       <td>
 
-Résultant du décret n° 2015-837 du 8 juillet 2015 
+Résultant du décret n° 2017-151 du 8 février 2017</td>
+    </tr>
+    <tr>
+      <td>
 
-</td>
+R. 2335-38</td>
+      <td>
+
+Résultant du décret n° 2013-1160 du 14 décembre 2013</td>
+    </tr>
+    <tr>
+      <td>
+
+R. 2335-38-1</td>
+      <td>
+
+Résultant du décret n° 2015-837 du 8 juillet 2015</td>
     </tr>
     <tr>
       <td>
 
 R. 2339-1 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-1467 du 9 novembre 2011 
-
-</td>
+Résultant du décret n° 2011-1467 du 9 novembre 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2339-3, R. 2339-4 
+R. 2339-3, R. 2339-4</td>
+      <td>
 
-</td>
-      <td valign="middle">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
     <tr>
       <td>
 
 R. 2342-3, R. 2342-4 
-
 </td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-5 
-
-</td>
+R. 2342-5</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-6 à R. 2312-19 
-
-</td>
+R. 2342-6 à R. 2312-19</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-20 
-
-</td>
+R. 2342-20</td>
       <td>
 
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
+Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-21, R. 2342-22 
-
-</td>
+R. 2342-21, R. 2342-22</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-23 
-
-</td>
+R. 2342-23</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-24 
-
-</td>
+R. 2342-24</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-25 
-
-</td>
+R. 2342-25</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-26 
-
-</td>
+R. 2342-26</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-27 
-
-</td>
+R. 2342-27</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-28 à R. 2342-32 
-
-</td>
+R. 2342-28 à R. 2342-32</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-33 
-
-</td>
+R. 2342-33</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-34 
-
-</td>
+R. 2342-34</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-35 
-
-</td>
+R. 2342-35</td>
       <td>
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
+Résultant du décret n° 2012-501 du 16 avril 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120 
-
-</td>
+R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2343-1 à R. 2343-3 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
+Résultant du décret n° 2011-737 du 28 juin 2011</td>
     </tr>
     <tr>
       <td>
 
-R. 2343-4 à R. 2343-8 
-
-</td>
+R. 2343-4 à R. 2343-8</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2344-1 
-
 </td>
       <td>
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
+Résultant du décret n° 2011-737 du 28 juin 2011</td>
     </tr>
     <tr>
       <td>
 
 R. 2352-1 
-
 </td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-2 
-
-</td>
+R. 2352-2</td>
       <td>
 
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
+Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-3 
-
-</td>
+R. 2352-3</td>
       <td>
 
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
+Résultant du décret n° 2012-901 du 20 juillet 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-4 à R. 2352-6, R. 2352-8 à R. 2352-11 
-
-</td>
+R. 2352-4 à R. 2352-6, R. 2352-8 à R. 2352-11</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-12 
-
-</td>
+R. 2352-12</td>
       <td>
 
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-13 à R. 2352-18 
-
-</td>
+R. 2352-13 à R. 2352-18</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-19 
-
-</td>
+R. 2352-19</td>
       <td>
 
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
+Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-20, R. 2352-21 
-
-</td>
+R. 2352-20, R. 2352-21</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-22 
-
-</td>
+R. 2352-22</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-23 à R. 2352-25 
-
-</td>
+R. 2352-23 à R. 2352-25</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-26 
-
-</td>
+R. 2352-26</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-27 à R. 2352-31 
-
-</td>
+R. 2352-27 à R. 2352-31</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-32 
-
-</td>
+R. 2352-32</td>
       <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-33 
-
-</td>
+R. 2352-33</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-34 
-
-</td>
+R. 2352-34</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-35 à R. 2352-38 
-
-</td>
+R. 2352-35 à R. 2352-38</td>
       <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-39 
-
-</td>
+R. 2352-39</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-40 à R. 2352-46 
-
-</td>
+R. 2352-40 à R. 2352-46</td>
       <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-47 
-
-</td>
+R. 2352-47</td>
       <td>
 
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
+Résultant du décret n° 2012-1238 du 7 novembre 2012</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-64 
-
-</td>
+R. 2352-64</td>
       <td>
 
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
+Résultant du décret n° 2015-799 du 1er juillet 2015</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-73 à R. 2352-88 
-
-</td>
+R. 2352-73 à R. 2352-88</td>
       <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-89, R. 2352-90 
-
-</td>
+R. 2352-89, R. 2352-90</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-91 
-
-</td>
+R. 2352-91</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-92, R. 2352-93 
-
-</td>
+R. 2352-92, R. 2352-93</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-94 à R. 2352-96 
-
-</td>
+R. 2352-94 à R. 2352-96</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-97 à R. 2352-102 
-
-</td>
+R. 2352-97 à R. 2352-102</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-103 
-
-</td>
+R. 2352-103</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-104 à R. 2352-108 
-
-</td>
+R. 2352-104 à R. 2352-108</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-109 
-
-</td>
+R. 2352-109</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-110 
-
-</td>
+R. 2352-110</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-111, R. 2352-112 
-
-</td>
+R. 2352-111, R. 2352-112</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-113 
-
-</td>
+R. 2352-113</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-114 à R. 2352-116 
-
-</td>
+R. 2352-114 à R. 2352-116</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-117 
-
-</td>
+R. 2352-117</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-118, R. 2352-119 
-
-</td>
+R. 2352-118, R. 2352-119</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-120 
-
-</td>
+R. 2352-120</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-121 
-
-</td>
+R. 2352-121</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-122 
-
-</td>
+R. 2352-122</td>
       <td>
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
+Résultant du décret n° 2010-455 du 4 mai 2010</td>
     </tr>
     <tr>
       <td>
 
-R. 2352-123 à R. 2353-1 
-
-</td>
+R. 2352-123 à R. 2353-1</td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2353-2 
-
 </td>
       <td>
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
+Résultant du décret n° 2009-502 du 5 mai 2009</td>
     </tr>
     <tr>
       <td>
 
 R. 2353-7 à R. 2362-1, R. 2363-1 à R. 2363-6
-
 </td>
       <td>
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
     </tr>
     <tr>
       <td>
 
-R. 2363-7 
-
-</td>
+R. 2363-7</td>
       <td>
 
-Résultant du décret n° 2017-151 du 8 février 2017
-
-</td>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
     </tr>
   </tbody>
 </table>
@@ -68206,7 +67174,7 @@ Résultant du décret n° 2017-151 du 8 février 2017
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 11
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cité par_:
 
@@ -68214,28 +67182,28 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la défense. - art. R2112-1 (V)
-  - Code de la défense. - art. R2141-1 (V)
-  - Code de la défense. - art. R2151-1 (V)
-  - Code de la défense. - art. R2161-1 (V)
-  - Code de la défense. - art. R2171-1 (V)
-  - Code de la défense. - art. R2211-1 (V)
-  - Code de la défense. - art. R2213-20 (V)
-  - Code de la défense. - art. R2232-2 (V)
-  - Code de la défense. - art. R2234-30 (V)
-  - Code de la défense. - art. R2236-1 (V)
-  - Code de la défense. - art. R2311-1 (V)
-  - Code de la défense. - art. R2312-1 (V)
-  - Code de la défense. - art. R2321-1 (V)
-  - Code de la défense. - art. R2322-1 (V)
-  - Code de la défense. - art. R2335-1 (V)
-  - Code de la défense. - art. R2339-1 (V)
-  - Code de la défense. - art. R2342-3 (V)
-  - Code de la défense. - art. R2343-1 (V)
-  - Code de la défense. - art. R2344-1 (V)
-  - Code de la défense. - art. R2352-1 (V)
-  - Code de la défense. - art. R2353-2 (V)
-  - Code de la défense. - art. R2363-1 (V)
+  - Code de la défense. - art. R2112-1
+  - Code de la défense. - art. R2141-1
+  - Code de la défense. - art. R2151-1
+  - Code de la défense. - art. R2161-1
+  - Code de la défense. - art. R2171-1
+  - Code de la défense. - art. R2211-1
+  - Code de la défense. - art. R2213-20
+  - Code de la défense. - art. R2232-2
+  - Code de la défense. - art. R2234-30
+  - Code de la défense. - art. R2236-1
+  - Code de la défense. - art. R2311-1
+  - Code de la défense. - art. R2312-1
+  - Code de la défense. - art. R2321-1
+  - Code de la défense. - art. R2322-1
+  - Code de la défense. - art. R2335-1
+  - Code de la défense. - art. R2339-1
+  - Code de la défense. - art. R2342-3
+  - Code de la défense. - art. R2343-1
+  - Code de la défense. - art. R2344-1
+  - Code de la défense. - art. R2352-1
+  - Code de la défense. - art. R2353-2
+  - Code de la défense. - art. R2363-1
 
 
 ###### Article R2461-3
@@ -68261,23 +67229,21 @@ _Cite_:
 ###### Article R2461-6
 
 Pour l'application de la présente partie du code en Nouvelle-Calédonie, les références énumérées ci-après sont remplacées
-ainsi : 
+ainsi :
 
-1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ; 
+1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ; 
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
 
 3° La référence au " directeur départemental ou, le cas échéant, régional des finances publiques " est remplacée par la
-référence au " directeur chargé de la direction locale des finances publiques de la Nouvelle-Calédonie ". 
+référence au " directeur chargé de la direction locale des finances publiques de la Nouvelle-Calédonie ".
 
 4° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
-mots : “ de toute provenance ” ; 
+mots : “ de toute provenance ” ;
 
-5° A l'article R. 2335-35, les mots : “ dans le pays de destination situé hors de l'Union européenne ” sont remplacés par les
-mots : “ dans le pays de destination ” ; 
+5° (Supprimé)
 
-6° A l'article R. 2335-36, les mots : “ dans un pays de destination situé hors du territoire de l'Union européenne ” sont
-remplacés par les mots : “ " hors de la collectivité ” ; 
+6° (Supprimé)
 
 7° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
 hors de la collectivité ”.
@@ -68286,14 +67252,12 @@ hors de la collectivité ”.
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 12
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cite_:
 
-  - Code de la défense. - art. R2335-15 (V)
-  - Code de la défense. - art. R2335-35 (V)
-  - Code de la défense. - art. R2335-36 (V)
-  - Code de la défense. - art. R2335-37 (V)
+  - Code de la défense. - art. R2335-15
+  - Code de la défense. - art. R2335-37
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=736></a>
@@ -68588,1317 +67552,942 @@ _Cite_:
 Sous réserve des stipulations du traité sur l'Antarctique publié par le décret n° 61-1300 du 30 novembre 1961 et des
 adaptations prévues au titre IX et sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont
 applicables aux Terres australes et antarctiques françaises, dans leur rédaction résultant du décret n° 2009-254 du 4 mars
-2009 : 
+2009 :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
-DISPOSITIONS APPLICABLES 
+DISPOSITIONS APPLICABLES</th>
+      <th>
 
-</th>
-        <th>
+DANS LEUR RÉDACTION</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-DANS LEUR RÉDACTION 
-
-</th>
-      </tr>
-      <tr>
-        <td align="justify">
-
-Au livre Ier 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Au livre Ier</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2141-1 
-
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2151-1 à R. 2151-7 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2015-508 du 7 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2161-1 à R. 2161-3 
-
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-R. 2161-4 
+R. 2161-4</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2015-258 du 4 mars 2015 
+R. 2161-5, R. 2161-6</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2161-7</td>
+      <td align="justify">
 
-R. 2161-5, R. 2161-6 
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-R. 2161-7 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-258 du 4 mars 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2161-8 à R. 2161-10 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+R. 2161-8 à R. 2161-10</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2171-1 à R. 2171-4 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2015-508 du 7 mai 2015 
+Résultant du décret n° 2015-508 du 7 mai 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-Au livre II 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Au livre II</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2211-1 
-
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-R. 2211-4 
+R. 2211-4</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2211-3, R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+R. 2211-3, R. 2211-5 à R. 2213-15, R. 2213-20 à R. 2213-22, R. 2213-24 à R. 2232-1</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2232-2 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2009-1657 du 24 décembre 2009 
+Résultant du décret n° 2009-1657 du 24 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2232-3 à R. 2234-29 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+R. 2232-3 à R. 2234-29</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2234-30 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2010-1126 du 27 septembre 2010 
+Résultant du décret n° 2010-1126 du 27 septembre 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2234-31 à R. 2234-52</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-R. 2234-31 à R. 2234-52 
+R. 2234-53</td>
+      <td align="justify">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2014-551 du 27 mai 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2234-53 
+R 2234-54, R. 2234-55</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2234-56</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
+Résultant du décret n° 2014-551 du 27 mai 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2234-57, R. 2234-58</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-R 2234-54, R. 2234-55 
+R. 2234-59, R. 2234-60</td>
+      <td align="justify">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2014-551 du 27 mai 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2234-56 
+R. 2234-61 à R. 2234-80</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2234-81</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2234-82, R. 2234-83</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-R. 2234-57, R. 2234-58 
+R. 2234-84</td>
+      <td align="justify">
 
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2234-59, R. 2234-60 
+R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2234-103</td>
+      <td align="justify">
 
-Résultant du décret n° 2014-551 du 27 mai 2014 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2234-61 à R. 2234-80 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-R. 2234-81 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2234-82, R. 2234-83 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-R. 2234-84 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-211 du 25 février 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2234-85 à R. 2234-94, R. 2234-96, R. 2234-101, R. 2234-102 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
-
-R. 2234-103 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1494 du 3 décembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2236-1 à R. 2236-3 
-
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
-Au livre III 
-
-</td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+Au livre III</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2311-1 à R. 2311-8 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
+Résultant du décret n° 2010-678 du 21 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2311-8-1, R. 2311-8-2</td>
+      <td align="justify">
 
-R. 2311-8-1, R. 2311-8-2 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2011-1657 du 28 novembre 2011 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2011-1657 du 28 novembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2311-9 à R. 2311-11, R. 2312-1, R. 2312-2 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2010-678 du 21 juin 2010 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2010-678 du 21 juin 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2313-1 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2011-574 du 24 mai 2011 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2011-574 du 24 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2321-1 à R. 2321-5 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2015-349 du 27 mars 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2015-349 du 27 mars 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2322-1 
-
 </td>
-        <td align="left">
-      </td></tr>
-      <tr>
-        <td align="justify">
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="justify">
 
 R. 2335-1, R. 2335-2 
+</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-700 du 30 juillet 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-3</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-4</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-837 du 8 juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-5 à R. 2335-7</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-8</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-9</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-837 du 8 juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-10</td>
+      <td align="justify">
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-11 à R. 2335-13</td>
+      <td align="justify">
+
+Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2335-14
 
 </td>
-        <td align="justify">
+      <td align="justify">Résultant du décret n° 2017-565 du 18 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2013-700 du 30 juillet 2013 
+R. 2335-15</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2016-308 du 17 mars 2016 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2335-3 
+R. 2335-16 à R. 2335-20, R. 2335-33 et R. 2335-34</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-4 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-837 du 8 juillet 2015 
+R. 2335-35, R. 2335-36
 
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">Résultant du décret n° 2017-565 du 18 avril 2017</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2335-5 à R. 2335-7 
+R. 2335-37</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2017-151 du 8 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
+R. 2335-38</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2013-1160 du 14 décembre 2013 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2335-8 
+R. 2335-38-1</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-9 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-10 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2014-1253 du 27 octobre 2014 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-11 à R. 2335-14 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-15 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2016-308 du 17 mars 2016 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-16 à R. 2335-20, R. 2335-33 à R. 2335-36 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-37 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-38 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2013-1160 du 14 décembre 2013 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2335-38-1 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-837 du 8 juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2015-837 du 8 juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2339-1 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2011-1467 du 9 novembre 2011 
+Résultant du décret n° 2011-1467 du 9 novembre 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2339-3, R. 2339-4</td>
+      <td align="justify">
 
-R. 2339-3, R. 2339-4 
-
-</td>
-        <td valign="middle" align="justify">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2017-151 du 8 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2342-3, R. 2342-4 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-5</td>
+      <td align="justify">
 
-R. 2342-5 
+Résultant du décret n° 2012-501 du 16 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-6 à R. 2312-19</td>
+      <td align="justify">
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-20</td>
+      <td align="justify">
 
-R. 2342-6 à R. 2312-19 
+Résultant du décret n° 2012-901 du 20 juillet 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-21, R. 2342-22</td>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-23</td>
+      <td align="justify">
 
-R. 2342-20 
+Résultant du décret n° 2012-501 du 16 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-24</td>
+      <td align="justify">
 
-Résultant du décret n° 2012-901 du 20 juillet 2012 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-25</td>
+      <td align="justify">
 
-R. 2342-21, R. 2342-22 
+Résultant du décret n° 2012-501 du 16 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-26</td>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-27</td>
+      <td align="justify">
 
-R. 2342-23 
+Résultant du décret n° 2012-501 du 16 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-28 à R. 2342-32</td>
+      <td align="justify">
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-33</td>
+      <td align="justify">
 
-R. 2342-24 
+Résultant du décret n° 2012-501 du 16 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-34</td>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2342-35</td>
+      <td align="justify">
 
-R. 2342-25 
+Résultant du décret n° 2012-501 du 16 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120</td>
+      <td align="justify">
 
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-26 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-27 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-28 à R. 2342-32 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-33 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-34 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-35 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-501 du 16 avril 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2342-36, R. 2342-107 à R. 2342-110, R. 2342-112 à R. 2342-120 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2343-1 à R. 2343-3 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
+Résultant du décret n° 2011-737 du 28 juin 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2343-4 à R. 2343-8</td>
+      <td align="justify">
 
-R. 2343-4 à R. 2343-8 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2344-1 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2011-737 du 28 juin 2011 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2011-737 du 28 juin 2011 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2352-1 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-2 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-3 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-901 du 20 juillet 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-4 à R. 2352-6, R. 2352-8 à R. 2352-11 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-12 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2017-151 du 8 février 2017 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-13 à R. 2352-18 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-19 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-20, R. 2352-21 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-22 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-23 à R. 2352-25 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-26 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-27 à R. 2352-31 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-32 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-33 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-34 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-35 à R. 2352-38 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-39 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-40 à R. 2352-46 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-47 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2012-1238 du 7 novembre 2012 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-64 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2015-799 du 1er juillet 2015 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-73 à R. 2352-88 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-89, R. 2352-90 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-91 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-92, R. 2352-93 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-94 à R. 2352-96 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-97 à R. 2352-102 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-103 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-104 à R. 2352-108 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2010-455 du 4 mai 2010 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-R. 2352-109 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
-
 </td>
-      </tr>
-      <tr>
-        <td align="justify">
+      <td align="justify">
 
-R. 2352-110 
-
-</td>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
+R. 2352-2</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2012-1238 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-111, R. 2352-112 
+R. 2352-3</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2012-901 du 20 juillet 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+R. 2352-4 à R. 2352-6, R. 2352-8 à R. 2352-11</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-113 
+R. 2352-12</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2017-151 du 8 février 2017 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
+R. 2352-13 à R. 2352-18</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-114 à R. 2352-116 
+R. 2352-19</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2012-1238 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+R. 2352-20, R. 2352-21</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-117 
+R. 2352-22</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
+R. 2352-23 à R. 2352-25</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-118, R. 2352-119 
+R. 2352-26</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+R. 2352-27 à R. 2352-31</td>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-120 
+R. 2352-32</td>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+Résultant du décret n° 2009-502 du 5 mai 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
+R. 2352-33</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2352-34</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-121 
+R. 2352-35 à R. 2352-38</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2352-39</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+R. 2352-40 à R. 2352-46</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2352-47</td>
+      <td align="justify">
+
+Résultant du décret n° 2012-1238 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-122 
+R. 2352-64</td>
+      <td align="justify">
+
+Résultant du décret n° 2015-799 du 1er juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2352-73 à R. 2352-88</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2010-455 du 4 mai 2010 
+R. 2352-89, R. 2352-90</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2352-91</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-R. 2352-123 à R. 2353-1 
+R. 2352-92, R. 2352-93</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="justify">
+R. 2352-94 à R. 2352-96</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+R. 2352-97 à R. 2352-102</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2352-103</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-104 à R. 2352-108</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-109</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-110</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-111, R. 2352-112</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-113</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-114 à R. 2352-116</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-117</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-118, R. 2352-119</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-120</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-121</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-122</td>
+      <td align="justify">
+
+Résultant du décret n° 2010-455 du 4 mai 2010 </td>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 2352-123 à R. 2353-1</td>
+      <td align="justify">
+
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2353-2 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2009-502 du 5 mai 2009 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+Résultant du décret n° 2009-502 du 5 mai 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
 R. 2353-7 à R. 2362-1, R. 2363-1 à R. 2363-6 
-
 </td>
-        <td align="justify">
+      <td align="justify">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009 
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
+R. 2363-7</td>
+      <td align="justify">
 
-R. 2363-7 
-
-</td>
-        <td align="justify">
-
-Résultant du décret n° 2017-151 du 8 février 2017
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+Résultant du décret n° 2017-151 du 8 février 2017</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°61-1300 du 30 novembre 1961, v. init.
-  - Décret n°2009-254 du 4 mars 2009 (V)
-  - Code de la défense. - art. R2141-1 (V)
-  - Code de la défense. - art. R2151-1 (V)
-  - Code de la défense. - art. R2161-1 (V)
-  - Code de la défense. - art. R2171-1 (V)
-  - Code de la défense. - art. R2211-1 (V)
-  - Code de la défense. - art. R2213-20 (V)
-  - Code de la défense. - art. R2232-2 (V)
-  - Code de la défense. - art. R2234-30 (V)
-  - Code de la défense. - art. R2236-1 (V)
-  - Code de la défense. - art. R2311-1 (V)
-  - Code de la défense. - art. R2312-1 (V)
-  - Code de la défense. - art. R2313-1 (V)
-  - Code de la défense. - art. R2321-1 (V)
-  - Code de la défense. - art. R2322-1 (V)
-  - Code de la défense. - art. R2335-1 (V)
-  - Code de la défense. - art. R2339-1 (V)
-  - Code de la défense. - art. R2342-3 (V)
-  - Code de la défense. - art. R2343-1 (V)
-  - Code de la défense. - art. R2344-1 (V)
-  - Code de la défense. - art. R2352-1 (V)
-  - Code de la défense. - art. R2353-2 (V)
-  - Code de la défense. - art. R2363-1 (V)
+  - Décret n°61-1300 du 30 novembre 1961
+  - Décret n°2009-254 du 4 mars 2009
+  - Code de la défense. - art. R2141-1
+  - Code de la défense. - art. R2151-1
+  - Code de la défense. - art. R2161-1
+  - Code de la défense. - art. R2171-1
+  - Code de la défense. - art. R2211-1
+  - Code de la défense. - art. R2213-20
+  - Code de la défense. - art. R2232-2
+  - Code de la défense. - art. R2234-30
+  - Code de la défense. - art. R2236-1
+  - Code de la défense. - art. R2311-1
+  - Code de la défense. - art. R2312-1
+  - Code de la défense. - art. R2313-1
+  - Code de la défense. - art. R2321-1
+  - Code de la défense. - art. R2322-1
+  - Code de la défense. - art. R2335-1
+  - Code de la défense. - art. R2339-1
+  - Code de la défense. - art. R2342-3
+  - Code de la défense. - art. R2343-1
+  - Code de la défense. - art. R2344-1
+  - Code de la défense. - art. R2352-1
+  - Code de la défense. - art. R2353-2
+  - Code de la défense. - art. R2363-1
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 13
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cité par_:
 
@@ -69908,26 +68497,24 @@ _Cité par_:
 ###### Article R2471-3
 
 Pour l'application de la présente partie du code dans les Terres australes et antarctiques françaises, les références
-énumérées ci-après sont remplacées ainsi : 
+énumérées ci-après sont remplacées ainsi :
 
-1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ; 
+1° La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ; 
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
 
-3° La référence à la commune est remplacée par la référence au district ; 
+3° La référence à la commune est remplacée par la référence au district ;
 
-4° La référence au maire est remplacée par la référence au chef de district ; 
+4° La référence au maire est remplacée par la référence au chef de district ;
 
-5° La référence à la mairie est remplacée par la référence au district. 
+5° La référence à la mairie est remplacée par la référence au district.
 
 6° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
-mots : “ de toute provenance ” ; 
+mots : “ de toute provenance ” ;
 
-7° A l'article R. 2335-35, les mots : “ dans le pays de destination situé hors de l'Union européenne ” sont remplacés par les
-mots : “ dans le pays de destination ” ; 
+7° (Supprimé)
 
-8° A l'article R. 2335-36, les mots : “ dans un pays de destination situé hors du territoire de l'Union européenne ” sont
-remplacés par les mots : “ hors de la collectivité ” ; 
+8° (Supprimé)
 
 9° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
 hors de la collectivité ”.
@@ -69936,14 +68523,12 @@ hors de la collectivité ”.
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 14
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cite_:
 
-  - Code de la défense. - art. R2335-15 (V)
-  - Code de la défense. - art. R2335-35 (V)
-  - Code de la défense. - art. R2335-36 (V)
-  - Code de la défense. - art. R2335-37 (V)
+  - Code de la défense. - art. R2335-15
+  - Code de la défense. - art. R2335-37
 
 
 #### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=738></a>
@@ -69953,27 +68538,25 @@ _Cite_:
 ###### Article R2481-1
 
 Pour l'application de la présente partie du code à Saint-Barthélemy, les références énumérées ci-après sont remplacées
-ainsi : 
+ainsi :
 
-1° La référence au département est remplacée par la référence à Saint-Barthélemy ; 
+1° La référence au département est remplacée par la référence à Saint-Barthélemy ;
 
-2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ; 
+2° La référence au préfet du département est remplacée par la référence au représentant de l'Etat ;
 
 3° La référence au tribunal d'instance et de grande instance est remplacée par la référence au tribunal de première
-instance ; 
+instance ;
 
-4° La référence au maire est remplacée par la référence au président du conseil territorial ; 
+4° La référence au maire est remplacée par la référence au président du conseil territorial ;
 
-5° La référence au conseil municipal est remplacée par la référence au conseil territorial. 
+5° La référence au conseil municipal est remplacée par la référence au conseil territorial.
 
 6° A l'article R. 2335-15, les mots : “ provenant d'un autre Etat membre de l'Union européenne ” sont remplacés par les
-mots : “ de toute provenance ” ; 
+mots : “ de toute provenance ” ;
 
-7° A l'article R. 2335-35, les mots : “ dans le pays de destination situé hors de l'Union européenne ” sont remplacés par les
-mots : “ dans le pays de destination ” ; 
+7° (Supprimé)
 
-8° A l'article R. 2335-36, les mots : “ dans un pays de destination situé hors du territoire de l'Union européenne ” sont
-remplacés par les mots : " hors de la collectivité ” ; 
+8° (Supprimé)
 
 9° A l'article R. 2335-37, les mots : “ à destination de pays tiers à l'Union européenne ” sont remplacés par les mots : “
 hors de la collectivité ”.
@@ -69982,14 +68565,12 @@ hors de la collectivité ”.
 
 _Modifié par_:
 
-  - Décret n°2017-151 du 8 février 2017 - art. 15
+  - Décret n°2017-565 du 18 avril 2017 - art. 3
 
 _Cite_:
 
-  - Code de la défense. - art. R2335-15 (V)
-  - Code de la défense. - art. R2335-35 (V)
-  - Code de la défense. - art. R2335-36 (V)
-  - Code de la défense. - art. R2335-37 (V)
+  - Code de la défense. - art. R2335-15
+  - Code de la défense. - art. R2335-37
 
 
 ##### Chapitre II : Saint-Martin<a id=740></a>
@@ -95245,7 +93826,9 @@ Tout militaire peut saisir les officiers généraux inspecteurs d'une question r
 conditions d'exécution du service ou à la vie en communauté. Les motifs de la demande d'audience n'ont pas à être fournis
 d'avance.
 
-Il peut en outre saisir le médiateur militaire, dans des conditions définies par le ministre de la défense.
+Il peut en outre saisir un médiateur, dans les conditions prévues aux articles L. 213-5 et L. 213-6 du code de justice
+administrative. Ce médiateur peut être le médiateur militaire, dont les modalités d'intervention sont fixées par arrêté du
+ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -95258,7 +93841,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2015-368 du 30 mars 2015 - art. 2
+  - Décret n°2017-566 du 18 avril 2017 - art. 3
+
+_Cite_:
+
+  - Code de justice administrative - art. L213-5
+  - Code de justice administrative - art. L213-6
 
 
 ###### Article D4121-3
@@ -98431,19 +97019,30 @@ _Cité par_:
 
 ###### Article R4125-1
 
-I.-Tout recours contentieux formé par un militaire à l'encontre d'actes relatifs à sa situation personnelle est précédé d'un
-recours administratif préalable, à peine d'irrecevabilité du recours contentieux. 
+I. – Tout recours contentieux formé par un militaire à l'encontre d'actes relatifs à sa situation personnelle est précédé
+d'un recours administratif préalable, à peine d'irrecevabilité du recours contentieux.
 
 Ce recours administratif préalable est examiné par la commission des recours des militaires, placée auprès du ministre de la
-défense. 
+défense.
 
-La saisine de la commission est seule de nature à conserver le délai de recours contentieux jusqu'à l'intervention de la
-décision prévue à l'article R. 4125-10. 
+Le recours administratif formé auprès de la commission conserve le délai de recours contentieux jusqu'à l'intervention de la
+décision prévue à l'article R. 4125-10. Sous réserve des dispositions de l'article L. 213-6 du code de justice
+administrative, tout autre recours administratif, gracieux ou hiérarchique, formé antérieurement ou postérieurement au
+recours introduit devant la commission, demeure sans incidence sur le délai de recours contentieux.
 
-II.-Les dispositions de la présente section ne sont pas applicables aux recours contentieux formés à l'encontre d'actes ou de
-décisions : 
+II. – La médiation à l'initiative des parties prévue aux articles L. 213-5 et L. 213-6 du code de justice administrative ne
+peut être engagée si la décision contestée a fait l'objet du recours prévu au premier alinéa du I, sauf si le président de la
+commission a informé le militaire de l'incompétence de la commission, de la forclusion, ou du classement de son recours dans
+les conditions prévues aux troisième et quatrième alinéas de l'article R. 4125-2.
 
-1° Concernant le recrutement du militaire ou l'exercice du pouvoir disciplinaire ; 
+Tout recours introduit devant la commission au cours d'une procédure de médiation et portant sur l'objet même de la médiation
+met immédiatement fin à cette dernière et emporte déclaration que la médiation est terminée. La commission informe sans délai
+le médiateur de l'introduction du recours.
+
+III. – Les dispositions de la présente section ne sont pas applicables aux recours contentieux formés à l'encontre d'actes ou
+de décisions :
+
+1° Concernant le recrutement du militaire ou l'exercice du pouvoir disciplinaire ;
 
 2° Pris en application du code des pensions militaires d'invalidité et des victimes de la guerre et du code des pensions
 civiles et militaires de retraite ainsi que ceux qui relèvent de la procédure organisée par les articles 112 à 124 du décret
@@ -98464,11 +97063,16 @@ _Cité par_:
 _Cite_:
 
   - Décret n°2012-1246 du 7 novembre 2012 - art. 112
+  - Code des pensions civiles et militaires de retraite
+  - Code de justice administrative - art. L213-5
+  - Code de justice administrative - art. L213-6
   - Code de la défense. - art. R4125-10
+  - Code de la défense. - art. R4125-2
+  - Code des pensions militaires d'invalidité et des victimes de guerre.
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 7
+  - Décret n°2017-566 du 18 avril 2017 - art. 3
 
 
 ##### Section 1 : Dispositions générales<a id=995></a>
@@ -98477,24 +97081,22 @@ _Modifié par_:
 
 A compter de la notification ou de la publication de l'acte contesté, ou de l'intervention d'une décision implicite de rejet
 d'une demande, le militaire dispose d'un délai de deux mois pour saisir la commission par lettre recommandée avec avis de
-réception adressée au secrétariat permanent placé sous l'autorité du président de la commission. 
+réception adressée au secrétariat permanent placé sous l'autorité du président de la commission. Ce délai est interrompu dans
+le cas où les parties engagent une médiation dans les conditions prévues aux articles L. 213-5 et L. 213-6 du code de justice
+administrative.
 
 La lettre de saisine de la commission est accompagnée d'une copie de l'acte. Dans le cas d'une décision implicite de rejet,
-la lettre de saisine est accompagnée d'une copie de la demande. 
+la lettre de saisine est accompagnée d'une copie de la demande.
 
 Si la copie de l'acte ou, dans le cas d'une décision implicite de rejet, la copie de la demande ne sont pas jointes à
 l'envoi, le secrétariat permanent de la commission met l'intéressé en demeure de la produire dans un délai de deux semaines ;
 en l'absence de production dans ce délai, l'intéressé est réputé avoir renoncé à son recours. Le président de la commission
-en dresse le constat et en informe l'intéressé. 
+en dresse le constat et en informe l'intéressé.
 
 Lorsque le recours est formé après l'expiration du délai de recours mentionné au premier alinéa, le président de la
 commission constate la forclusion et en informe l'intéressé.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2009-1716 du 30 décembre 2009 - art. 3
 
 _Cité par_:
 
@@ -98502,6 +97104,15 @@ _Cité par_:
   - Code de la défense. - art. R4125-1 (V)
   - Code de la défense. - art. R4125-11 (V)
   - Code de la défense. - art. R4125-14 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-566 du 18 avril 2017 - art. 3
+
+_Cite_:
+
+  - Code de justice administrative - art. L213-5
+  - Code de justice administrative - art. L213-6
 
 
 ###### Article R4125-3
