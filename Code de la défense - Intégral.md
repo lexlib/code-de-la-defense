@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2017-04-21
+Version Consolidée au 2017-04-29
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -724,7 +724,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#660)
           - [Chapitre Ier : Zones militaires (art. R2361-1)](#720)
           - [Chapitre II : Zones protégées (art. D2362-2 à R2362-7)](#721)
             - [Section 1 : Dispositions générales (art. D2362-2 à R2362-1)](#722)
-            - [Section 2 : Dispositions relatives à certaines enquêtes préalables (art. R2362-5 à R2362-7)](#723)
+            - [Section 2 : Dispositions relatives à certaines enquêtes préalables (art. R2362-6 à R2362-7)](#723)
           - [Chapitre III : Zones de défense hautement sensibles (art. R2363-1 à R2363-7)](#724)
       - [LIVRE IV : DISPOSITIONS RELATIVES A L'OUTRE MER (art. R2421-1 à D2491-19)](#725)
         - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. R2421-1)](#726)
@@ -63938,74 +63938,46 @@ _Cité par_:
 
 ##### Section 2 : Dispositions relatives à certaines enquêtes préalables<a id=723></a>
 
-###### Article R2362-5
-
-Peuvent donner lieu aux enquêtes mentionnées au II de l'article L. 2381-1 : 
-
-1° Les décisions relatives au recrutement de personnels civils par l'autorité militaire à l'étranger ; 
-
-2° Les décisions permettant, à l'étranger, d'accéder à des zones à accès réservé ou placées sous le contrôle de l'autorité
-militaire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
-
-_Cité par_:
-
-  - Décret n°2017-646 du 26 avril 2017 (V)
-  - Code de la défense. - art. R2362-6 (M)
-
-_Abrogé par_:
-
-  - Décret n°2017-646 du 26 avril 2017 - art. 1
-
-_Cite_:
-
-  - Code de la défense. - art. L2381-1
-
-
 ###### Article R2362-6
 
-En application du II de l'article L. 2381-1, les personnes sont informées par tout moyen, lors du dépôt de leur demande,
-qu'elles feront l'objet d'une enquête préalable et que celle-ci donnera lieu à la consultation des données personnelles
-figurant dans les traitements mis en œuvre par les services spécialisés de renseignement relevant du ministère de la
-défense. 
+Les personnes concernées par les décisions mentionnées à l'article L. 2362-1 sont informées par tout moyen, lors du dépôt de
+leur demande, qu'elles feront l'objet d'une enquête préalable et que celle-ci pourra donner lieu aux opérations et aux
+prélèvements prévus au II de l'article L. 2381-1 et à la consultation des données personnelles figurant dans les traitements
+mis en œuvre par les services spécialisés de renseignement relevant du ministère de la défense.
 
-Les intéressés en sont informés : 
+Les intéressés en sont informés :
 
-1° Pour les décisions prises en application du 1° de l'article R. 2362-5, par l'autorité chargée du recrutement ; 
+1° Pour les décisions de recrutement, par l'autorité chargée du recrutement ;
 
-2° Pour les décisions prises en application du 2° du même article, par l'autorité qui délivre les autorisations d'accès.
+2° Pour les décisions d'accès aux zones mentionnées au II de l'article L. 2381-1, par l'autorité qui délivre les
+autorisations d'accès.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
 
 _Cité par_:
 
   - Décret n°2017-646 du 26 avril 2017 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-646 du 26 avril 2017 - art. 2
+
 _Cite_:
 
-  - Code de la défense. - art. L2381-1 (V)
-  - Code de la défense. - art. R2362-5 (V)
+  - Code de la défense. - art. L2362-1
+  - Code de la défense. - art. L2381-1
 
 
 ###### Article R2362-7
 
-Ces  enquêtes sont menées par des agents des services spécialisés de  renseignement du ministère de la défense
-individuellement désignés et  spécialement habilités par l'autorité dont ils relèvent.
+Les enquêtes prévues à la présente section sont menées par des agents des services spécialisés de renseignement du ministère
+de la défense individuellement désignés et spécialement habilités par l'autorité dont ils relèvent.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1816 du 21 décembre 2016 - art. 1
+  - Décret n°2017-646 du 26 avril 2017 - art. 3
 
 
 ##### Chapitre III : Zones de défense hautement sensibles<a id=724></a>
