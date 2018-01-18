@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-19
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -1722,11 +1722,11 @@ _Modifié par_:
 
 Le ministre de la défense est responsable de la préparation et de la mise en œuvre de la politique de défense. Il est en
 particulier chargé de l'infrastructure militaire comme de l'organisation, de la gestion, de la mise en condition d'emploi et
-de la mobilisation des forces armées et des formations rattachées, sous réserve des dispositions de l'article L. 3225-1. 
+de la mobilisation des forces armées et des formations rattachées, sous réserve des dispositions de l'article L. 3225-1.
 
 Il a autorité sur les armées, les services de soutien, les organismes interarmées et les formations rattachées. Il veille à
 ce que ceux-ci disposent des moyens nécessaires à leur entretien, leur équipement et leur entraînement. Il est responsable de
-leur sécurité. 
+leur sécurité.
 
 Il est également chargé :
 
@@ -1736,9 +1736,13 @@ Il est également chargé :
 
 - de l'anticipation et du suivi des crises intéressant la défense ;
 
-- de la politique industrielle et de recherche et de la politique sociale propres au secteur de la défense. 
+- du volet de la politique de santé propre au secteur de la défense, de la détermination des conditions de la participation
+du service de santé des armées à la politique de santé et de la définition des besoins spécifiques de la défense mentionnés
+notamment dans le code de la santé publique ;
 
-Il contribue à l'élaboration et à la mise en œuvre de la politique d'exportation des équipements de défense. 
+- de la politique industrielle et de recherche et de la politique sociale propres au secteur de la défense.
+
+Il contribue à l'élaboration et à la mise en œuvre de la politique d'exportation des équipements de défense.
 
 En matière de communication, de transports, et pour la répartition des ressources générales, le ministre de la défense
 dispose, dès la mise en garde définie à l'article L. 2141-1, d'un droit de priorité.
@@ -1774,11 +1778,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 6
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 1
 
 _Cite_:
 
-  - Code de la défense. - art. L2141-1 (V)
+  - Code de la défense. - art. L2141-1
   - Code de la défense. - art. L3225-1
 
 
@@ -5214,8 +5218,8 @@ Sont applicables en Polynésie française les dispositions des articles L. 1111-
 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
 organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale. 
 
-Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20
-juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance
+n° 2018-20 du 17 janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -5228,15 +5232,14 @@ _Cite_:
 
   - Loi n°2015-917 du 28 juillet 2015 - art. 30
   - Loi n°2016-731 du 3 juin 2016
-  - Ordonnance n°2016-982 du 20 juillet 2016
-  - Code de la défense. - art. L1111-1 (V)
-  - Code de la défense. - art. L1142-1 (V)
-  - Code de la défense. - art. L1411-1 (V)
-  - Code de la défense. - art. L1521-1 (V)
+  - Code de la défense. - art. L1111-1
+  - Code de la défense. - art. L1142-1
+  - Code de la défense. - art. L1411-1
+  - Code de la défense. - art. L1521-1
 
 _Modifié par_:
 
-  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 13
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 34
 
 
 ###### Article L1651-2
@@ -5304,8 +5307,8 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles L. 1111-1 
 1521-1 à L. 1521-18, dans leur rédaction résultant de la loi n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime
 organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale. 
 
-Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2016-982 du 20
-juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28 juillet 2015.
+Les dispositions de l'article L. 1142-1 sont applicables dans leur rédaction résultant de l'ordonnance
+n° 2018-20 du 17 janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -5318,15 +5321,14 @@ _Cite_:
 
   - Loi n°2015-917 du 28 juillet 2015 - art. 30
   - Loi n°2016-731 du 3 juin 2016
-  - Ordonnance n°2016-982 du 20 juillet 2016
-  - Code de la défense. - art. L1111-1 (V)
-  - Code de la défense. - art. L1142-1 (V)
-  - Code de la défense. - art. L1411-1 (V)
-  - Code de la défense. - art. L1521-1 (V)
+  - Code de la défense. - art. L1111-1
+  - Code de la défense. - art. L1142-1
+  - Code de la défense. - art. L1411-1
+  - Code de la défense. - art. L1521-1
 
 _Modifié par_:
 
-  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 13
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 34
 
 
 ###### Article L1661-2
@@ -21715,38 +21717,38 @@ _Codifié par_:
 
 ###### Article L4138-2
 
-L'activité est la position du militaire qui occupe un emploi de son grade. 
+L'activité est la position du militaire qui occupe un emploi de son grade.
 
-Reste dans cette position le militaire : 
+Reste dans cette position le militaire :
 
-1° Qui bénéficie : 
+1° Qui bénéficie :
 
-a)   De congés de maladie ou du congé du blessé ; 
+a) De congés de maladie ou du congé du blessé ;
 
-b) De congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ; 
+b) De congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ;
 
-c) De permissions ou de congés de fin de campagne ; 
+c) De permissions ou de congés de fin de campagne ;
 
-d) De congés de solidarité familiale ; 
+d) De congés de solidarité familiale ;
 
-e) D'un congé de reconversion ; 
+e) D'un congé de reconversion ;
 
-f) De congés de présence parentale ; 
+f) De congés de présence parentale ;
 
-g) D'un congé pour création ou reprise d'entreprise ; 
+g) D'un congé pour création ou reprise d'entreprise ;
 
 2° Qui est affecté, pour une durée limitée, dans l'intérêt du service, auprès d'une administration de l'Etat, d'un
 établissement public à caractère administratif ne relevant pas de la tutelle du ministre de la défense, d'un établissement
-public à caractère industriel et commercial, d'une collectivité territoriale, d'une organisation internationale, d'une
-association, d'une mutuelle ou, dans l'intérêt de la défense, auprès d'une entreprise. Cette affectation doit s'effectuer
-dans le respect des dispositions prévues à l'article L. 4122-2. Les conditions et modalités de son affectation sont fixées
-par décret en Conseil d'Etat. 
+public à caractère industriel et commercial, d'un établissement de santé public ou privé, d'un groupement de coopération
+sanitaire, d'une collectivité territoriale, d'une organisation internationale, d'une association, d'une mutuelle ou, dans
+l'intérêt de la défense, auprès d'une entreprise. Cette affectation doit s'effectuer dans le respect des dispositions prévues
+à l'article L. 4122-2. Les conditions et modalités de son affectation sont fixées par décret en Conseil d'Etat.
 
 Le militaire dans l'une des situations de la position d'activité conserve sa rémunération, à l'exception de celui placé en
-congé de solidarité familiale ou en congé de présence parentale. 
+congé de solidarité familiale ou en congé de présence parentale.
 
 A l'exception du congé de présence parentale, la durée de chacune des situations de la position d'activité est assimilée à
-une période de service effectif. 
+une période de service effectif.
 
 Le militaire servant en vertu d'un contrat, placé dans l'un des congés de la position d'activité voit, si nécessaire, son
 contrat prorogé jusqu'à la date d'expiration de ce congé, dans la limite de la durée de service, à l'exception des
@@ -21818,7 +21820,6 @@ _Cité par_:
   - Arrêté du 27 juin 2018 - art. 6 (V)
   - Code de commerce - art. R821-1-2 (Ab)
   - Code de commerce - art. R821-14-1 (V)
-  - Code de la défense. - art. L4138-14 (V)
   - Code de la défense. - art. L4139-5 (V)
   - Code de la défense. - art. L4139-5-1 (V)
   - Code de la défense. - art. L4144-1 (V)
@@ -21836,6 +21837,7 @@ _Cité par_:
   - Code de la santé publique - art. D4354-1 (VD)
   - Code de la santé publique - art. D4354-6 (VD)
   - Code de la santé publique - art. L1221-10 (V)
+  - Code de la santé publique - art. L4113-14 (V)
   - Code de la santé publique - art. L4221-18 (V)
   - Code de la santé publique - art. L4232-1 (V)
   - Code de la santé publique - art. L5146-2 (V)
@@ -21859,7 +21861,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-792 du 10 juillet 2014 - art. 20 (V)
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 30 (V)
 
 _Cite_:
 
@@ -24823,26 +24825,29 @@ _Codifié par_:
 ###### Article L4221-1
 
 Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit pour une durée de un à cinq ans renouvelable en
-vue : 
+vue :
 
-1° De recevoir une formation ou de suivre un entraînement ; 
+1° De recevoir une formation ou de suivre un entraînement ;
 
 2° D'apporter un renfort temporaire aux forces armées et formations rattachées, en particulier pour la protection du
-territoire national et dans le cadre des opérations conduites en dehors du territoire national ; 
+territoire national et dans le cadre des opérations conduites en dehors du territoire national ;
 
-3° De dispenser un enseignement de défense ; 
+3° De dispenser un enseignement de défense ;
 
 4° De participer aux actions civilo-militaires, destinées à faciliter l'interaction des forces opérationnelles avec leur
-environnement civil ; 
+environnement civil ;
 
-5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9. 
+5° De servir auprès d'une entreprise dans les conditions prévues aux articles L. 4221-7 à L. 4221-9 ;
+
+6° De contribuer aux actions de la réserve sanitaire définie au I de l'article L. 3132-1 du code de la santé publique dans
+les conditions prévues au III de cet article.
 
 Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux
 réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4 ou au 3° de l'article L. 4221-4-1. 
 
-Cette clause est soumise à l'accord de l'employeur. 
+Cette clause est soumise à l'accord de l'employeur.
 
-Ces missions peuvent s'exercer en dehors du territoire national. 
+Ces missions peuvent s'exercer en dehors du territoire national.
 
 Le volontaire peut, au titre de son engagement à servir dans la réserve opérationnelle, être admis à servir, par arrêté du
 ministre de la défense ou par arrêté du ministre de l'intérieur pour les réservistes de la gendarmerie nationale, dans
@@ -24872,7 +24877,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-982 du 20 juillet 2016 - art. 9
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 30 (V)
 
 _Cite_:
 
@@ -25763,15 +25768,18 @@ lutte contre la corruption et à la modernisation de la vie économique, en Poly
 L. 4111-1 à L. 4271-5.
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
-4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-1, L. 4221-3 et L. 4221-7 sont applicables dans
-leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n°
-2015-917 du 28 juillet 2015.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-3 et L. 4221-7 sont applicables dans leur rédaction
+résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28
+juillet 2015.
 
 Les articles L. 4211-1, L. 4241-1 et L. 4241-2 sont applicables dans leur rédaction résultant de la loi n° 2017-86 du 27
 janvier 2017 relative à l'égalité et à la citoyenneté.
 
 Les articles L. 4125-1 et L. 4139-15-1 sont applicables dans leur rédaction résultant de la loi n° 2017-1510 du 30 octobre
 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme.
+
+Les articles L. 4138-2 et L. 4221-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2018-20 du 17 janvier
+2018.
 
 **Liens relatifs à cet article**
 
@@ -25788,7 +25796,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 34
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE<a id=347></a>
@@ -25802,15 +25810,18 @@ lutte contre la corruption et à la modernisation de la vie économique, en Nouv
 4111-1 à L. 4271-5.
 
 Les dispositions des articles L. 4111-1, L. 4123-19, L. 4124-1, L. 4126-6, L. 4126-8, L. 4132-6, L. 4132-9, L. 4132-10, L.
-4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-1, L. 4221-3 et L. 4221-7 sont applicables dans
-leur rédaction résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n°
-2015-917 du 28 juillet 2015.
+4133-1, L. 4137-3, L. 4138-12, L. 4138-13, L. 4139-16, L. 4141-7, L. 4221-3 et L. 4221-7 sont applicables dans leur rédaction
+résultant de l'ordonnance n° 2016-982 du 20 juillet 2016 prise en application de l'article 30 de la loi n° 2015-917 du 28
+juillet 2015.
 
 Les articles L. 4211-1, L. 4241-1 et L. 4241-2 sont applicables dans leur rédaction résultant de la loi n° 2017-86 du 27
 janvier 2017 relative à l'égalité et à la citoyenneté.
 
 Les articles L. 4125-1 et L. 4139-15-1 sont applicables dans leur rédaction résultant de la loi n° 2017-1510 du 30 octobre
 2017 renforçant la sécurité intérieure et la lutte contre le terrorisme.
+
+Les articles L. 4138-2 et L. 4221-1 sont applicables dans leur rédaction résultant de l'ordonnance n° 2018-20 du 17 janvier
+2018.
 
 **Liens relatifs à cet article**
 
@@ -25827,7 +25838,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1510 du 30 octobre 2017 - art. 20 (V)
+  - Ordonnance n°2018-20 du 17 janvier 2018 - art. 34
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES<a id=349></a>
