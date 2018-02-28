@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-02-28
+Version Consolidée au 2018-03-01
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -1037,7 +1037,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#672)
               - [Sous-section 3 : Détermination des associations représentatives et des associations pouvant siéger au Conseil supérieur de la fonction militaire (art. R4126-8 à R4126-9)](#1033)
             - [Section 3 : Exercice du droit d'association professionnelle (art. R4126-10 à R4126-15)](#1034)
             - [Section 4 : Dispositions diverses (art. R4126-16 à R4126-17)](#1035)
-        - [TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES (art. D4131-1 à R4139-61)](#1036)
+        - [TITRE III : DISPOSITIONS STATUTAIRES RELATIVES  AUX DÉROULEMENTS DES CARRIÈRES (art. D4131-1 à R4139-71)](#1036)
           - [Chapitre Ier : Hiérarchie militaire (art. D4131-1 à R4131-14)](#1037)
           - [Chapitre II : Recrutement (art. R4132-1 à R4132-7)](#1038)
             - [Section unique : Dispositions applicables aux militaires servant en vertu d'un contrat (art. R4132-1 à R4132-7)](#1039)
@@ -1108,7 +1108,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#672)
                 - [Paragraphe 1 : Dispositions générales (art. R4138-71 à R4138-72)](#1104)
                 - [Paragraphe 2 : Dispositions applicables aux militaires de carrière (art. R4138-73)](#1105)
             - [Section 5 :  Délégations de pouvoirs et de signature en matière de mesures individuelles et notification des changements de positions ou de situations statutaires (art. R4138-74 à R4138-76)](#1106)
-          - [Chapitre IX : Fin de l'état militaire (art. R4139-1 à R4139-61)](#1107)
+          - [Chapitre IX : Fin de l'état militaire (art. R4139-1 à R4139-71)](#1107)
             - [Section 1 :  Dispositifs d'accès à la fonction publique civile (art. R4139-1 à R4139-40)](#1108)
               - [Sous-section 1 :  Dispositions relatives au détachement ou au classement des militaires lauréats de concours de la fonction publique ou de la magistrature (art. R4139-1 à R4139-9)](#1109)
               - [Sous-section 2  : Dispositions relatives aux conditions statutaires d'accès des militaires aux corps ou cadres d'emplois relevant de l'une des trois fonctions publiques (art. D4139-10 à D4139-13)](#1110)
@@ -1117,114 +1117,115 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#672)
               - [Sous-section 5  : Dispositions particulières aux modalités spécifiques de détachement et d'intégration des militaires dans un corps relevant de la fonction publique hospitalière (art. R4139-32 à R4139-40)](#1113)
             - [Section 2 : Dispositifs d'aide au départ (art. R4139-41 à R4139-45)](#1114)
               - [Sous-section unique : Dispositions applicables aux militaires de carrière (art. R4139-41 à R4139-45)](#1115)
-            - [Section 3 : Radiation des cadres ou des contrôles (art. R4139-46 à R4139-61)](#1116)
+            - [Section 3 : Radiation des cadres ou des contrôles (art. R4139-46 à R4139-71)](#1116)
               - [Sous-section 1 : Dispositions générales (art. R4139-46 à R4139-49)](#1117)
               - [Sous-section 2 : Lien au service (art. R4139-50 à R4139-52)](#1118)
               - [Sous-section 3 : Commission de réforme (art. R4139-53 à R4139-61)](#1119)
-        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#1120)
-          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#1121)
-        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-10)](#1122)
-          - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#1123)
-            - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#1124)
-            - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#1125)
-            - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#1126)
-          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-10)](#1127)
-            - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#1128)
-            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-10)](#1129)
-      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-24)](#1130)
-        - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#1131)
-          - [Chapitre unique (art. R4211-1 à R4211-12)](#1132)
-            - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#1133)
-            - [Section 2 : Dispositions relatives à l'honorariat (art. R4211-6 à R4211-9)](#1134)
-            - [Section 3 : Radiation de la réserve (art. R4211-10 à R4211-12)](#1135)
-        - [TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE (art. R4221-1 à R4221-28)](#1136)
-          - [Chapitre unique (art. R4221-1 à R4221-28)](#1137)
-            - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle (art. R4221-1 à R4221-5)](#1138)
-            - [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an (art. D4221-6 à D4221-8)](#1139)
-            - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10-1)](#1140)
-            - [Section 3-1 : Exécution de l'engagement à servir dans la réserve opérationnelle en cas de crise menaçant la sécurité nationale prévu à l'article L. 4221-4-1 (art. R4221-10-2 à R4221-10-4)](#1141)
-            - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#1142)
-            - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#1143)
-            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#1144)
-            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#1145)
-            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#1146)
-        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#1147)
-          - [Chapitre unique (art. R4231-1 à R4231-5)](#1148)
-        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1149)
-          - [Chapitre unique (art. R4241-1 à R4241-3)](#1150)
-        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-24)](#1151)
-          - [Chapitre unique (art. D4261-1 à D4261-24)](#1152)
-            - [Section 1 : Mission (art. D4261-1)](#1153)
-            - [Section 2 : Composition et organisation (art. D4261-2 à D4261-11)](#1154)
-              - [Sous-section 1 : L'assemblée plénière (art. D4261-7)](#1155)
-              - [Sous-section 2 : Le conseil restreint (art. D4261-8 à D4261-9)](#1156)
-              - [Sous-section 3 : Les commissions (art. D4261-10)](#1157)
-              - [Sous-section 4 : Les groupes de travail (art. D4261-11)](#1158)
-            - [Section 3 : Fonctionnement et attributions (art. D4261-12 à D4261-24)](#1159)
-              - [Sous-section 1 : L'assemblée plénière (art. D4261-14 à D4261-16)](#1160)
-              - [Sous-section 2 : Le conseil restreint (art. D4261-17 à D4261-19)](#1161)
-              - [Sous-section 3 : La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense (art. D4261-20)](#1162)
-              - [Sous-section 4 : Le secrétariat général (art. D4261-21 à D4261-24)](#1163)
-      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1164)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1165)
-          - [Chapitre unique (art. D4341-4 à R4341-3)](#1166)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1167)
-          - [Chapitre unique (art. D4351-4 à R4351-3)](#1168)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1169)
-          - [Chapitre unique (art. D4361-4 à R4361-3)](#1170)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1171)
-          - [Chapitre unique (art. D4371-3 à R4371-2)](#1172)
-        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1173)
-          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1174)
-          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1175)
-    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES (art. R5111-1 à D5382-1)](#1176)
-      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5141-5)](#1177)
-        - [TITRE Ier : SERVITUDES (art. R5111-1 à R5114-11)](#1178)
-          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. R5111-1 à R5111-10)](#1179)
-            - [Section 1 : Dispositions générales (art. R5111-1 à R5111-2)](#1180)
-            - [Section 2 : Etablissement d'un polygone d'isolement (art. R5111-3 à R5111-5)](#1181)
-            - [Section 3 : Autorisation de construction dans un polygone d'isolement (art. R5111-6 à R5111-10)](#1182)
-          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. R5112-1 à R5112-2)](#1183)
-          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. R5113-1)](#1184)
-          - [Chapitre IV : Autres installations de défense (art. R5114-1 à R5114-11)](#1185)
-            - [Section 1 : Etablissement des servitudes des installations de défense (art. R5114-1 à R5114-4)](#1186)
+              - [Sous-section 4 : Composition et fonctionnement du conseil prévu à l'article L. 4139-15-1 (art. R4139-62 à R4139-71)](#1120)
+        - [TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES (art. R4141-1 à R4141-7)](#1121)
+          - [Chapitre Ier : Officiers généraux (art. R4141-1 à R4141-7)](#1122)
+        - [TITRE V : FORMATION DES MILITAIRES (art. D4151-1 à D4152-10)](#1123)
+          - [Chapitre Ier : Attribution du titre d'ingénieur (art. D4151-1 à D4151-5)](#1124)
+            - [Section 1 : Ingénieur diplômé de l'armée de terre (art. D4151-1 à D4151-3)](#1125)
+            - [Section 2 : Ingénieur diplômé de l'Ecole navale (art. D4151-4)](#1126)
+            - [Section 3 : Ingénieur diplômé de l'Ecole de l'air (art. D4151-5)](#1127)
+          - [Chapitre II : Enseignement militaire supérieur (art. D4152-1 à D4152-10)](#1128)
+            - [Section 1 : Organisation générale (art. D4152-1 à D4152-7)](#1129)
+            - [Section 2 : Direction de l'enseignement militaire supérieur (art. D4152-8 à D4152-10)](#1130)
+      - [LIVRE II : RÉSERVE MILITAIRE (art. R4211-1 à D4261-24)](#1131)
+        - [TITRE Ier :  DISPOSITIONS COMMUNES (art. R4211-1 à R4211-12)](#1132)
+          - [Chapitre unique (art. R4211-1 à R4211-12)](#1133)
+            - [Section 1 : Dispositions générales (art. R4211-1 à R4211-5)](#1134)
+            - [Section 2 : Dispositions relatives à l'honorariat (art. R4211-6 à R4211-9)](#1135)
+            - [Section 3 : Radiation de la réserve (art. R4211-10 à R4211-12)](#1136)
+        - [TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE (art. R4221-1 à R4221-28)](#1137)
+          - [Chapitre unique (art. R4221-1 à R4221-28)](#1138)
+            - [Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle (art. R4221-1 à R4221-5)](#1139)
+            - [Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an (art. D4221-6 à D4221-8)](#1140)
+            - [Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle (art. R4221-9 à R4221-10-1)](#1141)
+            - [Section 3-1 : Exécution de l'engagement à servir dans la réserve opérationnelle en cas de crise menaçant la sécurité nationale prévu à l'article L. 4221-4-1 (art. R4221-10-2 à R4221-10-4)](#1142)
+            - [Section 4 : Souscription et exécution de la clause de réactivité (art. R4221-11 à R4221-14)](#1143)
+            - [Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise (art. R4221-15 à R4221-17)](#1144)
+            - [Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale (art. R4221-17-1 à R4221-17-3)](#1145)
+            - [Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle (art. R4221-18 à R4221-19)](#1146)
+            - [Section 7 : Dispositions relatives à la nomination et à l'avancement (art. R4221-20 à R4221-28)](#1147)
+        - [TITRE III : DISPONIBILITÉ (art. R4231-1 à R4231-5)](#1148)
+          - [Chapitre unique (art. R4231-1 à R4231-5)](#1149)
+        - [TITRE IV : RÉSERVE CITOYENNE (art. R4241-1 à R4241-3)](#1150)
+          - [Chapitre unique (art. R4241-1 à R4241-3)](#1151)
+        - [TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE (art. D4261-1 à D4261-24)](#1152)
+          - [Chapitre unique (art. D4261-1 à D4261-24)](#1153)
+            - [Section 1 : Mission (art. D4261-1)](#1154)
+            - [Section 2 : Composition et organisation (art. D4261-2 à D4261-11)](#1155)
+              - [Sous-section 1 : L'assemblée plénière (art. D4261-7)](#1156)
+              - [Sous-section 2 : Le conseil restreint (art. D4261-8 à D4261-9)](#1157)
+              - [Sous-section 3 : Les commissions (art. D4261-10)](#1158)
+              - [Sous-section 4 : Les groupes de travail (art. D4261-11)](#1159)
+            - [Section 3 : Fonctionnement et attributions (art. D4261-12 à D4261-24)](#1160)
+              - [Sous-section 1 : L'assemblée plénière (art. D4261-14 à D4261-16)](#1161)
+              - [Sous-section 2 : Le conseil restreint (art. D4261-17 à D4261-19)](#1162)
+              - [Sous-section 3 : La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense (art. D4261-20)](#1163)
+              - [Sous-section 4 : Le secrétariat général (art. D4261-21 à D4261-24)](#1164)
+      - [LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D4341-4 à R4382-3)](#1165)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA (art. D4341-4 à R4341-3)](#1166)
+          - [Chapitre unique (art. D4341-4 à R4341-3)](#1167)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE (art. D4351-4 à R4351-3)](#1168)
+          - [Chapitre unique (art. D4351-4 à R4351-3)](#1169)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE (art. D4361-4 à R4361-3)](#1170)
+          - [Chapitre unique (art. D4361-4 à R4361-3)](#1171)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D4371-3 à R4371-2)](#1172)
+          - [Chapitre unique (art. D4371-3 à R4371-2)](#1173)
+        - [TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN (art. D4381-4 à R4382-3)](#1174)
+          - [Chapitre Ier : Saint-Barthélemy (art. D4381-4 à R4381-3)](#1175)
+          - [Chapitre II : Saint-Martin (art. D4382-4 à R4382-3)](#1176)
+    - [PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES (art. R5111-1 à D5382-1)](#1177)
+      - [LIVRE Ier : DISPOSITIONS DOMANIALES (art. R5111-1 à R5141-5)](#1178)
+        - [TITRE Ier : SERVITUDES (art. R5111-1 à R5114-11)](#1179)
+          - [Chapitre Ier : Dépôts de munitions et d'explosifs (art. R5111-1 à R5111-10)](#1180)
+            - [Section 1 : Dispositions générales (art. R5111-1 à R5111-2)](#1181)
+            - [Section 2 : Etablissement d'un polygone d'isolement (art. R5111-3 à R5111-5)](#1182)
+            - [Section 3 : Autorisation de construction dans un polygone d'isolement (art. R5111-6 à R5111-10)](#1183)
+          - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime (art. R5112-1 à R5112-2)](#1184)
+          - [Chapitre III : Centres d'émission et de réception radioélectriques (art. R5113-1)](#1185)
+          - [Chapitre IV : Autres installations de défense (art. R5114-1 à R5114-11)](#1186)
+            - [Section 1 : Etablissement des servitudes des installations de défense (art. R5114-1 à R5114-4)](#1187)
             - [Section 2 : Conditions d'autorisation de certaines
-constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1187)
-              - [Sous-section 1 : Secteurs de construction réglementée (art. R5114-5 à R5114-6)](#1188)
-              - [Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable (art. R5114-7 à R5114-8)](#1189)
-              - [Sous-section 3 : Dispositions communes (art. R5114-9 à R5114-11)](#1190)
-        - [TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE (art. R5121-1 à R5121-2)](#1191)
-          - [Chapitre unique : Répression des infractions relatives aux servitudes militaires (art. R5121-1 à R5121-2)](#1192)
-            - [Section 1 : Dispositions générales (art. R5121-1 à R5121-2)](#1193)
-        - [TITRE III : GESTION ET ADMINISTRATION (art. R5131-1 à R5131-16)](#1194)
-          - [Chapitre unique : Gestion et administration des infrastructures de la défense (art. R5131-1 à R5131-16)](#1195)
-            - [Section 1 : Politique immobilière de la défense (art. R5131-1 à R5131-3)](#1196)
-            - [Section 2 : Compétence des autorités du ministère de la défense en matière domaniale (art. D5131-6 à R5131-9)](#1197)
-            - [Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme (art. D5131-10 à D5131-13)](#1198)
-              - [Sous-section 1 : Compétences en matière d'environnement (art. D5131-10)](#1199)
-              - [Sous-section 2 : Compétences en matière de logement (art. R5131-11)](#1200)
-              - [Sous-section 3 : Compétences en matière d'urbanisme (art. D5131-12 à D5131-13)](#1201)
-            - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-14 à D5131-15)](#1202)
-            - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1203)
-        - [TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES (art. R5141-1 à R5141-5)](#1204)
-          - [Chapitre unique (art. R5141-1 à R5141-5)](#1205)
-      - [LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES (art. D5222-2 à R5222-8)](#1206)
-        - [TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. D5222-2 à R5222-8)](#1207)
-          - [Chapitre II : Le service de la trésorerie aux armées (art. D5222-2 à R5222-8)](#1208)
-      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1209)
-        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1210)
-          - [Chapitre unique (art. D5321-1)](#1211)
-        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-2-1)](#1212)
-          - [Chapitre unique (art. D5341-2 à R5341-2-1)](#1213)
-        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-2-1)](#1214)
-          - [Chapitre unique (art. D5351-2 à R5351-2-1)](#1215)
-        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-2-1)](#1216)
-          - [Chapitre unique (art. D5361-2 à R5361-2-1)](#1217)
-        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1218)
-          - [Chapitre unique (art. D5371-2 à R5371-1)](#1219)
-        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1220)
-          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1221)
-          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1222)
+constructions dans les zones de servitudes (art. R5114-5 à R5114-11)](#1188)
+              - [Sous-section 1 : Secteurs de construction réglementée (art. R5114-5 à R5114-6)](#1189)
+              - [Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable (art. R5114-7 à R5114-8)](#1190)
+              - [Sous-section 3 : Dispositions communes (art. R5114-9 à R5114-11)](#1191)
+        - [TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE (art. R5121-1 à R5121-2)](#1192)
+          - [Chapitre unique : Répression des infractions relatives aux servitudes militaires (art. R5121-1 à R5121-2)](#1193)
+            - [Section 1 : Dispositions générales (art. R5121-1 à R5121-2)](#1194)
+        - [TITRE III : GESTION ET ADMINISTRATION (art. R5131-1 à R5131-16)](#1195)
+          - [Chapitre unique : Gestion et administration des infrastructures de la défense (art. R5131-1 à R5131-16)](#1196)
+            - [Section 1 : Politique immobilière de la défense (art. R5131-1 à R5131-3)](#1197)
+            - [Section 2 : Compétence des autorités du ministère de la défense en matière domaniale (art. D5131-6 à R5131-9)](#1198)
+            - [Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme (art. D5131-10 à D5131-13)](#1199)
+              - [Sous-section 1 : Compétences en matière d'environnement (art. D5131-10)](#1200)
+              - [Sous-section 2 : Compétences en matière de logement (art. R5131-11)](#1201)
+              - [Sous-section 3 : Compétences en matière d'urbanisme (art. D5131-12 à D5131-13)](#1202)
+            - [Section 4 : Programmation et coordination en matière d'infrastructure (art. D5131-14 à D5131-15)](#1203)
+            - [Section 5 : Attributions particulières en matière de déminage (art. R5131-16)](#1204)
+        - [TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES (art. R5141-1 à R5141-5)](#1205)
+          - [Chapitre unique (art. R5141-1 à R5141-5)](#1206)
+      - [LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES (art. D5222-2 à R5222-8)](#1207)
+        - [TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES (art. D5222-2 à R5222-8)](#1208)
+          - [Chapitre II : Le service de la trésorerie aux armées (art. D5222-2 à R5222-8)](#1209)
+      - [LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER (art. D5321-1 à D5382-1)](#1210)
+        - [TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON (art. D5321-1)](#1211)
+          - [Chapitre unique (art. D5321-1)](#1212)
+        - [TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA (art. D5341-2 à R5341-2-1)](#1213)
+          - [Chapitre unique (art. D5341-2 à R5341-2-1)](#1214)
+        - [TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE (art. D5351-2 à R5351-2-1)](#1215)
+          - [Chapitre unique (art. D5351-2 à R5351-2-1)](#1216)
+        - [TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE (art. D5361-2 à R5361-2-1)](#1217)
+          - [Chapitre unique (art. D5361-2 à R5361-2-1)](#1218)
+        - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. D5371-2 à R5371-1)](#1219)
+          - [Chapitre unique (art. D5371-2 à R5371-1)](#1220)
+        - [TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN (art. D5381-1 à D5382-1)](#1221)
+          - [Chapitre Ier : SAINT-BARTHÉLEMY (art. D5381-1)](#1222)
+          - [Chapitre II : SAINT-MARTIN (art. D5382-1)](#1223)
 # Partie législative<a id=1></a>
 
 ## PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE.<a id=2></a>
@@ -102395,7 +102396,8 @@ le médiateur de l'introduction du recours.
 III. – Les dispositions de la présente section ne sont pas applicables aux recours contentieux formés à l'encontre d'actes ou
 de décisions :
 
-1° Concernant le recrutement du militaire ou l'exercice du pouvoir disciplinaire ;
+1° Concernant le recrutement du militaire, l'exercice du pouvoir disciplinaire, ou pris en application de l'article L.
+4139-15-1 ;
 
 2° Pris en application du code des pensions militaires d'invalidité et des victimes de la guerre et du code des pensions
 civiles et militaires de retraite ainsi que ceux qui relèvent de la procédure organisée par les articles 112 à 124 du décret
@@ -102425,7 +102427,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-566 du 18 avril 2017 - art. 3
+  - Décret n°2018-135 du 27 février 2018 - art. 1
 
 
 ##### Section 1 : Dispositions générales<a id=1024></a>
@@ -111423,9 +111425,223 @@ _Cite_:
   - Code de la défense. - art. R4139-60
 
 
-#### TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES<a id=1120></a>
+##### Sous-section 4 : Composition et fonctionnement du conseil prévu à l'article L. 4139-15-1<a id=1120></a>
 
-##### Chapitre Ier : Officiers généraux<a id=1121></a>
+###### Article R4139-62
+
+Le conseil prévu à l'article L. 4139-15-1 est saisi par le ministre de la défense, par le ministre de l'intérieur pour les
+militaires de la gendarmerie nationale, ou par le ministre chargé de la mer pour les corps de militaires placés sous son
+autorité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. L4139-15-1
+
+
+###### Article R4139-63
+
+Le conseil est présidé par un conseiller d'Etat, désigné par arrêté du Premier ministre sur proposition du vice-président du
+Conseil d'Etat, ou par son suppléant désigné dans les mêmes conditions.
+
+Il comprend :
+
+1° Quatre officiers généraux appartenant respectivement à l'armée de terre, à la marine nationale, à l'armée de l'air et à la
+gendarmerie nationale ;
+
+2° Le directeur des ressources humaines du ministère de la défense ou son représentant ;
+
+3° Un officier général ou de rang correspondant représentant la force armée ou la formation rattachée dont relève le
+militaire en cause ou, dans l'hypothèse où la formation rattachée d'appartenance ne comprend pas d'officier général, un
+officier du grade le plus élevé ;
+
+4° Un contrôleur général des armées de 1re section.
+
+Les membres du conseil sont nommés pour une durée de deux ans, renouvelable deux fois.
+
+Les officiers généraux de la gendarmerie nationale sont nommés par arrêté conjoint des ministres de la défense et de
+l'intérieur, et les officiers généraux appartenant à un corps placé sous l'autorité du ministre chargé de la mer par arrêté
+conjoint du ministre de la défense et du ministre chargé de la mer. Les autres membres du conseil sont nommés par arrêté du
+ministre de la défense.
+
+Pour chacun d'eux, à l'exception du directeur des ressources humaines du ministère de la défense, un suppléant est nommé dans
+les mêmes conditions.
+
+Les membres suppléants siègent en cas d'absence ou d'empêchement des membres titulaires.
+
+Lorsque le conseil statue sur la situation d'un militaire de la gendarmerie nationale, il comprend également le directeur des
+personnels militaires de la gendarmerie nationale ou son représentant.
+
+Lorsque le conseil statue sur la situation d'un militaire appartenant à un corps placé sous l'autorité du ministre chargé de
+la mer, il comprend également l'inspecteur général des affaires maritimes ou son représentant.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+
+###### Article R4139-64
+
+Des rapporteurs sont choisis parmi les officiers et les fonctionnaires de catégorie A du ministère de la défense, ayant
+accompli au moins cinq années de service public. Ils sont nommés par arrêté du ministre de la défense, à l'exception des
+officiers de la gendarmerie nationale et des affaires maritimes nommés par arrêté du ministre de la défense après l'avis,
+respectivement, du ministre de l'intérieur et du ministre chargé de la mer.
+
+Le secrétariat du conseil est assuré par la direction des ressources humaines du ministère de la défense.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+
+###### Article R4139-65
+
+Sous réserve des dispositions de l'article R. 4139-66, le conseil ne siège valablement que si l'ensemble de ses membres sont
+présents. Ses délibérations ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+
+###### Article R4139-66
+
+Sans préjudice des dispositions de l'article L. 4122-3, ne peuvent siéger : 
+
+1° Les parents ou alliés du militaire en cause, jusqu'au quatrième degré inclusivement ; 
+
+2° Les militaires qui ont émis un avis au cours d'une enquête administrative concernant le militaire ; 
+
+3° Les militaires ayant connu de l'affaire comme magistrat ou comme officier ou agent de police judiciaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. L4122-3
+
+
+###### Article R4139-67
+
+Le militaire en cause est invité à présenter des observations écrites dans le délai d'un mois à compter de la réception des
+pièces constitutives du dossier de l'affaire qui lui sont communiquées par le secrétariat du conseil par tout moyen
+permettant d'en établir la date de réception.
+
+Les pièces transmises à l'intéressé, qui ne peuvent contenir des actes ou des documents faisant l'objet d'une mesure de
+classification au titre du secret de la défense nationale, comportent un rapport établi au vu du résultat de l'enquête
+mentionnée à l'
+article L. 114-1 du code de la sécurité intérieure
+et qui expose les motifs pour lesquels le comportement du militaire paraît incompatible avec l'exercice de ses fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+_Cité par_:
+
+  - Code de la défense. - art. R4139-68 (V)
+
+_Cite_:
+
+  - Code de la sécurité intérieure - art. L114-1
+
+
+###### Article R4139-68
+
+Le conseil se réunit sur convocation du président. 
+
+La convocation est adressée au militaire concerné quinze jours au moins avant la séance, par tout moyen permettant d'en
+établir la date de réception. 
+
+Le rapport mentionné au deuxième alinéa de l'article R. 4139-67 ainsi que les éventuelles observations écrites produites par
+le militaire sont présentés en séance par le rapporteur chargé de l'affaire. 
+
+Lors de son audition, le militaire peut se faire assister d'une personne de son choix. Le président peut, en outre, entendre
+toute personne qu'il juge utile au bon déroulement de la procédure. Le militaire peut demander à faire citer des témoins, qui
+sont entendus séparément. 
+
+Le militaire et, le cas échéant, la personne qui l'assiste peuvent, à tout moment de la procédure, demander au président
+l'autorisation d'intervenir afin de présenter des observations orales complémentaires. Ils sont invités à présenter d'ultimes
+observations avant que la commission ne commence à délibérer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+_Cite_:
+
+  - Code de la défense. - art. R4139-67
+
+
+###### Article R4139-69
+
+Dans le cas où le militaire convoqué ne se présente pas à l'audition, le conseil rend son avis sans l'avoir entendu. En cas
+d'absence illégale ou de désertion du militaire au cours de la procédure, celle-ci se poursuit en l'absence de l'intéressé.
+Mention est faite de l'absence illégale ou de l'état de désertion du militaire dans chaque document établi au cours de la
+procédure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+
+###### Article R4139-70
+
+Le conseil délibère en l'absence du militaire concerné et de la personne qui l'assiste. Le conseil recommande soit de radier
+des cadres ou de résilier le contrat du militaire, soit de ne prononcer aucune de ces mesures. En cas de partage égal des
+voix, la voix du président est prépondérante.
+
+L'avis du conseil est remis à l'autorité habilitée à prononcer la radiation des cadres ou la résiliation de contrat dans les
+deux mois qui suivent la date de saisine. Si aucun avis n'est rendu à l'issue de ce délai, le ministre compétent met le
+conseil en demeure de se prononcer dans un délai déterminé qui ne peut être supérieur à un mois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+
+###### Article R4139-71
+
+Lorsqu'elle concerne un officier servant en vertu d'un contrat, un officier marinier, un sous-officier ou un militaire du
+rang, la décision de radiation des cadres ou de résiliation de contrat est prononcée par le ministre de la défense, par le
+ministre de l'intérieur pour les militaires de la gendarmerie nationale et par le ministre chargé de la mer pour les corps de
+militaires placés sous son autorité. Le ministre compétent notifie sa décision au militaire en cause.
+
+Lorsqu'elle concerne un officier de carrière, la radiation des cadres est prononcée par décret du Président de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-135 du 27 février 2018 - art. 2
+
+
+#### TITRE IV : DISPOSITIONS PARTICULIÈRES  À CERTAINES CATÉGORIES DE MILITAIRES<a id=1121></a>
+
+##### Chapitre Ier : Officiers généraux<a id=1122></a>
 
 ###### Article R4141-1
 
@@ -111563,11 +111779,11 @@ _Cite_:
   - Code de la défense. - art. R4141-3
 
 
-#### TITRE V : FORMATION DES MILITAIRES<a id=1122></a>
+#### TITRE V : FORMATION DES MILITAIRES<a id=1123></a>
 
-##### Chapitre Ier : Attribution du titre d'ingénieur<a id=1123></a>
+##### Chapitre Ier : Attribution du titre d'ingénieur<a id=1124></a>
 
-##### Section 1 : Ingénieur diplômé de l'armée de terre<a id=1124></a>
+##### Section 1 : Ingénieur diplômé de l'armée de terre<a id=1125></a>
 
 ###### Article D4151-1
 
@@ -111631,7 +111847,7 @@ _Créé par_:
   - Décret n°2008-393 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Ingénieur diplômé de l'Ecole navale<a id=1125></a>
+##### Section 2 : Ingénieur diplômé de l'Ecole navale<a id=1126></a>
 
 ###### Article D4151-4
 
@@ -111646,7 +111862,7 @@ _Modifié par_:
   - Décret n°2016-1427 du 21 octobre 2016 - art. 5
 
 
-##### Section 3 : Ingénieur diplômé de l'Ecole de l'air<a id=1126></a>
+##### Section 3 : Ingénieur diplômé de l'Ecole de l'air<a id=1127></a>
 
 ###### Article D4151-5
 
@@ -111674,9 +111890,9 @@ _Modifié par_:
   - Décret n°2017-1280 du 9 août 2017 - art. 1
 
 
-##### Chapitre II : Enseignement militaire supérieur<a id=1127></a>
+##### Chapitre II : Enseignement militaire supérieur<a id=1128></a>
 
-##### Section 1 : Organisation générale<a id=1128></a>
+##### Section 1 : Organisation générale<a id=1129></a>
 
 ###### Article D4152-1
 
@@ -111862,7 +112078,7 @@ _Cite_:
   - Code de la défense. - art. D4152-6
 
 
-##### Section 2 : Direction de l'enseignement militaire supérieur<a id=1129></a>
+##### Section 2 : Direction de l'enseignement militaire supérieur<a id=1130></a>
 
 ###### Article D4152-8
 
@@ -111933,13 +112149,13 @@ _Modifié par_:
   - Décret n°2011-323 du 24 mars 2011 - art. 2
 
 
-### LIVRE II : RÉSERVE MILITAIRE<a id=1130></a>
+### LIVRE II : RÉSERVE MILITAIRE<a id=1131></a>
 
-#### TITRE Ier :  DISPOSITIONS COMMUNES<a id=1131></a>
+#### TITRE Ier :  DISPOSITIONS COMMUNES<a id=1132></a>
 
-##### Chapitre unique<a id=1132></a>
+##### Chapitre unique<a id=1133></a>
 
-##### Section 1 : Dispositions générales<a id=1133></a>
+##### Section 1 : Dispositions générales<a id=1134></a>
 
 ###### Article R4211-1
 
@@ -112036,7 +112252,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 2 : Dispositions relatives à l'honorariat<a id=1134></a>
+##### Section 2 : Dispositions relatives à l'honorariat<a id=1135></a>
 
 ###### Article R4211-6
 
@@ -112124,7 +112340,7 @@ _Modifié par_:
   - Décret n°2015-296 du 16 mars 2015 - art. 7
 
 
-##### Section 3 : Radiation de la réserve<a id=1135></a>
+##### Section 3 : Radiation de la réserve<a id=1136></a>
 
 ###### Article R4211-10
 
@@ -112215,11 +112431,11 @@ _Cité par_:
   - Code de la défense. - art. R4221-19 (V)
 
 
-#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE<a id=1136></a>
+#### TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE  OPÉRATIONNELLE<a id=1137></a>
 
-##### Chapitre unique<a id=1137></a>
+##### Chapitre unique<a id=1138></a>
 
-##### Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle<a id=1138></a>
+##### Section 1 : Souscription de l'engagement à servir  dans la réserve opérationnelle<a id=1139></a>
 
 ###### Article R4221-1
 
@@ -112314,7 +112530,7 @@ _Cité par_:
   - Code de la défense. - art. D4221-6 (V)
 
 
-##### Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an<a id=1139></a>
+##### Section 2 : Prolongation de la durée d'activité  au-delà de trente jours par an<a id=1140></a>
 
 ###### Article D4221-6
 
@@ -112389,7 +112605,7 @@ _Modifié par_:
   - Décret n°2009-1728 du 30 décembre 2009 - art. 2
 
 
-##### Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle<a id=1140></a>
+##### Section 3 : Exécution de l'engagement à servir  dans la réserve opérationnelle<a id=1141></a>
 
 ###### Article R4221-9
 
@@ -112455,7 +112671,7 @@ _Modifié par_:
   - Décret n°2017-744 du 4 mai 2017 - art. 4
 
 
-##### Section 3-1 : Exécution de l'engagement à servir dans la réserve opérationnelle en cas de crise menaçant la sécurité nationale prévu à l'article L. 4221-4-1<a id=1141></a>
+##### Section 3-1 : Exécution de l'engagement à servir dans la réserve opérationnelle en cas de crise menaçant la sécurité nationale prévu à l'article L. 4221-4-1<a id=1142></a>
 
 ###### Article R4221-10-2
 
@@ -112530,7 +112746,7 @@ _Créé par_:
   - Décret n°2015-1636 du 10 décembre 2015 - art. 1
 
 
-##### Section 4 : Souscription et exécution de la clause de réactivité<a id=1142></a>
+##### Section 4 : Souscription et exécution de la clause de réactivité<a id=1143></a>
 
 ###### Article R4221-11
 
@@ -112611,7 +112827,7 @@ _Cite_:
   - Code de la défense. - art. L4221-4 (V)
 
 
-##### Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise<a id=1143></a>
+##### Section 5 : Exécution de l'engagement à servir  dans la réserve auprès d'une entreprise<a id=1144></a>
 
 ###### Article R4221-15
 
@@ -112675,7 +112891,7 @@ _Créé par_:
   - Décret n°2008-392 du 23 avril 2008 - art. (V)
 
 
-##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=1144></a>
+##### Section 5-1 : Exécution de l'engagement à servir dans la réserve auprès d'une administration de l'Etat, d'un établissement public administratif, d'un établissement public à caractère scientifique, culturel et professionnel ou d'une organisation internationale<a id=1145></a>
 
 ###### Article R4221-17-1
 
@@ -112743,7 +112959,7 @@ _Modifié par_:
   - Décret n°2015-296 du 16 mars 2015 - art. 20
 
 
-##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=1145></a>
+##### Section 6 : Suspension ou résiliation de l'engagement à servir  dans la réserve opérationnelle<a id=1146></a>
 
 ###### Article R4221-18
 
@@ -112824,7 +113040,7 @@ _Cite_:
   - Code de la défense. - art. R4211-12
 
 
-##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=1146></a>
+##### Section 7 : Dispositions relatives à la nomination et à l'avancement<a id=1147></a>
 
 ###### Article R4221-20
 
@@ -113046,9 +113262,9 @@ _Cite_:
   - Code de la défense. - art. R4221-22
 
 
-#### TITRE III : DISPONIBILITÉ<a id=1147></a>
+#### TITRE III : DISPONIBILITÉ<a id=1148></a>
 
-##### Chapitre unique<a id=1148></a>
+##### Chapitre unique<a id=1149></a>
 
 ###### Article R4231-1
 
@@ -113123,9 +113339,9 @@ _Cite_:
   - Code de la défense. - art. L4231-4 (V)
 
 
-#### TITRE IV : RÉSERVE CITOYENNE<a id=1149></a>
+#### TITRE IV : RÉSERVE CITOYENNE<a id=1150></a>
 
-##### Chapitre unique<a id=1150></a>
+##### Chapitre unique<a id=1151></a>
 
 ###### Article R4241-1
 
@@ -113203,11 +113419,11 @@ _Modifié par_:
   - Décret n°2015-296 du 16 mars 2015 - art. 28
 
 
-#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=1151></a>
+#### TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE<a id=1152></a>
 
-##### Chapitre unique<a id=1152></a>
+##### Chapitre unique<a id=1153></a>
 
-##### Section 1 : Mission<a id=1153></a>
+##### Section 1 : Mission<a id=1154></a>
 
 ###### Article D4261-1
 
@@ -113241,7 +113457,7 @@ _Cité par_:
   - Code de la défense. - art. D4382-4 (VD)
 
 
-##### Section 2 : Composition et organisation<a id=1154></a>
+##### Section 2 : Composition et organisation<a id=1155></a>
 
 ###### Article D4261-2
 
@@ -113413,7 +113629,7 @@ _Modifié par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-##### Sous-section 1 : L'assemblée plénière<a id=1155></a>
+##### Sous-section 1 : L'assemblée plénière<a id=1156></a>
 
 ###### Article D4261-7
 
@@ -113429,7 +113645,7 @@ _Modifié par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-##### Sous-section 2 : Le conseil restreint<a id=1156></a>
+##### Sous-section 2 : Le conseil restreint<a id=1157></a>
 
 ###### Article D4261-8
 
@@ -113494,7 +113710,7 @@ _Modifié par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-##### Sous-section 3 : Les commissions<a id=1157></a>
+##### Sous-section 3 : Les commissions<a id=1158></a>
 
 ###### Article D4261-10
 
@@ -113524,7 +113740,7 @@ _Cite_:
   - Code de la défense. - art. D4261-2 (V)
 
 
-##### Sous-section 4 : Les groupes de travail<a id=1158></a>
+##### Sous-section 4 : Les groupes de travail<a id=1159></a>
 
 ###### Article D4261-11
 
@@ -113544,7 +113760,7 @@ _Modifié par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-##### Section 3 : Fonctionnement et attributions<a id=1159></a>
+##### Section 3 : Fonctionnement et attributions<a id=1160></a>
 
 ###### Article D4261-12
 
@@ -113576,7 +113792,7 @@ _Cité par_:
   - Arrêté du 18 juin 2014 (V)
 
 
-##### Sous-section 1 : L'assemblée plénière<a id=1160></a>
+##### Sous-section 1 : L'assemblée plénière<a id=1161></a>
 
 ###### Article D4261-14
 
@@ -113624,7 +113840,7 @@ _Modifié par_:
   - Décret n°2014-130 du 14 février 2014 - art. 1
 
 
-##### Sous-section 2 : Le conseil restreint<a id=1161></a>
+##### Sous-section 2 : Le conseil restreint<a id=1162></a>
 
 ###### Article D4261-17
 
@@ -113686,7 +113902,7 @@ _Abrogé par_:
   - Décret n°2018-832 du 1er octobre 2018 - art. 1
 
 
-##### Sous-section 3 : La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense<a id=1162></a>
+##### Sous-section 3 : La commission de la consultation, la commission du partenariat et la commission de la promotion de l'esprit de défense<a id=1163></a>
 
 ###### Article D4261-20
 
@@ -113712,7 +113928,7 @@ _Abrogé par_:
   - Décret n°2018-832 du 1er octobre 2018 - art. 1
 
 
-##### Sous-section 4 : Le secrétariat général<a id=1163></a>
+##### Sous-section 4 : Le secrétariat général<a id=1164></a>
 
 ###### Article D4261-21
 
@@ -113802,11 +114018,11 @@ _Abrogé par_:
   - Décret n°2018-832 du 1er octobre 2018 - art. 1
 
 
-### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1164></a>
+### LIVRE III  : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1165></a>
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1165></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA<a id=1166></a>
 
-##### Chapitre unique<a id=1166></a>
+##### Chapitre unique<a id=1167></a>
 
 ###### Article D4341-4
 
@@ -115942,9 +116158,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1167></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNÉSIE FRANÇAISE<a id=1168></a>
 
-##### Chapitre unique<a id=1168></a>
+##### Chapitre unique<a id=1169></a>
 
 ###### Article D4351-4
 
@@ -118082,9 +118298,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1169></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE-CALÉDONIE<a id=1170></a>
 
-##### Chapitre unique<a id=1170></a>
+##### Chapitre unique<a id=1171></a>
 
 ###### Article D4361-4
 
@@ -120218,9 +120434,9 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1171></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1172></a>
 
-##### Chapitre unique<a id=1172></a>
+##### Chapitre unique<a id=1173></a>
 
 ###### Article D4371-3
 
@@ -121973,9 +122189,9 @@ _Modifié par_:
   - Décret n°2018-63 du 2 février 2018 - art. 2
 
 
-#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1173></a>
+#### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1174></a>
 
-##### Chapitre Ier : Saint-Barthélemy<a id=1174></a>
+##### Chapitre Ier : Saint-Barthélemy<a id=1175></a>
 
 ###### Article D4381-4
 
@@ -122066,7 +122282,7 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-##### Chapitre II : Saint-Martin<a id=1175></a>
+##### Chapitre II : Saint-Martin<a id=1176></a>
 
 ###### Article D4382-4
 
@@ -122157,15 +122373,15 @@ _Cite_:
   - Code de la défense. - art. R4138-6 (V)
 
 
-## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES<a id=1176></a>
+## PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIERES<a id=1177></a>
 
-### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=1177></a>
+### LIVRE Ier : DISPOSITIONS DOMANIALES<a id=1178></a>
 
-#### TITRE Ier : SERVITUDES<a id=1178></a>
+#### TITRE Ier : SERVITUDES<a id=1179></a>
 
-##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=1179></a>
+##### Chapitre Ier : Dépôts de munitions et d'explosifs<a id=1180></a>
 
-##### Section 1 : Dispositions générales<a id=1180></a>
+##### Section 1 : Dispositions générales<a id=1181></a>
 
 ###### Article R5111-1
 
@@ -122218,7 +122434,7 @@ _Anciens textes_:
   - Loi n°1929-08-08 du 8 août 1929 - art. 6 (Ab), alinéa 2
 
 
-##### Section 2 : Etablissement d'un polygone d'isolement<a id=1181></a>
+##### Section 2 : Etablissement d'un polygone d'isolement<a id=1182></a>
 
 ###### Article R5111-3
 
@@ -122282,7 +122498,7 @@ _Anciens textes_:
   - Loi n°1929-08-08 du 8 août 1929 - art. 8 (Ab)
 
 
-##### Section 3 : Autorisation de construction dans un polygone d'isolement<a id=1182></a>
+##### Section 3 : Autorisation de construction dans un polygone d'isolement<a id=1183></a>
 
 ###### Article R5111-6
 
@@ -122436,7 +122652,7 @@ _Cite_:
   - Code de la défense. - art. R5111-6
 
 
-##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=1183></a>
+##### Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime<a id=1184></a>
 
 ###### Article R5112-1
 
@@ -122482,7 +122698,7 @@ _Cite_:
   - Code de l'urbanisme - art. R151-53
 
 
-##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=1184></a>
+##### Chapitre III : Centres d'émission et de réception radioélectriques<a id=1185></a>
 
 ###### Article R5113-1
 
@@ -122500,9 +122716,9 @@ _Cite_:
   - Code des postes et des communications électroni... - art. R*21 (V)
 
 
-##### Chapitre IV : Autres installations de défense<a id=1185></a>
+##### Chapitre IV : Autres installations de défense<a id=1186></a>
 
-##### Section 1 : Etablissement des servitudes des installations de défense<a id=1186></a>
+##### Section 1 : Etablissement des servitudes des installations de défense<a id=1187></a>
 
 ###### Article R5114-1
 
@@ -122609,9 +122825,9 @@ _Cite_:
 
 
 ##### Section 2 : Conditions d'autorisation de certaines
-constructions dans les zones de servitudes<a id=1187></a>
+constructions dans les zones de servitudes<a id=1188></a>
 
-##### Sous-section 1 : Secteurs de construction réglementée<a id=1188></a>
+##### Sous-section 1 : Secteurs de construction réglementée<a id=1189></a>
 
 ###### Article R5114-5
 
@@ -122663,7 +122879,7 @@ _Cite_:
   - Code de la défense. - art. R5114-5
 
 
-##### Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable<a id=1189></a>
+##### Sous-section 2 : Constructions soumises au régime de l'autorisation ministérielle préalable<a id=1190></a>
 
 ###### Article R5114-7
 
@@ -122719,7 +122935,7 @@ _Cité par_:
   - Décret n°2014-1285 du 23 octobre 2014 - art. (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=1190></a>
+##### Sous-section 3 : Dispositions communes<a id=1191></a>
 
 ###### Article R5114-9
 
@@ -122777,11 +122993,11 @@ _Cite_:
   - Code de la défense. - art. R5114-6
 
 
-#### TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE<a id=1191></a>
+#### TITRE II : REPRESSION DES CONTRAVENTIONS  DE GRANDE VOIRIE<a id=1192></a>
 
-##### Chapitre unique : Répression des infractions relatives aux servitudes militaires<a id=1192></a>
+##### Chapitre unique : Répression des infractions relatives aux servitudes militaires<a id=1193></a>
 
-##### Section 1 : Dispositions générales<a id=1193></a>
+##### Section 1 : Dispositions générales<a id=1194></a>
 
 ###### Article R5121-1
 
@@ -122816,11 +123032,11 @@ _Cite_:
   - Code de la défense. - art. L5121-2 (V)
 
 
-#### TITRE III : GESTION ET ADMINISTRATION<a id=1194></a>
+#### TITRE III : GESTION ET ADMINISTRATION<a id=1195></a>
 
-##### Chapitre unique : Gestion et administration des infrastructures de la défense<a id=1195></a>
+##### Chapitre unique : Gestion et administration des infrastructures de la défense<a id=1196></a>
 
-##### Section 1 : Politique immobilière de la défense<a id=1196></a>
+##### Section 1 : Politique immobilière de la défense<a id=1197></a>
 
 ###### Article R5131-1
 
@@ -122914,7 +123130,7 @@ _Modifié par_:
   - Décret n°2015-211 du 25 février 2015 - art. 20
 
 
-##### Section 2 : Compétence des autorités du ministère de la défense en matière domaniale<a id=1197></a>
+##### Section 2 : Compétence des autorités du ministère de la défense en matière domaniale<a id=1198></a>
 
 ###### Article D5131-6
 
@@ -123076,9 +123292,9 @@ _Anciens textes_:
   - Code de la défense. - art. D5131-9 (T)
 
 
-##### Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme<a id=1198></a>
+##### Section 3 : Compétence des autorités du ministère de la défense en matière d'environnement, de logement et d'urbanisme<a id=1199></a>
 
-##### Sous-section 1 : Compétences en matière d'environnement<a id=1199></a>
+##### Sous-section 1 : Compétences en matière d'environnement<a id=1200></a>
 
 ###### Article D5131-10
 
@@ -123135,7 +123351,7 @@ _Cite_:
   - Code de l'environnement - art. R517-1 (V)
 
 
-##### Sous-section 2 : Compétences en matière de logement<a id=1200></a>
+##### Sous-section 2 : Compétences en matière de logement<a id=1201></a>
 
 ###### Article R5131-11
 
@@ -123169,7 +123385,7 @@ _Cite_:
   - Code de la défense. - art. R5131-3 (V)
 
 
-##### Sous-section 3 : Compétences en matière d'urbanisme<a id=1201></a>
+##### Sous-section 3 : Compétences en matière d'urbanisme<a id=1202></a>
 
 ###### Article D5131-12
 
@@ -123249,7 +123465,7 @@ _Cite_:
   - Code de la défense. - art. L5114-1 (V)
 
 
-##### Section 4 : Programmation et coordination en matière d'infrastructure<a id=1202></a>
+##### Section 4 : Programmation et coordination en matière d'infrastructure<a id=1203></a>
 
 ###### Article D5131-14
 
@@ -123305,7 +123521,7 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 2
 
 
-##### Section 5 : Attributions particulières en matière de déminage<a id=1203></a>
+##### Section 5 : Attributions particulières en matière de déminage<a id=1204></a>
 
 ###### Article R5131-16
 
@@ -123331,9 +123547,9 @@ _Cite_:
   - Code de la sécurité intérieure - art. R733-14 (VD)
 
 
-#### TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES<a id=1204></a>
+#### TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES<a id=1205></a>
 
-##### Chapitre unique<a id=1205></a>
+##### Chapitre unique<a id=1206></a>
 
 ###### Article R5141-1
 
@@ -123421,11 +123637,11 @@ _Créé par_:
   - Décret n°2016-1258 du 27 septembre 2016 - art. 1
 
 
-### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES<a id=1206></a>
+### LIVRE II : DISPOSITIONS FINANCIERES ET COMPTABLES<a id=1207></a>
 
-#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=1207></a>
+#### TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES<a id=1208></a>
 
-##### Chapitre II : Le service de la trésorerie aux armées<a id=1208></a>
+##### Chapitre II : Le service de la trésorerie aux armées<a id=1209></a>
 
 ###### Article D5222-2
 
@@ -123632,11 +123848,11 @@ _Cité par_:
   - Code de la défense. - art. R5351-2-1 (V)
 
 
-### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1209></a>
+### LIVRE III : DISPOSITIONS RELATIVES  A L'OUTRE MER<a id=1210></a>
 
-#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1210></a>
+#### TITRE II : DISPOSITIONS PARTICULIERES  A SAINT PIERRE ET MIQUELON<a id=1211></a>
 
-##### Chapitre unique<a id=1211></a>
+##### Chapitre unique<a id=1212></a>
 
 ###### Article D5321-1
 
@@ -123658,9 +123874,9 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1212></a>
+#### TITRE IV : DISPOSITIONS APPLICABLES  DANS LES ILES WALLIS ET FUTUNA<a id=1213></a>
 
-##### Chapitre unique<a id=1213></a>
+##### Chapitre unique<a id=1214></a>
 
 ###### Article D5341-2
 
@@ -123768,9 +123984,9 @@ _Cite_:
   - Code de la défense. - art. R5222-8 (V)
 
 
-#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1214></a>
+#### TITRE V : DISPOSITIONS APPLICABLES  EN POLYNESIE FRANCAISE<a id=1215></a>
 
-##### Chapitre unique<a id=1215></a>
+##### Chapitre unique<a id=1216></a>
 
 ###### Article D5351-2
 
@@ -123876,9 +124092,9 @@ _Cite_:
   - Code de la défense. - art. R5222-8 (V)
 
 
-#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1216></a>
+#### TITRE VI : DISPOSITIONS APPLICABLES  EN NOUVELLE CALEDONIE<a id=1217></a>
 
-##### Chapitre unique<a id=1217></a>
+##### Chapitre unique<a id=1218></a>
 
 ###### Article D5361-2
 
@@ -123982,9 +124198,9 @@ _Cite_:
   - Code de la défense. - art. R5222-1 (V)
 
 
-#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1218></a>
+#### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1219></a>
 
-##### Chapitre unique<a id=1219></a>
+##### Chapitre unique<a id=1220></a>
 
 ###### Article D5371-2
 
@@ -124059,9 +124275,9 @@ _Modifié par_:
   - Décret n°2016-1258 du 27 septembre 2016 - art. 2
 
 
-#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1220></a>
+#### TITRE VIII : DISPOSITIONS PARTICULIERES  A SAINT BARTHELEMY ET A SAINT MARTIN<a id=1221></a>
 
-##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1221></a>
+##### Chapitre Ier : SAINT-BARTHÉLEMY<a id=1222></a>
 
 ###### Article D5381-1
 
@@ -124080,7 +124296,7 @@ _Modifié par_:
   - Décret n°2012-1499 du 27 décembre 2012 - art. 3
 
 
-##### Chapitre II : SAINT-MARTIN<a id=1222></a>
+##### Chapitre II : SAINT-MARTIN<a id=1223></a>
 
 ###### Article D5382-1
 
