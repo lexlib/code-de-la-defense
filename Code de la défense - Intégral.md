@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-05-01
+Version Consolidée au 2018-05-13
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -796,7 +796,7 @@ au sein de l'Union européenne (art. R2335-21 à R2335-46)](#672)
             - [Section 2 : Dispositions communes au bureau enquêtes accidents défense mer et au bureau enquêtes accidents défense transport terrestre (art. R3125-6 à R3125-12)](#792)
             - [Section 3 : Dispositions relatives au bureau enquêtes accidents défense transport terrestre et aux enquêtes techniques après accident ou incident de transport terrestre mettant en cause les véhicules spécifiques du ministère de la défense (art. R3125-13 à R3125-17)](#793)
             - [Section 4 : Dispositions relatives au bureau enquêtes accident défense mer et aux enquêtes techniques sur les évènements de mer affectant les bâtiments et moyens nautiques du ministère de la défense et de la gendarmerie nationale (art. R3125-18 à R3125-21)](#794)
-            - [Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes de sécurité  après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation (art. R3125-22 à R3125-28)](#795)
+            - [Section 5 : Dispositions relatives au bureau enquêtes accidents pour la sécurité de l'aéronautique d'Etat et à ses missions (art. R3125-22 à R3125-28)](#795)
           - [Chapitre VI : Les services de renseignement et de sécurité (art. D3126-1 à D3126-14)](#796)
             - [Section 1 : Direction générale de la sécurité extérieure (art. D3126-1 à D3126-4)](#797)
             - [Section 2 : Direction du renseignement et de la sécurité de la défense (art. D3126-5 à D3126-9)](#798)
@@ -74055,7 +74055,7 @@ des enquêtes de sécurité, sont des services à compétence nationale ayant re
 
 2° Bureau enquêtes accidents défense mer ou BEAD-mer ;
 
-3° Bureau enquêtes accidents défense air ou BEAD-air.
+3° Bureau enquêtes accidents pour la sécurité de l'aéronautique d'Etat ou BEA-É.
 
 II. ― Les bureaux enquêtes accidents défense sont indépendants et permanents.
 
@@ -74091,7 +74091,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2017-744 du 4 mai 2017 - art. 3
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 _Cite_:
 
@@ -74503,38 +74503,38 @@ _Modifié par_:
   - Décret n°2017-744 du 4 mai 2017 - art. 3
 
 
-##### Section 5 : Dispositions relatives au bureau enquêtes accidents défense air et aux enquêtes de sécurité  après accidents ou incidents survenus aux aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui, appartenant à l'Etat français ou à tout autre Etat, ne sont pas inscrits au registre d'immatriculation<a id=795></a>
+##### Section 5 : Dispositions relatives au bureau enquêtes accidents pour la sécurité de l'aéronautique d'Etat et à ses missions<a id=795></a>
 
 ###### Article R3125-22
 
-Le BEAD-air est placé auprès du général d'armée aérienne, inspecteur général des armées. 
+Le BEA-É est placé auprès du général d'armée aérienne, inspecteur général des armées.
 
 Il a pour mission de réaliser les enquêtes de sécurité relatives aux accidents ou incidents survenus aux aéronefs conçus
 exclusivement à usage militaire ou exploités en circulation aérienne militaire ou à ceux qui appartenant à l'Etat français ou
 à tout autre Etat ne sont pas inscrits au registre d'immatriculation prévu à l'article 17 de la convention relative à
-l'aviation civile internationale signée à Chicago le 7 décembre 1944. 
+l'aviation civile internationale signée à Chicago le 7 décembre 1944.
 
-Le BEAD-air est également compétent pour effectuer les enquêtes de sécurité relatives aux accidents ou incidents survenus,
-dans le cadre d'une activité de défense, au cours d'une opération de largage de personnels ou de matériels au départ d'un
-aéronef lorsque celui-ci ou le comportement de son équipage peuvent être rangés parmi les causes de cet accident.
+Le BEA-É est également compétent pour effectuer les enquêtes de sécurité relatives aux accidents ou incidents survenus, dans
+le cadre d'une activité de défense, au cours d'une opération de largage de personnels ou de matériels au départ d'un aéronef
+lorsque celui-ci ou le comportement de son équipage peuvent être rangés parmi les causes de cet accident.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-869 du 15 juillet 2015 - art. 13
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 
 ###### Article R3125-23
 
-Le directeur du BEAD-air est un officier général nommé pour une durée de trois ans non renouvelable par décret en conseil des
-ministres.
+Le directeur du BEA-É est un officier général nommé par décret en conseil des ministres pour une durée non renouvelable de
+cinq ans.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 _Cité par_:
 
@@ -74543,37 +74543,36 @@ _Cité par_:
 
 ###### Article R3125-24
 
-Le ministère de l'intérieur et le ministère chargé de l'économie participent aux activités du BEAD-air en mettant à sa
+Le ministère de l'intérieur et le ministère chargé de l'économie participent aux activités du BEA-É en mettant à sa
 disposition des personnels selon les besoins spécifiques à chaque enquête de sécurité.
 
-Les enquêteurs de sécurité sont désignés parmi les officiers, les fonctionnaires de catégorie A ou les agents contractuels de
-même niveau. Sur la proposition du directeur du BEAD-air, ils sont commissionnés par le ministre de la défense pour une durée
-de trois ans renouvelable.
+Les enquêteurs de sécurité sont désignés par le directeur du BEA-É parmi les officiers, les fonctionnaires de catégorie A ou
+les agents contractuels de même niveau. La désignation des enquêteurs vaut commissionnement de ces derniers.
 
-Le BEAD-air peut faire appel à des experts qui peuvent appartenir à des armées étrangères ou à des organismes homologues
-d'Etats membres de l'organisation de l'aviation civile internationale et disposant d'habilitations équivalentes. Ces experts
-sont soumis au secret professionnel dans les mêmes conditions que les agents du BEAD-air.
+Le BEA-É peut faire appel à des experts qui peuvent appartenir à des armées étrangères ou à des organismes homologues d'Etats
+membres de l'organisation de l'aviation civile internationale et disposant d'habilitations équivalentes. Ces experts sont
+soumis au secret professionnel dans les mêmes conditions que les agents du BEA-É.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-869 du 15 juillet 2015 - art. 14
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 
 ###### Article R3125-25
 
-Les enquêteurs de première information prévus               à l' article L. 1621-6 du code des transports  sont agréés par le
-directeur du BEAD-air sur proposition du service dont ils dépendent. 
+Les enquêteurs de première information prévus  à l' article L. 1621-6 du code des transports  sont agréés par le directeur du
+BEA-É sur proposition du service dont ils dépendent.
 
-Le directeur du BEAD-air peut également agréer en qualité d'enquêteurs de première information des agents techniques de son
+Le directeur du BEA-É peut également agréer en qualité d'enquêteurs de première information des agents techniques de son
 service.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2015-869 du 15 juillet 2015 - art. 15
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 _Cite_:
 
@@ -74582,36 +74581,36 @@ _Cite_:
 
 ###### Article R3125-26
 
-La commission d'enquête prévue à l' article L. 1621-6 du code des transports est présidée par un officier général. 
+La commission d'enquête prévue à l' article L. 1621-6 du code des transports est présidée par un officier général.
 
-Elle comprend, outre le président : 
+Elle comprend, outre le président :
 
-1° Un membre ou un ancien membre du Conseil d'Etat ; 
+1° Un membre ou un ancien membre du Conseil d'Etat ;
 
 2° Un membre d'une inspection générale du ou des ministères concernés par l'événement, sur proposition du ministre de
-rattachement ; 
+rattachement ;
 
 3° Un membre du personnel navigant professionnel, désigné pour sa connaissance du milieu professionnel et de l'aéronef d'Etat
-concerné ; 
+concerné ;
 
-4° Une personne désignée pour sa connaissance de la conduite des aéronefs ; 
+4° Une personne désignée pour sa connaissance de la conduite des aéronefs ;
 
-5° Une personne désignée pour sa connaissance de l'exploitation des aéronefs ; 
+5° Une personne désignée pour sa connaissance de l'exploitation des aéronefs ;
 
-6° Une personne désignée pour sa connaissance de la construction aéronautique ; 
+6° Une personne désignée pour sa connaissance de la construction aéronautique ;
 
 7° Une ou plusieurs personnes désignées pour leurs compétences particulières en rapport avec le type d'accident objet de
-l'enquête. 
+l'enquête.
 
 Les membres de la commission d'enquête sont nommés par arrêté du ministre de la défense sur proposition du général d'armée
-aérienne, inspecteur général des armées. 
+aérienne, inspecteur général des armées.
 
-La commission d'enquête est tenue informée du déroulement de l'enquête de sécurité. Elle peut proposer au BEAD-air des
-recherches complémentaires. Elle est consultée sur le projet de rapport d'enquête. 
+La commission d'enquête est tenue informée du déroulement de l'enquête de sécurité. Elle peut proposer au BEA-É des
+recherches complémentaires. Elle est consultée sur le projet de rapport d'enquête.
 
-Les réunions de la commission d'enquête ne sont pas publiques. 
+Les réunions de la commission d'enquête ne sont pas publiques.
 
-Le directeur du BEAD-air ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions. 
+Le directeur du BEA-É ou son représentant et, s'il le juge utile, ses collaborateurs assistent aux réunions.
 
 L'activité de la commission d'enquête prend fin à la publication du rapport d'enquête.
 
@@ -74619,7 +74618,7 @@ L'activité de la commission d'enquête prend fin à la publication du rapport d
 
 _Modifié par_:
 
-  - Décret n°2015-869 du 15 juillet 2015 - art. 16
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 _Cite_:
 
@@ -74628,14 +74627,14 @@ _Cite_:
 
 ###### Article R3125-27
 
-Sur proposition du directeur du BEAD-air, le ministre de la défense arrête la liste des incidents qui, outre les accidents,
+Sur proposition du directeur du BEA-É, le ministre de la défense arrête la liste des incidents qui, outre les accidents,
 doivent être portés à la connaissance du service. Cette liste est publiée au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 _Cité par_:
 
@@ -74646,19 +74645,18 @@ _Cité par_:
 
 Les dirigeants des entreprises assurant la conception, la fabrication, l'entretien ou le contrôle des aéronefs, de leurs
 moteurs ou de leurs équipements et ayant en France leur siège statutaire ou leur principal établissement informent sans
-retard le BEAD-air de tout accident ou incident mentionné dans la liste prévue à l'article R. 3125-27 et survenu aux
-aéronefs, moteurs ou équipements précités, dès qu'ils en ont connaissance et quel que soit le lieu où l'événement s'est
-produit.
+retard le BEA-É de tout accident ou incident mentionné dans la liste prévue à l'article R. 3125-27 et survenu aux aéronefs,
+moteurs ou équipements précités, dès qu'ils en ont connaissance et quel que soit le lieu où l'événement s'est produit.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1219 du 25 novembre 2008 - art. (V)
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code de la défense. - art. R3125-27 (V)
+  - Code de la défense. - art. R3125-27
 
 
 ##### Chapitre VI : Les services de renseignement et de sécurité<a id=796></a>
@@ -91071,1381 +91069,1359 @@ _Cite_:
 ###### Article R3541-3
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
-dans leur rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 :
+dans leur rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au livre 1er</td>
+Au livre 1er </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-1</td>
+R. 3125-1 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2018-346 du 9 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-2 et R. 3125-3</td>
+R. 3125-2 et R. 3125-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-4 et R. 3125-5</td>
+R. 3125-4 et R. 3125-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-6 à R. 3125-8</td>
+R. 3125-6 à R. 3125-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-9</td>
+R. 3125-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-10 et R. 3125-11</td>
+R. 3125-10 et R. 3125-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-12 et R. 3125-13</td>
+R. 3125-12 et R. 3125-13 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-14 et R. 3125-15</td>
+R. 3125-14 et R. 3125-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-16 à R. 3125-18</td>
+R. 3125-16 à R. 3125-18 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-19</td>
+R. 3125-19 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-20</td>
+R. 3125-20 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-21</td>
+R. 3125-21 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-22</td>
-      <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+R. 3125-22 à R. 3125-28 </td>
+      <td align="left">Résultant du décret n° 2018-346 du 9 mai 2018</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-23</td>
+R. 3127-1 à R. 3127-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-24 à R. 3125-26</td>
+Au livre II </td>
       <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 3211-1 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-27 et R. 3125-28</td>
+R. 3222-1 et R. 3222-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3127-1 à R. 3127-7</td>
+R. 3222-3 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-4 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-5 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-Au livre II</td>
+R. 3222-8 et R. 3222-9 </td>
       <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3211-1</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 3211-2</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-1 et R. 3222-2</td>
-      <td align="left">
-    </td></tr>
-    <tr>
+R. 3222-10 </td>
       <td align="left">
 
-R. 3222-3</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2017-417 du 27 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
+R. 3222-13 </td>
+      <td align="left">
+
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-5</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-6</td>
+R. 3222-14 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-8 et R. 3222-9</td>
+R. 3222-15 et R. 3222-16 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-10</td>
-      <td align="left">
-
-Résultant du décret n° 2017-417 du 27 mars 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-13</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-14</td>
+R. 3222-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-15 et R. 3222-16</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-17</td>
+R. 3223-1 à R. 3223-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-1 à R. 3223-6</td>
+R. 3223-46 </td>
+      <td align="left">
+
+Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-47 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-48 à R. 3223-50 </td>
+      <td align="left">
+
+Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-56 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-57 à R. 3223-59 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-46</td>
-      <td align="left">
-
-Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3223-47</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3223-48 à R. 3223-50</td>
-      <td align="left">
-
-Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3223-56</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3223-57 à R. 3223-59</td>
+R. 3223-60 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-60</td>
-      <td align="left">
-    </td></tr>
-    <tr>
+R. 3223-61 </td>
       <td align="left">
 
-R. 3223-61</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-1 à R. 3224-7</td>
+R. 3224-1 à R. 3224-7 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Article R. 3224-8</td>
+      <td align="left">Article R. 3224-8 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-9 à R. 3224-12</td>
+R. 3224-9 à R. 3224-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-1 à R. 3225-3</td>
+R. 3225-1 à R. 3225-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-4</td>
+R. 3225-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009</td>
+Résultant du décret n° 2009-1718 du 30 décembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-5</td>
+R. 3225-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-6</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3225-6 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3225-7</td>
+      <td align="left">R. 3225-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-8 et R. 3225-9</td>
+R. 3225-8 et R. 3225-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-10</td>
+R. 3225-10 </td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010</td>
+Résultant du décret n° 2010-773 du 8 juillet 2010 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-1</td>
+R. 3231-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-2</td>
+R. 3231-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-3 et R. 3231-4</td>
+R. 3231-3 et R. 3231-4 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-5</td>
+R. 3231-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-6</td>
+R. 3231-6 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-7</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3231-7 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3231-8</td>
+      <td align="left">R. 3231-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-9-1 à R. 3231-11</td>
+R. 3231-9-1 à R. 3231-11 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-12</td>
+R. 3231-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-1 à R. 3232-2-3</td>
+R. 3232-1 à R. 3232-2-3 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-3 à R. 3232-7</td>
+R. 3232-3 à R. 3232-7 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-8</td>
+R. 3232-8 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-9</td>
+R. 3232-9 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014</td>
+Résultant du décret n° 2014-1537 du 19 décembre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-10</td>
+R. 3232-10 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3232-11 à R. 3232-29</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+      <td align="left">Articles R. 3232-11 à R. 3232-29 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3241-26 à R. 3241-33</td>
+      <td align="left">Articles R. 3241-26 à R. 3241-33 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre III</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3321-1 et R. 3321-2</td>
-      <td align="left">
-
-Résultant du décret n° 2012-481 du 13 avril 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3321-3 et R. 3321-4</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3321-5 à R. 3321-10</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3322-1 et R. 3322-2</td>
-      <td align="left">
-
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3322-4</td>
+Au livre III </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3322-7</td>
+R. 3321-1 et R. 3321-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012</td>
+Résultant du décret n° 2012-481 du 13 avril 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3323-1</td>
+R. 3321-3 et R. 3321-4 </td>
       <td align="left">
-
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 3321-5 à R. 3321-10 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre IV</td>
+R. 3322-1 et R. 3322-2 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3322-4 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-1 à R. 3411-6</td>
+R. 3322-7 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-481 du 13 avril 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3323-1 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Au livre IV </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-7</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-8 à R. 3411-16</td>
+R. 3411-1 à R. 3411-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-21 à R. 3411-24</td>
+R. 3411-7 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3411-8 à R. 3411-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-25</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-26 à R. 3411-32</td>
+R. 3411-21 à R. 3411-24 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-33</td>
+R. 3411-25 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-34 à R. 3411-39</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3411-45 et R. 3411-46</td>
+R. 3411-26 à R. 3411-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-47</td>
+R. 3411-33 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-49 à R. 3411-52</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3411-53</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-55 et R. 3411-56</td>
+R. 3411-34 à R. 3411-39 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-57 à R. 3411-62</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-63</td>
+R. 3411-45 et R. 3411-46 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-64 à R. 3411-67</td>
+R. 3411-47 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-74</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-75</td>
+R. 3411-49 à R. 3411-52 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-76</td>
+R. 3411-53 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-77</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-79 et R. 3411-80</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-81</td>
+R. 3411-55 et R. 3411-56 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-82</td>
+R. 3411-57 à R. 3411-62 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-83</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-85</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3411-86 et R. 3411-87</td>
+R. 3411-63 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-88 à R. 3411-118</td>
+R. 3411-64 à R. 3411-67 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-1 à R. 3412-5</td>
+R. 3411-74 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3411-75 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-6</td>
+R. 3411-76 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-7 à R. 3412-13</td>
+R. 3411-77 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3411-79 et R. 3411-80 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3411-81 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-14</td>
+R. 3411-82 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-15</td>
+R. 3411-83 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-16</td>
+R. 3411-85 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3411-86 et R. 3411-87 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-17</td>
+R. 3411-88 à R. 3411-118 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2016-1427 du 21 octobre 2016 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-18</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3412-19</td>
-      <td align="left">
-
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3412-20 à R. 3413-7</td>
+R. 3412-1 à R. 3412-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-8</td>
+R. 3412-6 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-9</td>
+R. 3412-7 à R. 3412-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-10</td>
+R. 3412-14 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2014-562 du 30 mai 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-11 à R. 3413-15</td>
+R. 3412-15 </td>
+      <td align="left">
+
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3412-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-16</td>
+R. 3412-17 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-17 à R. 3413-42</td>
+R. 3412-18 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3412-19 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3412-20 à R. 3413-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-43</td>
+R. 3413-8 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-44</td>
+R. 3413-9 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-45</td>
+R. 3413-10 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-46 à R. 3413-49</td>
+R. 3413-11 à R. 3413-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-50</td>
+R. 3413-16 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-51 à R. 3413-69</td>
+R. 3413-17 à R. 3413-42 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-70</td>
+R. 3413-43 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009</td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-71 et R. 3413-72</td>
+R. 3413-44 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-73</td>
+R. 3413-45 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-74 à R. 3413-77</td>
+R. 3413-46 à R. 3413-49 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-78</td>
+R. 3413-50 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-79 à R. 3413-102</td>
+R. 3413-51 à R. 3413-69 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-103</td>
+R. 3413-70 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2009-1440 du 23 novembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-104 à R. 3413-115</td>
+R. 3413-71 et R. 3413-72 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-1</td>
+R. 3413-73 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-2</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3414-3</td>
+R. 3413-74 à R. 3413-77 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-4</td>
+R. 3413-78 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-5</td>
-      <td align="left">
-
-Résultant du décret n° 2014-394 du 31 mars 2014</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3414-6</td>
-      <td align="left">
-
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3414-7 et R. 3414-8</td>
+R. 3413-79 à R. 3413-102 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-9 et R. 3414-10</td>
+R. 3413-103 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-12 et R. 3414-13</td>
+R. 3413-104 à R. 3413-115 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-14 à R. 3414-19</td>
+R. 3414-1 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-20</td>
+R. 3414-2 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3414-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-21</td>
+R. 3414-4 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-24 et R. 3414-25</td>
+R. 3414-5 </td>
+      <td align="left">
+
+Résultant du décret n° 2014-394 du 31 mars 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3414-6 </td>
+      <td align="left">
+
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3414-7 et R. 3414-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-26</td>
+R. 3414-9 et R. 3414-10 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-27 à R. 3415-11</td>
+R. 3414-12 et R. 3414-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-12</td>
+R. 3414-14 à R. 3414-19 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3415-14 et R. 3415-15</td>
+R. 3414-20 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-16 et R. 3415-17</td>
+R. 3414-21 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-1 à R. 3416-11</td>
+R. 3414-24 et R. 3414-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-12</td>
+R. 3414-26 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-13 à R. 3416-18</td>
+R. 3414-27 à R. 3415-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-19</td>
+R. 3415-12 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-20 à R. 3416-22</td>
+R. 3415-14 et R. 3415-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-23</td>
+R. 3415-16 et R. 3415-17 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-26 à R. 3417-2</td>
+R. 3416-1 à R. 3416-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-3 à R. 3417-5</td>
+R. 3416-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-6</td>
+R. 3416-13 à R. 3416-18 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-7</td>
+R. 3416-19 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-8</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-9 à R. 3417-11</td>
+R. 3416-20 à R. 3416-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-12</td>
+R. 3416-23 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-13</td>
+R. 3416-26 à R. 3417-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-14</td>
+R. 3417-3 à R. 3417-5 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-15</td>
+R. 3417-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-16 à R. 3417-22</td>
+R. 3417-7 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-23</td>
+R. 3417-8 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-9 à R. 3417-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-24</td>
+R. 3417-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-25</td>
+R. 3417-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-27 à R. 3417-31</td>
+R. 3417-14 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-32</td>
+R. 3417-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3418-1 à R. 3418-11</td>
+R. 3417-16 à R. 3417-22 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-1 à R. 3421-6</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-7</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-8</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-9</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-10</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-11 à R. 3421-13</td>
+R. 3417-23 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3421-14</td>
+R. 3417-24 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3422-1 à R. 3422-23</td>
-      <td align="left">
-
-Résultant du décret n° 2010-7 du 5 janvier 2010</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3423-1 à R. 3423-3</td>
+R. 3417-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-4</td>
+R. 3417-27 à R. 3417-31 </td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-5 à R. 3423-8</td>
+R. 3417-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-9</td>
+R. 3418-1 à R. 3418-11 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2014-562 du 30 mai 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-10 à R. 3423-12</td>
+R. 3421-1 à R. 3421-6 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-7 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-8 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-9 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-10 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-11 à R. 3421-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-13</td>
+R. 3421-14 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-14 à R. 3423-17</td>
+R. 3422-1 à R. 3422-23 </td>
+      <td align="left">
+
+Résultant du décret n° 2010-7 du 5 janvier 2010 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3423-1 à R. 3423-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-18</td>
+R. 3423-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-254 du 4 mars 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-19 à R. 3423-22</td>
+R. 3423-5 à R. 3423-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-23</td>
+R. 3423-9 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-24 et R. 3423-25</td>
+R. 3423-10 à R. 3423-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-26</td>
+R. 3423-13 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-28</td>
+R. 3423-14 à R. 3423-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-29</td>
+R. 3423-18 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3423-19 à R. 3423-22 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3423-23 </td>
+      <td align="left">
+
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3423-24 et R. 3423-25 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3423-26 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3423-28 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3423-29 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
@@ -92460,6 +92436,8 @@ R. 3423-31 à R. 3423-35</td>
 
 _Cite_:
 
+  - 2008-1218
+  - 2008-1219
   - Décret n°2009-254 du 4 mars 2009
   - Décret n°2009-1180 du 5 octobre 2009
   - Décret n°2009-1393 du 11 novembre 2009
@@ -92474,7 +92452,6 @@ _Cite_:
   - Décret n°2012-1247 du 7 novembre 2012
   - Décret n°2013-779 du 27 août 2013
   - Décret n°2014-394 du 31 mars 2014
-  - Décret n°2014-480 du 13 mai 2014
   - Décret n°2014-562 du 30 mai 2014
   - Décret n°2014-1169 du 10 octobre 2014
   - Décret n°2014-1537 du 19 décembre 2014
@@ -92483,12 +92460,16 @@ _Cite_:
   - Décret n°2015-690 du 18 juin 2015
   - Décret n°2015-869 du 15 juillet 2015
   - Décret n°2016-1336 du 7 octobre 2016
+  - Décret n°2016-1427 du 21 octobre 2016
   - Décret n°2017-391 du 23 mars 2017
+  - Décret n°2017-417 du 27 mars 2017
   - Décret n°2017-744 du 4 mai 2017
+  - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2018-346 du 9 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 
 #### TITRE V : DISPOSITIONS APPLICABLES EN POLYNESIE FRANCAISE<a id=978></a>
@@ -93084,1405 +93065,1382 @@ _Cite_:
 ###### Article R3551-3
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, dans
-leur rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 :
+leur rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au livre 1er</td>
+Au livre 1er </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-1</td>
+R. 3125-1 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2018-346 du 9 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-2 et R. 3125-3</td>
+R. 3125-2 et R. 3125-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-4 et R. 3125-5</td>
+R. 3125-4 et R. 3125-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-6 à R. 3125-8</td>
+R. 3125-6 à R. 3125-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-9</td>
+R. 3125-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-10 et R. 3125-11</td>
+R. 3125-10 et R. 3125-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-12 et R. 3125-13</td>
+R. 3125-12 et R. 3125-13 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-14 et R. 3125-15</td>
+R. 3125-14 et R. 3125-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-16 à R. 3125-18</td>
+R. 3125-16 à R. 3125-18 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-19</td>
+R. 3125-19 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-20</td>
+R. 3125-20 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-21</td>
+R. 3125-21 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-22</td>
-      <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015
+R. 3125-22 à R. 3125-28 </td>
+      <td align="left">Résultant du décret n° 2018-346 du 9 mai 2018
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-23</td>
+R. 3127-1 à R. 3127-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-24 à R. 3125-26</td>
+Au livre II </td>
       <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 3211-1 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-27 et R. 3125-28</td>
+R. 3222-1 et R. 3222-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3127-1 à R. 3127-7</td>
-      <td align="left">
-    </td></tr>
-    <tr>
+R. 3222-3 </td>
       <td align="left">
 
-Au livre II</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3211-1</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 3211-2</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-1 et R. 3222-2</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3222-3</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
+R. 3222-4 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-5</td>
+R. 3222-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-6</td>
+R. 3222-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-8 et R. 3222-9</td>
+R. 3222-8 et R. 3222-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-10</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
+R. 3222-10 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-13</td>
+R. 3222-13 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-14</td>
+R. 3222-14 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-15 et R. 3222-16</td>
+R. 3222-15 et R. 3222-16 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-17</td>
+R. 3222-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-1 à R. 3223-6</td>
+R. 3223-1 à R. 3223-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-46</td>
+R. 3223-46 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016
+Résultant du décret n° 2016-1336 du 7 octobre 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-47</td>
+R. 3223-47 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-48 à R. 3223-50</td>
+R. 3223-48 à R. 3223-50 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-56</td>
+R. 3223-56 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-57 à R. 3223-59</td>
+R. 3223-57 à R. 3223-59 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-60</td>
+R. 3223-60 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-61</td>
+R. 3223-61 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-1 à R. 3224-7</td>
+R. 3224-1 à R. 3224-7 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3224-8</td>
+      <td align="left">R. 3224-8 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-9 à R. 3224-12</td>
+R. 3224-9 à R. 3224-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-1 à R. 3225-3</td>
+R. 3225-1 à R. 3225-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-4</td>
+R. 3225-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009
+Résultant du décret n° 2009-1718 du 30 décembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-5</td>
+R. 3225-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-6</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3225-6 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3225-7</td>
+      <td align="left">R. 3225-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-8 et R. 3225-9</td>
+R. 3225-8 et R. 3225-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-10</td>
+R. 3225-10 </td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010
+Résultant du décret n° 2010-773 du 8 juillet 2010 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-1</td>
+R. 3231-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-2</td>
+R. 3231-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-3 et R. 3231-4</td>
+R. 3231-3 et R. 3231-4 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017
+Résultant du décret n° 2017-391 du 23 mars 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-5</td>
+R. 3231-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-6</td>
+R. 3231-6 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-7</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3231-7 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3231-8</td>
+      <td align="left">R. 3231-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-9-1 à R. 3231-11</td>
+R. 3231-9-1 à R. 3231-11 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-12</td>
+R. 3231-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-1 à R. 3232-2-3</td>
+R. 3232-1 à R. 3232-2-3 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-3 à R. 3232-7</td>
+R. 3232-3 à R. 3232-7 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009
+Résultant du décret n° 2009-1494 du 3 décembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-8</td>
+R. 3232-8 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-9</td>
+R. 3232-9 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014
+Résultant du décret n° 2014-1537 du 19 décembre 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-10</td>
+R. 3232-10 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015
+Résultant du décret n° 2015-258 du 4 mars 2015 
 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3232-11 à R. 3232-29</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+      <td align="left">Articles R. 3232-11 à R. 3232-29 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3241-26 à R. 3241-33</td>
+      <td align="left">Articles R. 3241-26 à R. 3241-33 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre III</td>
+Au livre III </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3321-1 et R. 3321-2</td>
+R. 3321-1 et R. 3321-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012</td>
+Résultant du décret n° 2012-481 du 13 avril 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3321-3 et R. 3321-4</td>
+R. 3321-3 et R. 3321-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3321-5 à R. 3321-10</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+      <td align="left">R. 3321-5 à R. 3321-10 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3322-1 et R. 3322-2</td>
+R. 3322-1 et R. 3322-2 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017
+Résultant du décret n° 2017-744 du 4 mai 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3322-4</td>
+R. 3322-4 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3322-7</td>
+R. 3322-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012
+Résultant du décret n° 2012-481 du 13 avril 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3323-1</td>
+R. 3323-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre IV</td>
+Au livre IV </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-1 à R. 3411-6</td>
+R. 3411-1 à R. 3411-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-7</td>
+R. 3411-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-8 à R. 3411-16</td>
+R. 3411-8 à R. 3411-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-21 à R. 3411-24</td>
+R. 3411-21 à R. 3411-24 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-25</td>
+R. 3411-25 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012
+Résultant du décret n° 2012-1247 du 7 novembre 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-26 à R. 3411-32</td>
+R. 3411-26 à R. 3411-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-33</td>
+R. 3411-33 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-34 à R. 3411-39</td>
+R. 3411-34 à R. 3411-39 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-45 et R. 3411-46</td>
+R. 3411-45 et R. 3411-46 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-47</td>
+R. 3411-47 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-49 à R. 3411-52</td>
+R. 3411-49 à R. 3411-52 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-53</td>
+R. 3411-53 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-55 et R. 3411-56</td>
+R. 3411-55 et R. 3411-56 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-57 à R. 3411-62</td>
+R. 3411-57 à R. 3411-62 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012
+Résultant du décret n° 2012-1120 du 2 octobre 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-63</td>
+R. 3411-63 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-64 à R. 3411-67</td>
+R. 3411-64 à R. 3411-67 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-74</td>
+R. 3411-74 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-75</td>
+R. 3411-75 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-76</td>
+R. 3411-76 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-77</td>
+R. 3411-77 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-79 et R. 3411-80</td>
+R. 3411-79 et R. 3411-80 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-81</td>
+R. 3411-81 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-82</td>
+R. 3411-82 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-83</td>
+R. 3411-83 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-85</td>
+R. 3411-85 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-86 et R. 3411-87</td>
+R. 3411-86 et R. 3411-87 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-88 à R. 3411-118</td>
+R. 3411-88 à R. 3411-118 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016
+Résultant du décret n° 2016-1427 du 21 octobre 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-1 à R. 3412-5</td>
+R. 3412-1 à R. 3412-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-6</td>
+R. 3412-6 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015
+Résultant du décret n° 2015-211 du 25 février 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-7 à R. 3412-13</td>
+R. 3412-7 à R. 3412-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-14</td>
+R. 3412-14 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014
+Résultant du décret n° 2014-562 du 30 mai 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-15</td>
+R. 3412-15 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-16</td>
+R. 3412-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-17</td>
+R. 3412-17 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-18</td>
+R. 3412-18 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-19</td>
+R. 3412-19 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009
+Résultant du décret n° 2009-1180 du 5 octobre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-20 à R. 3413-7</td>
+R. 3412-20 à R. 3413-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-8</td>
+R. 3413-8 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-9</td>
+R. 3413-9 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-10</td>
+R. 3413-10 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-11 à R. 3413-15</td>
+R. 3413-11 à R. 3413-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-16</td>
+R. 3413-16 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-17 à R. 3413-42</td>
+R. 3413-17 à R. 3413-42 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-43</td>
+R. 3413-43 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009
+Résultant du décret n° 2009-1393 du 11 novembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-44</td>
+R. 3413-44 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-45</td>
+R. 3413-45 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-46 à R. 3413-49</td>
+R. 3413-46 à R. 3413-49 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-50</td>
+R. 3413-50 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-51 à R. 3413-69</td>
+R. 3413-51 à R. 3413-69 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-70</td>
+R. 3413-70 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009
+Résultant du décret n° 2009-1440 du 23 novembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-71 et R. 3413-72</td>
+R. 3413-71 et R. 3413-72 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-73</td>
+R. 3413-73 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-74 à R. 3413-77</td>
+R. 3413-74 à R. 3413-77 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-78</td>
+R. 3413-78 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-79 à R. 3413-102</td>
+R. 3413-79 à R. 3413-102 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-103</td>
+R. 3413-103 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-104 à R. 3413-115</td>
+R. 3413-104 à R. 3413-115 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-1</td>
+R. 3414-1 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-2</td>
+R. 3414-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-3</td>
+R. 3414-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-4</td>
+R. 3414-4 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-5</td>
+R. 3414-5 </td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014
+Résultant du décret n° 2014-394 du 31 mars 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-6</td>
+R. 3414-6 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-7 et R. 3414-8</td>
+R. 3414-7 et R. 3414-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-9 et R. 3414-10</td>
+R. 3414-9 et R. 3414-10 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011
+Résultant du décret n° 2011-555 du 20 mai 2011 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-12 et R. 3414-13</td>
+R. 3414-12 et R. 3414-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-14 à R. 3414-19</td>
+R. 3414-14 à R. 3414-19 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-20</td>
+R. 3414-20 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-21</td>
+R. 3414-21 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-24 et R. 3414-25</td>
+R. 3414-24 et R. 3414-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-26</td>
+R. 3414-26 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-27 à R. 3415-11</td>
+R. 3414-27 à R. 3415-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-12</td>
+R. 3415-12 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3415-14 et R. 3415-15</td>
+R. 3415-14 et R. 3415-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-16 et R. 3415-17</td>
+R. 3415-16 et R. 3415-17 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-1 à R. 3416-11</td>
+R. 3416-1 à R. 3416-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-12</td>
+R. 3416-12 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-13 à R. 3416-18</td>
+R. 3416-13 à R. 3416-18 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-19</td>
+R. 3416-19 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-20 à R. 3416-22</td>
+R. 3416-20 à R. 3416-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-23</td>
+R. 3416-23 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-26 à R. 3417-2</td>
+R. 3416-26 à R. 3417-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-3 à R. 3417-5</td>
+R. 3417-3 à R. 3417-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-6 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3417-7 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-8 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-9 à R. 3417-11 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3417-12 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-13 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3417-14 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-15 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3417-16 à R. 3417-22 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-23 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3417-24 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-25 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3417-27 à R. 3417-31 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3417-32 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3418-1 à R. 3418-11 </td>
+      <td align="left">
+
+Résultant du décret n° 2014-562 du 30 mai 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-1 à R. 3421-6 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-7 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-8 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-9 </td>
+      <td align="left">
+
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-10 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3421-11 à R. 3421-13 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3421-14 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3422-1 à R. 3422-23 </td>
+      <td align="left">
+
+Résultant du décret n° 2010-7 du 5 janvier 2010 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-6</td>
+R. 3423-1 à R. 3423-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-7</td>
+R. 3423-4 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-8</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-9 à R. 3417-11</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3417-12</td>
-      <td align="left">
-
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-13</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3417-14</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-15</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3417-16 à R. 3417-22</td>
-      <td align="left">
-
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-23</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3417-24</td>
-      <td align="left">
-
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-25</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3417-27 à R. 3417-31</td>
-      <td align="left">
-
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3417-32</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3418-1 à R. 3418-11</td>
-      <td align="left">
-
-Résultant du décret n° 2014-562 du 30 mai 2014</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-1 à R. 3421-6</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-7</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-8</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-9</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-10</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3421-11 à R. 3421-13</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3421-14</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3422-1 à R. 3422-23</td>
-      <td align="left">
-
-Résultant du décret n° 2010-7 du 5 janvier 2010
+Résultant du décret n° 2009-254 du 4 mars 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-1 à R. 3423-3</td>
+R. 3423-5 à R. 3423-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-4</td>
+R. 3423-9 </td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009
+Résultant du décret n° 2013-779 du 27 août 2013 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-5 à R. 3423-8</td>
+R. 3423-10 à R. 3423-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-9</td>
+R. 3423-13 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013
+Résultant du décret n° 2014-1169 du 10 octobre 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-10 à R. 3423-12</td>
+R. 3423-14 à R. 3423-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-13</td>
+R. 3423-18 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014
-</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-14 à R. 3423-17</td>
+R. 3423-19 à R. 3423-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-18</td>
+R. 3423-23 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-19 à R. 3423-22</td>
+R. 3423-24 et R. 3423-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-23</td>
+R. 3423-26 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-24 et R. 3423-25</td>
+R. 3423-28 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-26</td>
+R. 3423-29 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3423-28</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3423-29</td>
-      <td align="left">
-
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
@@ -94497,6 +94455,8 @@ R. 3423-31 à R. 3423-35</td>
 
 _Cite_:
 
+  - 2008-1218
+  - 2008-1219
   - Décret n°2009-254 du 4 mars 2009
   - Décret n°2009-1180 du 5 octobre 2009
   - Décret n°2009-1393 du 11 novembre 2009
@@ -94524,10 +94484,11 @@ _Cite_:
   - Décret n°2017-417 du 27 mars 2017
   - Décret n°2017-744 du 4 mai 2017
   - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2018-346 du 9 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 
 #### TITRE VI : DISPOSITIONS APPLICABLES EN NOUVELLE CALEDONIE<a id=980></a>
@@ -95123,1405 +95084,1384 @@ _Cite_:
 ###### Article R3561-3
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Nouvelle-Calédonie, dans leur
-rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 :
+rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au livre 1er</td>
+Au livre 1er </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-1</td>
+R. 3125-1 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2018-346 du 9 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-2 et R. 3125-3</td>
+R. 3125-2 et R. 3125-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-4 et R. 3125-5</td>
+R. 3125-4 et R. 3125-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-6 à R. 3125-8</td>
+R. 3125-6 à R. 3125-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-9</td>
+R. 3125-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-10 et R. 3125-11</td>
+R. 3125-10 et R. 3125-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-12 et R. 3125-13</td>
+R. 3125-12 et R. 3125-13 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-14 et R. 3125-15</td>
+R. 3125-14 et R. 3125-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-16 à R. 3125-18</td>
+R. 3125-16 à R. 3125-18 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3125-19</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3125-20</td>
-      <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3125-21</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3125-22</td>
-      <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015
+Résultant du décret n° 2015-869 du 15 juillet 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-23</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3125-24 à R. 3125-26</td>
-      <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3125-27 et R. 3125-28</td>
+R. 3125-19 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3127-1 à R. 3127-7</td>
+R. 3125-20 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3125-21 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-Au livre II</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3211-1</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 3211-2</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-1 et R. 3222-2</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3222-3</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017
+R. 3125-22 à R. 3125-28 </td>
+      <td align="left">Résultant du décret n° 2018-346 du 9 mai 2018
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-5</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-6</td>
+R. 3127-1 à R. 3127-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-8 et R. 3222-9</td>
+Au livre II </td>
       <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 3211-1 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-10</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-13</td>
-      <td align="left">
-
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-14</td>
+R. 3222-1 et R. 3222-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-15 et R. 3222-16</td>
+R. 3222-3 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-17</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3223-1 à R. 3223-6</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3223-46</td>
-      <td align="left">
-
-Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3223-47</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3223-48 à R. 3223-50</td>
-      <td align="left">
-
-Résultant du décret n° 2016-1336 du 7 octobre 2016
+R. 3222-4 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-56</td>
+R. 3222-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-57 à R. 3223-59</td>
+R. 3222-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-60</td>
-      <td align="left">
-    </td></tr>
-    <tr>
+R. 3222-8 et R. 3222-9 </td>
       <td align="left">
 
-R. 3223-61</td>
-      <td align="left">
-
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-1 à R. 3224-7</td>
+R. 3222-10 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-13 </td>
+      <td align="left">
+
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-14 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3224-8</td>
+      <td align="left">
+
+R. 3222-15 et R. 3222-16 </td>
+      <td align="left">
+
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-17 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3223-1 à R. 3223-6 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3223-46 </td>
+      <td align="left">
+
+Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-47 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-48 à R. 3223-50 </td>
+      <td align="left">
+
+Résultant du décret n° 2016-1336 du 7 octobre 2016 
+</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-56 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3223-57 à R. 3223-59 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3223-60 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3223-61 </td>
+      <td align="left">
+
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3224-1 à R. 3224-7 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">R. 3224-8 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-9 à R. 3224-12</td>
+R. 3224-9 à R. 3224-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-1 à R. 3225-3</td>
+R. 3225-1 à R. 3225-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-4</td>
+R. 3225-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009
+Résultant du décret n° 2009-1718 du 30 décembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-5</td>
+R. 3225-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-6</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3225-6 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3225-7</td>
+      <td align="left">R. 3225-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-8 et R. 3225-9</td>
+R. 3225-8 et R. 3225-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-10</td>
+R. 3225-10 </td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010
+Résultant du décret n° 2010-773 du 8 juillet 2010 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-1</td>
+R. 3231-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-2</td>
+R. 3231-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-3 et R. 3231-4</td>
+R. 3231-3 et R. 3231-4 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-5</td>
+R. 3231-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-6</td>
+R. 3231-6 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-7</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3231-7 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3131-8</td>
+      <td align="left">R. 3131-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-9-1 à R. 3231-11</td>
+R. 3231-9-1 à R. 3231-11 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-12</td>
+R. 3231-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-1 à R. 3232-2-3</td>
+R. 3232-1 à R. 3232-2-3 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017
+Résultant du décret n° 2017-391 du 23 mars 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-3 à R. 3232-7</td>
+R. 3232-3 à R. 3232-7 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009
+Résultant du décret n° 2009-1494 du 3 décembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-8</td>
+R. 3232-8 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015
+Résultant du décret n° 2015-258 du 4 mars 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-9</td>
+R. 3232-9 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014
+Résultant du décret n° 2014-1537 du 19 décembre 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-10</td>
+R. 3232-10 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3232-11 à R. 3232-29</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+      <td align="left">Articles R. 3232-11 à R. 3232-29 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3241-26 à R. 3241-33</td>
+      <td align="left">Articles R. 3241-26 à R. 3241-33 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre III</td>
+Au livre III </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3321-1 et R. 3321-2</td>
+R. 3321-1 et R. 3321-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012
+Résultant du décret n° 2012-481 du 13 avril 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3321-3 et R. 3321-4</td>
+R. 3321-3 et R. 3321-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3321-5 à R. 3321-10</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017
+      <td align="left">R. 3321-5 à R. 3321-10 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3322-1 et R. 3322-2</td>
+R. 3322-1 et R. 3322-2 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3322-4</td>
+R. 3322-4 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3322-7</td>
+R. 3322-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012</td>
+Résultant du décret n° 2012-481 du 13 avril 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3323-1</td>
+R. 3323-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre IV</td>
+Au livre IV </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-1 à R. 3411-6</td>
+R. 3411-1 à R. 3411-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-7</td>
+R. 3411-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012
+Résultant du décret n° 2012-1247 du 7 novembre 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-8 à R. 3411-16</td>
+R. 3411-8 à R. 3411-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-21 à R. 3411-24</td>
+R. 3411-21 à R. 3411-24 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-25</td>
+R. 3411-25 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-26 à R. 3411-32</td>
+R. 3411-26 à R. 3411-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-33</td>
+R. 3411-33 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012
+Résultant du décret n° 2012-1120 du 2 octobre 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-34 à R. 3411-39</td>
+R. 3411-34 à R. 3411-39 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-45 et R. 3411-46</td>
+R. 3411-45 et R. 3411-46 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-47</td>
+R. 3411-47 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-49 à R. 3411-52</td>
+R. 3411-49 à R. 3411-52 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-53</td>
+R. 3411-53 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-55 et R. 3411-56</td>
+R. 3411-55 et R. 3411-56 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-57 à R. 3411-62</td>
+R. 3411-57 à R. 3411-62 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-63</td>
+R. 3411-63 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-64 à R. 3411-67</td>
+R. 3411-64 à R. 3411-67 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-74</td>
+R. 3411-74 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-75</td>
+R. 3411-75 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-76</td>
+R. 3411-76 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-77</td>
+R. 3411-77 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-79 et R. 3411-80</td>
+R. 3411-79 et R. 3411-80 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-81</td>
+R. 3411-81 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-82</td>
+R. 3411-82 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-83</td>
+R. 3411-83 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-85</td>
+R. 3411-85 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-86 et R. 3411-87</td>
+R. 3411-86 et R. 3411-87 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-88 à R. 3411-118</td>
+R. 3411-88 à R. 3411-118 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016
+Résultant du décret n° 2016-1427 du 21 octobre 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-1 à R. 3412-5</td>
+R. 3412-1 à R. 3412-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-6</td>
+R. 3412-6 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015
+Résultant du décret n° 2015-211 du 25 février 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-7 à R. 3412-13</td>
+R. 3412-7 à R. 3412-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-14</td>
+R. 3412-14 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014
+Résultant du décret n° 2014-562 du 30 mai 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-15</td>
+R. 3412-15 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-16</td>
+R. 3412-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-17</td>
+R. 3412-17 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-18</td>
+R. 3412-18 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-19</td>
+R. 3412-19 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009
+Résultant du décret n° 2009-1180 du 5 octobre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-20 à R. 3413-7</td>
+R. 3412-20 à R. 3413-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-8</td>
+R. 3413-8 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-9</td>
+R. 3413-9 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-10</td>
+R. 3413-10 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-11 à R. 3413-15</td>
+R. 3413-11 à R. 3413-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-16</td>
+R. 3413-16 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-17 à R. 3413-42</td>
+R. 3413-17 à R. 3413-42 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-43</td>
+R. 3413-43 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009
+Résultant du décret n° 2009-1393 du 11 novembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-44</td>
+R. 3413-44 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-45</td>
+R. 3413-45 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-46 à R. 3413-49</td>
+R. 3413-46 à R. 3413-49 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-50</td>
+R. 3413-50 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-51 à R. 3413-69</td>
+R. 3413-51 à R. 3413-69 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-70</td>
+R. 3413-70 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009
+Résultant du décret n° 2009-1440 du 23 novembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-71 et R. 3413-72</td>
+R. 3413-71 et R. 3413-72 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-73</td>
+R. 3413-73 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-74 à R. 3413-77</td>
+R. 3413-74 à R. 3413-77 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-78</td>
+R. 3413-78 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-79 à R. 3413-102</td>
+R. 3413-79 à R. 3413-102 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-103</td>
+R. 3413-103 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-104 à R. 3413-115</td>
+R. 3413-104 à R. 3413-115 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-1</td>
+R. 3414-1 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-2</td>
+R. 3414-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-3</td>
+R. 3414-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-4</td>
+R. 3414-4 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-5</td>
+R. 3414-5 </td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014
+Résultant du décret n° 2014-394 du 31 mars 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-6</td>
+R. 3414-6 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011
+Résultant du décret n° 2011-555 du 20 mai 2011 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-7 et R. 3414-8</td>
+R. 3414-7 et R. 3414-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-9 et R. 3414-10</td>
+R. 3414-9 et R. 3414-10 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-12 et R. 3414-13</td>
+R. 3414-12 et R. 3414-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-14 à R. 3414-19</td>
+R. 3414-14 à R. 3414-19 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-20</td>
+R. 3414-20 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-21</td>
+R. 3414-21 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-24 et R. 3414-25</td>
+R. 3414-24 et R. 3414-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-26</td>
+R. 3414-26 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-27 à R. 3415-11</td>
+R. 3414-27 à R. 3415-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-12</td>
+R. 3415-12 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3415-14 et R. 3415-15</td>
+R. 3415-14 et R. 3415-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-16 et R. 3415-17</td>
+R. 3415-16 et R. 3415-17 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-1 à R. 3416-11</td>
+R. 3416-1 à R. 3416-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-12</td>
+R. 3416-12 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-13 à R. 3416-18</td>
+R. 3416-13 à R. 3416-18 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-19</td>
+R. 3416-19 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-20 à R. 3416-22</td>
+R. 3416-20 à R. 3416-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-23</td>
+R. 3416-23 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-26 à R. 3417-2</td>
+R. 3416-26 à R. 3417-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-3 à R. 3417-5</td>
+R. 3417-3 à R. 3417-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015
+Résultant du décret n° 2015-690 du 18 juin 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-6</td>
+R. 3417-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-7</td>
+R. 3417-7 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-8</td>
+R. 3417-8 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-9 à R. 3417-11</td>
+R. 3417-9 à R. 3417-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-12</td>
+R. 3417-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-13</td>
+R. 3417-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-14</td>
+R. 3417-14 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-15</td>
+R. 3417-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-16 à R. 3417-22</td>
+R. 3417-16 à R. 3417-22 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-23</td>
+R. 3417-23 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-24</td>
+R. 3417-24 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-25</td>
+R. 3417-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-27 à R. 3417-31</td>
+R. 3417-27 à R. 3417-31 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-32</td>
+R. 3417-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3418-1 à R. 3418-11</td>
+R. 3418-1 à R. 3418-11 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014</td>
+Résultant du décret n° 2014-562 du 30 mai 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-1 à R. 3421-6</td>
+R. 3421-1 à R. 3421-6 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-7</td>
+R. 3421-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-8</td>
+R. 3421-8 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-9</td>
+R. 3421-9 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-10</td>
+R. 3421-10 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-11 à R. 3421-13</td>
+R. 3421-11 à R. 3421-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3421-14</td>
+R. 3421-14 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3422-1 à R. 3422-23</td>
+R. 3422-1 à R. 3422-23 </td>
       <td align="left">
 
-Résultant du décret n° 2010-7 du 5 janvier 2010
+Résultant du décret n° 2010-7 du 5 janvier 2010 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-1 à R. 3423-3</td>
+R. 3423-1 à R. 3423-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-4</td>
+R. 3423-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009
+Résultant du décret n° 2009-254 du 4 mars 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-5 à R. 3423-8</td>
+R. 3423-5 à R. 3423-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-9</td>
+R. 3423-9 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013
+Résultant du décret n° 2013-779 du 27 août 2013 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-10 à R. 3423-12</td>
+R. 3423-10 à R. 3423-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-13</td>
+R. 3423-13 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014
+Résultant du décret n° 2014-1169 du 10 octobre 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-14 à R. 3423-17</td>
+R. 3423-14 à R. 3423-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-18</td>
+R. 3423-18 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-19 à R. 3423-22</td>
+R. 3423-19 à R. 3423-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-23</td>
+R. 3423-23 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-24 et R. 3423-25</td>
+R. 3423-24 et R. 3423-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-26</td>
+R. 3423-26 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-28</td>
+R. 3423-28 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-29</td>
+R. 3423-29 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
@@ -96536,6 +96476,8 @@ R. 3423-31 à R. 3423-35</td>
 
 _Cite_:
 
+  - 2008-1218
+  - 2008-1219
   - Décret n°2009-254 du 4 mars 2009
   - Décret n°2009-1180 du 5 octobre 2009
   - Décret n°2009-1393 du 11 novembre 2009
@@ -96563,10 +96505,11 @@ _Cite_:
   - Décret n°2017-417 du 27 mars 2017
   - Décret n°2017-744 du 4 mai 2017
   - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2018-346 du 9 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 
 #### TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=982></a>
@@ -97166,1407 +97109,1385 @@ _Cite_:
 
 Sauf mention contraire dans le tableau ci-après et sous réserve des stipulations du traité sur l'Antarctique publié par le
 décret n° 61-1300 du 30 novembre 1961, les dispositions suivantes sont applicables aux Terres australes et antarctiques
-françaises, dans leur rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 :
+françaises, dans leur rédaction résultant des décrets n° 2008-1218 et n° 2008-1219 du 25 novembre 2008 : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES</th>
+DISPOSITIONS APPLICABLES </th>
       <th>
 
-DANS LEUR RÉDACTION</th>
+DANS LEUR RÉDACTION </th>
     </tr>
     <tr>
       <td align="left">
 
-Au livre 1er</td>
+Au livre 1er </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-1</td>
+R. 3125-1 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2018-346 du 9 mai 2018 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-2 et R. 3125-3</td>
+R. 3125-2 et R. 3125-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-4 et R. 3125-5</td>
+R. 3125-4 et R. 3125-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-6 à R. 3125-8</td>
+R. 3125-6 à R. 3125-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-9</td>
+R. 3125-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-10 et R. 3125-11</td>
+R. 3125-10 et R. 3125-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-12 et R. 3125-13</td>
+R. 3125-12 et R. 3125-13 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-14 et R. 3125-15</td>
+R. 3125-14 et R. 3125-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-16 à R. 3125-18</td>
+R. 3125-16 à R. 3125-18 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3125-19 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3125-20 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-869 du 15 juillet 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3125-21 </td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 3125-22 à R. 3125-28 </td>
+      <td align="left">Résultant du décret n° 2018-346 du 9 mai 2018
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-19</td>
+R. 3127-1 à R. 3127-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-20</td>
+Au livre II </td>
       <td align="left">
-
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+    </td></tr>
+    <tr>
+      <td align="left">R. 3211-1 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">R. 3211-2 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-21</td>
+R. 3222-1 et R. 3222-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-22</td>
+R. 3222-3 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-23</td>
+R. 3222-4 </td>
+      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-5 </td>
+      <td align="left">
+
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 3222-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3125-24 à R. 3125-26</td>
+R. 3222-8 et R. 3222-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-869 du 15 juillet 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3125-27 et R. 3125-28</td>
-      <td align="left">
-    </td></tr>
-    <tr>
+R. 3222-10 </td>
       <td align="left">
 
-R. 3127-1 à R. 3127-7</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-Au livre II</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">R. 3211-1</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">R. 3211-2</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-1 et R. 3222-2</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3222-3</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-4</td>
-      <td align="left">Résultant du décret n° 2017-417 du 27 mars 2017</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-5</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-6</td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-R. 3222-8 et R. 3222-9</td>
-      <td align="left">
-
-Résultant du décret n° 2015-211 du 25 février 2015</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-R. 3222-10</td>
-      <td align="left">
-
-Résultant du décret n° 2017-417 du 27 mars 2017
+Résultant du décret n° 2017-417 du 27 mars 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-13</td>
+R. 3222-13 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-14</td>
+R. 3222-14 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3222-15 et R. 3222-16</td>
+R. 3222-15 et R. 3222-16 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3222-17</td>
+R. 3222-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-1 à R. 3223-6</td>
+R. 3223-1 à R. 3223-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-46</td>
+R. 3223-46 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016</td>
+Résultant du décret n° 2016-1336 du 7 octobre 2016 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-47</td>
+R. 3223-47 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-48 à R. 3223-50</td>
+R. 3223-48 à R. 3223-50 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1336 du 7 octobre 2016
+Résultant du décret n° 2016-1336 du 7 octobre 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-56</td>
+R. 3223-56 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3223-57 à R. 3223-59</td>
+R. 3223-57 à R. 3223-59 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-60</td>
+R. 3223-60 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3223-61</td>
+R. 3223-61 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-1 à R. 3224-7</td>
+R. 3224-1 à R. 3224-7 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3224-8</td>
+      <td align="left">R. 3224-8 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3224-9 à R. 3224-12</td>
+R. 3224-9 à R. 3224-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-1 à R. 3225-3</td>
+R. 3225-1 à R. 3225-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-4</td>
+R. 3225-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1718 du 30 décembre 2009
+Résultant du décret n° 2009-1718 du 30 décembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-5</td>
+R. 3225-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-6</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3225-6 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3225-7</td>
+      <td align="left">R. 3225-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3225-8 et R. 3225-9</td>
+R. 3225-8 et R. 3225-9 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3225-10</td>
+R. 3225-10 </td>
       <td align="left">
 
-Résultant du décret n° 2010-773 du 8 juillet 2010
+Résultant du décret n° 2010-773 du 8 juillet 2010 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-1</td>
+R. 3231-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-2</td>
+R. 3231-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-3 et R. 3231-4</td>
+R. 3231-3 et R. 3231-4 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-5</td>
+R. 3231-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-6</td>
+R. 3231-6 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017</td>
+Résultant du décret n° 2017-391 du 23 mars 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-7</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+R. 3231-7 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">R. 3231-8</td>
+      <td align="left">R. 3231-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3231-9-1 à R. 3231-11</td>
+R. 3231-9-1 à R. 3231-11 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015</td>
+Résultant du décret n° 2015-211 du 25 février 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3231-12</td>
+R. 3231-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-1 à R. 3232-2-3</td>
+R. 3232-1 à R. 3232-2-3 </td>
       <td align="left">
 
-Résultant du décret n° 2017-391 du 23 mars 2017
+Résultant du décret n° 2017-391 du 23 mars 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-3 à R. 3232-7</td>
+R. 3232-3 à R. 3232-7 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009
+Résultant du décret n° 2009-1494 du 3 décembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-8</td>
+R. 3232-8 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015
+Résultant du décret n° 2015-258 du 4 mars 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-9</td>
+R. 3232-9 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1537 du 19 décembre 2014
+Résultant du décret n° 2014-1537 du 19 décembre 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3232-10</td>
+R. 3232-10 </td>
       <td align="left">
 
-Résultant du décret n° 2015-258 du 4 mars 2015</td>
+Résultant du décret n° 2015-258 du 4 mars 2015 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3232-11 à R. 3232-29</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+      <td align="left">Articles R. 3232-11 à R. 3232-29 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
-      <td align="left">Articles R. 3241-26 à R. 3241-33</td>
+      <td align="left">Articles R. 3241-26 à R. 3241-33 </td>
       <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+maintenance aéronautique </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre III</td>
+Au livre III </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3321-1 et R. 3321-2</td>
+R. 3321-1 et R. 3321-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012
+Résultant du décret n° 2012-481 du 13 avril 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3321-3 et R. 3321-4</td>
+R. 3321-3 et R. 3321-4 </td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">R. 3321-5 à R. 3321-10</td>
-      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
+      <td align="left">R. 3321-5 à R. 3321-10 </td>
+      <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3322-1 et R. 3322-2</td>
+R. 3322-1 et R. 3322-2 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3322-4</td>
+R. 3322-4 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3322-7</td>
+R. 3322-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-481 du 13 avril 2012</td>
+Résultant du décret n° 2012-481 du 13 avril 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3323-1</td>
+R. 3323-1 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017
+Résultant du décret n° 2017-744 du 4 mai 2017 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-Au livre IV</td>
+Au livre IV </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-1 à R. 3411-6</td>
+R. 3411-1 à R. 3411-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-7</td>
+R. 3411-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-8 à R. 3411-16</td>
+R. 3411-8 à R. 3411-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-21 à R. 3411-24</td>
+R. 3411-21 à R. 3411-24 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-25</td>
+R. 3411-25 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-26 à R. 3411-32</td>
+R. 3411-26 à R. 3411-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-33</td>
+R. 3411-33 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012
+Résultant du décret n° 2012-1120 du 2 octobre 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-34 à R. 3411-39</td>
+R. 3411-34 à R. 3411-39 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-45 et R. 3411-46</td>
+R. 3411-45 et R. 3411-46 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-47</td>
+R. 3411-47 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012
+Résultant du décret n° 2012-1247 du 7 novembre 2012 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-49 à R. 3411-52</td>
+R. 3411-49 à R. 3411-52 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-53</td>
+R. 3411-53 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-55 et R. 3411-56</td>
+R. 3411-55 et R. 3411-56 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-57 à R. 3411-62</td>
+R. 3411-57 à R. 3411-62 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-63</td>
+R. 3411-63 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-64 à R. 3411-67</td>
+R. 3411-64 à R. 3411-67 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-74</td>
+R. 3411-74 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-75</td>
+R. 3411-75 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-76</td>
+R. 3411-76 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-77</td>
+R. 3411-77 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-79 et R. 3411-80</td>
+R. 3411-79 et R. 3411-80 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-81</td>
+R. 3411-81 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-82</td>
+R. 3411-82 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-83</td>
+R. 3411-83 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-85</td>
+R. 3411-85 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1120 du 2 octobre 2012</td>
+Résultant du décret n° 2012-1120 du 2 octobre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3411-86 et R. 3411-87</td>
+R. 3411-86 et R. 3411-87 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3411-88 à R. 3411-118</td>
+R. 3411-88 à R. 3411-118 </td>
       <td align="left">
 
-Résultant du décret n° 2016-1427 du 21 octobre 2016
+Résultant du décret n° 2016-1427 du 21 octobre 2016 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-1 à R. 3412-5</td>
+R. 3412-1 à R. 3412-5 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-6</td>
+R. 3412-6 </td>
       <td align="left">
 
-Résultant du décret n° 2015-211 du 25 février 2015
+Résultant du décret n° 2015-211 du 25 février 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-7 à R. 3412-13</td>
+R. 3412-7 à R. 3412-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-14</td>
+R. 3412-14 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014
+Résultant du décret n° 2014-562 du 30 mai 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-15</td>
+R. 3412-15 </td>
       <td align="left">
 
-Résultant du décret n° 2017-744 du 4 mai 2017</td>
+Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-16</td>
+R. 3412-16 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3412-17</td>
+R. 3412-17 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-18</td>
+R. 3412-18 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-19</td>
+R. 3412-19 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009
+Résultant du décret n° 2009-1180 du 5 octobre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3412-20 à R. 3413-7</td>
+R. 3412-20 à R. 3413-7 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-8</td>
+R. 3413-8 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009</td>
+Résultant du décret n° 2009-1393 du 11 novembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-9</td>
+R. 3413-9 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-10</td>
+R. 3413-10 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-11 à R. 3413-15</td>
+R. 3413-11 à R. 3413-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-16</td>
+R. 3413-16 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-17 à R. 3413-42</td>
+R. 3413-17 à R. 3413-42 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-43</td>
+R. 3413-43 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1393 du 11 novembre 2009
+Résultant du décret n° 2009-1393 du 11 novembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-44</td>
+R. 3413-44 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-45</td>
+R. 3413-45 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-46 à R. 3413-49</td>
+R. 3413-46 à R. 3413-49 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-50</td>
+R. 3413-50 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-51 à R. 3413-69</td>
+R. 3413-51 à R. 3413-69 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-70</td>
+R. 3413-70 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1440 du 23 novembre 2009
+Résultant du décret n° 2009-1440 du 23 novembre 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-71 et R. 3413-72</td>
+R. 3413-71 et R. 3413-72 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-73</td>
+R. 3413-73 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-74 à R. 3413-77</td>
+R. 3413-74 à R. 3413-77 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-78</td>
+R. 3413-78 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-79 à R. 3413-102</td>
+R. 3413-79 à R. 3413-102 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3413-103</td>
+R. 3413-103 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3413-104 à R. 3413-115</td>
+R. 3413-104 à R. 3413-115 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-1</td>
+R. 3414-1 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-2</td>
+R. 3414-2 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-3</td>
+R. 3414-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-4</td>
+R. 3414-4 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011
+Résultant du décret n° 2011-555 du 20 mai 2011 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-5</td>
+R. 3414-5 </td>
       <td align="left">
 
-Résultant du décret n° 2014-394 du 31 mars 2014
+Résultant du décret n° 2014-394 du 31 mars 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-6</td>
+R. 3414-6 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-7 et R. 3414-8</td>
+R. 3414-7 et R. 3414-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-9 et R. 3414-10</td>
+R. 3414-9 et R. 3414-10 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-12 et R. 3414-13</td>
+R. 3414-12 et R. 3414-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-14 à R. 3414-19</td>
+R. 3414-14 à R. 3414-19 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-20</td>
+R. 3414-20 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-21</td>
+R. 3414-21 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-24 et R. 3414-25</td>
+R. 3414-24 et R. 3414-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3414-26</td>
+R. 3414-26 </td>
       <td align="left">
 
-Résultant du décret n° 2011-555 du 20 mai 2011</td>
+Résultant du décret n° 2011-555 du 20 mai 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3414-27 à R. 3415-11</td>
+R. 3414-27 à R. 3415-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-12</td>
+R. 3415-12 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3415-14 et R. 3415-15</td>
+R. 3415-14 et R. 3415-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3415-16 et R. 3415-17</td>
+R. 3415-16 et R. 3415-17 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-1 à R. 3416-11</td>
+R. 3416-1 à R. 3416-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-12</td>
+R. 3416-12 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-13 à R. 3416-18</td>
+R. 3416-13 à R. 3416-18 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-19</td>
+R. 3416-19 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014</td>
+Résultant du décret n° 2014-1169 du 10 octobre 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-20 à R. 3416-22</td>
+R. 3416-20 à R. 3416-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3416-23</td>
+R. 3416-23 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3416-26 à R. 3417-2</td>
+R. 3416-26 à R. 3417-2 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-3 à R. 3417-5</td>
+R. 3417-3 à R. 3417-5 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015
+Résultant du décret n° 2015-690 du 18 juin 2015 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-6</td>
+R. 3417-6 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-7</td>
+R. 3417-7 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-8</td>
+R. 3417-8 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-9 à R. 3417-11</td>
+R. 3417-9 à R. 3417-11 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-12</td>
+R. 3417-12 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-13</td>
+R. 3417-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-14</td>
+R. 3417-14 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-15</td>
+R. 3417-15 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-16 à R. 3417-22</td>
+R. 3417-16 à R. 3417-22 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-23</td>
+R. 3417-23 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-24</td>
+R. 3417-24 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-25</td>
+R. 3417-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3417-27 à R. 3417-31</td>
+R. 3417-27 à R. 3417-31 </td>
       <td align="left">
 
-Résultant du décret n° 2015-690 du 18 juin 2015</td>
+Résultant du décret n° 2015-690 du 18 juin 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3417-32</td>
+R. 3417-32 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3418-1 à R. 3418-11</td>
+R. 3418-1 à R. 3418-11 </td>
       <td align="left">
 
-Résultant du décret n° 2014-562 du 30 mai 2014</td>
+Résultant du décret n° 2014-562 du 30 mai 2014 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-1 à R. 3421-6</td>
+R. 3421-1 à R. 3421-6 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-7</td>
+R. 3421-7 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-8</td>
+R. 3421-8 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-9</td>
+R. 3421-9 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-10</td>
+R. 3421-10 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3421-11 à R. 3421-13</td>
+R. 3421-11 à R. 3421-13 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3421-14</td>
+R. 3421-14 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013
+Résultant du décret n° 2013-779 du 27 août 2013 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3422-1 à R. 3422-23</td>
+R. 3422-1 à R. 3422-23 </td>
       <td align="left">
 
-Résultant du décret n° 2010-7 du 5 janvier 2010
+Résultant du décret n° 2010-7 du 5 janvier 2010 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-1 à R. 3423-3</td>
+R. 3423-1 à R. 3423-3 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-4</td>
+R. 3423-4 </td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009
+Résultant du décret n° 2009-254 du 4 mars 2009 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-5 à R. 3423-8</td>
+R. 3423-5 à R. 3423-8 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-9</td>
+R. 3423-9 </td>
       <td align="left">
 
-Résultant du décret n° 2013-779 du 27 août 2013</td>
+Résultant du décret n° 2013-779 du 27 août 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-10 à R. 3423-12</td>
+R. 3423-10 à R. 3423-12 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-13</td>
+R. 3423-13 </td>
       <td align="left">
 
-Résultant du décret n° 2014-1169 du 10 octobre 2014
+Résultant du décret n° 2014-1169 du 10 octobre 2014 
 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-14 à R. 3423-17</td>
+R. 3423-14 à R. 3423-17 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-18</td>
+R. 3423-18 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-19 à R. 3423-22</td>
+R. 3423-19 à R. 3423-22 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-23</td>
+R. 3423-23 </td>
       <td align="left">
 
-Résultant du décret n° 2009-1180 du 5 octobre 2009</td>
+Résultant du décret n° 2009-1180 du 5 octobre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-24 et R. 3423-25</td>
+R. 3423-24 et R. 3423-25 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-26</td>
+R. 3423-26 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-R. 3423-28</td>
+R. 3423-28 </td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-R. 3423-29</td>
+R. 3423-29 </td>
       <td align="left">
 
-Résultant du décret n° 2012-1247 du 7 novembre 2012</td>
+Résultant du décret n° 2012-1247 du 7 novembre 2012 </td>
     </tr>
     <tr>
       <td align="left">
@@ -98581,6 +98502,8 @@ R. 3423-31 à R. 3423-35</td>
 
 _Cite_:
 
+  - 2008-1218
+  - 2008-1219
   - Décret n°61-1300 du 30 novembre 1961
   - Décret n°2009-254 du 4 mars 2009
   - Décret n°2009-1180 du 5 octobre 2009
@@ -98609,10 +98532,11 @@ _Cite_:
   - Décret n°2017-417 du 27 mars 2017
   - Décret n°2017-744 du 4 mai 2017
   - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2018-346 du 9 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-346 du 9 mai 2018 - art. 1
 
 
 #### TITRE VIII : DISPOSITIONS PARTICULIERES A SAINT BARTHELEMY  ET A SAINT MARTIN<a id=984></a>
