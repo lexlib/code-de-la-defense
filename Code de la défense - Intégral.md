@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-05-25
+Version Consolidée au 2018-05-26
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -34240,7 +34240,8 @@ _Créé par_:
 
 Les systèmes de détection et les prestataires de service mentionnés à l'article L. 1332-6-1 sont qualifiés dans les
 conditions prévues respectivement par les chapitres II et III du décret n° 2015-350 du 27 mars 2015 relatif à la
-qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité nationale.
+qualification des produits de sécurité et des prestataires de service de confiance pour les besoins de la sécurité des
+systèmes d'information.
 
 **Liens relatifs à cet article**
 
@@ -34249,9 +34250,9 @@ _Cite_:
   - Décret n°2015-350 du 27 mars 2015
   - Code de la défense. - art. L1332-6-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-351 du 27 mars 2015 - art. 1
+  - Décret n°2018-384 du 23 mai 2018 - art. 29
 
 _Cité par_:
 
@@ -34467,7 +34468,7 @@ _Cite_:
 
 Les prestataires de service mentionnés à l'article L. 1332-6-3 sont qualifiés dans les conditions prévues par le chapitre III
 du décret n° 2015-350 du 27 mars 2015 relatif à la qualification des produits de sécurité et des prestataires de service de
-confiance pour les besoins de la sécurité nationale. 
+confiance pour les besoins de la sécurité des systèmes d'information.
 
 L'Agence nationale de la sécurité des systèmes d'information met à la disposition du public par voie électronique la liste
 des prestataires de service qualifiés mentionnés au premier alinéa.
@@ -34479,9 +34480,9 @@ _Cite_:
   - Décret n°2015-350 du 27 mars 2015
   - Code de la défense. - art. L1332-6-3
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-351 du 27 mars 2015 - art. 1
+  - Décret n°2018-384 du 23 mai 2018 - art. 29
 
 _Cité par_:
 
