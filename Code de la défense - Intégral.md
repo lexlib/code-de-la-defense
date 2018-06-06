@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-05-26
+Version Consolidée au 2018-06-07
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -33075,14 +33075,16 @@ _Cité par_:
 
 La ou les directives nationales de sécurité sont fondées sur l'analyse de risque mentionnée à l'article R. 1332-16. Elles
 s'appliquent à un secteur d'activités d'importance vitale et précisent les objectifs et les politiques de sécurité du
-secteur. 
+secteur.
 
 Elles définissent des mesures planifiées et graduées de vigilance, de prévention, de protection et de réaction contre toute
-menace, notamment à caractère terroriste. 
+menace, notamment à caractère terroriste.
 
 Elles sont approuvées, après avis de la commission mentionnée à l'article R. 1332-10, à l'exception de celles intéressant les
 secteurs dont le ministre de la défense est le coordonnateur, par arrêté du Premier ministre sur proposition du ministre
-coordonnateur du secteur d'activités d'importance vitale.
+coordonnateur du secteur d'activités d'importance vitale. Cet arrêté est protégé dans les conditions prévues par les articles
+R. 2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale. Il est notifié à
+chaque opérateur d'importance vitale intéressé ainsi qu'à toutes les autorités administratives qui ont à en connaître.
 
 **Liens relatifs à cet article**
 
@@ -33093,35 +33095,35 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°2007-585 2007-04-23 JORF 24 avril 2007
+  - Décret n°2007-585 du 23 avril 2007
+
+_Modifié par_:
+
+  - Décret n°2018-439 du 4 juin 2018 - art. 1
 
 _Cite_:
 
-  - Code de la défense. - art. R1332-10 (V)
-  - Code de la défense. - art. R1332-16 (V)
+  - Code de la défense. - art. R1332-10
+  - Code de la défense. - art. R1332-16
 
 _Cité par_:
 
-  - Code de la défense. - art. R1332-18 (M)
+  - Code de la défense. - art. R1332-18 (V)
   - Code des transports - art. R5332-21 (M)
 
 
 ###### Article R1332-18
 
 Pour l'application des dispositions de la présente section, le Premier ministre, après avis de la commission mentionnée à
-l'article R. 1332-10, fixe par arrêtés : 
+l'article R. 1332-10, fixe par arrêtés :
 
-1° La méthode d'analyse et de gestion du risque ; 
+1° La méthode d'analyse et de gestion du risque ;
 
 2° La méthode à suivre pour déterminer, par secteur d'activités d'importance vitale, les scénarios de menace et leur
-hiérarchisation selon le type ou le niveau de menace envisagé ; 
+hiérarchisation selon le type ou le niveau de menace envisagé ;
 
 3° Les plans types des plans de sécurité d'opérateurs d'importance vitale, des plans particuliers de protection et des plans
-de protection externe. 
-
-Les arrêtés prévus à l'article R. 1332-17 et au présent article sont protégés dans les conditions prévues par les articles R.
-2311-1 et suivants du code de la défense relatifs à la protection du secret de la défense nationale. Ils sont notifiés à
-chaque opérateur d'importance vitale intéressé ainsi qu'à toutes les autorités administratives qui ont à en connaître.
+de protection externe.
 
 **Liens relatifs à cet article**
 
@@ -33129,10 +33131,6 @@ _Anciens textes_:
 
   - Décret n°2006-212 2006-02-23 art. 12
   - Décret n°2006-212 du 23 février 2006 - art. 12 (Ab)
-
-_Modifié par_:
-
-  - Décret n°2009-254 du 4 mars 2009 - art. 2 (V)
 
 _Cité par_:
 
@@ -33144,11 +33142,15 @@ _Cité par_:
   - Code de la défense. - art. R1332-32 (V)
   - Code des transports - art. R5332-21 (M)
 
+_Modifié par_:
+
+  - Décret n°2018-439 du 4 juin 2018 - art. 1
+
 _Cite_:
 
-  - Code de la défense. - art. R1332-10 (V)
+  - Code de la défense. - art. R1332-10
   - Code de la défense. - art. R1332-17 (V)
-  - Code de la défense. - art. R2311-1 (V)
+  - Code de la défense. - art. R2311-1
 
 
 ##### Section 5 : Mesures de protection<a id=465></a>
@@ -44117,18 +44119,22 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
     <tr>
       <td align="left">
 
-R. 1332-16 et R. 1332-17</td>
+R. 1332-16 </td>
       <td align="left">
 
-Résultant du décret n° 2007-585 du 23 avril 2007 </td>
+Résultant du décret n° 2007-585 du 23 avril 2007</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1332-18 et R. 1332-19</td>
+R. 1332-17 et R. 1332-18</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009 </td>
+Résultant du décret n° 2018-439 du 4 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1332-19</td>
+      <td align="left">Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -44280,7 +44286,7 @@ Résultant du décret n° 2009-1120 du 17 septembre 2009 </td>
 R. 1333-3</td>
       <td align="left">
 
-Résultant du  décret n° 2016-1296 du 30 septembre 2016  </td>
+Résultant du décret n° 2016-1296 du 30 septembre 2016</td>
     </tr>
     <tr>
       <td align="left">
@@ -44408,7 +44414,7 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009 </td>
 R. 1337-4</td>
       <td align="left">
 
-Résultant du  décret n° 2015-211 du 25 février 2015  </td>
+Résultant du décret n° 2015-211 du 25 février 2015</td>
     </tr>
     <tr>
       <td align="left">
@@ -44479,7 +44485,7 @@ Au titre VIII du présent livre</td>
 R. 1681-1 et R. 1681-2</td>
       <td align="left">
 
-Résultant du  décret n° 2010-225 du 4 mars 2010  </td>
+Résultant du décret n° 2010-225 du 4 mars 2010</td>
     </tr>
     <tr>
       <td align="left">
@@ -44503,7 +44509,7 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
 R. 1682-1</td>
       <td align="left">
 
-Résultant du  décret n° 2007-585 du 23 avril 2007  </td>
+Résultant du décret n° 2007-585 du 23 avril 2007</td>
     </tr>
     <tr>
       <td align="left">
@@ -44564,7 +44570,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1870 du 29 décembre 2017 - art. 3
+  - Décret n°2018-439 du 4 juin 2018 - art. 1
 
 
 ###### Article R1641-3
@@ -45942,7 +45948,7 @@ Résultant du décret n° 2015-211 du 25 février 2015
     <tr>
       <td align="left">
 
-R. 1332-16 et R. 1332-17</td>
+R. 1332-16 </td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007</td>
@@ -45950,10 +45956,14 @@ Résultant du décret n° 2007-585 du 23 avril 2007</td>
     <tr>
       <td align="left">
 
-R. 1332-18 et R. 1332-19</td>
+R. 1332-17 et R. 1332-18</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009</td>
+Résultant du décret n° 2018-439 du 4 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1332-19</td>
+      <td align="left">Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -46426,7 +46436,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1870 du 29 décembre 2017 - art. 3
+  - Décret n°2018-439 du 4 juin 2018 - art. 1
 
 
 ###### Article R1651-4
@@ -47544,7 +47554,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 VIII du présent livre, les dispositions de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans
 leur rédaction indiquée dans la colonne de droite du même tableau :
 
-<table border="1" align="center">
+<table align="center" border="1">
   <tbody>
     <tr>
       <th>
@@ -47852,7 +47862,7 @@ Résultant du décret n° 2015-211 du 25 février 2015</td>
     <tr>
       <td align="left">
 
-R. 1332-16 et R. 1332-17</td>
+R. 1332-16 </td>
       <td align="left">
 
 Résultant du décret n° 2007-585 du 23 avril 2007</td>
@@ -47860,10 +47870,18 @@ Résultant du décret n° 2007-585 du 23 avril 2007</td>
     <tr>
       <td align="left">
 
-R. 1332-18 et R. 1332-19</td>
+R. 1332-17 et R. 1332-18
+
+</td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009</td>
+Résultant du décret n° 2018-439 du 4 juin 2018
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1332-19</td>
+      <td align="left">Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -48337,7 +48355,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-1870 du 29 décembre 2017 - art. 3
+  - Décret n°2018-439 du 4 juin 2018 - art. 1
 
 
 ###### Article R1661-4
@@ -49643,9 +49661,7 @@ Résultant du décret n° 2007-585 du 23 avril 2007 </td>
 
 R. 1332-1</td>
       <td align="left">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td align="left">R. 1332-2</td>
       <td align="left">Résultant du décret n° 2017-744 du 4 mai 2017</td>
@@ -49709,18 +49725,22 @@ Résultant du décret n° 2015-211 du 25 février 2015 </td>
     <tr>
       <td align="left">
 
-R. 1332-16 et R. 1332-17</td>
+R. 1332-16 </td>
       <td align="left">
 
-Résultant du décret n° 2007-585 du 23 avril 2007 </td>
+Résultant du décret n° 2007-585 du 23 avril 2007</td>
     </tr>
     <tr>
       <td align="left">
 
-R. 1332-18 et R. 1332-19</td>
+R. 1332-17 et R. 1332-18 </td>
       <td align="left">
 
-Résultant du décret n° 2009-254 du 4 mars 2009 </td>
+Résultant du décret n° 2018-439 du 4 juin 2018</td>
+    </tr>
+    <tr>
+      <td align="left">R. 1332-19</td>
+      <td align="left">Résultant du décret n° 2009-254 du 4 mars 2009</td>
     </tr>
     <tr>
       <td align="left">
@@ -50064,7 +50084,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2017-744 du 4 mai 2017 - art. 5
+  - Décret n°2018-439 du 4 juin 2018 - art. 1
 
 
 ###### Article R1671-4
