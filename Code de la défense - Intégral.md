@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-06-07
+Version Consolidée au 2018-06-14
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -23354,30 +23354,25 @@ _Cité par_:
 
 Le militaire de carrière se trouvant à moins de deux ans de la limite d'âge de son grade, l'officier sous contrat et le
 militaire engagé se trouvant à moins de deux ans de la limite de durée des services ainsi que le militaire en congé de
-reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles L. 133-6-8 du code de la sécurité
+reconversion peuvent, sur demande agréée, créer une entreprise régie par les articles      L. 613-7 du code de la sécurité
 sociale et 50-0 et 102 ter du code général des impôts. 
 
 Le cumul de cette activité avec l'activité principale des militaires est autorisé dans les conditions prévues au cinquième
 alinéa de l'article L. 4122-2 et à l'article L. 4122-5 du présent code et par le décret en Conseil d'Etat pris pour leur
 application.
 
-**Nota:**
-
-Conformément au 25 VI de la loi n° 2014-626 du 18 juin 2014, les présentes dispositions sont applicables aux cotisations et
-aux contributions de sécurité sociale dues au titre des périodes courant à compter du 1er janvier 2015.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-483 du 20 avril 2016 - art. 3
+  - Ordonnance n°2018-470 du 12 juin 2018 - art. 1
 
 _Cite_:
 
   - Code général des impôts, CGI. - art. 102 ter
   - Code général des impôts, CGI. - art. 50-0
-  - Code de la défense. - art. L4122-2 (V)
-  - Code de la défense. - art. L4122-5 (V)
+  - Code de la défense. - art. L4122-2
+  - Code de la défense. - art. L4122-5
   - Code de la sécurité sociale. - art. L133-6-8
 
 _Cité par_:
