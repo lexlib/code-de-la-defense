@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-06-14
+Version Consolidée au 2018-06-15
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -104778,9 +104778,9 @@ Lorsque l'autorité militaire de deuxième niveau qui reçoit une demande de san
 sanction est justifiée, elle inflige une telle sanction. Si la sanction disciplinaire du premier groupe envisagée excède son
 pouvoir disciplinaire, elle transmet la demande de sanction à l'autorité compétente.
 
-Cette autorité est l'autorité militaire de troisième niveau dont relève le militaire s'il s'agit d'un militaire du rang, le
-ministre de la défense s'il s'agit d'un officier, d'un sous-officier ou s'il s'agit d'un militaire du rang ne relevant
-d'aucune autorité militaire de troisième niveau.
+Cette autorité est l'autorité militaire de troisième niveau dont relève le militaire s'il s'agit d'un militaire du rang ou
+d'un sous-officier, le ministre de la défense s'il s'agit d'un officier ou s'il s'agit d'un sous-officier ou d'un militaire
+du rang ne relevant d'aucune autorité militaire de troisième niveau.
 
 Les échelons hiérarchiques intermédiaires sont informés de ces transmissions.
 
@@ -104797,13 +104797,13 @@ groupe.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
 _Cité par_:
 
   - Décret n°2018-478 du 12 juin 2018 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-478 du 12 juin 2018 - art. 1
 
 
 ###### Article R4137-18
@@ -105003,27 +105003,26 @@ Les sanctions disciplinaires du premier groupe pouvant être infligées aux mili
 autorités militaires sont les suivantes :
 
 <table border="1">
-      <tbody><tr>
-        <th>
+  <tbody>
+    <tr>
+      <th>
 
 AUTORITÉS HABILITÉES À INFLIGER
 
 une sanction disciplinaire</th>
-        <th>
+      <th>
 
 SANCTIONS MAXIMALES
 
-et taux maximal
-
-pouvant être infligés
+et taux maximal pouvant être infligés
 
 par chacune des autorités</th>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Autorité militaire de premier niveau, pour tous les militaires.</td>
-        <td align="center">
+      <td align="center">
 
 Avertissement.
 
@@ -105032,12 +105031,12 @@ Consigne : de 1 à 20 tours.
 Réprimande.
 
 Arrêts : de 1 à 20 jours.</td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Autorité militaire de deuxième niveau, pour tous les militaires.</td>
-        <td align="center">
+      <td align="center">
 
 Avertissement.
 
@@ -105048,12 +105047,12 @@ Réprimande.
 Blâme.
 
 Arrêts : de 1 à 30 jours.</td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-Autorité militaire de troisième niveau pour les seuls militaires du rang.</td>
-        <td align="center">
+Autorité militaire de troisième niveau, pour les militaires du rang et les sous-officiers.</td>
+      <td align="center">
 
 Avertissement.
 
@@ -105064,12 +105063,12 @@ Réprimande.
 Blâme.
 
 Arrêts : de 1 à 40 jours.</td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Ministre de la défense, pour tous les militaires.</td>
-        <td align="center">
+      <td align="center">
 
 Avertissement.
 
@@ -105082,23 +105081,24 @@ Blâme.
 Arrêts : de 1 à 40 jours.
 
 Blâme du ministre.</td>
-      </tr>
-    </tbody></table>
+    </tr>
+  </tbody>
+</table>
 
 Les autorités militaires du troisième niveau sont habilitées à prononcer à l'égard des militaires du rang un blâme du
 ministre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
-
-  - Décret n°2008-392 du 23 avril 2008 - art. (V)
-
 _Cité par_:
 
   - Arrêté du 24 février 2015 - art. (V)
   - Décret n°2018-478 du 12 juin 2018 (V)
   - Code de la défense. - art. R4137-10 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-478 du 12 juin 2018 - art. 2
 
 
 ###### Article R4137-26
@@ -114747,9 +114747,23 @@ Résultant du décret n° 2017-744 du 4 mai 2017</td>
     <tr>
       <td align="left">
 
-R. 4137-13 à R. 4137-19</td>
+R. 4137-13 à R. 4137-16</td>
       <td align="left">
     </td></tr>
+    <tr>
+      <td align="left">R. 4137-17</td>
+      <td align="left">
+
+Résultant du décret n° 2018-478 du 12 juin 2018.
+
+</td>
+    </tr>
+    <tr>
+      <td align="left">R. 4137-18 et R. 4137-19</td>
+      <td align="left">
+
+</td>
+    </tr>
     <tr>
       <td align="left">
 
@@ -114791,7 +114805,23 @@ Résultant du décret n° 2010-600 du 3 juin 2010</td>
     <tr>
       <td align="left">
 
-R. 4137-24 à R. 4137-28</td>
+R. 4137-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-25
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-26 à R. 4137-28
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -116076,7 +116106,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-289 du 20 avril 2018 - art. 2
+  - Décret n°2018-478 du 12 juin 2018 - art. 3
 
 
 ###### Article R4341-3
@@ -116892,7 +116922,23 @@ Résultant du décret n° 2017-744 du 4 mai 2017</td>
     <tr>
       <td align="left">
 
-R. 4137-13 à R. 4137-19</td>
+R. 4137-13 à R. 4137-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-17
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-18 et R. 4137-19
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -116936,7 +116982,23 @@ Résultant du décret n° 2010-600 du 3 juin 2010</td>
     <tr>
       <td align="left">
 
-R. 4137-24 à R. 4137-28</td>
+R. 4137-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-25
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-26 à R. 4137-28
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -118223,7 +118285,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-289 du 20 avril 2018 - art. 2
+  - Décret n°2018-478 du 12 juin 2018 - art. 3
 
 
 ###### Article R4351-3
@@ -119036,7 +119098,23 @@ Résultant du décret n° 2017-744 du 4 mai 2017</td>
     <tr>
       <td align="left">
 
-R. 4137-13 à R. 4137-19</td>
+R. 4137-13 à R. 4137-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-17
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-18 et R. 4137-19
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -119080,7 +119158,23 @@ Résultant du décret n° 2010-600 du 3 juin 2010</td>
     <tr>
       <td align="left">
 
-R. 4137-24 à R. 4137-28</td>
+R. 4137-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-25
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-26 à R. 4137-28
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -120365,7 +120459,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-289 du 20 avril 2018 - art. 2
+  - Décret n°2018-478 du 12 juin 2018 - art. 3
 
 
 ###### Article R4361-3
@@ -121095,7 +121189,23 @@ Résultant du décret n° 2017-744 du 4 mai 2017 </td>
     <tr>
       <td align="left">
 
-R. 4137-13 à R. 4137-19</td>
+R. 4137-13 à R. 4137-16</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-17
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-18 et R. 4137-19
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -121139,7 +121249,23 @@ Résultant du décret n° 2010-600 du 3 juin 2010 </td>
     <tr>
       <td align="left">
 
-R. 4137-24 à R. 4137-28</td>
+R. 4137-24</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+R. 4137-25
+
+</td>
+      <td align="left">Résultant du décret n° 2018-478 du 12 juin 2018.</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+R. 4137-26 à R. 4137-28
+
+</td>
       <td align="left">
     </td></tr>
     <tr>
@@ -122143,7 +122269,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-289 du 20 avril 2018 - art. 2
+  - Décret n°2018-478 du 12 juin 2018 - art. 3
 
 
 #### TITRE VIII : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY  ET À SAINT-MARTIN<a id=1174></a>
