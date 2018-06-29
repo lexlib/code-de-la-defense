@@ -1,5 +1,5 @@
 # Code de la défense  
-Version Consolidée au 2018-06-29
+Version Consolidée au 2018-06-30
 ## Contenu: 
   - [Partie législative (art. L1111-1 à L5382-1)](#1)
     - [PARTIE 1 : PRINCIPES GENERAUX DE LA DEFENSE. (art. L1111-1 à L1682-1)](#2)
@@ -66195,24 +66195,24 @@ _Cité par_:
 ###### Article D2362-2
 
 Les autorités suivantes ont délégation du ministre de la défense pour déterminer, conformément à l'article R. 413-2 du code
-pénal, le besoin de protection :
+pénal, le besoin de protection : 
 
 1° Le chef d'état-major des armées, pour les organismes interarmées implantés en métropole autres que ceux relevant des
 autorités mentionnées au 3° et pour les formations, services et établissements placés sous l'autorité ou l'autorité d'emploi
-des commandants supérieurs des forces armées selon les dispositions de l'article D. 1681-11 du présent code ;
+des commandants supérieurs des forces armées selon les dispositions de l'article D. 1681-11 du présent code ; 
 
 2° Le délégué général pour l'armement, le secrétaire général pour l'administration, les chefs d'état-major d'armée, le
-directeur général des relations internationales et de la stratégie, le directeur général des systèmes d'information et de
-communication, le directeur général de la sécurité extérieure, le délégué à l'information et à la communication de la
-défense, le directeur du renseignement et de la sécurité de la défense, le chef du contrôle général des armées et le sous-
-directeur des bureaux des cabinets, pour les formations, services, établissements et entreprises relevant de leur
-responsabilité respective ;
+directeur général des relations internationales et de la stratégie, le         directeur général du numérique et des systèmes
+d'information et de communication, le directeur général de la sécurité extérieure, le délégué à l'information et à la
+communication de la défense, le directeur du renseignement et de la sécurité de la défense, le chef du contrôle général des
+armées et le sous-directeur des bureaux des cabinets, pour les formations, services, établissements et entreprises relevant
+de leur responsabilité respective ; 
 
 3° Le directeur du renseignement militaire, le directeur central du service de santé des armées, le directeur central du
 service des essences des armées, le directeur central de la direction interarmées des réseaux d'infrastructure et des
-systèmes d'information de la défense, le directeur central du service du commissariat des armées , le directeur du service
+systèmes d'information de la défense, le directeur central du service du commissariat des armées, le directeur du service
 interarmées des munitions et le directeur de la maintenance aéronautique, pour les formations, services et établissements
-relevant de leur responsabilité respective ;
+relevant de leur responsabilité respective ; 
 
 4° Le directeur de la protection des installations, moyens et activités de la défense pour les formations, services,
 établissements et entreprises ne relevant de la responsabilité d'aucune des autorités mentionnées aux 1°, 2° et 3°.
@@ -66235,7 +66235,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 2
+  - Décret n°2018-532 du 28 juin 2018 - art. 14
 
 _Cite_:
 
@@ -66667,221 +66667,220 @@ _Cite_:
 ###### Article D2441-3
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables dans les îles Wallis et Futuna,
-sous réserve des adaptations prévues au titre IX, dans leur rédaction résultant du  décret n° 2009-254 du 4 mars 2009  et du
-décret n° 2009-1440 du 23 novembre 2009  : 
+sous réserve des  adaptations prévues au titre IX, dans leur rédaction résultant du  décret n° 2009-254 du 4 mars 2009 et du
+décret n° 2009-1440 du 23 novembre 2009 : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES </th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Au livre II </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-D. 2234-97 </td>
-      <td align="left">
-
-Résultant du  décret n° 2009-1494 du 3 décembre 2009  </td>
+Au livre II</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2234-98 à D. 2234-100 </td>
+D. 2234-97</td>
+      <td align="left">
+
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2234-98 à D. 2234-100</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Au livre III </td>
+Au livre III</td>
     </tr>
     <tr>
-      <td align="left">D. 2332-2 et D. 2332-3 </td>
-      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017 </td>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
     </tr>
     <tr>
-      <td align="left">D. 2338-1 </td>
-      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017 </td>
+      <td align="left">D. 2338-1</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-1 et D. 2342-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-D. 2342-37 </td>
+D. 2342-1 et D. 2342-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-38 </td>
+D. 2342-37</td>
+      <td align="left">
+    </td></tr>
+    <tr>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011  </td>
+D. 2342-38</td>
+      <td align="left">
+
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-39 </td>
+D. 2342-39</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-40 </td>
+D. 2342-40</td>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011  </td>
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-41 à D. 2342-58 </td>
+D. 2342-41 à D. 2342-58</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-59 et D. 2342-61 </td>
+D. 2342-59 et D. 2342-61</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-62 à D. 2342-65 </td>
+D. 2342-62 à D. 2342-65</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-66 à D. 2342-68 </td>
+D. 2342-66 à D. 2342-68</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-69 </td>
+D. 2342-69</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-69-1 et D. 2342-69-2 </td>
+D. 2342-69-1 et D. 2342-69-2</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-70 à D. 2342-72 </td>
+D. 2342-70 à D. 2342-72</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-73 </td>
+D. 2342-73</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-74 à D. 2342-81 </td>
+D. 2342-74 à D. 2342-81</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-82 </td>
+D. 2342-82</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-83 à D. 2342-95 </td>
+D. 2342-83 à D. 2342-95</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-96 </td>
+D. 2342-96</td>
       <td align="left">
 
-Résultant du  décret n° 2009-1657 du 24 décembre 2009  </td>
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-97 et D. 2342-98 </td>
+D. 2342-97 et D. 2342-98</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-99 et D. 2342-100 </td>
+D. 2342-99 et D. 2342-100</td>
       <td align="left">
 
-Résultant du  décret n° 2013-377 du 2 mai 2013  </td>
+Résultant du  décret n° 2013-377 du 2 mai 2013 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-101 à D. 2342-106 </td>
+D. 2342-101 à D. 2342-106</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-111 </td>
+D. 2342-111</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-121 </td>
+D. 2342-121</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2344-2 </td>
+D. 2344-2</td>
       <td align="left">
 
-Résultant du  décret n° 2015-1564 du 30 novembre 2015  </td>
+Résultant du  décret n° 2015-1564 du 30 novembre 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2352-7 </td>
+D. 2352-7</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Article D. 2362-2 </td>
-      <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique </td>
+      <td align="left">D. 2362-2</td>
+      <td align="left">Résultant du  décret n° 2018-532 28 juin 2018</td>
     </tr>
     <tr>
-      <td align="left">Articles D. 2362-3 à D. 2362-4-1 </td>
-      <td align="left">Résultant du décret n° 2017-320 du 10 mars 2017</td>
+      <td align="left">D. 2362-3 à D. 2362-4-1</td>
+      <td align="left">Résultant du  décret n° 2017-320 du 10 mars 2017</td>
     </tr>
   </tbody>
 </table>
@@ -66899,13 +66898,15 @@ _Cite_:
   - Décret n°2013-377 du 2 mai 2013
   - Décret n°2015-1564 du 30 novembre 2015
   - Décret n°2017-320 du 10 mars 2017
-  - Décret n°2018-277 du 18 avril 2018
-
-_Modifié par_:
-
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2017-553 du 14 avril 2017
+  - Décret n°2017-909 du 9 mai 2017
+  - Décret n°2018-532 du 28 juin 2018
 
 _Cité par_:
+
+  - Décret n°2018-532 du 28 juin 2018 - art. 15
+
+_Modifié par_:
 
   - Décret n°2018-532 du 28 juin 2018 - art. 15
 
@@ -67987,219 +67988,218 @@ _Cite_:
 ###### Article D2451-3
 
 Sauf mention contraire dans le tableau ci-après, les dispositions suivantes sont applicables en Polynésie française, sous
-réserve des adaptations prévues au titre IX, dans leur rédaction résultant du  décret n° 2009-254 du 4 mars 2009  et du
-décret n° 2009-1440 du 23 novembre 2009  : 
+réserve des  adaptations prévues au titre IX, dans leur rédaction résultant du  décret n° 2009-254 du 4 mars 2009 et du
+décret n° 2009-1440 du 23 novembre 2009 : 
 
 <table border="1">
   <tbody>
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES </th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
       <td align="center" colspan="2">
 
-Au livre II </td>
+Au livre II</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2234-97 </td>
+D. 2234-97</td>
       <td align="left">
 
-Résultant du  décret n° 2009-1494 du 3 décembre 2009  </td>
+Résultant du  décret n° 2009-1494 du 3 décembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2234-98 à D. 2234-100 </td>
+D. 2234-98 à D. 2234-100</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
-Au livre III </td>
+Au livre III</td>
     </tr>
     <tr>
-      <td align="left">D. 2332-2 et D. 2332-3 </td>
-      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017 </td>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
     </tr>
     <tr>
-      <td align="left">D. 2338-1 </td>
-      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017 </td>
+      <td align="left">D. 2338-1</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-1 et D. 2342-2 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-D. 2342-37 </td>
+D. 2342-1 et D. 2342-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-38 </td>
-      <td align="left">
-
-Résultant du  décret n° 2011-1995 du 27 décembre 2011  </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-D. 2342-39 </td>
+D. 2342-37</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-40 </td>
+D. 2342-38</td>
       <td align="left">
 
-Résultant du  décret n° 2011-1995 du 27 décembre 2011  </td>
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-41 à D. 2342-58 </td>
+D. 2342-39</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-59 et D. 2342-61 </td>
+D. 2342-40</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2011-1995 du 27 décembre 2011 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-62 à D. 2342-65 </td>
+D. 2342-41 à D. 2342-58</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-66 à D. 2342-68 </td>
+D. 2342-59 et D. 2342-61</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-69 </td>
+D. 2342-62 à D. 2342-65</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-69-1 et D. 2342-69-2 </td>
+D. 2342-66 à D. 2342-68</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-70 à D. 2342-72 </td>
+D. 2342-69</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-73 </td>
+D. 2342-69-1 et D. 2342-69-2</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-74 à D. 2342-81 </td>
+D. 2342-70 à D. 2342-72</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-82 </td>
+D. 2342-73</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-83 à D. 2342-95 </td>
+D. 2342-74 à D. 2342-81</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-96 </td>
+D. 2342-82</td>
       <td align="left">
 
-Résultant du  décret n° 2009-1657 du 24 décembre 2009  </td>
+Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-97 et D. 2342-98 </td>
+D. 2342-83 à D. 2342-95</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-99 et D. 2342-100 </td>
+D. 2342-96</td>
       <td align="left">
 
-Résultant du  décret n° 2013-377 du 2 mai 2013  </td>
+Résultant du  décret n° 2009-1657 du 24 décembre 2009 </td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-101 à D. 2342-106 </td>
+D. 2342-97 et D. 2342-98</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-111 </td>
+D. 2342-99 et D. 2342-100</td>
+      <td align="left">
+
+Résultant du  décret n° 2013-377 du 2 mai 2013 </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-101 à D. 2342-106</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-121 </td>
+D. 2342-111</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2344-2 </td>
+D. 2342-121</td>
+      <td align="left">
+    </td></tr>
+    <tr>
       <td align="left">
 
-Résultant du  décret n° 2015-1564 du 30 novembre 2015  </td>
+D. 2344-2</td>
+      <td align="left">
+
+Résultant du  décret n° 2015-1564 du 30 novembre 2015 </td>
     </tr>
     <tr>
       <td align="left">
 
-Article D. 2362-2 </td>
-      <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique </td>
+D. 2362-2</td>
+      <td align="left">Résultant du  décret n° 2018-532 28 juin 2018</td>
     </tr>
     <tr>
-      <td align="left">Articles D. 2362-3 à D. 2362-4-1 </td>
-      <td align="left">Résultant du décret n° 2017-320 du 10 mars 2017</td>
+      <td align="left">D. 2362-3 à D. 2362-4-1</td>
+      <td align="left">Résultant du  décret n° 2017-320 du 10 mars 2017</td>
     </tr>
   </tbody>
 </table>
@@ -68217,11 +68217,13 @@ _Cite_:
   - Décret n°2013-377 du 2 mai 2013
   - Décret n°2015-1564 du 30 novembre 2015
   - Décret n°2017-320 du 10 mars 2017
-  - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2017-553 du 14 avril 2017
+  - Décret n°2017-909 du 9 mai 2017
+  - Décret n°2018-532 du 28 juin 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-532 du 28 juin 2018 - art. 15
 
 _Cité par_:
 
@@ -69014,20 +69016,20 @@ décret n° 2009-1440 du 23 novembre 2009 :
     <tr>
       <th>
 
-DISPOSITIONS APPLICABLES </th>
+DISPOSITIONS APPLICABLES</th>
       <th>
 
-DANS LEUR RÉDACTION </th>
+DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2" align="center">
 
-Au livre II </td>
+Au livre II</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2234-97 </td>
+D. 2234-97</td>
       <td align="left">
 
 Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
@@ -69035,38 +69037,38 @@ Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
     <tr>
       <td align="left">
 
-D. 2234-98 à D. 2234-100 </td>
+D. 2234-98 à D. 2234-100</td>
       <td align="left">
     </td></tr>
     <tr>
       <td colspan="2" align="center">
 
-Au livre III </td>
+Au livre III</td>
     </tr>
     <tr>
-      <td align="left">D. 2332-2 et D. 2332-3 </td>
+      <td align="left">D. 2332-2 et D. 2332-3</td>
       <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
     </tr>
     <tr>
-      <td align="left">D. 2338-1 </td>
+      <td align="left">D. 2338-1</td>
       <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-1 et D. 2342-2 </td>
+D. 2342-1 et D. 2342-2</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-37 </td>
+D. 2342-37</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-38 </td>
+D. 2342-38</td>
       <td align="left">
 
 Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
@@ -69078,7 +69080,7 @@ Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
     <tr>
       <td align="left">
 
-D. 2342-40 </td>
+D. 2342-40</td>
       <td align="left">
 
 Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
@@ -69086,13 +69088,13 @@ Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
     <tr>
       <td align="left">
 
-D. 2342-41 à D. 2342-58 </td>
+D. 2342-41 à D. 2342-58</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-59 et D. 2342-61 </td>
+D. 2342-59 et D. 2342-61</td>
       <td align="left">
 
 Résultant du décret n° 2012-626 du 2 mai 2012</td>
@@ -69100,13 +69102,13 @@ Résultant du décret n° 2012-626 du 2 mai 2012</td>
     <tr>
       <td align="left">
 
-D. 2342-62 à D. 2342-65 </td>
+D. 2342-62 à D. 2342-65</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-66 à D. 2342-68 </td>
+D. 2342-66 à D. 2342-68</td>
       <td align="left">
 
 Résultant du décret n° 2012-626 du 2 mai 2012</td>
@@ -69114,27 +69116,13 @@ Résultant du décret n° 2012-626 du 2 mai 2012</td>
     <tr>
       <td align="left">
 
-D. 2342-69 </td>
+D. 2342-69</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-69-1 et D. 2342-69-2 </td>
-      <td align="left">
-
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
-    </tr>
-    <tr>
-      <td align="left">
-
-D. 2342-70 à D. 2342-72 </td>
-      <td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-D. 2342-73 </td>
+D. 2342-69-1 et D. 2342-69-2</td>
       <td align="left">
 
 Résultant du décret n° 2012-626 du 2 mai 2012</td>
@@ -69142,27 +69130,41 @@ Résultant du décret n° 2012-626 du 2 mai 2012</td>
     <tr>
       <td align="left">
 
-D. 2342-74 à D. 2342-81 </td>
+D. 2342-70 à D. 2342-72</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-82 </td>
+D. 2342-73</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
 
-D. 2342-83 à D. 2342-95 </td>
+D. 2342-74 à D. 2342-81</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-96 </td>
+D. 2342-82</td>
+      <td align="left">
+
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+D. 2342-83 à D. 2342-95</td>
+      <td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+D. 2342-96</td>
       <td align="left">
 
 Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
@@ -69170,13 +69172,13 @@ Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
     <tr>
       <td align="left">
 
-D. 2342-97 et D. 2342-98 </td>
+D. 2342-97 et D. 2342-98</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-99 et D. 2342-100 </td>
+D. 2342-99 et D. 2342-100</td>
       <td align="left">
 
 Résultant du décret n° 2013-377 du 2 mai 2013</td>
@@ -69184,7 +69186,7 @@ Résultant du décret n° 2013-377 du 2 mai 2013</td>
     <tr>
       <td align="left">
 
-D. 2342-101 à D. 2342-106 </td>
+D. 2342-101 à D. 2342-106</td>
       <td align="left">
 
 </td>
@@ -69192,19 +69194,19 @@ D. 2342-101 à D. 2342-106 </td>
     <tr>
       <td align="left">
 
-D. 2342-111 </td>
+D. 2342-111</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2342-121 </td>
+D. 2342-121</td>
       <td align="left">
     </td></tr>
     <tr>
       <td align="left">
 
-D. 2344-2 </td>
+D. 2344-2</td>
       <td align="left">
 
 Résultant du décret n° 2015-1564 du 30 novembre 2015</td>
@@ -69212,16 +69214,15 @@ Résultant du décret n° 2015-1564 du 30 novembre 2015</td>
     <tr>
       <td align="left">
 
-D. 2352-7 </td>
+D. 2352-7</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Article D. 2362-2 </td>
-      <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique </td>
+      <td align="left">D. 2362-2</td>
+      <td align="left">Résultant du décret n° 2018-532 28 juin 2018</td>
     </tr>
     <tr>
-      <td align="left">Articles D. 2362-3 à D. 2362-4-1 </td>
+      <td align="left">D. 2362-3 à D. 2362-4-1</td>
       <td align="left">Résultant du décret n° 2017-320 du 10 mars 2017</td>
     </tr>
   </tbody>
@@ -69242,11 +69243,11 @@ _Cite_:
   - Décret n°2017-320 du 10 mars 2017
   - Décret n°2017-553 du 14 avril 2017
   - Décret n°2017-909 du 9 mai 2017
-  - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2018-532 du 28 juin 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-532 du 28 juin 2018 - art. 15
 
 _Cité par_:
 
@@ -70387,7 +70388,7 @@ DISPOSITIONS APPLICABLES</th>
 DANS LEUR RÉDACTION</th>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td align="center" colspan="2">
 
 Au livre II</td>
     </tr>
@@ -70397,7 +70398,8 @@ Au livre II</td>
 D. 2234-97</td>
       <td align="left">
 
-Résultant du décret n° 2009-1494 du 3 décembre 2009</td>
+Résultant du décret n° 2009-1494 du 3 décembre 2009
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70412,11 +70414,13 @@ Au livre III</td>
     </tr>
     <tr>
       <td align="left">D. 2332-2 et D. 2332-3</td>
-      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017</td>
+      <td align="left">Résultant du décret n° 2017-553 du 14 avril 2017
+</td>
     </tr>
     <tr>
       <td align="left">D. 2338-1</td>
-      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017</td>
+      <td align="left">Résultant du décret n° 2017-909 du 9 mai 2017
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70436,7 +70440,8 @@ D. 2342-37</td>
 D. 2342-38</td>
       <td align="left">
 
-Résultant du décret n° 2011-1995 du 27 décembre 2011</td>
+Résultant du décret n° 2011-1995 du 27 décembre 2011
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70478,7 +70483,8 @@ D. 2342-62 à D. 2342-65</td>
 D. 2342-66 à D. 2342-68</td>
       <td align="left">
 
-Résultant du décret n° 2012-626 du 2 mai 2012</td>
+Résultant du décret n° 2012-626 du 2 mai 2012
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70506,7 +70512,7 @@ D. 2342-70 à D. 2342-72</td>
 D. 2342-73</td>
       <td align="left">
 
-Résultant du  décret n° 2012-626 du 2 mai 2012 </td>
+Résultant du décret n° 2012-626 du 2 mai 2012</td>
     </tr>
     <tr>
       <td align="left">
@@ -70534,7 +70540,8 @@ D. 2342-83 à D. 2342-95</td>
 D. 2342-96</td>
       <td align="left">
 
-Résultant du décret n° 2009-1657 du 24 décembre 2009</td>
+Résultant du décret n° 2009-1657 du 24 décembre 2009
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70548,7 +70555,8 @@ D. 2342-97 et D. 2342-98</td>
 D. 2342-99 et D. 2342-100</td>
       <td align="left">
 
-Résultant du décret n° 2013-377 du 2 mai 2013</td>
+Résultant du décret n° 2013-377 du 2 mai 2013
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70574,7 +70582,8 @@ D. 2342-121</td>
 D. 2344-2</td>
       <td align="left">
 
-Résultant du décret n° 2015-1564 du 30 novembre 2015</td>
+Résultant du décret n° 2015-1564 du 30 novembre 2015
+</td>
     </tr>
     <tr>
       <td align="left">
@@ -70583,13 +70592,14 @@ D. 2352-7</td>
       <td align="left">
     </td></tr>
     <tr>
-      <td align="left">Article D. 2362-2</td>
-      <td align="left">Résultant du décret n° 2018-277 du 18 avril 2018 fixant les attributions de la direction de la
-maintenance aéronautique</td>
+      <td align="left">D. 2362-2</td>
+      <td align="left">Résultant du  décret n° 2018-532 28 juin 2018
+</td>
     </tr>
     <tr>
-      <td align="left">Articles D. 2362-3 à D. 2362-4-1</td>
-      <td align="left">Résultant du décret n° 2017-320 du 10 mars 2017</td>
+      <td align="left">D. 2362-3 à D. 2362-4-1</td>
+      <td align="left">Résultant du  décret n° 2017-320 du 10 mars 2017
+</td>
     </tr>
   </tbody>
 </table>
@@ -70610,11 +70620,11 @@ _Cite_:
   - Décret n°2017-320 du 10 mars 2017
   - Décret n°2017-553 du 14 avril 2017
   - Décret n°2017-909 du 9 mai 2017
-  - Décret n°2018-277 du 18 avril 2018
+  - Décret n°2018-532 du 28 juin 2018
 
 _Modifié par_:
 
-  - Décret n°2018-277 du 18 avril 2018 - art. 3
+  - Décret n°2018-532 du 28 juin 2018 - art. 15
 
 _Cité par_:
 
